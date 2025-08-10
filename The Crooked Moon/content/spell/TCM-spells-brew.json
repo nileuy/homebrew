@@ -11,14 +11,164 @@
         "convertedBy": [
           "ChatGPT"
         ],
-        "version": "1.0.0",
+        "version": "1.0.6",
         "edition": "one",
-        "dateAdded": 1754817257,
-        "dateLastModified": 1754817257
+        "dateAdded": 1754822902,
+        "dateLastModified": 1754822902
       }
     ]
   },
   "spell": [
+    {
+      "name": "Self-Serving Sacrifice",
+      "source": "TCM",
+      "page": 70,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {},
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "own grip lingers too tightly. The feeling of saving others\nfrom suffering fills you with resolve, even as it drains the\nvigor from those you rescue.\nCritical Savior. When a creature within 120 feet of\nyou is subjected to a Critical Hit or is reduced to 0 Hit Points, you can use your Reaction to magically switch\nplaces with the target. Each of you teleports to the other’s\nspace. Roll a number of d6s equal to half your level. You take Force damage equal to the total rolled, you gain\nHeroic Inspiration, and your {@condition exhaustion} level, if any, is\nreduced by 1. The target regains Hit Points equal to the total rolled and gains 1 {@condition exhaustion} level. You can’t use this\nfeature again until you finish a Short or Long Rest.\nDraining Presence. When you finish a Short or\nLong Rest, each creature within 100 feet of you loses\none Hit Point Die (before spending Hit Dice in the case of finishing a Short Rest).\nFinal Sacrifice. You can cast True Resurrection using\nthis bargain requiring no spell slot or spell components. Intelligence, Wisdom, or Charisma is your spellcasting\nability for the spell when you cast it without a spell slot\n(choose the ability when you select this Dark Bargain).\nWhen you cast the spell this way, you die, and\nnothing can prevent it. Your soul is bound to torment the creature you returned to life, and you can’t be raised\nfrom the dead by any means. When the creature takes a\nLong Rest, it must roll a d20 halfway through the rest’s duration. On a 1, your soul takes the form of a Wraith\nwithin 100 feet of the creature and tries to kill it. The\nwraith vanishes after 8 hours, or when it dies. Once the\nwraith appears, it can’t appear again for 30 days."
+      ]
+    },
+    {
+      "name": "Shrouded Spirit",
+      "source": "TCM",
+      "page": 70,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {},
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "of Druskenvald. This shroud protects you from the\ndepredations of the Undead, but it draws you ever\nnearer to their cold embrace.\nInured to Undeath. You have Resistance to Necrotic\ndamage, and you have Advantage on saving throws against spells and effects created by Undead.\nUnholy Appetite. You must consume one\npound of raw flesh (it needn’t be fresh) per day or suffer Malnutrition.\nWithering Soul. Features that detect your creature\ntype, such as a Paladin’s Divine Sense or the Detect Evil and Good spell, treat you as Undead if your creature type\nisn’t Undead already."
+      ]
+    },
+    {
+      "name": "Skin Of Coffin Nails",
+      "source": "TCM",
+      "page": 70,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {},
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "sealing away the dead. You can shrug off staggering\npunishment, but the waters of the world no longer\nembrace you, as if spiting your defiance.\nIron Grit. You gain Resistance to Bludgeoning,\nPiercing, or Slashing damage (your choice when you select this Dark Bargain). You can change the damage\ntype to one of the other options when you finish a Short\nor Long Rest. When you suffer a Critical Hit from the chosen damage type, it becomes a normal hit instead.\nW atery Doom. When you are immersed in water or\nsplashed with at least 1 gallon of water (such as from a bucket or being rained on), your skin tightens and grows\nrusty until you finish a Short or Long Rest. During that\ntime, your Speed and the time you can hold your breath\nare halved, and your Resistance to the chosen damage\ntype for Iron Grit becomes Vulnerability instead. At\nthe GM's discretion, other liquids can also trigger\nthis feature."
+      ]
+    },
+    {
+      "name": "Stilled Hungers",
+      "source": "TCM",
+      "page": 71,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {},
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "hold over you, but these are the very things that keep\na soul vital while in the land of the living. Your mind\ngrows ravenous absent those urges—your thoughts crack with gnawing fears, and your dreams wither into\ncrooked nightmares.\nSated Cravings. Forgoing food and drink doesn't give\nyou {@condition exhaustion} levels. You have Resistance to Poison\ndamage, and you have Advantage on saving throws to avoid or end the {@condition poisoned} condition.\nTenuous Psyche. You have Vulnerability to Psychic\ndamage and Disadvantage on saving throws to avoid or end the {@condition frightened} condition. A Calm Emotions spell\ncast on you suppresses this feature for its duration."
+      ]
+    },
+    {
+      "name": "Unquenchable Fury",
+      "source": "TCM",
+      "page": 71,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {},
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "a formidable inferno, but it threatens to consume\neverything in its path.\nFurious Onslaught. As a Bonus Action, or when\nyou take the Attack action on your turn, you can choose to enter a fury. While in this fury, you can make\none additional melee attack when you take the Attack\naction on your turn, and you reduce all damage you\ntake by an amount equal to your Proficiency Bonus. The fury ends if you have the {@condition incapacitated} condition,\nif you die, or if you end your turn and there are no\ncreatures within 60 feet of you that you can see or hear. Once you use this feature, you can’t use it again until\nyou finish a Long Rest. You also regain the use of this\nfeature when you kill a Humanoid.Red Haze. While you are in a fury, you must make\na DC 15 Wisdom saving throw at the start of each of\nyour turns. On a successful save, you can choose to\nend your fury or continue it. On a failed save, you no\nlonger make the saving throw at the start of your turns,\nand you regard the creature nearest to you that you can see or hear as your enemy (if there are multiple,\nchoose one at random). On each of your turns, you\nmust move as close to the creature as possible and take the Attack action, targeting that creature with\nmelee attacks. If you’re unable to get close enough to\nthe creature to attack it, your turn ends after you’ve\nused up all your available movement. If the creature\ndies or can no longer be seen or heard by you, the next nearest creature that you can see or hear becomes your\nnew target."
+      ]
+    },
+    {
+      "name": "Wings Of Whispers",
+      "source": "TCM",
+      "page": 71,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {},
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "in the form of ravens and crows to bear you aloft, but at\nthe risk of revealing your own secrets in turn.\nMurderous Flight. As a Bonus Action, you can\nmagically gain a Fly Speed equal to your Speed (and you can hover) for 10 minutes. During this time, a mass of\nshadows takes the shape of a {@spell Murder Of Crows} and ravens\n(but they aren’t truly creatures). The birds appear in a\n20-foot Emanation originating from you and take flight and whirl around you when you fly. Once you use this\nfeature, you can’t do so again until you finish a Short or\nLong Rest, unless you gain 1 {@condition exhaustion} level to use it again early.\nWhispered Secrets. The birds that appear when you\nactivate Murderous Flight remain and continue to follow\nyou until you finish a Short or Long Rest. While the\nbirds are present, you have Disadvantage on Dexterity ({@skill Stealth}) checks, and the birds whisper your secrets into\nthe minds of other creatures, granting them Advantage\non Wisdom ({@skill Insight} or {@skill Perception}) checks made against you."
+      ]
+    },
     {
       "name": "Ancestral Communion",
       "source": "TCM",
@@ -585,8 +735,7 @@
       "time": [
         {
           "number": 1,
-          "unit": "reaction",
-          "condition": "when another"
+          "unit": "reaction"
         }
       ],
       "range": {
@@ -1035,8 +1184,7 @@
       "time": [
         {
           "number": 1,
-          "unit": "reaction",
-          "condition": "when a creature"
+          "unit": "reaction"
         }
       ],
       "range": {
@@ -1586,165 +1734,15 @@
       }
     },
     {
-      "name": "Self-Serving Sacrifice",
-      "source": "TCM",
-      "page": 70,
-      "level": 0,
-      "school": "N",
-      "time": [
-        {
-          "number": 1,
-          "unit": "action"
-        }
-      ],
-      "range": {
-        "type": "self"
-      },
-      "components": {},
-      "duration": [
-        {
-          "type": "instant"
-        }
-      ],
-      "entries": [
-        "own grip lingers too tightly. The feeling of saving others\nfrom suffering fills you with resolve, even as it drains the\nvigor from those you rescue.\nCritical Savior. When a creature within 120 feet of\nyou is subjected to a Critical Hit or is reduced to 0 Hit Points, you can use your Reaction to magically switch\nplaces with the target. Each of you teleports to the other’s\nspace. Roll a number of d6s equal to half your level. You take Force damage equal to the total rolled, you gain\nHeroic Inspiration, and your {@condition exhaustion} level, if any, is\nreduced by 1. The target regains Hit Points equal to the total rolled and gains 1 {@condition exhaustion} level. You can’t use this\nfeature again until you finish a Short or Long Rest.\nDraining Presence. When you finish a Short or\nLong Rest, each creature within 100 feet of you loses\none Hit Point Die (before spending Hit Dice in the case of finishing a Short Rest).\nFinal Sacrifice. You can cast True Resurrection using\nthis bargain requiring no spell slot or spell components. Intelligence, Wisdom, or Charisma is your spellcasting\nability for the spell when you cast it without a spell slot\n(choose the ability when you select this Dark Bargain).\nWhen you cast the spell this way, you die, and\nnothing can prevent it. Your soul is bound to torment the creature you returned to life, and you can’t be raised\nfrom the dead by any means. When the creature takes a\nLong Rest, it must roll a d20 halfway through the rest’s duration. On a 1, your soul takes the form of a Wraith\nwithin 100 feet of the creature and tries to kill it. The\nwraith vanishes after 8 hours, or when it dies. Once the\nwraith appears, it can’t appear again for 30 days."
-      ]
-    },
-    {
-      "name": "Shrouded Spirit",
-      "source": "TCM",
-      "page": 70,
-      "level": 0,
-      "school": "N",
-      "time": [
-        {
-          "number": 1,
-          "unit": "action"
-        }
-      ],
-      "range": {
-        "type": "self"
-      },
-      "components": {},
-      "duration": [
-        {
-          "type": "instant"
-        }
-      ],
-      "entries": [
-        "of Druskenvald. This shroud protects you from the\ndepredations of the Undead, but it draws you ever\nnearer to their cold embrace.\nInured to Undeath. You have Resistance to Necrotic\ndamage, and you have Advantage on saving throws against spells and effects created by Undead.\nUnholy Appetite. You must consume one\npound of raw flesh (it needn’t be fresh) per day or suffer Malnutrition.\nWithering Soul. Features that detect your creature\ntype, such as a Paladin’s Divine Sense or the Detect Evil and Good spell, treat you as Undead if your creature type\nisn’t Undead already."
-      ]
-    },
-    {
-      "name": "Skin Of Coffin Nails",
-      "source": "TCM",
-      "page": 70,
-      "level": 0,
-      "school": "N",
-      "time": [
-        {
-          "number": 1,
-          "unit": "action"
-        }
-      ],
-      "range": {
-        "type": "self"
-      },
-      "components": {},
-      "duration": [
-        {
-          "type": "instant"
-        }
-      ],
-      "entries": [
-        "sealing away the dead. You can shrug off staggering\npunishment, but the waters of the world no longer\nembrace you, as if spiting your defiance.\nIron Grit. You gain Resistance to Bludgeoning,\nPiercing, or Slashing damage (your choice when you select this Dark Bargain). You can change the damage\ntype to one of the other options when you finish a Short\nor Long Rest. When you suffer a Critical Hit from the chosen damage type, it becomes a normal hit instead.\nW atery Doom. When you are immersed in water or\nsplashed with at least 1 gallon of water (such as from a bucket or being rained on), your skin tightens and grows\nrusty until you finish a Short or Long Rest. During that\ntime, your Speed and the time you can hold your breath\nare halved, and your Resistance to the chosen damage\ntype for Iron Grit becomes Vulnerability instead. At\nthe GM's discretion, other liquids can also trigger\nthis feature."
-      ]
-    },
-    {
-      "name": "Stilled Hungers",
-      "source": "TCM",
-      "page": 71,
-      "level": 0,
-      "school": "N",
-      "time": [
-        {
-          "number": 1,
-          "unit": "action"
-        }
-      ],
-      "range": {
-        "type": "self"
-      },
-      "components": {},
-      "duration": [
-        {
-          "type": "instant"
-        }
-      ],
-      "entries": [
-        "hold over you, but these are the very things that keep\na soul vital while in the land of the living. Your mind\ngrows ravenous absent those urges—your thoughts crack with gnawing fears, and your dreams wither into\ncrooked nightmares.\nSated Cravings. Forgoing food and drink doesn't give\nyou {@condition exhaustion} levels. You have Resistance to Poison\ndamage, and you have Advantage on saving throws to avoid or end the {@condition poisoned} condition.\nTenuous Psyche. You have Vulnerability to Psychic\ndamage and Disadvantage on saving throws to avoid or end the {@condition frightened} condition. A Calm Emotions spell\ncast on you suppresses this feature for its duration."
-      ]
-    },
-    {
-      "name": "Unquenchable Fury",
-      "source": "TCM",
-      "page": 71,
-      "level": 0,
-      "school": "N",
-      "time": [
-        {
-          "number": 1,
-          "unit": "action"
-        }
-      ],
-      "range": {
-        "type": "self"
-      },
-      "components": {},
-      "duration": [
-        {
-          "type": "instant"
-        }
-      ],
-      "entries": [
-        "a formidable inferno, but it threatens to consume\neverything in its path.\nFurious Onslaught. As a Bonus Action, or when\nyou take the Attack action on your turn, you can choose to enter a fury. While in this fury, you can make\none additional melee attack when you take the Attack\naction on your turn, and you reduce all damage you\ntake by an amount equal to your Proficiency Bonus. The fury ends if you have the {@condition incapacitated} condition,\nif you die, or if you end your turn and there are no\ncreatures within 60 feet of you that you can see or hear. Once you use this feature, you can’t use it again until\nyou finish a Long Rest. You also regain the use of this\nfeature when you kill a Humanoid.Red Haze. While you are in a fury, you must make\na DC 15 Wisdom saving throw at the start of each of\nyour turns. On a successful save, you can choose to\nend your fury or continue it. On a failed save, you no\nlonger make the saving throw at the start of your turns,\nand you regard the creature nearest to you that you can see or hear as your enemy (if there are multiple,\nchoose one at random). On each of your turns, you\nmust move as close to the creature as possible and take the Attack action, targeting that creature with\nmelee attacks. If you’re unable to get close enough to\nthe creature to attack it, your turn ends after you’ve\nused up all your available movement. If the creature\ndies or can no longer be seen or heard by you, the next nearest creature that you can see or hear becomes your\nnew target."
-      ]
-    },
-    {
-      "name": "Wings Of Whispers",
-      "source": "TCM",
-      "page": 71,
-      "level": 0,
-      "school": "N",
-      "time": [
-        {
-          "number": 1,
-          "unit": "action"
-        }
-      ],
-      "range": {
-        "type": "self"
-      },
-      "components": {},
-      "duration": [
-        {
-          "type": "instant"
-        }
-      ],
-      "entries": [
-        "in the form of ravens and crows to bear you aloft, but at\nthe risk of revealing your own secrets in turn.\nMurderous Flight. As a Bonus Action, you can\nmagically gain a Fly Speed equal to your Speed (and you can hover) for 10 minutes. During this time, a mass of\nshadows takes the shape of a {@spell Murder Of Crows} and ravens\n(but they aren’t truly creatures). The birds appear in a\n20-foot Emanation originating from you and take flight and whirl around you when you fly. Once you use this\nfeature, you can’t do so again until you finish a Short or\nLong Rest, unless you gain 1 {@condition exhaustion} level to use it again early.\nWhispered Secrets. The birds that appear when you\nactivate Murderous Flight remain and continue to follow\nyou until you finish a Short or Long Rest. While the\nbirds are present, you have Disadvantage on Dexterity ({@skill Stealth}) checks, and the birds whisper your secrets into\nthe minds of other creatures, granting them Advantage\non Wisdom ({@skill Insight} or {@skill Perception}) checks made against you."
-      ]
-    },
-    {
       "name": "Summer Winds",
       "source": "TCM",
       "page": 83,
       "level": 2,
-      "school": "I",
+      "school": "EV",
       "time": [
         {
           "number": 1,
-          "unit": "bonus"
+          "unit": "action"
         }
       ],
       "range": {
@@ -1756,11 +1754,11 @@
       },
       "duration": [
         {
-          "type": "special"
+          "type": "instant"
         }
       ],
       "entries": [
-        "You unleash a blast of light and wind in a 15-foot\nCone. Your allies in the Cone regain 2d6 Hit Points.\nUndead within the Cone that are Hostile to you must\nmake a Constitution saving throw, taking 2d6 Radiant damage on a failed save, or half as much damage on a\nsuccessful one.\nUsing a Higher-Level Spell Slot. The damage and\nhealing increase by 2d6 for each spell slot level above 2.\n{@spell Unraveling Whisper}\nChoose a creature you can see within range and whisper\na frightful phrase that only the target can hear. The target\nmust make a Wisdom saving throw. On a failed save, the\ntarget takes 2d6 Psychic damage and has the {@condition frightened} condition until the start of your next turn. On a\nsuccessful save, the target takes half as much damage only.\nWhile {@condition frightened} in this way, the creature has\nVulnerability to your choice of Bludgeoning, Piercing,\nor Slashing damage.\nUsing a Higher-Level Spell Slot. You can target one\nadditional creature for each spell slot level above 2.\n{@spell Veil Of The Reaper}\nYou wrap yourself in shadows that veil you between\nstrikes. At the end of any turn in which you hit a\ncreature with an attack roll, you gain the {@condition invisible}\ncondition until the start of your next turn."
+        "A burst of warm seasonal wind... (see PDF)."
       ]
     }
   ]

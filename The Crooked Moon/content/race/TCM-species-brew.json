@@ -11,10 +11,10 @@
         "convertedBy": [
           "ChatGPT"
         ],
-        "version": "1.0.0",
+        "version": "1.0.6",
         "edition": "one",
-        "dateAdded": 1754817257,
-        "dateLastModified": 1754817257
+        "dateAdded": 1754822902,
+        "dateLastModified": 1754822902
       }
     ]
   },
@@ -189,20 +189,7 @@
         "feet tall), chosen when you select this species\nAs a Stoneborn, you have these special traits.\nArgent Gleam. As a Bonus Action, you can channel a\nmote of the Silver Path's light with your choice of one of\nthe following options:\nPath’s Grace. You cast the Bless spell, requiring no\nMaterial components.\nZealous charGe. You take the Dash action. The first\ntime you make an attack roll before the end of your\nturn, on a hit or miss, the target takes an extra 2d6\nRadiant damage.\nOnce you use this trait’s Bonus Action, you can’t do so again until you finish a Long Rest.\nSilver Bulwark. You can call upon the Silver Path\nto protect you. When you take Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to gain\nResistance to those three damage types until the start of\nyour next turn. Once you use this trait, you can’t do so\nagain until you finish a Short or Long Rest.\nW atchful Senses. You gain proficiency in the {@skill Insight},\n{@skill Perception}, or {@skill Survival} skill."
       ],
       "size": [
-        "S"
-      ],
-      "speed": {
-        "walk": 30
-      }
-    },
-    {
-      "name": "Threadborn",
-      "source": "TCM",
-      "page": 15,
-      "entries": [
-        "feet tall), chosen when you select this species\nAs a Threadborn, you have these special traits.\nBall-Jointed. You can move through a space as\nnarrow as 1 foot wide as if it were Difficult T errain.\nInnocent Mind. You have Resistance to\nPsychic damage.\nSewn {@skill Nature}. You don’t require air, food, or drink.\nSoothing Heart. You know the {@spell Guidance} cantrip.\nStarting at character level 3, you always have the Sanctuary spell prepared, and starting at character level 5, you always have the Calm Emotions spell prepared. You\ncan cast each spell once without a spell slot. When you\ncast Calm Emotions in this way, it can target creatures of any type. You regain the ability to cast them using\nthis trait when you finish a Long Rest. You can also\ncast either spell using any spell slots you have of the\nappropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with this trait (choose the ability when you select this species).\nY ou've Got a Friend. When a creature you can see\nwithin 30 feet of yourself fails an ability check using a skill, you can take a Reaction to cast {@spell Guidance} on the\ncreature, ignoring the spell's normal range. The creature\ncan add the spell's 1d4 to its ability check, potentially\ncausing it to succeed, then the spell ends. You can use\nthis trait a number of times equal to your Proficiency\nBonus, and you regain all expended uses when you finish\na Long Rest.\nTHREADBORN\nThreadborn are a doll-like species native to Picco, most\noften built with love by Blinski II, the master toymaker\nand lord of the province. In a land that is mostly\nfabricated and constructed to maximize the fun of all who live there, the essence of joy, thrill, and friendship\nare woven into a threadborn's very nature. They cherish\nthe bonds made between loved ones and always maintain\na childlike wonder and whimsy, no matter one’s age.\nAs living dolls, these folk are constructed with a\nvariety of materials, including cloth, wood, metal, porcelain, stuffing, yarn, and anything else a toy might\nbe made of. With the most varied body shapes of all Druskenvald’s species, each threadborn represents a\nunique representation of fun. They usually live for 100\nyears before falling apart and needing to be rebuilt.\nTHREADBORN TRAITS\nfeet tall), chosen when you select this species\nAs a Threadborn, you have these special traits.\nBall-Jointed. You can move through a space as\nnarrow as 1 foot wide as if it were Difficult T errain.\nInnocent Mind. You have Resistance to\nPsychic damage.\nSewn {@skill Nature}. You don’t require air, food, or drink.\nSoothing Heart. You know the {@spell Guidance} cantrip.\nStarting at character level 3, you always have the Sanctuary spell prepared, and starting at character level 5, you always have the Calm Emotions spell prepared. You\ncan cast each spell once without a spell slot. When you\ncast Calm Emotions in this way, it can target creatures of any type. You regain the ability to cast them using\nthis trait when you finish a Long Rest. You can also\ncast either spell using any spell slots you have of the\nappropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with this trait (choose the ability when you select this species).\nY ou've Got a Friend. When a creature you can see\nwithin 30 feet of yourself fails an ability check using a skill, you can take a Reaction to cast {@spell Guidance} on the\ncreature, ignoring the spell's normal range. The creature can add the spell's 1d4 to its ability check, potentially\ncausing it to succeed, then the spell ends. You can use\nthis trait a number of times equal to your Proficiency\nBonus, and you regain all expended uses when you finish\na Long Rest."
-      ],
-      "size": [
+        "M",
         "S"
       ],
       "speed": {

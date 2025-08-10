@@ -11,20 +11,80 @@
         "convertedBy": [
           "ChatGPT"
         ],
-        "version": "1.0.0",
+        "version": "1.0.6",
         "edition": "one",
-        "dateAdded": 1754817257,
-        "dateLastModified": 1754817257
+        "dateAdded": 1754822902,
+        "dateLastModified": 1754822902
       }
     ]
   },
   "background": [
     {
+      "name": "Ability Scores",
+      "source": "TCM",
+      "page": 48,
+      "entries": [
+        "When you create a character using one of the backgrounds in this chapter, increase one of\nyour starting ability scores by 2 and another by 1, or increase three scores by 1 each.",
+        "These\nincreases can’t raise a score above 20."
+      ]
+    },
+    {
       "name": "Amnesiac",
       "source": "TCM",
       "page": 49,
       "entries": [
-        "Some portion of your past has been swallowed by\nnothingness. The missing time could be a short\ninterval—mere days or weeks gone from your memory—\nor you might have only vague hints at best of who you are and where you are from. Flashes of déjà vu\nare common, taunting you with recollection, but they\nalmost always slip away, as ungraspable as the mists of\nDruskenvald. An injury, some traumatic experience, or\nthe magical workings of a spell or curse could be the culprit behind your amnesia.\nF\nEa t: Memory Starved (see page 115)\nsk ill Pro F ici Enc i E s: Choose two (see below)\nto ol Pro F ici Enc y: Choose one (see below)\nEqui PmEnt: Choose A or B: (A) Book (personal notes),\nInk, Ink Pen, Traveler’s Clothes, 11 GP; or (B) 50 GP\nSCATTERED MEMORIES\nYou don’t choose skill proficiencies or a tool proficiency\nwhen you select this background, and you don't\ndetermine the two languages that are part of your\norigin—these are parts of your past that you are missing. Instead, you can pick one of those proficiencies or the\nlanguages during play at any time. The knowledge might\nreturn in a spontaneous flash, even as you make a roll\nthat relies on the proficiency, or slowly emerge as you\nstruggle to solve a problem. Once you choose one of these features, you can’t choose another one until you\ngain a level.\nThe GM might rule that you can choose a new\nrecalled feature early if something reminds you of your past, such as finding a piece of evidence from your\nmissing memories or experiencing an event similar\nto one you have forgotten. Of particular value is an\nevent relating to one of the story threads or trinkets presented below.\nBUILDING AN AMNESIAC\nAny character can face misfortune or a choice that steals their memory. Consider how your character came to\nlose their memory. Was it lost through injury or illness,\nor did something more sinister steal it with a toxin or curse? You might decide to leave this choice up to the\nGM, letting you as a player discover the cause alongside\nyour character.\nSuggested Story Threads. This background presents\na paradox when considering threads to weave through\na campaign, since the character may not remember\nthem. Work with the GM to create some leading events or people that can serve as constants to trace a path through the void of the character’s past, especially if the GM can insert existing nonplayer characters into the\nthread to strengthen these connections. The Amnesiac\nStory Threads table suggests events and people who can be the start of these threads.\nAmnesiac Story Threads\n1d6 Thread\n1 You have recurring dreams of someone you\nmight recognize on your adventures.\n2 You absent-mindedly doodle the same design or\nsymbol over and over.\n3 A friend has been traveling the provinces of\nDruskenvald with a caravan, searching for any\nhint of your past as they do.\n4 A rhyme or song you’ve never heard before\ncomes to mind when your thoughts wander.\n5 Rainbow colors, such as those on a soap bubble\nor oil slick, fill you with unexplained terror.\n6 You have a fragmented recollection of traveling to\na remote place in the mountains.\nAmnesiac Trinkets. When you make your character,\nyou can roll once on the Amnesiac Trinkets table instead\nof on the normal starting Trinkets table.\nAmnesiac Trinkets\n1d6 Trinket\n1 Half of a tarnished silver ring with a partial\ninscription in a language you don’t understand\n2 A music box that plays a sad tune you recognize\nbut can’t identify\n3 A short note addressed to you signed with a\nname you don’t recognize\n4 A thin silk scarf with a fading scent that\nstirs familiarity\n5 A toy horse with unfamiliar initials inked on it\n6 A locket whose portrait is burnt\nand unrecognizable"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Some portion of your past has been swallowed by\nnothingness. The missing time could be a short\ninterval—mere days or weeks gone from your memory—\nor you might have only vague hints at best of who you are and where you are from. Flashes of déjà vu\nare common, taunting you with recollection, but they\nalmost always slip away, as ungraspable as the mists of\nDruskenvald. An injury, some traumatic experience, or\nthe magical workings of a spell or curse could be the culprit behind your amnesia."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Memory Starved (see page 115)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "Choose two (see below)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Choose one (see below)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Book (personal notes),\nInk, Ink Pen, Traveler’s Clothes, 11 GP",
+            "or (B) 50 GP\nSCATTERED MEMORIES\nYou don’t choose skill proficiencies or a tool proficiency\nwhen you select this background, and you don't\ndetermine the two languages that are part of your\norigin—these are parts of your past that you are missing",
+            "Instead, you can pick one of those proficiencies or the\nlanguages during play at any time",
+            "The knowledge might\nreturn in a spontaneous flash, even as you make a roll\nthat relies on the proficiency, or slowly emerge as you\nstruggle to solve a problem",
+            "Once you choose one of these features, you can’t choose another one until you\ngain a level",
+            "The GM might rule that you can choose a new\nrecalled feature early if something reminds you of your past, such as finding a piece of evidence from your\nmissing memories or experiencing an event similar\nto one you have forgotten",
+            "Of particular value is an\nevent relating to one of the story threads or trinkets presented below",
+            "BUILDING AN AMNESIAC\nAny character can face misfortune or a choice that steals their memory",
+            "Consider how your character came to\nlose their memory",
+            "Was it lost through injury or illness,\nor did something more sinister steal it with a toxin or curse? You might decide to leave this choice up to the\nGM, letting you as a player discover the cause alongside\nyour character",
+            "Suggested Story Threads",
+            "This background presents\na paradox when considering threads to weave through\na campaign, since the character may not remember\nthem",
+            "Work with the GM to create some leading events or people that can serve as constants to trace a path through the void of the character’s past, especially if the GM can insert existing nonplayer characters into the\nthread to strengthen these connections",
+            "The Amnesiac\nStory Threads table suggests events and people who can be the start of these threads",
+            "Amnesiac Story Threads\n1d6 Thread\n1 You have recurring dreams of someone you\nmight recognize on your adventures.\n2 You absent-mindedly doodle the same design or\nsymbol over and over.\n3 A friend has been traveling the provinces of\nDruskenvald with a caravan, searching for any\nhint of your past as they do.\n4 A rhyme or song you’ve never heard before\ncomes to mind when your thoughts wander.\n5 Rainbow colors, such as those on a soap bubble\nor oil slick, fill you with unexplained terror.\n6 You have a fragmented recollection of traveling to\na remote place in the mountains",
+            "Amnesiac Trinkets",
+            "When you make your character,\nyou can roll once on the Amnesiac Trinkets table instead\nof on the normal starting Trinkets table",
+            "Amnesiac Trinkets\n1d6 Trinket\n1 Half of a tarnished silver ring with a partial\ninscription in a language you don’t understand\n2 A music box that plays a sad tune you recognize\nbut can’t identify\n3 A short note addressed to you signed with a\nname you don’t recognize\n4 A thin silk scarf with a fading scent that\nstirs familiarity\n5 A toy horse with unfamiliar initials inked on it\n6 A locket whose portrait is burnt\nand unrecognizable"
+          ]
+        }
       ]
     },
     {
@@ -32,7 +92,48 @@
       "source": "TCM",
       "page": 50,
       "entries": [
-        "You have delved into the forces that animate all life—\neven those that counterfeit life, such as Constructs\nand Undead. Many of these studies concentrate on the\nnature of blood and its power to sustain life and transmit vital essence, binding the soul to the flesh. You might\nhave apprenticed under a sly-hearted mentor or a secret\ncabal focused on understanding or even manipulating\nlife and death. You may have learned from a detailed\ntreatise that you’ve put into practice, daring to become versed in the forbidden arts.\nF\nEa t: Crimson Ritualist (see page 113)\nsk ill Pro F ici Enc i E s: {@skill Arcana}, {@skill Medicine}\nto ol Pro F ici Enc y: Herbalism Kit\nEqui PmEnt: Choose A or B: (A) Herbalism Kit, Dagger,\nFine Clothes, Healer’s Kit, 3 Vials, 10 GP; or (B) 50 GP\nBUILDING A CRIMSON ASPIRANT\nCharacters who value study and learning, as well as\nthose with a capacity to heal the injuries and illnesses\nof others, readily become crimson aspirants. More\nphysically inclined characters can be drawn to the teachings of blood to tap into their increased vital\nenergies, as can those who are sickly or weak in hopes of\novercoming that adversity.\nSuggested Story Threads. The Crimson Aspirant\nStory Threads table suggests events and people who can be the start of story threads for your character that\nweave through the campaign.Crimson Aspirant Story Threads\n1d6 Thread\n1 Sometimes when you bleed, you hear whispers\nfrom your fallen blood that tease with meaning.\n2 You were trained by a remote monastery, but your\nmentor ushered you out one morning in a panic\nand sent you away.\n3 A plague carried in the blood defies cures, and\nyou must find its origin.\n4 Your mentor, who inducted you into the secrets\nheld within life and blood, vanished suddenly.\n5 Your studies reveal a spate of anemia cases,\nsome ending in death, as the predations of blood-drinking monsters.\n6 A loved one, such as a paramour or sibling, has\ndied, and your studies hint at a way to bring them back.\nCrimson Aspirant Trinkets. When you make your\ncharacter, you can roll once on the Crimson Aspirant\nTrinkets table instead of on the normal starting\nTrinkets table.\nCrimson Aspirant Trinkets\n1d6 Trinket\n1 A glass pendant with a single drop of blood\nsuspended within\n2 A long scroll with an anatomical study and\ndescription of how life energy flows through\nthe body\n3 A handkerchief with a blood drop pressed into\nthe center\n4 A polished bloodstone for balancing vital energy\n5 A vial of blood that never coagulates or dries\n6 A small box of ashes said to be from a martyr\nwho was falsely accused of vampirism and\nburned at the stake"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You have delved into the forces that animate all life—\neven those that counterfeit life, such as Constructs\nand Undead. Many of these studies concentrate on the\nnature of blood and its power to sustain life and transmit vital essence, binding the soul to the flesh. You might\nhave apprenticed under a sly-hearted mentor or a secret\ncabal focused on understanding or even manipulating\nlife and death. You may have learned from a detailed\ntreatise that you’ve put into practice, daring to become versed in the forbidden arts."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Crimson Ritualist (see page 113)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Arcana}, {@skill Medicine}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Herbalism Kit"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Herbalism Kit, Dagger,\nFine Clothes, Healer’s Kit, 3 Vials, 10 GP",
+            "or (B) 50 GP\nBUILDING A CRIMSON ASPIRANT\nCharacters who value study and learning, as well as\nthose with a capacity to heal the injuries and illnesses\nof others, readily become crimson aspirants",
+            "More\nphysically inclined characters can be drawn to the teachings of blood to tap into their increased vital\nenergies, as can those who are sickly or weak in hopes of\novercoming that adversity",
+            "Suggested Story Threads",
+            "The Crimson Aspirant\nStory Threads table suggests events and people who can be the start of story threads for your character that\nweave through the campaign.Crimson Aspirant Story Threads\n1d6 Thread\n1 Sometimes when you bleed, you hear whispers\nfrom your fallen blood that tease with meaning.\n2 You were trained by a remote monastery, but your\nmentor ushered you out one morning in a panic\nand sent you away.\n3 A plague carried in the blood defies cures, and\nyou must find its origin.\n4 Your mentor, who inducted you into the secrets\nheld within life and blood, vanished suddenly.\n5 Your studies reveal a spate of anemia cases,\nsome ending in death, as the predations of blood-drinking monsters.\n6 A loved one, such as a paramour or sibling, has\ndied, and your studies hint at a way to bring them back",
+            "Crimson Aspirant Trinkets",
+            "When you make your\ncharacter, you can roll once on the Crimson Aspirant\nTrinkets table instead of on the normal starting\nTrinkets table",
+            "Crimson Aspirant Trinkets\n1d6 Trinket\n1 A glass pendant with a single drop of blood\nsuspended within\n2 A long scroll with an anatomical study and\ndescription of how life energy flows through\nthe body\n3 A handkerchief with a blood drop pressed into\nthe center\n4 A polished bloodstone for balancing vital energy\n5 A vial of blood that never coagulates or dries\n6 A small box of ashes said to be from a martyr\nwho was falsely accused of vampirism and\nburned at the stake"
+          ]
+        }
       ]
     },
     {
@@ -40,7 +141,51 @@
       "source": "TCM",
       "page": 51,
       "entries": [
-        "You’ve made your bones on games of chance, and one\nday your games crossed the line into something far\nmore serious. You might have played for your soul\nagainst a Fiend, matched wits with ancient forest Fey in a riddle contest, or rolled dice with the fabled\nMister Crossroads.\nF\nEa t: Fate Gambler (see page 114)\nsk ill Pro F ici Enc i E s: {@skill Deception}, {@skill Insight}\nto ol Pro F ici Enc y: Choose one kind of Gaming Set\nEqui PmEnt: Choose A or B: (A) Gaming Set (same as\nabove), Caltrops, Fine Clothes, Fine Wine (bottle), 23\nGP; or (B) 50 GP\nBUILDING A CROSSROADS GAMBLER\nCharacters who live by their wits, such as Rogues and\nBards, find the call of a crossroads gambler appealing,\nthough anyone could find themselves in the position of\nplaying for stakes higher than they could ever imagine.. or pay. A spellcaster who conjured the wrong entity\nmay find themself a gambler. The desperate who sought\nout a mysterious figure to throw dice and match wits\nfor power or salvation can find their fates bound to\nthe crossroads.\nSuggested Story Threads. The Crossroads Gambler\nStory Threads table suggests events and people who can be the start of story threads for your character that weave through the campaign.\nCrossroads Gambler Story Threads\n1d6 Thread\n1 Someone you thought was a friend tricked you\ninto making your bargain.\n2 You’ve found that if you go too long without\nmaking a wager, your luck starts to turn sour.\n3 You only feel alive in the midst of a contest.\n4 You lost your bet, and you’re on the run from the\nthing surely coming to collect.\n5 Someone close to you made a wager and lost.\nYou made your deal to try and find them.\n6 You’ve been gambling for a long time, and you’re\ntired. Now all you want is a way out.Crossroads Gambler Trinkets. When you make\nyour character, you can roll once on the Crossroads\nGambler Trinkets table instead of on the normal starting\nTrinkets table.\nCrossroads Gambler Trinkets\n1d6 Trinket\n1 A lucky coin made of a strange material, such as\ngreen steel or bone\n2 A battered, blood-stained six of hearts playing card\n3 A torn journal page of a long-missing gambler\nwho was hopeful to win their fortune from a\nbeing they describe but fail to name\n4 The preserved foot of a rabbit, owl, or weasel\n5 A six-sided die that somehow seems to have too\nmany 2s when closely examined\n6 A silver-plated ivory chess rook"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You’ve made your bones on games of chance, and one\nday your games crossed the line into something far\nmore serious. You might have played for your soul\nagainst a Fiend, matched wits with ancient forest Fey in a riddle contest, or rolled dice with the fabled\nMister Crossroads."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Fate Gambler (see page 114)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Deception}, {@skill Insight}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Choose one kind of Gaming Set"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Gaming Set (same as\nabove), Caltrops, Fine Clothes, Fine Wine (bottle), 23\nGP",
+            "or (B) 50 GP\nBUILDING A CROSSROADS GAMBLER\nCharacters who live by their wits, such as Rogues and\nBards, find the call of a crossroads gambler appealing,\nthough anyone could find themselves in the position of\nplaying for stakes higher than they could ever imagine.. or pay",
+            "A spellcaster who conjured the wrong entity\nmay find themself a gambler",
+            "The desperate who sought\nout a mysterious figure to throw dice and match wits\nfor power or salvation can find their fates bound to\nthe crossroads",
+            "Suggested Story Threads",
+            "The Crossroads Gambler\nStory Threads table suggests events and people who can be the start of story threads for your character that weave through the campaign",
+            "Crossroads Gambler Story Threads\n1d6 Thread\n1 Someone you thought was a friend tricked you\ninto making your bargain.\n2 You’ve found that if you go too long without\nmaking a wager, your luck starts to turn sour.\n3 You only feel alive in the midst of a contest.\n4 You lost your bet, and you’re on the run from the\nthing surely coming to collect.\n5 Someone close to you made a wager and lost",
+            "You made your deal to try and find them.\n6 You’ve been gambling for a long time, and you’re\ntired",
+            "Now all you want is a way out.Crossroads Gambler Trinkets",
+            "When you make\nyour character, you can roll once on the Crossroads\nGambler Trinkets table instead of on the normal starting\nTrinkets table",
+            "Crossroads Gambler Trinkets\n1d6 Trinket\n1 A lucky coin made of a strange material, such as\ngreen steel or bone\n2 A battered, blood-stained six of hearts playing card\n3 A torn journal page of a long-missing gambler\nwho was hopeful to win their fortune from a\nbeing they describe but fail to name\n4 The preserved foot of a rabbit, owl, or weasel\n5 A six-sided die that somehow seems to have too\nmany 2s when closely examined\n6 A silver-plated ivory chess rook"
+          ]
+        }
       ]
     },
     {
@@ -48,7 +193,64 @@
       "source": "TCM",
       "page": 52,
       "entries": [
-        "You have been inducted into a secret society that\nvenerates or pursues power from some otherworldly\nsource. The cultists might serve as minions of an entity\nthey worship, or they may seek to understand and claim its might for their own. Depending on the malevolence\nof the cult’s patron or the malefic purposes they may\nserve, cultists could be a force of wickedness or a group\nof closely bonded and dedicated people who pursue a\ncommon, if esoteric, goal.\nF\nEa t: Cult Initiate (see page 113)\nsk ill Pro F ici Enc i E s: {@skill Arcana}, choose one (Cultist\nAffinity table skill recommended)\nla nguag E: Choose one (Cultist Affinity table language\nrecommended)\nto ol Pro F ici Enc y: Calligrapher’s Supplies\nEqui PmEnt: Choose A or B: (A) Calligrapher’s Supplies,\nCostume (cult garb), Holy Symbol (Amulet: cult\ninsignia), Traveler’s Clothes, 10 GP; or (B) 50 GP\nCultist Affinities\nCult Patron Skill Language\nAberration {@skill Perception} Deep Speech\nCelestial {@skill Religion} Celestial\nFiend (Demon) {@skill Religion} Abyssal\nFiend (Devil) {@skill Religion} Infernal\nFey {@skill Nature} Sylvan\nCULT VENERATION\nCults propitiate beings of otherworldly power in hopes\nof sharing in that potency. Choose what type of cult you\njoined, such as the following.\nAberration. Alien creatures with inscrutable\nmindsets and motivations. Many originate from outside the known multiverse.\nCelestial. Beings of the Upper Planes, and paragons\nof order or benevolence. Many can be overbearing\nand uncompromising.\nFiend (Demon). Creatures of utter evil and\ndestruction that want to see all worlds and planes burn.\nFiend (Devil).  Beings of cunning wickedness who\nprize structure and obedience. They seek to subjugate\nothers and condemn souls.\nFey. Capricious beings often associated with nature\nand emotional extremes. They can be beautiful, terrible,\nintoxicating, and horrific.BUILDING A CULTIST\nCultists are often lost souls—individuals severed from the fabric of society whose cult became a manipulative,\nsurrogate family. Consider if your character agrees with\nthe aims of the cult, if they fled the group, or if they remain for infiltration purposes.\nSuggested Story Threads. The Cultist Story Threads\ntable suggests events and people who can be the start\nof story threads for your character that weave through\nthe campaign.\nCultist Story Threads\n1d6 Thread\n1 You learned that the cult that took you in\nmanipulated you throughout your life.\n2 A member of your cult betrayed and killed your\nleader and mentor.\n3 Your cult’s activities aroused the ire and\nsuperstition of locals, deserved or not.\n4 You followed a loved one into joining the cult,\ntrying to find out what happened to them.\n5 You met someone who forced you to see the cult\nyou always venerated in a different light.\n6 You joined the cult to save yourself from an\nincurable illness or other certain doom.\nCultist Trinkets. When you make your character,\nyou can roll once on the Cultist Trinkets table instead of\non the normal starting Trinkets table.\nCultist Trinkets\n1d6 Trinket\n1 A sealed scroll of esoteric knowledge\n2 A steel ball bearing etched over its entire surface\nwith your cult’s sacred text\n3 A crystal that feels strange to the touch\n4 A ritual knife stained with blood, sap, or oils\n5 A set of copper tattoo needles\nAn embroidered cloth half mask"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You have been inducted into a secret society that\nvenerates or pursues power from some otherworldly\nsource. The cultists might serve as minions of an entity\nthey worship, or they may seek to understand and claim its might for their own. Depending on the malevolence\nof the cult’s patron or the malefic purposes they may\nserve, cultists could be a force of wickedness or a group\nof closely bonded and dedicated people who pursue a\ncommon, if esoteric, goal."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Cult Initiate (see page 113)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Arcana}, choose one (Cultist\nAffinity table skill recommended)\nla nguag E: Choose one (Cultist Affinity table language\nrecommended)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Calligrapher’s Supplies"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Calligrapher’s Supplies,\nCostume (cult garb), Holy Symbol (Amulet: cult\ninsignia), Traveler’s Clothes, 10 GP",
+            "or (B) 50 GP\nCultist Affinities\nCult Patron Skill Language\nAberration {@skill Perception} Deep Speech\nCelestial {@skill Religion} Celestial\nFiend (Demon) {@skill Religion} Abyssal\nFiend (Devil) {@skill Religion} Infernal\nFey {@skill Nature} Sylvan\nCULT VENERATION\nCults propitiate beings of otherworldly power in hopes\nof sharing in that potency",
+            "Choose what type of cult you\njoined, such as the following",
+            "Aberration",
+            "Alien creatures with inscrutable\nmindsets and motivations",
+            "Many originate from outside the known multiverse",
+            "Celestial",
+            "Beings of the Upper Planes, and paragons\nof order or benevolence",
+            "Many can be overbearing\nand uncompromising",
+            "Fiend (Demon)",
+            "Creatures of utter evil and\ndestruction that want to see all worlds and planes burn",
+            "Fiend (Devil)",
+            "Beings of cunning wickedness who\nprize structure and obedience",
+            "They seek to subjugate\nothers and condemn souls",
+            "Fey",
+            "Capricious beings often associated with nature\nand emotional extremes",
+            "They can be beautiful, terrible,\nintoxicating, and horrific.BUILDING A CULTIST\nCultists are often lost souls—individuals severed from the fabric of society whose cult became a manipulative,\nsurrogate family",
+            "Consider if your character agrees with\nthe aims of the cult, if they fled the group, or if they remain for infiltration purposes",
+            "Suggested Story Threads",
+            "The Cultist Story Threads\ntable suggests events and people who can be the start\nof story threads for your character that weave through\nthe campaign",
+            "Cultist Story Threads\n1d6 Thread\n1 You learned that the cult that took you in\nmanipulated you throughout your life.\n2 A member of your cult betrayed and killed your\nleader and mentor.\n3 Your cult’s activities aroused the ire and\nsuperstition of locals, deserved or not.\n4 You followed a loved one into joining the cult,\ntrying to find out what happened to them.\n5 You met someone who forced you to see the cult\nyou always venerated in a different light.\n6 You joined the cult to save yourself from an\nincurable illness or other certain doom",
+            "Cultist Trinkets",
+            "When you make your character,\nyou can roll once on the Cultist Trinkets table instead of\non the normal starting Trinkets table",
+            "Cultist Trinkets\n1d6 Trinket\n1 A sealed scroll of esoteric knowledge\n2 A steel ball bearing etched over its entire surface\nwith your cult’s sacred text\n3 A crystal that feels strange to the touch\n4 A ritual knife stained with blood, sap, or oils\n5 A set of copper tattoo needles\nAn embroidered cloth half mask"
+          ]
+        }
       ]
     },
     {
@@ -56,7 +258,51 @@
       "source": "TCM",
       "page": 53,
       "entries": [
-        "You hail from one of the thirteen baneful provinces of\nDruskenvald. You might be a member of the unique\nspecies known to originate from those diverse biomes,\nor you may be of a different heritage altogether. The skills and culture of your home (summarized below)\nshape your knowledge and early experiences.\nF\nEa t: Choose one Origin feat (see page 113)\nsk ill Pro F ici Enc i E s: {@skill Survival}, choose one (Province\nAffinity table skill recommended)\nto ol Pro F ici Enc y: Choose one (Province Affinity\ntable tool recommended)\nEqui PmEnt: Choose A or B: (A) Artisan's T ools (same\nas above), Map (Druskenvald’s provinces), Traveler’s\nClothes, 10 GP; or (B) 50 GP\nProvince Affinities\nProvince Skill Tool\nArdengloom {@skill History} Herbalism Kit\nAstramar {@skill Arcana} Navigator’s Tools\nBubonia {@skill Medicine} Poisoner’s KitChernabos {@skill Deception} Calligrapher’s Supplies\nEdwardia {@skill Investigation} Tinker’s Tools\nEnoch {@skill Nature} Leatherworker’s Tools\nKalero {@skill Performance} Musical Instrument\nOlmarsh {@skill Arcana} Cartographer’s Supplies\nNerukhet {@skill Persuasion} Weaver’s Tools\nPholsense {@skill Religion} Mason’s Tools\nPicco {@skill Performance} Woodworker’s Tools\nSyndramas {@skill Athletics} Cook’s Utensils\nZulrogg {@skill Survival} Herbalism Kit\nBUILDING A DRUSKENVALD DWELLER\nAny sort of character can be a Druskenvald dweller.\nWhen you make your character, decide if you belong\nto the species associated with your home province, or if you are of another kind who was raised outside the home of most of your species. This decision itself may determine truths about your character to be\nexperienced throughout your journeys in Druskenvald.\nSuggested Story Threads. The Druskenvald Dweller\nStory Threads table suggests events and people who can be the start of story threads for your character that\nweave through the campaign.\nDruskenvald Dweller Story Threads\n1d6 Thread\n1 You were left on a church doorstep as an infant.\nThe only clue to your origin is the torn cloak used\nas a blanket.\n2 You fled your home province after being accused\nof a crime, whether justly or not.\n3 After hearing stories of other provinces, you\nstruck out to see more of Druskenvald.\n4 Members of a trade caravan stole something or\nharmed someone dear to you.\n5 You made a desperate pact with an ashborn and\nnow seek to nullify the contract.\n6 A vicious bogborn bounty hunter trails you.\nDruskenvald Dweller Trinkets. When you make\nyour character, you can roll once on the Druskenvald\nDweller Trinkets table instead of on the normal starting\nTrinkets table.\nDruskenvald Dweller Trinkets\n1d6 Trinket\n1 A brass needle with a dangling bit of\nbroken thread\n2 A dull, rusty sickle with a bone handle\n3 A star chart etched onto a crystal plate\n4 A wicker doll with bloodstained bead eyes\n5 A length of chain that sometimes rattles when\nleft unattended\n6 A mummified hand preserved in bog peat"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You hail from one of the thirteen baneful provinces of\nDruskenvald. You might be a member of the unique\nspecies known to originate from those diverse biomes,\nor you may be of a different heritage altogether. The skills and culture of your home (summarized below)\nshape your knowledge and early experiences."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Choose one Origin feat (see page 113)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Survival}, choose one (Province\nAffinity table skill recommended)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Choose one (Province Affinity\ntable tool recommended)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Artisan's T ools (same\nas above), Map (Druskenvald’s provinces), Traveler’s\nClothes, 10 GP",
+            "or (B) 50 GP\nProvince Affinities\nProvince Skill Tool\nArdengloom {@skill History} Herbalism Kit\nAstramar {@skill Arcana} Navigator’s Tools\nBubonia {@skill Medicine} Poisoner’s KitChernabos {@skill Deception} Calligrapher’s Supplies\nEdwardia {@skill Investigation} Tinker’s Tools\nEnoch {@skill Nature} Leatherworker’s Tools\nKalero {@skill Performance} Musical Instrument\nOlmarsh {@skill Arcana} Cartographer’s Supplies\nNerukhet {@skill Persuasion} Weaver’s Tools\nPholsense {@skill Religion} Mason’s Tools\nPicco {@skill Performance} Woodworker’s Tools\nSyndramas {@skill Athletics} Cook’s Utensils\nZulrogg {@skill Survival} Herbalism Kit\nBUILDING A DRUSKENVALD DWELLER\nAny sort of character can be a Druskenvald dweller",
+            "When you make your character, decide if you belong\nto the species associated with your home province, or if you are of another kind who was raised outside the home of most of your species",
+            "This decision itself may determine truths about your character to be\nexperienced throughout your journeys in Druskenvald",
+            "Suggested Story Threads",
+            "The Druskenvald Dweller\nStory Threads table suggests events and people who can be the start of story threads for your character that\nweave through the campaign",
+            "Druskenvald Dweller Story Threads\n1d6 Thread\n1 You were left on a church doorstep as an infant",
+            "The only clue to your origin is the torn cloak used\nas a blanket.\n2 You fled your home province after being accused\nof a crime, whether justly or not.\n3 After hearing stories of other provinces, you\nstruck out to see more of Druskenvald.\n4 Members of a trade caravan stole something or\nharmed someone dear to you.\n5 You made a desperate pact with an ashborn and\nnow seek to nullify the contract.\n6 A vicious bogborn bounty hunter trails you",
+            "Druskenvald Dweller Trinkets",
+            "When you make\nyour character, you can roll once on the Druskenvald\nDweller Trinkets table instead of on the normal starting\nTrinkets table",
+            "Druskenvald Dweller Trinkets\n1d6 Trinket\n1 A brass needle with a dangling bit of\nbroken thread\n2 A dull, rusty sickle with a bone handle\n3 A star chart etched onto a crystal plate\n4 A wicker doll with bloodstained bead eyes\n5 A length of chain that sometimes rattles when\nleft unattended\n6 A mummified hand preserved in bog peat"
+          ]
+        }
       ]
     },
     {
@@ -64,7 +310,49 @@
       "source": "TCM",
       "page": 54,
       "entries": [
-        "You are forever altered in some drastic, physical way,\nperhaps even made monstrous. A blasphemous fusion\nof science, alchemy, and magic changed you, possibly to\nmend some unrecoverable malady, or to test the limits of your biology. The process was a success, at least to a\npoint, but the change left its mark on you. The indelible\nwarping of your form can be a source of fear for those\nwho do not understand what they see.\nF\nEa t: Altered (see page 113)\nsk ill Pro F ici Enc i E s: {@skill Intimidation}, {@skill Medicine}\nto ol Pro F ici Enc y: Alchemist’s Supplies\nEqui PmEnt: Choose A or B: (A) Alchemist’s Supplies,\nManacles, Perfume (to cover chemical smell), Traveler’s\nClothes (with hooded cloak), 5 GP; or (B) 50 GP\nBUILDING AN EXPERIMENT\nAn experiment can come from any class or walk of life.\nWere you kidnapped and altered against your will, or\ndid you volunteer for a heinous procedure? Was the\nexperimenting done purely for discovery, to overcome a worse fate, or for someone to play at being a god?\nWhatever the reason, the process is never pleasant, and\nit always leaves scars—both those you can see and those\nthat have marked your very soul.\nSuggested Story Threads. The Experiment Story\nThreads table suggests events and people who can be the start of story threads for your character that weave\nthrough the campaign.Experiment Story Threads\n1d6 Thread\n1 A particular song stirs feelings of sadness and\noverwhelming anger in you, reminding you of the\nprocess that changed you.\n2 A portion of your altered body is very clearly\ngrafted from a different person, and they might want it back.\n3 Another person was changed alongside you. They\nfled before you left, urging you to do the same.\n4 You have recurring nightmares of the procedure\nyou endured, sometimes seeing glimpses of faces in the dream that you don’t recognize.\n5 Your physical difference invites curiosity and\nattention, which for some reason is more disturbing than disdain or fear.\n6 A peculiar symbol is branded on or near\nyour alteration.\nExperiment Trinkets. When you make your\ncharacter, you can roll once on the Experiment Trinkets\ntable instead of on the normal starting Trinkets table.\nExperiment Trinkets\n1d6 Trinket\n1 A syringe with a faintly glowing purple residue\n2 A wrench that is the only one that fits a bit of\nsimple machinery built into your body\n3 A sheaf of chemical-stained parchments covered\nin incomprehensible notes and schematics\n4 A spool of silver thread that matches stitches in\nyour altered body part\n5 A metal hip flask with strange runes scratched\ninto one side\n6 A smooth stone that comforts and soothes you\nwhen you hold it tightly"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You are forever altered in some drastic, physical way,\nperhaps even made monstrous. A blasphemous fusion\nof science, alchemy, and magic changed you, possibly to\nmend some unrecoverable malady, or to test the limits of your biology. The process was a success, at least to a\npoint, but the change left its mark on you. The indelible\nwarping of your form can be a source of fear for those\nwho do not understand what they see."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Altered (see page 113)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Intimidation}, {@skill Medicine}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Alchemist’s Supplies"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Alchemist’s Supplies,\nManacles, Perfume (to cover chemical smell), Traveler’s\nClothes (with hooded cloak), 5 GP",
+            "or (B) 50 GP\nBUILDING AN EXPERIMENT\nAn experiment can come from any class or walk of life",
+            "Were you kidnapped and altered against your will, or\ndid you volunteer for a heinous procedure? Was the\nexperimenting done purely for discovery, to overcome a worse fate, or for someone to play at being a god?\nWhatever the reason, the process is never pleasant, and\nit always leaves scars—both those you can see and those\nthat have marked your very soul",
+            "Suggested Story Threads",
+            "The Experiment Story\nThreads table suggests events and people who can be the start of story threads for your character that weave\nthrough the campaign.Experiment Story Threads\n1d6 Thread\n1 A particular song stirs feelings of sadness and\noverwhelming anger in you, reminding you of the\nprocess that changed you.\n2 A portion of your altered body is very clearly\ngrafted from a different person, and they might want it back.\n3 Another person was changed alongside you",
+            "They\nfled before you left, urging you to do the same.\n4 You have recurring nightmares of the procedure\nyou endured, sometimes seeing glimpses of faces in the dream that you don’t recognize.\n5 Your physical difference invites curiosity and\nattention, which for some reason is more disturbing than disdain or fear.\n6 A peculiar symbol is branded on or near\nyour alteration",
+            "Experiment Trinkets",
+            "When you make your\ncharacter, you can roll once on the Experiment Trinkets\ntable instead of on the normal starting Trinkets table",
+            "Experiment Trinkets\n1d6 Trinket\n1 A syringe with a faintly glowing purple residue\n2 A wrench that is the only one that fits a bit of\nsimple machinery built into your body\n3 A sheaf of chemical-stained parchments covered\nin incomprehensible notes and schematics\n4 A spool of silver thread that matches stitches in\nyour altered body part\n5 A metal hip flask with strange runes scratched\ninto one side\n6 A smooth stone that comforts and soothes you\nwhen you hold it tightly"
+          ]
+        }
       ]
     },
     {
@@ -72,7 +360,50 @@
       "source": "TCM",
       "page": 55,
       "entries": [
-        "Once, even before your most recent travel to\nDruskenvald, you rode the deathly train known as the\nGhostlight Express. Your memories of that journey might\nbe hazy and dreamlike, or they could be sharp and jarring in their clarity. You learned some of the workings\nof the ghostly engine and formed a connection with the\nconductor and fellow travelers that has stayed with you.\nAt times, you are even more comfortable with the dead\nthan the living.\nF\nEa t: Ghostlight Medium (see page 114)\nsk ill Pro F ici Enc i E s: {@skill Insight}, {@skill Persuasion}\nto ol Pro F ici Enc y: Smith’s T ools\nEqui PmEnt: Choose A or B: (A) Smith’s T ools, Bullseye\nLantern, Fine Clothes, Oil (3 flasks), 5 GP; or (B) 50 GP\nBUILDING A GHOSTLIGHT PASSENGER\nEvery person in Druskenvald travels the Ghostlight\nExpress at least once, but very few form the deep and\nlasting connection that you have. Your first trip on the\ntrain might have been a near death experience from which you were saved, or perhaps you did die in earnest\nbut were resurrected later.\nCharacters attuned to spirits or the lands of the dead,\nsuch as Clerics, Paladins, or those who had brushes\nwith death, are the most common to exhibit this deep connection.\nSuggested Story Threads. The Ghostlight Passenger\nStory Threads table suggests events and people who\ncan be the start of story threads for your character that\nweave through the campaign.Ghostlight Passenger Story Threads\n1d6 Thread\n1 Sometimes when you dream, you find yourself\nback on the Ghostlight Express in more than just a\ndream image.\n2 Your first journey to the lands of the dead was\nconfusing, but you realized you now may be able to find the departed spirit of a loved one once\nthought lost forever.\n3 A specific spirit returns to speak to and through\nyou repeatedly.\n4 People sometimes speak to you as if they\nknow you but later have no recollection of\nthe conversation. During those moments of recognition, they know details from your visits on\nthe Ghostlight Express.\n5 You sometimes see people in your travels\nwho you recognize from your time on the\nGhostlight Express.\n6 Someone greeted you with knowledge of your\nfirst journey on the Ghostlight Express, but you don’t remember them.\nGhostlight Passenger Trinkets. When you make\nyour character, you can roll once on the Ghostlight\nPassenger Trinkets table instead of on the normal\nstarting Trinkets table.\nGhostlight Passenger Trinkets\n1d6 Trinket\n1 A slate board smeared with erased chalk, where\nyou sometimes find words scratched\n2 A lump of coal that never burns away and gives\noff wispy smoke\n3 A torn ticket stub that is slightly translucent\n4 A dented train conductor’s whistle that only the\ndead can hear\n5 A pocket watch that runs backwards\n6 A battered train conductor’s hat"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Once, even before your most recent travel to\nDruskenvald, you rode the deathly train known as the\nGhostlight Express. Your memories of that journey might\nbe hazy and dreamlike, or they could be sharp and jarring in their clarity. You learned some of the workings\nof the ghostly engine and formed a connection with the\nconductor and fellow travelers that has stayed with you.\nAt times, you are even more comfortable with the dead\nthan the living."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Ghostlight Medium (see page 114)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Insight}, {@skill Persuasion}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Smith’s T ools"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Smith’s T ools, Bullseye\nLantern, Fine Clothes, Oil (3 flasks), 5 GP",
+            "or (B) 50 GP\nBUILDING A GHOSTLIGHT PASSENGER\nEvery person in Druskenvald travels the Ghostlight\nExpress at least once, but very few form the deep and\nlasting connection that you have",
+            "Your first trip on the\ntrain might have been a near death experience from which you were saved, or perhaps you did die in earnest\nbut were resurrected later",
+            "Characters attuned to spirits or the lands of the dead,\nsuch as Clerics, Paladins, or those who had brushes\nwith death, are the most common to exhibit this deep connection",
+            "Suggested Story Threads",
+            "The Ghostlight Passenger\nStory Threads table suggests events and people who\ncan be the start of story threads for your character that\nweave through the campaign.Ghostlight Passenger Story Threads\n1d6 Thread\n1 Sometimes when you dream, you find yourself\nback on the Ghostlight Express in more than just a\ndream image.\n2 Your first journey to the lands of the dead was\nconfusing, but you realized you now may be able to find the departed spirit of a loved one once\nthought lost forever.\n3 A specific spirit returns to speak to and through\nyou repeatedly.\n4 People sometimes speak to you as if they\nknow you but later have no recollection of\nthe conversation",
+            "During those moments of recognition, they know details from your visits on\nthe Ghostlight Express.\n5 You sometimes see people in your travels\nwho you recognize from your time on the\nGhostlight Express.\n6 Someone greeted you with knowledge of your\nfirst journey on the Ghostlight Express, but you don’t remember them",
+            "Ghostlight Passenger Trinkets",
+            "When you make\nyour character, you can roll once on the Ghostlight\nPassenger Trinkets table instead of on the normal\nstarting Trinkets table",
+            "Ghostlight Passenger Trinkets\n1d6 Trinket\n1 A slate board smeared with erased chalk, where\nyou sometimes find words scratched\n2 A lump of coal that never burns away and gives\noff wispy smoke\n3 A torn ticket stub that is slightly translucent\n4 A dented train conductor’s whistle that only the\ndead can hear\n5 A pocket watch that runs backwards\n6 A battered train conductor’s hat"
+          ]
+        }
       ]
     },
     {
@@ -80,7 +411,50 @@
       "source": "TCM",
       "page": 56,
       "entries": [
-        "Once you were prey, stalked by a monster through the\ndark of night. Now, you are the hunter, and the things\nwhich you once feared will learn the true meaning of\ndread. You have become far deadlier, hungrier, and crueler than the monster that once hunted you. You are,\nyourself, the monster now—a fearsome creature once\nthought to slake its hunger on you or those close to you.\nYou survived, and your would-be killer will have its own\ndestruction in turn.\nF\nEa t: Hunter of Hunters (see page 114)\nsk ill Pro F ici Enc i E s: {@skill Stealth}, and one other of\nyour choice from the following list: {@skill Arcana}, {@skill History},\n{@skill Religion}, {@skill Nature}\nto ol Pro F ici Enc y: Leatherworker’s T ools\nEqui PmEnt: Choose A or B: (A) Leatherworker’s T ools,\nBook (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 GP; or (B) 50\nGP\nBUILDING A NIGHT STALKER\nConsider how you joined the hunt against the creatures of the night. Did you lose someone close to you or\nsurvive an attack? Perhaps you were raised in a family line\nof dedicated hunters. Rangers, Rogues, and Barbarians make fearsome night stalkers, as does any character with a\npassion to oppose these deadly creatures.\nSuggested Story Threads. The Night Stalker Story\nThreads table suggests events and people who can be\nthe start of story threads for your character that weave\nthrough the campaign.Night Stalker Story Threads\n1d6 Thread\n1 You’re hunting the creature that slew your\nloved ones.\n2 You started your hunt with zeal but quickly find\nthat you’re losing your stomach for it.\n3 As you learn more about the creatures of the\nnight, you discover that some of your initial\nthoughts about them were wrong.\n4 You failed to stand up to a creature and saved\nyourself instead of someone else. Now you try to\nmake up for that shame.\n5 The monsters you hunt terrify you to your soul,\nand you lash out to deny your fear.\n6 Your fervent hunt is a cover for your desire to\nbecome something more than mortal.\nNight Stalker Trinkets. When you make your\ncharacter, you can roll once on the Night Stalker\nTrinkets table instead of on the normal starting\nTrinkets table.\nNight Stalker Trinkets\n1d6 Trinket\n1 A necklace of yellowed fangs\n2 A series of letters showing a person’s\npersonality sharply eroding into incoherence\nand raving\n3 A knife made from a massive creature’s claw\n4 A casting of a monstrous footprint\n5 A hide or pelt from a vicious beast\n6 A glass eye that normal animals shy away from"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Once you were prey, stalked by a monster through the\ndark of night. Now, you are the hunter, and the things\nwhich you once feared will learn the true meaning of\ndread. You have become far deadlier, hungrier, and crueler than the monster that once hunted you. You are,\nyourself, the monster now—a fearsome creature once\nthought to slake its hunger on you or those close to you.\nYou survived, and your would-be killer will have its own\ndestruction in turn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Hunter of Hunters (see page 114)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Stealth}, and one other of\nyour choice from the following list: {@skill Arcana}, {@skill History},\n{@skill Religion}, {@skill Nature}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Leatherworker’s T ools"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Leatherworker’s T ools,\nBook (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 GP",
+            "or (B) 50\nGP\nBUILDING A NIGHT STALKER\nConsider how you joined the hunt against the creatures of the night",
+            "Did you lose someone close to you or\nsurvive an attack? Perhaps you were raised in a family line\nof dedicated hunters",
+            "Rangers, Rogues, and Barbarians make fearsome night stalkers, as does any character with a\npassion to oppose these deadly creatures",
+            "Suggested Story Threads",
+            "The Night Stalker Story\nThreads table suggests events and people who can be\nthe start of story threads for your character that weave\nthrough the campaign.Night Stalker Story Threads\n1d6 Thread\n1 You’re hunting the creature that slew your\nloved ones.\n2 You started your hunt with zeal but quickly find\nthat you’re losing your stomach for it.\n3 As you learn more about the creatures of the\nnight, you discover that some of your initial\nthoughts about them were wrong.\n4 You failed to stand up to a creature and saved\nyourself instead of someone else",
+            "Now you try to\nmake up for that shame.\n5 The monsters you hunt terrify you to your soul,\nand you lash out to deny your fear.\n6 Your fervent hunt is a cover for your desire to\nbecome something more than mortal",
+            "Night Stalker Trinkets",
+            "When you make your\ncharacter, you can roll once on the Night Stalker\nTrinkets table instead of on the normal starting\nTrinkets table",
+            "Night Stalker Trinkets\n1d6 Trinket\n1 A necklace of yellowed fangs\n2 A series of letters showing a person’s\npersonality sharply eroding into incoherence\nand raving\n3 A knife made from a massive creature’s claw\n4 A casting of a monstrous footprint\n5 A hide or pelt from a vicious beast\n6 A glass eye that normal animals shy away from"
+          ]
+        }
       ]
     },
     {
@@ -88,7 +462,48 @@
       "source": "TCM",
       "page": 57,
       "entries": [
-        "You were once whole, but part of you has been separated\nfrom your being and now also wanders the world. This\naspect of you took your reflection and shadow with it,\nand it travels about as a mirage that looks identical to you. You know this other self is out there—you can feel it—\nbut what it wants and why is lost on you. Sometimes you\nencounter a stranger that knows you—for good or ill—\nthough you’ve never met them before, and you can’t help\nbut wonder if they met the other you.\nF\nEa t: Unreflected (see page 115)\nsk ill Pro F ici Enc i E s: {@skill Deception}, {@skill Investigation}\nto ol Pro F ici Enc y: Disguise Kit\nEqui PmEnt: Choose A or B: (A) Disguise Kit, Mirror,\nTraveler's Clothes, 16 GP; or (B) 50 GP\nBUILDING A REFLECTED WANDERER\nAny character can be a reflected wanderer. How was it\nthat your being came to be divided? How much do you\nunderstand about your situation? Are you truly who\nyou think you are, or are you, in reality, the very castoff reflection of your other self ?\nSuggested Story Threads. The Reflected Wanderer\nStory Threads table suggests events and people who\ncan be the start of story threads for your character that\nweave through the campaign.\nReflected Wanderer Story Threads\n1d6 Thread\n1 A close, long-term relationship went suddenly\nsour as if you wronged the other person.\n2 Your other self leaves you messages and signs\nas it travels, sometimes seeming fond and other\ntimes resentful.\n3 Animals are unsettled by you, becoming skittish\nand restless in your presence.\n4 You’re wanted for several minor crimes you\nnever committed, though eyewitnesses named\nyou. Over time, more crimes of increasing\nseverity occur.\n5 Someone you’ve been at odds with begins\ntreating you with more respect and kindness.\n6 Mirrors sometimes crack when you touch them.Reflected W anderer Trinkets. When you make your\ncharacter, you can roll once on the Reflected Wanderer\nTrinkets table instead of on the normal starting\nTrinkets table.\nReflected Wanderer Trinkets\n1d6 Trinket\n1 A shattered hand mirror\n2 An invitation to a powerful person’s home whom\nyou’ve never met\n3 A locket with your silhouette painted in it on both\nsides, facing each other\n4 A short, derisive letter from yourself that you\ndon’t remember writing\n5 A brooch delivered to you that you\ndidn’t purchase\n6 A piece of chalk that writes in a different color\nthan it appears to be"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You were once whole, but part of you has been separated\nfrom your being and now also wanders the world. This\naspect of you took your reflection and shadow with it,\nand it travels about as a mirage that looks identical to you. You know this other self is out there—you can feel it—\nbut what it wants and why is lost on you. Sometimes you\nencounter a stranger that knows you—for good or ill—\nthough you’ve never met them before, and you can’t help\nbut wonder if they met the other you."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Unreflected (see page 115)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Deception}, {@skill Investigation}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Disguise Kit"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Disguise Kit, Mirror,\nTraveler's Clothes, 16 GP",
+            "or (B) 50 GP\nBUILDING A REFLECTED WANDERER\nAny character can be a reflected wanderer",
+            "How was it\nthat your being came to be divided? How much do you\nunderstand about your situation? Are you truly who\nyou think you are, or are you, in reality, the very castoff reflection of your other self ?\nSuggested Story Threads",
+            "The Reflected Wanderer\nStory Threads table suggests events and people who\ncan be the start of story threads for your character that\nweave through the campaign",
+            "Reflected Wanderer Story Threads\n1d6 Thread\n1 A close, long-term relationship went suddenly\nsour as if you wronged the other person.\n2 Your other self leaves you messages and signs\nas it travels, sometimes seeming fond and other\ntimes resentful.\n3 Animals are unsettled by you, becoming skittish\nand restless in your presence.\n4 You’re wanted for several minor crimes you\nnever committed, though eyewitnesses named\nyou",
+            "Over time, more crimes of increasing\nseverity occur.\n5 Someone you’ve been at odds with begins\ntreating you with more respect and kindness.\n6 Mirrors sometimes crack when you touch them.Reflected W anderer Trinkets",
+            "When you make your\ncharacter, you can roll once on the Reflected Wanderer\nTrinkets table instead of on the normal starting\nTrinkets table",
+            "Reflected Wanderer Trinkets\n1d6 Trinket\n1 A shattered hand mirror\n2 An invitation to a powerful person’s home whom\nyou’ve never met\n3 A locket with your silhouette painted in it on both\nsides, facing each other\n4 A short, derisive letter from yourself that you\ndon’t remember writing\n5 A brooch delivered to you that you\ndidn’t purchase\n6 A piece of chalk that writes in a different color\nthan it appears to be"
+          ]
+        }
       ]
     },
     {
@@ -96,7 +511,49 @@
       "source": "TCM",
       "page": 58,
       "entries": [
-        "In a place closer to the lands of the dead than the\nliving, those who tend the eternal rest and disposition\nof the deceased are held in a mixture of high esteem\nand apprehension. You have plied the trade of the gravedigger, the mortician, and the embalmer. There are\ntimes when you have been the only one to say a kind\nword in honor of those who passed. The depredations of\nthe Undead are well-known to you, and you don’t suffer\ntheir meddling in the rest of your charges.\nF\nEa t: Grave Keeper (see page 114)\nsk ill Pro F ici Enc i E s: {@skill Religion}, {@skill Survival}\nto ol Pro F ici Enc y: Mason’s T ools\nEqui PmEnt: Choose A or B: (A) Mason’s T ools, Hooded\nLantern, Oil (3 flasks), Shovel, Soap, Traveler’s Clothes\n(with thick gloves and dark-colored hood), 10 GP; or\n(B) 50 GP\nBUILDING A REST WARDEN\nRest wardens tend to be either a dour and somber lot or—in contrast to their trade—are filled with the\nvibrance and joy of life. Those who understand the\nthin thread between life and death or who possess the strength to dig graves beneath moonlit skies and tend\nthe bone orchards where the dead sleep are called to\nserve as rest wardens.\nSuggested Story Threads. The Rest Warden Story\nThreads table suggests events and people who can be the start of story threads for your character that weave\nthrough the campaign.Rest Warden Story Threads\n1d6 Thread\n1 A strange figure commissioned you to carve a\nheadstone for someone who is very much in the\nprime of life.\n2 In a time of desperation, you once accepted\na sizeable bribe to look the other way when someone robbed a grave.\n3 You spent time learning from Yorgrim,\ngravedigger and caretaker of the Maidenmist Cemetery.\n4 Someone violated graves under your watch and\nstole away with the corpses.\n5 You comforted a child at their parent’s funeral\nand have taken a protective shine to them.\n6 A loved one once rose from the grave as an\nUndead creature. You vowed to bring them to their final rest.\nRest W arden Trinkets. When you make your\ncharacter, you can roll once on the Rest Warden\nTrinkets table instead of on the normal starting\nTrinkets table.\nRest Warden Trinkets\n1d6 Trinket\n1 A prayer slip and seal covered in verses to protect\nthe departed\n2 A charcoal rubbing of a gravestone epitaph\n3 A coffin nail that always ends up bent, no matter\nhow many times you straighten it\n4 A dried flower cleaned from one of the first\ngraves you tended\n5 A length of rusty iron chain and padlock\n6 A sealed bottle containing a final breath"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "In a place closer to the lands of the dead than the\nliving, those who tend the eternal rest and disposition\nof the deceased are held in a mixture of high esteem\nand apprehension. You have plied the trade of the gravedigger, the mortician, and the embalmer. There are\ntimes when you have been the only one to say a kind\nword in honor of those who passed. The depredations of\nthe Undead are well-known to you, and you don’t suffer\ntheir meddling in the rest of your charges."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Grave Keeper (see page 114)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Religion}, {@skill Survival}"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Mason’s T ools"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Mason’s T ools, Hooded\nLantern, Oil (3 flasks), Shovel, Soap, Traveler’s Clothes\n(with thick gloves and dark-colored hood), 10 GP",
+            "or\n(B) 50 GP\nBUILDING A REST WARDEN\nRest wardens tend to be either a dour and somber lot or—in contrast to their trade—are filled with the\nvibrance and joy of life",
+            "Those who understand the\nthin thread between life and death or who possess the strength to dig graves beneath moonlit skies and tend\nthe bone orchards where the dead sleep are called to\nserve as rest wardens",
+            "Suggested Story Threads",
+            "The Rest Warden Story\nThreads table suggests events and people who can be the start of story threads for your character that weave\nthrough the campaign.Rest Warden Story Threads\n1d6 Thread\n1 A strange figure commissioned you to carve a\nheadstone for someone who is very much in the\nprime of life.\n2 In a time of desperation, you once accepted\na sizeable bribe to look the other way when someone robbed a grave.\n3 You spent time learning from Yorgrim,\ngravedigger and caretaker of the Maidenmist Cemetery.\n4 Someone violated graves under your watch and\nstole away with the corpses.\n5 You comforted a child at their parent’s funeral\nand have taken a protective shine to them.\n6 A loved one once rose from the grave as an\nUndead creature",
+            "You vowed to bring them to their final rest",
+            "Rest W arden Trinkets",
+            "When you make your\ncharacter, you can roll once on the Rest Warden\nTrinkets table instead of on the normal starting\nTrinkets table",
+            "Rest Warden Trinkets\n1d6 Trinket\n1 A prayer slip and seal covered in verses to protect\nthe departed\n2 A charcoal rubbing of a gravestone epitaph\n3 A coffin nail that always ends up bent, no matter\nhow many times you straighten it\n4 A dried flower cleaned from one of the first\ngraves you tended\n5 A length of rusty iron chain and padlock\n6 A sealed bottle containing a final breath"
+          ]
+        }
       ]
     },
     {
@@ -104,7 +561,48 @@
       "source": "TCM",
       "page": 59,
       "entries": [
-        "For a time, you traveled with the Lord of Fools’ strange\nand unsettling revelry. Whether you are still welcome\nin that company, or you’ve struck off on your own, your\ntime with the troupe revealed some of its nature to you—that the Lord of Fools serves some great entity\nwho prizes humor and merriment, often at the expense\nof the mighty. But he is no mere jester. Beneath the\nmask of mockery and merriment is a mad creature who\ndemands sacrifice.\nF\nEa t: Reveling Fool (see page 115)\nsk ill Pro F ici Enc i E s: {@skill Performance}, {@skill Stealth}\nla nguag E: Choose one (Abyssal recommended)\nto ol Pro F ici Enc y: Choose one kind of Musical\nInstrument\nEqui PmEnt: Choose A or B: (A) Musical Instrument\n(same as above), Ball Bearings, Costume (jovial\ncharacter with a laughing mask), Hunting Trap,\nManacles, 3 T orches (for juggling), Traveler’s Clothes, 10 GP; or (B) 50 GP\nBUILDING A REVELER\nThe simultaneous beauty and uncomfortable truth of the revelers is that they can be anyone. Hidden by their\nmasks and costumes, one’s friends, family, servants, or\nlords could be capering about the ribbon-twined pole and leading impressionable folk away when the revel\nwithdraws. How might a reveler behave differently in\neach guise?\nSuggested Story Threads. The Reveler Story\nThreads table suggests events and people who can be\nthe start of story threads for your character that weave\nthrough the campaign.Reveler Story Threads\n1d6 Thread\n1 Posters depicting drawings of your reveler guise\nhave started showing up in towns after the fool’s\nrevel leaves.\n2 Once you learned the truth of the revels—that\nsome of the people who vanish ostensibly to join the revel are sacrificed—you seized the first\nchance to slip away.\n3 Recently, more people than usual have gone\nmissing from towns in the revel’s wake.\n4 Crows, owls, and other birds seem to cackle and\nlaugh in your presence.\n5 You have grown suspicious that another\nreveler has a sinister motive concealed by their\njester’s guise.\n6 You left the revel when you caught a glimpse of\nthe wickedness lurking beneath the Lord of Fool’s\njovial veneer.\nReveler Trinkets. When you make your character,\nyou can roll once on the Reveler Trinkets table instead\nof on the normal starting Trinkets table.\nReveler Trinkets\n1d6 Trinket\n1 A small wind-up bell that you can conceal in the\npalm of your hand with a button to activate it\n2 A dented metal spray bottle\n3 A string of colorful handkerchiefs tied together\n4 A tarnished silver bell that sometimes refuses\nto jingle\n5 A pair of boots or slippers that squeak comically\nwith each step\n6 A short scepter or baton with a horn on the cap"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "For a time, you traveled with the Lord of Fools’ strange\nand unsettling revelry. Whether you are still welcome\nin that company, or you’ve struck off on your own, your\ntime with the troupe revealed some of its nature to you—that the Lord of Fools serves some great entity\nwho prizes humor and merriment, often at the expense\nof the mighty. But he is no mere jester. Beneath the\nmask of mockery and merriment is a mad creature who\ndemands sacrifice."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Reveling Fool (see page 115)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Performance}, {@skill Stealth}\nla nguag E: Choose one (Abyssal recommended)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Choose one kind of Musical\nInstrument"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Musical Instrument\n(same as above), Ball Bearings, Costume (jovial\ncharacter with a laughing mask), Hunting Trap,\nManacles, 3 T orches (for juggling), Traveler’s Clothes, 10 GP",
+            "or (B) 50 GP\nBUILDING A REVELER\nThe simultaneous beauty and uncomfortable truth of the revelers is that they can be anyone",
+            "Hidden by their\nmasks and costumes, one’s friends, family, servants, or\nlords could be capering about the ribbon-twined pole and leading impressionable folk away when the revel\nwithdraws",
+            "How might a reveler behave differently in\neach guise?\nSuggested Story Threads",
+            "The Reveler Story\nThreads table suggests events and people who can be\nthe start of story threads for your character that weave\nthrough the campaign.Reveler Story Threads\n1d6 Thread\n1 Posters depicting drawings of your reveler guise\nhave started showing up in towns after the fool’s\nrevel leaves.\n2 Once you learned the truth of the revels—that\nsome of the people who vanish ostensibly to join the revel are sacrificed—you seized the first\nchance to slip away.\n3 Recently, more people than usual have gone\nmissing from towns in the revel’s wake.\n4 Crows, owls, and other birds seem to cackle and\nlaugh in your presence.\n5 You have grown suspicious that another\nreveler has a sinister motive concealed by their\njester’s guise.\n6 You left the revel when you caught a glimpse of\nthe wickedness lurking beneath the Lord of Fool’s\njovial veneer",
+            "Reveler Trinkets",
+            "When you make your character,\nyou can roll once on the Reveler Trinkets table instead\nof on the normal starting Trinkets table",
+            "Reveler Trinkets\n1d6 Trinket\n1 A small wind-up bell that you can conceal in the\npalm of your hand with a button to activate it\n2 A dented metal spray bottle\n3 A string of colorful handkerchiefs tied together\n4 A tarnished silver bell that sometimes refuses\nto jingle\n5 A pair of boots or slippers that squeak comically\nwith each step\n6 A short scepter or baton with a horn on the cap"
+          ]
+        }
       ]
     },
     {
@@ -112,7 +610,49 @@
       "source": "TCM",
       "page": 60,
       "entries": [
-        "Delving into the brittle pages of ancient tomes and\nweathered tablets carved with blasphemy, you have\nunearthed secrets of eldritch beings of unfathomable\nmight. Most of their meaning slips like whispers out of your grasp, but you have seized both forbidden\nknowledge and cursed power from them. The deeper\nyou plunge into depravity, the more certainty you feel\nthat you are not there alone.\nF\nEa t: Dread Speech (see page 114)\nsk ill Pro F ici Enc i E s: {@skill Arcana}, {@skill Intimidation}\nla nguag E: Choose one (Deep Speech recommended)\nto ol Pro F ici Enc y: Calligrapher’s Supplies\nequi Pm ent: Choose A or B: (A) Calligrapher’s Supplies,\nBook (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3\nflasks), Paper (10 sheets), 2 GP; or (B) 50 GP\nBUILDING A SCHOLAR OF THE FORBIDDEN\nWizards and Warlocks make the most common scholars\nof the forbidden, but any character who stumbles onto\nthe dread truths waiting beneath the surface of reality\ncan find themselves walking the path. The secrets you unveil could threaten to destabilize any number of\npowerful beliefs and organizations, which makes you\ndangerous to them.\nSuggested Story Threads. The Scholar of the\nForbidden Story Threads table suggests events and\npeople who can be the start of story threads for your\ncharacter that weave through the campaign.Scholar of the Forbidden Story Threads\n1d6 Thread\n1 A wealthy patron paid you handsomely to\nresearch what led to your discoveries, and they\nwant what you found.\n2 When you spoke aloud the first secret word you\ndeciphered, you passed out and woke hours later to find your lips cracked and blackened.\n3 Something has been following you since you\nuncovered the illicit secrets. You sense it always behind you, drawing closer.\n4 Your shadow converses with you when you’re\nalone, acting as a debate partner and sounding board in your studies.\n5 The reflections of your eyes are black voids, but\nno one else seems to notice.\n6 An order of inquisitors or witch hunters hound\nyou wherever you travel, seeking to silence you\nand your discoveries forever.\nScholar of the Forbidden Trinkets. When you\nmake your character, you can roll once on the Scholar of\nthe Forbidden Trinkets table instead of on the normal\nstarting Trinkets table.\nScholar of the Forbidden Trinkets\n1d6 Trinket\n1 A broken fragment of a stone table carved with\nsymbols that seem to slither and writhe\n2 A desiccated bit of tentacle\n3 A small soapstone idol that always seems to\nend up in your pocket, bag, or otherwise on\nyour person\n4 A book bound in Humanoid skin with blank\npages that absorb ink or other pigments\n5 An alien eyeball floating in a jar of\npreservative fluid\n6 An antique amulet with indecipherable symbols,\nthat whispers at the edge of consciousness when worn"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Delving into the brittle pages of ancient tomes and\nweathered tablets carved with blasphemy, you have\nunearthed secrets of eldritch beings of unfathomable\nmight. Most of their meaning slips like whispers out of your grasp, but you have seized both forbidden\nknowledge and cursed power from them. The deeper\nyou plunge into depravity, the more certainty you feel\nthat you are not there alone."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Dread Speech (see page 114)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Arcana}, {@skill Intimidation}\nla nguag E: Choose one (Deep Speech recommended)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Calligrapher’s Supplies"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Calligrapher’s Supplies,\nBook (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3\nflasks), Paper (10 sheets), 2 GP",
+            "or (B) 50 GP\nBUILDING A SCHOLAR OF THE FORBIDDEN\nWizards and Warlocks make the most common scholars\nof the forbidden, but any character who stumbles onto\nthe dread truths waiting beneath the surface of reality\ncan find themselves walking the path",
+            "The secrets you unveil could threaten to destabilize any number of\npowerful beliefs and organizations, which makes you\ndangerous to them",
+            "Suggested Story Threads",
+            "The Scholar of the\nForbidden Story Threads table suggests events and\npeople who can be the start of story threads for your\ncharacter that weave through the campaign.Scholar of the Forbidden Story Threads\n1d6 Thread\n1 A wealthy patron paid you handsomely to\nresearch what led to your discoveries, and they\nwant what you found.\n2 When you spoke aloud the first secret word you\ndeciphered, you passed out and woke hours later to find your lips cracked and blackened.\n3 Something has been following you since you\nuncovered the illicit secrets",
+            "You sense it always behind you, drawing closer.\n4 Your shadow converses with you when you’re\nalone, acting as a debate partner and sounding board in your studies.\n5 The reflections of your eyes are black voids, but\nno one else seems to notice.\n6 An order of inquisitors or witch hunters hound\nyou wherever you travel, seeking to silence you\nand your discoveries forever",
+            "Scholar of the Forbidden Trinkets",
+            "When you\nmake your character, you can roll once on the Scholar of\nthe Forbidden Trinkets table instead of on the normal\nstarting Trinkets table",
+            "Scholar of the Forbidden Trinkets\n1d6 Trinket\n1 A broken fragment of a stone table carved with\nsymbols that seem to slither and writhe\n2 A desiccated bit of tentacle\n3 A small soapstone idol that always seems to\nend up in your pocket, bag, or otherwise on\nyour person\n4 A book bound in Humanoid skin with blank\npages that absorb ink or other pigments\n5 An alien eyeball floating in a jar of\npreservative fluid\n6 An antique amulet with indecipherable symbols,\nthat whispers at the edge of consciousness when worn"
+          ]
+        }
       ]
     },
     {
@@ -120,7 +660,211 @@
       "source": "TCM",
       "page": 61,
       "entries": [
-        "You know the ancient rites kept alive by secretive druids\nand hedge practitioners in the shadowed groves of the\nprimordial forests. Remedies and hexes woven into\nwicker charms can stave off misfortune and ward away evil. They could just as likely invite gloom and the ire of\nthe old spirits.\nF\nEa t: Charm Twister (see page 113)\nsk ill Pro F ici Enc i E s: {@skill Insight}, {@skill Nature}\nla nguag E: Sylvan\nto ol Pro F ici Enc y: Weaver’s T ools\nEqui PmEnt: Choose A or B: (A) Quarterstaff, Weaver’s\nT ools, Basket (with dry reeds ready to weave), Book\n(druidic lore), Iron Pot, Traveler’s Clothes, 19 GP; or\n(B) 50 GP\nBUILDING A WICKER WEAVER\nCompassionate characters driven by a deep connection to the land and a passion to protect it become wicker\nweavers. Druids of other circles might trade knowledge\nwith the Circle of Wicker. Healers and guardians alike may seek out the Old Ways for remedies and protective\ncharms to ward off evil. Not all who come to the wicker\ncraft do so with noble intent—some, broken by spite and\ntwisted by their pain, wield the power of the wicker into\nmalicious revenge, lashing out with curses bound in twig and bone and inflicting the wrath of the forest upon\nthose who wronged them.\nSuggested Story Threads. The Wicker Weaver Story\nThreads table suggests events and people who can be the start of story threads for your character that weave\nthrough the campaign.Wicker Weaver Story Threads\n1d6 Thread\n1 One of the charms you created ensured a baby\nwas born healthy, and their family sends you\nsmall but heartfelt gifts.\n2 Your mentor who taught you the craft\nhas become increasingly withdrawn and uncharacteristically agitated.\n3 An order of druids, the Circle of Wicker, taught\nyou their ways. You aren’t certain why.\n4 Someone offered you a shocking sum of coin to\ntwist a wicker charm for them. You’re tempted but unsettled by the unwarranted generosity.\n5 You traded a wicker charm for a child’s toy that\nbound misfortune to its owner. You must keep it until you can sell it, it’s stolen, or you lose it.\n6 You wove a hex into a wicker charm to punish a\ncriminal, and they nurse that grudge still.\nWicker Weaver Trinkets. When you make your\ncharacter, you can roll once on the Wicker Weaver\nTrinkets table instead of on the normal starting\nTrinkets table.\nWicker Weaver Trinkets\n1d6 Trinket\n1 A crescent woven from wicker and laced with\nsilver wire\n2 A glass bauble that was the first payment you\nreceived for your hedge wisdom\n3 A Tiny figure made of acorn caps from the oldest\noak in the woods\n4 A rough-forged knife with an etched blade\n5 A snake skull in a wicker cage\n6 A battered stuffed animal missing one eye"
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "You know the ancient rites kept alive by secretive druids\nand hedge practitioners in the shadowed groves of the\nprimordial forests. Remedies and hexes woven into\nwicker charms can stave off misfortune and ward away evil. They could just as likely invite gloom and the ire of\nthe old spirits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Feat",
+          "entries": [
+            "Charm Twister (see page 113)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Skill Proficiencies",
+          "entries": [
+            "{@skill Insight}, {@skill Nature}\nla nguag E: Sylvan"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Tool Proficiencies",
+          "entries": [
+            "Weaver’s T ools"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B: (A) Quarterstaff, Weaver’s\nT ools, Basket (with dry reeds ready to weave), Book\n(druidic lore), Iron Pot, Traveler’s Clothes, 19 GP",
+            "or\n(B) 50 GP\nBUILDING A WICKER WEAVER\nCompassionate characters driven by a deep connection to the land and a passion to protect it become wicker\nweavers",
+            "Druids of other circles might trade knowledge\nwith the Circle of Wicker",
+            "Healers and guardians alike may seek out the Old Ways for remedies and protective\ncharms to ward off evil",
+            "Not all who come to the wicker\ncraft do so with noble intent—some, broken by spite and\ntwisted by their pain, wield the power of the wicker into\nmalicious revenge, lashing out with curses bound in twig and bone and inflicting the wrath of the forest upon\nthose who wronged them",
+            "Suggested Story Threads",
+            "The Wicker Weaver Story\nThreads table suggests events and people who can be the start of story threads for your character that weave\nthrough the campaign.Wicker Weaver Story Threads\n1d6 Thread\n1 One of the charms you created ensured a baby\nwas born healthy, and their family sends you\nsmall but heartfelt gifts.\n2 Your mentor who taught you the craft\nhas become increasingly withdrawn and uncharacteristically agitated.\n3 An order of druids, the Circle of Wicker, taught\nyou their ways",
+            "You aren’t certain why.\n4 Someone offered you a shocking sum of coin to\ntwist a wicker charm for them",
+            "You’re tempted but unsettled by the unwarranted generosity.\n5 You traded a wicker charm for a child’s toy that\nbound misfortune to its owner",
+            "You must keep it until you can sell it, it’s stolen, or you lose it.\n6 You wove a hex into a wicker charm to punish a\ncriminal, and they nurse that grudge still",
+            "Wicker Weaver Trinkets",
+            "When you make your\ncharacter, you can roll once on the Wicker Weaver\nTrinkets table instead of on the normal starting\nTrinkets table",
+            "Wicker Weaver Trinkets\n1d6 Trinket\n1 A crescent woven from wicker and laced with\nsilver wire\n2 A glass bauble that was the first payment you\nreceived for your hedge wisdom\n3 A Tiny figure made of acorn caps from the oldest\noak in the woods\n4 A rough-forged knife with an etched blade\n5 A snake skull in a wicker cage\n6 A battered stuffed animal missing one eye"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feats",
+      "source": "TCM",
+      "page": 62,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "This section introduces feats that connect to the fol k h orror\nbackgrounds presented in chapter 4,though any character could take one\nof these with the GM’s permission.\nVARIANT: GENERALIZED ORIGIN FEATS\nOrigin feats are designed to be taken at level 1, which means they are overall less\npowerful than General feats, but that can also make them less appealing to select at higher levels. At the GM's discretion, characters who select an Origin feat at level\n4+ can add the following benefit to the feat."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ability Scores",
+          "entries": [
+            "Increase one ability score of your choice by 1, to a\nmaximum of 20."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Origin Feats",
+      "source": "TCM",
+      "page": 63,
+      "entries": [
+        "ALTERED\nOrigin Feat\nYou have been changed through\nmagic, science, or a volatile blend of\nthe two.",
+        "You have a blatant physical\naugmentation of your choice from the options below.",
+        "The augmentation is\nobvious—such as with stitches, grafts\nof other creature’s body parts, or\nimplants—unless disguised.",
+        "Aquatic Adaptation.",
+        "You have gills\nor mucus membranes that allow you to breathe water, and you have webbed extremities that grant you a Swim\nSpeed equal to your Speed.",
+        "Natural Armor.",
+        "You have scales, plates, or thick\nhide that grants you an AC of 13 + your Dexterity or Constitution modifier (choose the ability when you\nselect this feat).",
+        "Natural Weapons.",
+        "You have claws, fangs, horns,\nor some other natural weapon that you can use to make Unarmed Strikes that deal 1d8 damage on a hit.",
+        "The damage is Bludgeoning, Piercing, or Slashing as appropriate to the form.",
+        "Night Vision.",
+        "You have Darkvision with a range of 60\nfeet.",
+        "If you already have Darkvision, its range increases by 30 feet.",
+        "CHARM TWISTER\nOrigin Feat\nYou know hedge remedies and hexes passed down\nthrough Old Ways\nteachings, and you can impart them into small\nwicker charms you\nweave.",
+        "You gain the\nfollowing benefits.",
+        "Old Blessing.",
+        "You can cast the Bless spell once using\nthis benefit, targeting only creatures carrying a wicker charm you've woven, and you can’t do so again until\nyou finish a Long Rest.",
+        "You can also cast the spell using any spell slots you have.",
+        "Your spellcasting ability for\ncasting the spell in this way is Intelligence, Wisdom, or\nCharisma (choose the ability when you select this feat).",
+        "Twisted Hex.",
+        "As a Magic action, you can weave\nspite into a wicker charm you touch.",
+        "Choose an ability.",
+        "When another creature is carrying the charm, or while\nthis charm is within an area that the creature considers\nhome, it has Disadvantage on ability checks and attack rolls using the chosen ability.",
+        "When the creature fails one of these rolls, it can make a Charisma saving throw, destroying the charm on a success (DC = 8 plus your\nProficiency Bonus and the ability modifier you chose\nfor Old Blessing).",
+        "You can only have one Twisted Hex charm at a time.",
+        "If you make a new one, the previous\none loses its magic.",
+        "CRIMSON RITUALIST\nOrigin Feat\nYour study of blood magic\nand life force has borne\nfruit, granting you the\nfollowing benefits.",
+        "Blood Lash.",
+        "You learn the\n{@spell Blood Bolt} * cantrip.",
+        "Your\nspellcasting ability for it is Intelligence, Wisdom, or\nCharisma (choose the ability when you select this feat).",
+        "Bottled Life.",
+        "When you finish a Long Rest, you can\nperform a 1-minute ritual to transfer some of your life essence into a vessel for later use.",
+        "Expend a number of\nHit Point Dice up to your Proficiency Bonus, and bleed into a vial of water or other liquid.",
+        "As a Bonus Action,\na creature can drink the vial to roll the Hit Dice you\nexpended.",
+        "The creature regains a number of Hit Points\nequal to the total rolled plus its Constitution modifier.",
+        "The vial remains potent until you finish a Long Rest.",
+        "CULT INITIATE\nOrigin Feat\nYour cult instructs you in eldritch rites, granting you the following benefits.",
+        "Two Cantrips.",
+        "You learn two\ncantrips of your choice from the Warlock spell list.",
+        "Intelligence, Wisdom,\nor Charisma is your spellcasting ability\nfor this feat’s spells (choose the ability\nwhen you select this feat).",
+        "Level 1 Spell.",
+        "Choose a level 1 spell\nfrom the Warlock spell list.",
+        "You always have that spell prepared.",
+        "You can cast it\nonce without a spell slot, and you regain the ability to cast it in that way when\nyou finish a Short or Long Rest.",
+        "You can also cast the\nspell using any spell slots you have.",
+        "Spell Change.",
+        "Whenever you gain a new level, you\ncan replace one of the spells you chose for this feat with a different spell of the same level from the Warlock\nspell list."
+      ]
+    },
+    {
+      "name": "Dread Speech",
+      "source": "TCM",
+      "page": 64,
+      "entries": [
+        "Origin Feat\nYou have articulated a few words\nof forbidden truth that resonate\nwith—and fray—the fabric of\ncreation, granting you the following benefits.",
+        "Eldritch Word.",
+        "As a Bonus\nAction, you can speak a magical\nword aloud to force a creature\nwithin 60 feet of yourself to make a Wisdom saving throw (DC = 8\nplus your Proficiency Bonus and\nIntelligence, Wisdom, or Charisma modifier; choose the ability when\nyou select this feat).",
+        "On a failed\nsave, the target has the {@condition frightened}\ncondition until the start of your\nnext turn.",
+        "You can use this benefit safely once, and you regain the\nability to do so when you finish a\nShort or Long Rest.",
+        "You can use\nit again before resting, but you take 1d6 Necrotic damage,\nwhich can’t be reduced or prevented in any way.",
+        "Shred Fate.",
+        "Your dread secrets can unravel the destiny\nof your foes.",
+        "You always have the Bane  spell prepared,\nand your spellcasting ability for it is the ability you chose\nfor Eldritch Word.",
+        "You can cast it once without Material\ncomponents or a spell slot, and you regain the ability to\ncast it in that way when you finish a Long Rest.",
+        "You can also cast the spell using any spell slots you have.",
+        "FATE GAMBLER\nOrigin Feat\nComing out ahead, whether in games of chance or in life-or-death contention, fills you with resolve and vigor.",
+        "You gain the following benefits.",
+        "Bet Big.",
+        "If you don't already have it, you gain Heroic\nInspiration whenever you succeed on an ability check made against another creature, when you reduce a\ncreature to 0 Hit Points, or when a creature fails a\nsaving throw you forced it to make.",
+        "If, in any of these\ncases, the creature has a CR of 0 or lacks a CR\n(such as another player\ncharacter), you don’t gain Heroic Inspiration.",
+        "Win Big.",
+        "As a Bonus\nAction, you can expend\nyour Heroic Inspiration\nto gain a number of\nT emporary Hit Points\nequal to your level.GHOSTLIGHT MEDIUM\nOrigin Feat\nYou formed a mystical\nconnection to the\nGhostlight Express that\naffords you insight into the nature of spirits,\ngranting the following benefits.",
+        "Ghostly Touch.",
+        "When you damage a creature with\nthe Incorporeal Movement trait, you can ignore the\ncreature’s damage Resistances, if any.",
+        "Spirit Sense.",
+        "As a Bonus Action, you can sense any\nUndead within 60 feet of you, or any creatures in the Ethereal Plane that overlaps that area.",
+        "You learn the distance and direction to any creatures you detect (or an\nEthereal creature’s equivalent position on your plane).",
+        "Once you detect a creature with this benefit, you can’t\nuse it again until you finish a Short or Long Rest.",
+        "GRAVE KEEPER\nOrigin Feat\nStudying funeral rites and tending\nthe dead’s rest has made you a\nconduit between the worlds of the\nliving and the dead.",
+        "You gain the following benefits.",
+        "Divine Channel.",
+        "You gain one use\nof the Channel Divinity feature from\nthe Cleric class, and you can create the Turn Undead effect with it.",
+        "If you already have Channel Divinity, you add this use to the feature from one class of your choice.",
+        "Your save DC for this benefit is 8 plus your Wisdom\nmodifier and Proficiency Bonus.",
+        "Last Rites.",
+        "You can enact a 10-minute ritual to\nprepare the corpse of a Medium or smaller creature, expending at least 10 GP worth of incense, oils, linen\nwraps, or similar trappings.",
+        "The prepared corpse can’t\nbecome Undead.",
+        "HUNTER OF HUNTERS\nOrigin Feat\nYou are adept at hunting monstrous prey, granting you the following benefits.",
+        "Dead Aim.",
+        "As a Bonus Action, you\ncan scrutinize a creature to spot its vulnerable points.",
+        "The next time you\ndeal damage to the creature before the\nstart of your next turn, you ignore the\ncreature’s damage Resistances, if any.",
+        "Studied Quarry.",
+        "You have\nAdvantage on ability checks made to\nrecall information about a creature."
+      ]
+    },
+    {
+      "name": "Memory Starved",
+      "source": "TCM",
+      "page": 65,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Origin Feat\nYour mind ravenously gathers details\nand desperately clings to its memories\nand faculties, granting you the\nfollowing benefits.\nDesperate Detail. You have Advantage\non Intelligence ({@skill Investigation}) checks.\nIron Mind. You have Advantage on\nsaving throws made to avoid or end the {@condition charmed} condition and to avoid having your memories read or altered.\nREVELING FOOL\nOrigin Feat\nYou joined a troupe of madcap revelers and learned to take on the guise of a fool, channeling otherworldly\nlaughter and joviality. You gain the following benefits.\nFool’s Mask. By donning a jovial mask and a fool’s,\njester’s, or clown’s costume, you take on a new identity that hides\nyour own. In the guise of the fool,\nyou can get away with minor\ntransgressions against people in positions of authority\nor station.Jester’s Repartee. You always have the Hideous\nLaughter spell prepared, and your spellcasting ability for it\nis Intelligence, Wisdom, or Charisma (choose the ability\nwhen you select this feat). You can cast it once without\nMaterial components or a spell slot, and you regain the\nability to cast it in that way when you finish a Long Rest.\nYou can also cast the spell using any spell slots you have.\nUNREFLECTED\nOrigin Feat\nYour image is separated\nfrom you,\nmaking you unable to cast a reflection or a shadow, but you're able to easily slip notice. You gain the\nfollowing benefits.\nInscrutable. Creatures have Disadvantage on\nWisdom ({@skill Insight}) checks made against you.\nUnremarkable. The loss of some part of yourself\nleaves you able to fade into the background. While you are within a group of at least two other creatures\nof your type and that there are no more than one size larger or smaller than you, you can take the Hide action\nfrom creatures outside that group by making a Charisma\n({@skill Deception}) check instead of Dexterity ({@skill Stealth}), with\nno need for being behind cover or Heavily Obscured.\nIf you are ever more than 5 feet from at least two other such creatures while hiding this way, you are revealed.\nGENERAL FEATS\nDEATH DEFIER\nGeneral Feat (Prerequisite: Level 4+)\nWhen the hand of death reaches for your soul, you have found a way to reject its call. You gain the\nfollowing benefits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ability Scores",
+          "entries": [
+            "Increase your Constitution\nscore by 1, to a maximum of 20",
+            "Cling to Life",
+            "You add your Constitution modifier\n(minimum of 1) to Death Saving Throws",
+            "Enduring Vitality",
+            "If an effect would\nkill you outright without Death Saving\nThrows or would reduce you directly to\n0 Hit Points without dealing damage, you\nare instead reduced to a number of Hit\nPoints equal to your level",
+            "You can’t use this\nbenefit again until you finish a Long Rest.SWIFT WITCHCRAFT\nGeneral Feat (Prerequisite: Level 4+, Spellcasting or Pact\nMagic Feature)\nYou have honed your skills in the rituals of witchcraft and can quickly weave your\nmagic in times of need",
+            "You gain the\nfollowing benefits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ability Scores",
+          "entries": [
+            "Increase your\nIntelligence, Wisdom, or Charisma score by 1, to a maximum of 20",
+            "Swift Invocation",
+            "You can use an\naction to cast a spell that has a casting\ntime of 1 minute",
+            "Once you use this\nbenefit, you can’t do so again until you finish a Long Rest."
+          ]
+        }
       ]
     }
   ]
