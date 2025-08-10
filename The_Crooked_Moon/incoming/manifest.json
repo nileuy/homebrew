@@ -1,0 +1,15 @@
+{
+  "name": "The Crooked Moon — 5eTools Data (Player)",
+  "id": "tcm-player",
+  "version": "1.0.1",
+  "files": [
+    "data/tcm/subclasses.json",
+    "data/tcm/backgrounds.json",
+    "data/tcm/feats.json",
+    "data/tcm/spells.json",
+    "data/tcm/sources.json"
+  ],
+  "sources": [
+    "TCM"
+  ]
+}

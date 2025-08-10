@@ -1,0 +1,1973 @@
+{
+  "spell": [
+    {
+      "name": "Ancestral Communion",
+      "source": "TCM",
+      "level": 1,
+      "school": "D",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood Bolt",
+      "source": "TCM",
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood Sacrifice",
+      "source": "TCM",
+      "level": 2,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a drop of your own blood"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buried Alive",
+      "source": "TCM",
+      "level": 4,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a pinch of grave dirt"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Call of the Wild",
+      "source": "TCM",
+      "level": 4,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a bit of animal fur or hide"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Captivate Undead",
+      "source": "TCM",
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a pinch of bone dust"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chain of Conviction",
+      "source": "TCM",
+      "level": 2,
+      "school": "C",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": false,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chorus of the Lost",
+      "source": "TCM",
+      "level": 2,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a silver bell worth 10+ GP"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Consuming Pyre",
+      "source": "TCM",
+      "level": 4,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Creeping Rot",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crimson Harvest",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a vial of blood"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crooked Ward",
+      "source": "TCM",
+      "level": 3,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a five-pointed wicker star"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Culling Sickle",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cursed Cacophony",
+      "source": "TCM",
+      "level": 3,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": true,
+        "mMaterial": "a sheet of music"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Devil's Due",
+      "source": "TCM",
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction",
+          "condition": "which you take when another creature within range takes damage"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": true,
+        "mMaterial": "a glob of pitch"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dissolution",
+      "source": "TCM",
+      "level": 0,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Eye Burn",
+      "source": "TCM",
+      "level": 0,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction",
+          "condition": "which you take when a creature you can see within range targets you with an attack"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a smear of camphor"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "rounds",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Field of Reaping",
+      "source": "TCM",
+      "level": 5,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a dried corn husk or wheat hull"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghastly Charge",
+      "source": "TCM",
+      "level": 6,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a scrap of a banner"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harvest Moonglow",
+      "source": "TCM",
+      "level": 3,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a piece of moonstone"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harrowing Ballad",
+      "source": "TCM",
+      "level": 2,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hungering Blade",
+      "source": "TCM",
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Intrusive Despair",
+      "source": "TCM",
+      "level": 4,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a devil’s trumpet blossom"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isolation",
+      "source": "TCM",
+      "level": 3,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a small metal cube"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lucky Charm",
+      "source": "TCM",
+      "level": 5,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a four-leaf clover and a shard of broken mirror"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Martyr",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a Dagger worth at least 1 CP"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mirrored Agony",
+      "source": "TCM",
+      "level": 5,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction",
+          "condition": "which you take when a creature you can see within 60 feet of you damages your ally"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a pin or needle"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mist of Mourning",
+      "source": "TCM",
+      "level": 3,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a vial of tears"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Murder of Crows",
+      "source": "TCM",
+      "level": 4,
+      "school": "C",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a crow feather"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mysterious Presence",
+      "source": "TCM",
+      "level": 0,
+      "school": "I",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Puppet Master",
+      "source": "TCM",
+      "level": 4,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a marionette string"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sacrificial Siphon",
+      "source": "TCM",
+      "level": 4,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": false,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sanctum of the Shepherd",
+      "source": "TCM",
+      "level": 4,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "minute"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "adamantine or diamond powder worth 200+ GP, which the spell consumes"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 24
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sanctum of the Flock",
+      "source": "TCM",
+      "level": 3,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "minute"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "powdered silver worth 25+ GP, which the spell consumes"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 24
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sanguine Secrets",
+      "source": "TCM",
+      "level": 2,
+      "school": "D",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a drop of blood, which the spell consumes"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "rounds",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scarlet Dawn",
+      "source": "TCM",
+      "level": 3,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shadow Drain",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Summer Winds",
+      "source": "TCM",
+      "level": 2,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Unraveling Whisper",
+      "source": "TCM",
+      "level": 2,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "rounds",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Veil of the Reaper",
+      "source": "TCM",
+      "level": 2,
+      "school": "I",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a dried corn husk or wheat straw"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    }
+  ]
+}
