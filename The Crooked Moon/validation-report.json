@@ -1,0 +1,148 @@
+{
+  "counts": {
+    "spell": 38,
+    "background": 13,
+    "feat": 12,
+    "race": 13,
+    "subclass": 15,
+    "subclassFeature": 69,
+    "subclassSpells": 7
+  },
+  "dupes": {
+    "spell": [],
+    "race": [],
+    "background": [],
+    "feat": [],
+    "subclass": [],
+    "subclassFeature": [
+      {
+        "name": "Whistles 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Whistles 6",
+        "source": "TCM"
+      },
+      {
+        "name": "Harvest Domain 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Harvest Domain 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Harvest Domain 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Old Ways 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Old Ways 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Wicker 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Wicker 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Warrior of the Pestilent Haze 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Warrior of the Pestilent Haze 6",
+        "source": "TCM"
+      },
+      {
+        "name": "Castigation 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Grim Harbinger 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Crimson Sorcery 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Crimson Sorcery 6",
+        "source": "TCM"
+      },
+      {
+        "name": "Great Fool 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Horned King 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Horned King 3",
+        "source": "TCM"
+      },
+      {
+        "name": "Occultist 3",
+        "source": "TCM"
+      }
+    ]
+  },
+  "missing_required": {
+    "spell": [
+      {
+        "name": "Self-Serving Sacrifice",
+        "missing": [
+          "components"
+        ]
+      },
+      {
+        "name": "Shrouded Spirit",
+        "missing": [
+          "components"
+        ]
+      },
+      {
+        "name": "Skin Of Coffin Nails",
+        "missing": [
+          "components"
+        ]
+      },
+      {
+        "name": "Stilled Hungers",
+        "missing": [
+          "components"
+        ]
+      },
+      {
+        "name": "Unquenchable Fury",
+        "missing": [
+          "components"
+        ]
+      },
+      {
+        "name": "Wings Of Whispers",
+        "missing": [
+          "components"
+        ]
+      }
+    ],
+    "race": [],
+    "background": [],
+    "feat": [],
+    "subclass": [],
+    "subclassFeature": []
+  },
+  "subclassFeature_refs": {
+    "missing": [],
+    "orphans": []
+  },
+  "subclassSpells_checks": {
+    "homebrew_names_missing": {}
+  }
+}
