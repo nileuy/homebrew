@@ -4,15 +4,12 @@
 			{
 				"json": "TCM",
 				"abbreviation": "TCM",
-				"full": "The Crooked Moon - Player Options (2024)",
-				"convertedBy": [
-					"5eTools Converter (ChatGPT)"
-				],
+				"full": "The Crooked Moon — Player (Homebrew)",
 				"author": [
 					"NiLe.Uy"
 				],
-				"dateAdded": 1754794800,
-				"version": "1.0.0"
+				"version": "1.0.4",
+				"dateAdded": 1754794800
 			}
 		]
 	},
