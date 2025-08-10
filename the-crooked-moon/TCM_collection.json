@@ -1,0 +1,5968 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "TCM",
+        "abbreviation": "TCM",
+        "full": "The Crooked Moon — Player PDF (2024)",
+        "authors": [
+          "Worlds Beyond Number"
+        ],
+        "version": "1.0"
+      }
+    ],
+    "edition": "classic",
+    "dateAdded": 1754795568,
+    "dateLastModified": 1754795568
+  },
+  "subclass": [
+    {
+      "name": "Path of the Experiment",
+      "shortName": "Experiment",
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "College of Whistles",
+      "shortName": "Whistles",
+      "className": "Bard",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Harvest Domain",
+      "shortName": "Harvest",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Circle of the Old Ways",
+      "shortName": "Old Ways",
+      "className": "Druid",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Circle of Wicker",
+      "shortName": "Wicker",
+      "className": "Druid",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Barrow Guard",
+      "shortName": "Barrow Guard",
+      "className": "Fighter",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Warrior of the Pestilent Haze",
+      "shortName": "Pestilent Haze",
+      "className": "Monk",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Oath of Castigation",
+      "shortName": "Castigation",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Grim Harbinger",
+      "shortName": "Grim Harbinger",
+      "className": "Ranger",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Sinner",
+      "shortName": "Sinner",
+      "className": "Rogue",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Crimson Sorcery",
+      "shortName": "Crimson Sorcery",
+      "className": "Sorcerer",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Great Fool Patron",
+      "shortName": "Great Fool",
+      "className": "Warlock",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Horned King Patron",
+      "shortName": "Horned King",
+      "className": "Warlock",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Occultist",
+      "shortName": "Occultist",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "source": "TCM"
+    },
+    {
+      "name": "Philosopher",
+      "shortName": "Philosopher",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "source": "TCM"
+    }
+  ],
+  "subclassFeature": [
+    {
+      "name": "Death Knight",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Barrow Guard",
+      "subclassSource": "TCM",
+      "entries": [
+        "You house within you the remnants of long‑departed souls, channeling necromantic force as Draugr Dice that fuel your powers. The Barrow Guard Draugr Dice table shows the die size and number of dice you have as you gain Fighter levels. Some powers expend a Draugr Die; you can’t use such a power if you have no dice left. You regain one expended Draugr Die when you finish a Short Rest and all expended dice when you finish a Long Rest. Your power save DC equals 8 + your Constitution modifier + your Proficiency Bonus.\n\n**Draugr Dice (Barrow Guard)** — Fighter 3: 4d6; 5: 6d8; 9: 8d8; 11: 8d10; 13: 10d10; 17: 12d12.\n\n**Dark Rider.** As a Bonus Action, you manifest a ghostly Undead steed (Warhorse statistics; Resistance to bludgeoning, piercing, and slashing; can only Dash/Disengage/Dodge). When it Dashes, you can expend and roll a Draugr Die; during that movement its Speed increases by 5 × the number rolled. The steed lasts 1 hour, or until reduced to 0 HP, or you are Incapacitated, or you die. Once you create the steed, you can’t do so again until a Short or Long Rest, unless you expend a Draugr Die (no action) to restore the use.\n\n**Grave Guard.** When you take damage, you can take a Reaction to expend and roll a Draugr Die, reducing the damage by the number rolled + your Constitution modifier.\n\n**Soul Reaper.** When you take the Attack action, you can forgo one attack to call forth ghostly hands around a creature within 60 feet. Expend and roll a Draugr Die; the target makes a Strength save. On a failed save, it takes Necrotic damage equal to the number rolled + your Constitution modifier and is Grappled (escape DC = your power save DC) for 1 minute. On a success, it takes half damage only."
+      ]
+    },
+    {
+      "name": "Siphoning Souls",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "PHB",
+      "level": 7,
+      "subclassShortName": "Barrow Guard",
+      "subclassSource": "TCM",
+      "entries": [
+        "**Mortal Coil.** When a non‑Construct, non‑Undead enemy within 30 feet dies, you can take a Reaction to regain one expended Draugr Die.\n\n**Whisper of the Departed.** When you make an ability check, you can expend and roll a Draugr Die and add the number rolled to the total."
+      ]
+    },
+    {
+      "name": "Tomb Castellan",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Barrow Guard",
+      "subclassSource": "TCM",
+      "entries": [
+        "Your Death Knight powers improve:\n\n**Phantom Charger.** Your Dark Rider steed ignores Difficult Terrain. When the steed takes the Dash, Disengage, or Dodge action, you can expend and roll a Draugr Die to magically teleport it (and you if mounted) to an unoccupied space you can see within 60 feet. Each creature of your choice within 10 feet of where it appears must make a Constitution save, taking Necrotic damage equal to the number rolled + your Constitution modifier on a failed save, or half as much on a success.\n\n**Death Knell.** When you use Grave Guard in response to taking damage, the source of that damage takes Psychic damage equal to half the amount reduced by Grave Guard.\n\n**Spectral Shrieking.** When a creature Grappled by your Soul Reaper starts its turn, it takes Psychic damage equal to your Proficiency Bonus. When it does, you can take a Reaction to expend and roll a Draugr Die, adding the roll to the damage."
+      ]
+    },
+    {
+      "name": "Grave Lord",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "PHB",
+      "level": 15,
+      "subclassShortName": "Barrow Guard",
+      "subclassSource": "TCM",
+      "entries": [
+        "**On a Pale Horse.** When you use Dark Rider, you can allow one creature of your choice to mount the steed in addition to you. When you expend a Draugr Die during the steed’s Dash, it (and any riders) can move through creatures and solid objects as if they were Difficult Terrain. If it ends its turn inside an object, it and any riders take 1d10 Force damage and are shunted to the nearest unoccupied space.\n\n**Sepulchral Shield.** When you use Grave Guard, choose one of the triggering damage types; you have Resistance to that type (including the triggering damage) until the start of your next turn.\n\n**Death Grip.** A creature Grappled by your Soul Reaper is also Restrained until the grapple ends."
+      ]
+    },
+    {
+      "name": "Might of the Necropolis",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "PHB",
+      "level": 18,
+      "subclassShortName": "Barrow Guard",
+      "subclassSource": "TCM",
+      "entries": [
+        "**Eternal Vigil.** You no longer suffer the effects of aging, can’t be magically aged, and don’t die of old age. You no longer require air, food, drink, or sleep.\n\n**Restless Dead.** When you roll Initiative, if you have fewer than 3 Draugr Dice, you regain expended dice until you have 3."
+      ]
+    },
+    {
+      "name": "Oath of Castigation Tenets",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        "**Burn away all doubt in pursuit of duty.**\n**Purge the wicked and corrupt; spare the innocent.**\n**Sin is forgiven through suffering equal to the pain it inflicted.**"
+      ]
+    },
+    {
+      "name": "Channel Divinity: Castigate",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        "As a Magic action, expend Channel Divinity to shackle foes in cleansing fire. Choose creatures up to your Charisma modifier (minimum 1) within 30 feet. Each target makes a Strength save or is wrapped in fiery shackles and its Speed is reduced to 0. As a Bonus Action, you can flare the shackles, dealing 2d6 Fire damage to each shackled creature. A shackled creature repeats the save at the end of each of its turns, ending the effect on a success. After 1 minute, it succeeds automatically."
+      ]
+    },
+    {
+      "name": "Channel Divinity: Incite",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        "As a Magic action, expend Channel Divinity to sharpen your judgment. For 10 minutes, you have Advantage on Intelligence (Investigation) and Wisdom (Insight) checks. During that time, you can take a Bonus Action to force a creature within 10 feet to make a Charisma save or be Frightened for 1 minute. While Frightened this way, the target can’t speak a deliberate lie. The effect ends early if the target takes any damage or if you use this Bonus Action again."
+      ]
+    },
+    {
+      "name": "Oath of Castigation Spells",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "table",
+          "colLabels": [
+            "Paladin Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Divine Favor, Inflict Wounds"
+            ],
+            [
+              "5",
+              "Chain of Conviction (TCM), Hold Person"
+            ],
+            [
+              "9",
+              "Counterspell, Speak with Dead"
+            ],
+            [
+              "13",
+              "Consuming Pyre (TCM), Locate Creature"
+            ],
+            [
+              "17",
+              "Flame Strike, Hold Monster"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kindling Aura",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 7,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        "You and allies within your Aura of Protection ignore Resistance to Fire and Radiant damage. When an affected creature hits with a weapon attack, it can deal Fire damage instead of the weapon’s normal type. In addition, you and affected creatures in the aura add your Charisma modifier (minimum +1) to Intelligence (Investigation) and Wisdom (Insight) checks."
+      ]
+    },
+    {
+      "name": "Fervent Inquisitor",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 15,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        "When a creature damages you or an ally within 30 feet that you can see, you can take a Reaction to gain Advantage on your next attack roll against that creature. Additionally, whenever you deal Fire or Radiant damage to a Bloodied creature, you instantly become aware of any deliberate lies it has told you in the past 24 hours."
+      ]
+    },
+    {
+      "name": "Fire and Brimstone",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "level": 20,
+      "subclassShortName": "Castigation",
+      "subclassSource": "TCM",
+      "entries": [
+        "As a Bonus Action, you embody cleansing flame for 10 minutes or until you end it (no action). Once used, you can’t use it again until a Long Rest, or you can restore it by expending a 5th‑level spell slot (no action). While active, you gain the following benefits:\n\n**Blazing Ardor.** You have Immunity to Fire damage.\n\n**Relentless Judgment.** Your fiery lashes extend your reach by 10 feet, and your melee attacks ignore Half and Three‑Quarters Cover.\n\n**Punish the Wicked.** When you hit with an Opportunity Attack, or when a Hostile creature ends its turn within your reach, the creature must make a Charisma save or fall Prone and have its Speed reduced to 0 until the start of its next turn."
+      ]
+    },
+    {
+      "name": "Grim Harbinger Spells",
+      "className": "Ranger",
+      "subclassShortName": "Grim Harbinger",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "When you reach certain Ranger levels, you always have the listed spell prepared.",
+        {
+          "type": "table",
+          "caption": "Grim Harbinger Spells",
+          "colLabels": [
+            "Ranger Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell bane}"
+            ],
+            [
+              "5",
+              "{@spell hold person}"
+            ],
+            [
+              "9",
+              "{@spell fear}"
+            ],
+            [
+              "13",
+              "{@spell intrusive despair|TCM}"
+            ],
+            [
+              "17",
+              "{@spell dream}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Omen of Doom",
+      "className": "Ranger",
+      "subclassShortName": "Grim Harbinger",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "As a Bonus Action, target a creature you can see within 90 feet and magically seal its doom for 1 hour. Once per turn when you hit the doomed target with an attack, it takes an extra 1d6 necrotic damage.",
+        "A ghostly guardian spirit called a {@i grim} appears in an unoccupied space within 30 feet of the target. The grim is friendly to you and your allies and obeys your commands. It vanishes if you die, when the doomed creature dies, when it is reduced to 0 hit points, or when you use this feature again.",
+        "You can use this feature a number of times equal to your Wisdom modifier (minimum of once), regaining all expended uses when you finish a Short or Long Rest. You can also expend a spell slot to restore an expended use (no action required).",
+        {
+          "type": "entries",
+          "name": "The Grim in Combat",
+          "entries": [
+            "In combat, the grim acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also command it as part of the Bonus Action you take to use Omen of Doom, or you can sacrifice one of your attacks when you take the Attack action to command the grim to take the Ominous Rend action. If you are incapacitated, the grim acts on its own and is not limited to the Dodge action."
+          ]
+        },
+        {
+          "type": "inset",
+          "name": "Grim",
+          "entries": [
+            "**Medium undead, neutral**",
+            "**AC** 13 + your Wisdom modifier; **HP** 5 + five times your Ranger level (the grim has a number of Hit Dice [d8s] equal to your Ranger level); **Speed** 40 ft.",
+            "**STR** 16 (+3), **DEX** 16 (+3), **CON** 14 (+2), **INT** 14 (+2), **WIS** 10 (+0), **CHA** 10 (+0)",
+            "**Immunities** necrotic; frightened, grappled, petrified, poisoned, prone, restrained",
+            "**Senses** darkvision 60 ft., passive Perception 10; **Languages** understands the languages you know; **CR** — (PB equals your proficiency bonus)",
+            {
+              "type": "entries",
+              "name": "Traits",
+              "entries": [
+                {
+                  "type": "entries",
+                  "name": "Incorporeal Movement",
+                  "entries": [
+                    "The grim can move through other creatures and objects as if they were difficult terrain. It takes 1d10 force damage if it ends its turn inside an object."
+                  ]
+                },
+                {
+                  "type": "entries",
+                  "name": "Shared Fate",
+                  "entries": [
+                    "Add your proficiency bonus to any ability check or saving throw the grim makes."
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Actions",
+              "entries": [
+                {
+                  "type": "entries",
+                  "name": "Ominous Rend",
+                  "entries": [
+                    "Melee Attack: attack bonus equals your spell attack modifier, reach 5 ft.; Hit: 1d6 + 3 + your Wisdom modifier necrotic damage, and if the target is a creature, it is frightened until the start of your next turn."
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Reactions",
+              "entries": [
+                {
+                  "type": "entries",
+                  "name": "Baleful Howl",
+                  "entries": [
+                    "Trigger: A creature moves out of the grim’s reach. The triggering creature must succeed on a Wisdom saving throw against your spell save DC or its Speed is 0 until the end of the turn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of Doom",
+      "className": "Ranger",
+      "subclassShortName": "Grim Harbinger",
+      "level": 7,
+      "source": "TCM",
+      "entries": [
+        "Your control over doom grows stronger.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Graveyard Hunter.",
+              "entry": "The grim’s Ominous Rend deals an extra 1d6 necrotic damage on a hit."
+            },
+            {
+              "type": "item",
+              "name": "Mortal Reminder.",
+              "entry": "When you deal damage to a creature doomed by your Omen of Doom, you can change the damage type to necrotic."
+            },
+            {
+              "type": "item",
+              "name": "Mounting Dread.",
+              "entry": "Necrotic damage dealt by you or the grim ignores resistance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grave Bond",
+      "className": "Ranger",
+      "subclassShortName": "Grim Harbinger",
+      "level": 11,
+      "source": "TCM",
+      "entries": [
+        "You draw deeper strength from the grave.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Ghastly Hound.",
+              "entry": "The grim gains resistance to bludgeoning, piercing, and slashing damage."
+            },
+            {
+              "type": "item",
+              "name": "Grave Fortitude.",
+              "entry": "You gain resistance to necrotic damage."
+            },
+            {
+              "type": "item",
+              "name": "Inescapable Fate.",
+              "entry": "When the target of your Omen of Doom succeeds on a saving throw, you can take a Reaction to force it to reroll with disadvantage and use the new roll. Once you cause a save to fail with this benefit, you can’t use it again until the current Omen of Doom ends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sealed Fate",
+      "className": "Ranger",
+      "subclassShortName": "Grim Harbinger",
+      "level": 15,
+      "source": "TCM",
+      "entries": [
+        "Your Omen of Doom reaches its peak.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Jaws of Doom.",
+              "entry": "The grim’s Ominous Rend deals an extra 1d6 necrotic damage (total 2d6 extra)."
+            },
+            {
+              "type": "item",
+              "name": "Marked for Death.",
+              "entry": "When you use Omen of Doom, you can force the target to make a Charisma saving throw against your spell save DC. On a failure, until the current Omen of Doom ends, the target has vulnerability to damage dealt by the grim and to the extra damage you deal with Omen of Doom. Once used, you can’t use this again until you finish a Long Rest, unless you expend a 4th-level or higher spell slot to restore it (no action required)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hex Slinger",
+      "className": "Rogue",
+      "subclassShortName": "Sinner",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "When you deal damage to a creature with your Sneak Attack, you can unleash Jinxcraft. Before rolling Sneak Attack dice, designate two of the dice. The total on those dice determines the jinx from the Hex Slinger Jinxes table. Uses equal to your Charisma modifier (minimum 1); you regain all expended uses when you finish a Short Rest.",
+        {
+          "type": "table",
+          "caption": "Hex Slinger Jinxes",
+          "colLabels": [
+            "2d6",
+            "Jinx"
+          ],
+          "rows": [
+            [
+              "2",
+              "Snake Eyes. On the target’s next turn, it can only do one: move or take an action or a Bonus Action. If it targets you or your allies with an attack on that turn, it takes 2d6 psychic damage."
+            ],
+            [
+              "3–4",
+              "The Nightmare. The target is frightened until the end of its next turn and must immediately use its Reaction to move as far as it can away from you, up to its Speed."
+            ],
+            [
+              "5–6",
+              "Whiskey Bottle. The target drops anything it’s holding. Until the end of its next turn, when the target picks up an item, it must succeed on a DC 15 Dexterity save or drop it immediately."
+            ],
+            [
+              "7",
+              "Cheap Shot. Until the end of its next turn, the target’s Speed is halved, and attack rolls against it have advantage."
+            ],
+            [
+              "8–9",
+              "Withered Arm. Until the end of its next turn, the target has disadvantage on d20 Tests that rely on Strength."
+            ],
+            [
+              "10–11",
+              "Bad Luck. Until the end of its next turn, when the target makes an attack roll or a saving throw, it subtracts 1d6 from the total."
+            ],
+            [
+              "12",
+              "Dead Man. If the next attack roll you make before the end of your next turn misses, it hits instead. If that first attack roll hits, the attack is a critical hit; on a natural 20, roll the attack’s damage dice three times instead of twice."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Get Jinxed",
+      "className": "Rogue",
+      "subclassShortName": "Sinner",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "You learn the secret art of Jinxcrafting—drawing power from dark deeds and deals of sin. You gain the following benefits:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Cards and Bones.",
+              "entry": "You gain proficiency with two gaming sets of your choice (playing cards and dice recommended)."
+            },
+            {
+              "type": "item",
+              "name": "Jinx Weapon.",
+              "entry": "As a 1-hour ritual using a gaming set, you magically create a jinx weapon that channels your Jinxcraft. It takes the form of a pistol or a gaming set (which uses pistol statistics). For you, the jinx weapon ignores the Loading property and creates its own ammunition that deals force damage. In gaming set form, you throw cards, dice, or other pieces, or loose bolts of hex magic. Alternatively, you can imbue Jinxcraft into a a simple or martial weapon you are proficient with; it then deals force damage instead of its normal type. If you create a second jinx weapon, the first vanishes or its Jinxcraft ends."
+            },
+            {
+              "type": "item",
+              "name": "Parlor Trick.",
+              "entry": "You learn one cantrip: {@spell dancing lights}, {@spell mage hand}, {@spell minor illusion}, {@spell mysterious presence|TCM}, or {@spell prestidigitation}. Charisma is your spellcasting ability for it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Borrowed Luck",
+      "className": "Rogue",
+      "subclassShortName": "Sinner",
+      "level": 9,
+      "source": "TCM",
+      "entries": [
+        "When you use Hex Slinger, you siphon a sliver of the target’s luck. You gain Heroic Inspiration if you don’t already have it. If you do, you can expend your Heroic Inspiration instead of expending a use of Hex Slinger."
+      ]
+    },
+    {
+      "name": "Pick Your Poison",
+      "className": "Rogue",
+      "subclassShortName": "Sinner",
+      "level": 13,
+      "source": "TCM",
+      "entries": [
+        "When you use Hex Slinger, you can roll the designated Sneak Attack dice twice and choose which total to use. If the chosen roll shows the same number on both dice, the target takes psychic damage equal to half your level. If the chosen roll is a 2 or a 12, you don’t expend that use of Hex Slinger."
+      ]
+    },
+    {
+      "name": "The Other Side",
+      "className": "Rogue",
+      "subclassShortName": "Sinner",
+      "level": 17,
+      "source": "TCM",
+      "entries": [
+        "You can call on your otherworldly friends to change the odds in your favor.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Crossroads Devilry.",
+              "entry": "When you miss with an attack roll or fail a saving throw, you can expend and roll any number of your Sneak Attack dice (choose before you roll) and add the total to the attack roll or save."
+            },
+            {
+              "type": "item",
+              "name": "Lady Luck’s Smiling.",
+              "entry": "When a creature hits you with an attack roll, you can expend and roll any number of your Sneak Attack dice (choose before you roll) and add the total to your AC against that attack, potentially causing it to miss."
+            }
+          ]
+        },
+        "Expended dice from these benefits return after you next use your Sneak Attack."
+      ]
+    },
+    {
+      "name": "Great Fool Spells",
+      "className": "Warlock",
+      "subclassShortName": "Great Fool",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "You always have these spells prepared at the Warlock levels shown.",
+        {
+          "type": "table",
+          "caption": "Great Fool Spells",
+          "colLabels": [
+            "Warlock Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell disguise self}, {@spell hideous laughter|tce|Tasha's Hideous Laughter}, {@spell rope trick}, {@spell spiritual weapon}, {@spell vicious mockery}"
+            ],
+            [
+              "5",
+              "{@spell blink}, {@spell stinking cloud}"
+            ],
+            [
+              "7",
+              "{@spell phantasmal killer}, {@spell puppet master|TCM}"
+            ],
+            [
+              "9",
+              "{@spell arcane hand}, {@spell mislead}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Killing Joke",
+      "className": "Warlock",
+      "subclassShortName": "Great Fool",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "When a creature you can see within 60 feet takes damage or fails a saving throw, you can take a Reaction to cast {@spell vicious mockery} on that creature. Uses equal to your Charisma modifier (minimum once). You regain one expended use when you finish a Short Rest, and all expended uses when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Jester’s Japes",
+      "className": "Warlock",
+      "subclassShortName": "Great Fool",
+      "level": 6,
+      "source": "TCM",
+      "entries": [
+        "As a Magic action, target a creature within 60 feet. It must succeed on a Charisma saving throw against your spell save DC or suffer one of the following curses (your choice) for 1 minute:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Flower Spurt.",
+              "entry": "The target is {@condition blinded}."
+            },
+            {
+              "type": "item",
+              "name": "Clown Shoes.",
+              "entry": "The target’s Speed is halved, and it has disadvantage on Dexterity ability checks and saving throws."
+            },
+            {
+              "type": "item",
+              "name": "Honk Honk.",
+              "entry": "The target emits audible sounds with every movement (audible out to 100 feet) and can’t benefit from the Invisible condition."
+            },
+            {
+              "type": "item",
+              "name": "Jolly Arms.",
+              "entry": "The target’s weapons and unarmed strikes appear comical; it deals half damage with weapon attacks and unarmed strikes."
+            }
+          ]
+        },
+        "The target repeats the saving throw at the end of each of its turns, ending the curse on a success. Once you use this feature, you can’t use it again until you finish a Short or Long Rest."
+      ]
+    },
+    {
+      "name": "Mocking Banter",
+      "className": "Warlock",
+      "subclassShortName": "Great Fool",
+      "level": 10,
+      "source": "TCM",
+      "entries": [
+        "When a creature damages you, you can take a Reaction to force it to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes psychic damage equal to the triggering damage you took, or half as much on a success. Once you use this Reaction, you can’t use it again until you finish a Short or Long Rest."
+      ]
+    },
+    {
+      "name": "Send in the Clowns",
+      "className": "Warlock",
+      "subclassShortName": "Great Fool",
+      "level": 14,
+      "source": "TCM",
+      "entries": [
+        "As a Magic action, summon three ghostly jesters and make up to three melee spell attacks against creatures within 60 feet. On a hit, a target takes 2d10 psychic damage and either has the frightened condition until the end of its next turn or the prone condition (your choice). You can use your action on subsequent turns to repeat the attacks. The fools remain for 1 minute or until you are incapacitated or die. Once you use this feature, you can’t do so again until you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Horned King Spells",
+      "className": "Warlock",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "You always have these spells prepared at the Warlock levels shown.",
+        {
+          "type": "table",
+          "caption": "Horned King Spells",
+          "colLabels": [
+            "Warlock Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell animal friendship}, {@spell bane}, {@spell spike growth}, {@spell suggestion}"
+            ],
+            [
+              "5",
+              "{@spell bestow curse}, {@spell fly}"
+            ],
+            [
+              "7",
+              "{@spell phantasmal killer}, {@spell polymorph}"
+            ],
+            [
+              "9",
+              "{@spell dominate person}, {@spell scrying}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Witch Mark",
+      "className": "Warlock",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "When you finish a Long Rest, you can imbue magic into a nonmagical Tiny object you’re holding. Choose one of your prepared Warlock spells with a casting time of an action. A creature holding the marked object can take a Magic action to cast the spell (using your Charisma, spell attack bonus, and spell save DC). The mark fades when the spell is cast from it or when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Malediction",
+      "className": "Warlock",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "source": "TCM",
+      "entries": [
+        "As a Magic action, curse a creature you can see within 60 feet until the end of its next turn, or use a Reaction when a creature within range targets you with an attack roll or a spell to apply a curse. Uses equal to your Charisma modifier (minimum once); you regain all expended uses when you finish a Long Rest.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Agony.",
+              "entry": "The target has disadvantage on its next attack roll or on its next Constitution saving throw to maintain concentration (your choice)."
+            },
+            {
+              "type": "item",
+              "name": "Hate.",
+              "entry": "The target has disadvantage on its next Intelligence, Wisdom, or Charisma saving throw (your choice)."
+            },
+            {
+              "type": "item",
+              "name": "Rot.",
+              "entry": "The next time the target takes damage, it takes an extra 1d10 necrotic damage and can’t regain hit points until the end of its next turn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spiteful Curse",
+      "className": "Warlock",
+      "subclassShortName": "Horned King",
+      "level": 6,
+      "source": "TCM",
+      "entries": [
+        "When you use Malediction, you can cast {@spell bestow curse} once without a spell slot as part of that action or Reaction, regaining the ability to do so when you finish a Long Rest. If the target succeeds on its saving throw against the spell, your use of this feature isn’t expended. When you cast the spell this way, its range is 60 feet and it lasts 1 minute with no concentration required. If the target succeeds on its saving throw, choose one Malediction curse; the target suffers that curse instead."
+      ]
+    },
+    {
+      "name": "Crown of Horns",
+      "className": "Warlock",
+      "subclassShortName": "Horned King",
+      "level": 10,
+      "source": "TCM",
+      "entries": [
+        "As a Bonus Action, manifest the Horned King’s might for 1 minute (antlers, horned crown, etc.). Once you use this, you can’t use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore it.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Dark Heart.",
+              "entry": "Once on each of your turns when you damage a creature, it takes an extra 1d8 necrotic damage."
+            },
+            {
+              "type": "item",
+              "name": "King of All.",
+              "entry": "You radiate a 20‑foot emanation. When you activate this feature, and at the start of each of your turns, choose a creature you can see in the aura. It must succeed on a Charisma save against your spell save DC or suffer one effect of your choice until the start of your next turn: Charmed; Disadvantage on attack rolls and ability checks; or Frightened and must move away from you by the safest route unless there is nowhere to move."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gather the Coven",
+      "className": "Warlock",
+      "subclassShortName": "Horned King",
+      "level": 14,
+      "source": "TCM",
+      "entries": [
+        "Perform a 1-hour ritual (during a rest) to form a bond with up to six willing creatures within 10 feet. You can end the bond (no action) for any number of creatures, and it ends when you die. The bond grants the following:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Witchcraft.",
+              "entry": "Choose one Malediction curse. Each bonded creature can use that Reaction option once; it regains the use after finishing a Long Rest."
+            },
+            {
+              "type": "item",
+              "name": "Fly By Night.",
+              "entry": "As a Bonus Action, choose a bonded creature on the same plane; you teleport to the nearest unoccupied space next to it. Use once per Short or Long Rest. If your Crown of Horns is active, this use isn’t expended."
+            },
+            {
+              "type": "item",
+              "name": "Hand of the King.",
+              "entry": "While your Crown of Horns is active, the first time a bonded creature damages another creature on its turn, the target takes an extra 1d10 necrotic damage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alchemical Experiments",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Experiment",
+      "subclassSource": "TCM",
+      "entries": [
+        "You gain a set of Alchemist’s Supplies and proficiency with it. You can use Alchemist’s Supplies instead of an Herbalism Kit to craft Potions of Healing."
+      ]
+    },
+    {
+      "name": "Volatile Serum",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Experiment",
+      "subclassSource": "TCM",
+      "entries": [
+        "You have embedded syringes and reservoirs that flood your body with alchemical serums. When you enter your Rage, choose a serum to inject; it lasts for the duration of your Rage, or until you choose a new serum as a Bonus Action.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Ferocity.",
+              "entry": "You ignore Difficult Terrain. When you hit with a melee weapon or Unarmed Strike, you can also activate the Cleave mastery property in addition to another mastery you’re using."
+            },
+            {
+              "type": "item",
+              "name": "Monstrosity.",
+              "entry": "Your reach increases by 5 feet. Once per turn when you miss with a Strength-based attack roll, add your Rage Damage bonus to the total, potentially turning the miss into a hit. If you are smaller than Large, you become Large; if there isn’t room, you don’t change size."
+            },
+            {
+              "type": "item",
+              "name": "Reconstruction.",
+              "entry": "Upon activation and at the start of each of your turns, you can expend and roll a Hit Die. You regain HP equal to the roll + your CON modifier (minimum 1). Excess becomes Temporary HP. If you take Acid or Fire damage, this serum doesn’t function at the start of your next turn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Augmentation Compounds",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Experiment",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you enter your Rage or change your serum, you can also activate one compound. It lasts for the duration of your Rage, or until you choose a new compound.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Stimulated Senses.",
+              "entry": "You gain Blindsight 30 ft. (if you already have Blindsight, increase its range by 30 ft.)."
+            },
+            {
+              "type": "item",
+              "name": "Maddening Fumes.",
+              "entry": "Your skin emits aggression-spiking fumes in a 30‑ft Emanation. While in the Emanation, a creature that starts its turn there must succeed on a Wisdom save (DC 8 + CON mod + PB) or have Disadvantage on attack rolls against targets other than you until the start of its next turn."
+            },
+            {
+              "type": "item",
+              "name": "Corrosive Expulsion.",
+              "entry": "When you take the Attack action, you can replace one attack with a spray of caustic chemicals in a 15‑ft cone or a 30‑ft by 5‑ft line (choose each time). Each creature in the area makes a Dexterity save (DC 8 + CON mod + PB). Roll a number of d8s equal to your Rage Damage bonus; on a failed save the target takes Acid damage equal to the total, or half as much on a success."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reactive Catalyst",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Experiment",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you take damage, or when you gain the Blinded, Deafened, Poisoned, or Stunned condition, you can take a Reaction to enter your Rage before the damage or conditions apply. When you enter your Rage, you end any of those conditions on yourself. Additionally, while Raging you have Advantage on Constitution saving throws."
+      ]
+    },
+    {
+      "name": "Biochemical Admixture",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "PHB",
+      "level": 14,
+      "subclassShortName": "Experiment",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you activate Volatile Serum, you activate two serum options instead of one.",
+        "Additionally, while your Rage is active, when a creature within 5 feet of you damages you with a melee attack, it takes 1d12 Acid damage (once per turn per creature).",
+        {
+          "type": "inset",
+          "name": "Experimental Implants (Flavor)",
+          "entries": [
+            "Roll 1d6 or choose: Alchemical Injector; Alien Grafts; Construct Prosthesis; Crystal Formations; Fungal Inoculation; Sparktech Augmentation."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Handy Haints",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Whistles",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you inspire a creature with Bardic Inspiration, you can summon a ghostly haint that drifts around the inspired creature, creating a 15‑ft Emanation aura for 1 minute. The haint vanishes early if you summon a new one, use its Reaction benefit, or if you’re Incapacitated or die. Choose a form when you summon it:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Grump.",
+              "entry": "Allies in the aura (including the inspired creature) have Advantage on Charisma (Intimidation) checks and Strength saving throws. Reaction: When a creature in the aura deals damage, increase the damage to one target by a roll of your Bardic Inspiration die + your CHA modifier."
+            },
+            {
+              "type": "item",
+              "name": "Sad Sack.",
+              "entry": "Allies in the aura have Half Cover against ranged attacks. Reaction: When a creature in the aura takes damage, reduce it by a roll of your Bardic Inspiration die + your CHA modifier."
+            },
+            {
+              "type": "item",
+              "name": "Scamp.",
+              "entry": "A creature that starts its turn in the aura increases its Speed by 10 ft. until the end of its turn. Reaction: When a creature in the aura fails a saving throw, it can reroll the d20."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Whistling Wanderer",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Whistles",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Wanderer’s Bindle",
+          "entries": [
+            "After a Long Rest, touch a nonmagical bag/sack to turn it into a magical bindle (functions as a Handy Haversack). Creating another, moving more than 1 mile away, or dying ends its magic and drops contents in nearest unoccupied spaces."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Whistled Spells",
+          "entries": [
+            "You can whistle in place of Verbal components for Bard spells. Observers unfamiliar with this tradition must succeed on a DC 15 Intelligence (Arcana) check to recognize the spellcasting from whistled Verbal components alone."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Homeward Bound",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Whistles",
+      "subclassSource": "TCM",
+      "entries": [
+        "You can mark locations to use with {@spell teleportation circle}. As an action, you inscribe an invisible sigil at your space; later, you can cast Teleportation Circle using a mark as the destination (once per Long Rest). You can maintain marks up to your CHA modifier (minimum 1). Exceeding the maximum removes a previous mark of your choice.",
+        "At Bard level 9, you always have Teleportation Circle prepared and can use any of your marked locations as the destination."
+      ]
+    },
+    {
+      "name": "Ride the Rails",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Whistles",
+      "subclassSource": "TCM",
+      "entries": [
+        "As an action, whistle to summon a spectral locomotive in a 120‑ft‑long, 10‑ft‑wide Line that passes through objects and creatures. You and up to six willing creatures within 30 ft. can hitch a ride, teleporting to spaces along the Line. Each other creature in the Line makes a Wisdom save against your spell save DC or has the Deafened condition until the end of its next turn, is pushed up to 10 ft. away from the Line’s origin, and takes Psychic damage equal to three rolls of your Bardic Inspiration die. Once used, you can’t use this feature again until a Long Rest unless you expend a 3rd‑level or higher spell slot (no action) to restore it."
+      ]
+    },
+    {
+      "name": "Last Stop",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "PHB",
+      "level": 14,
+      "subclassShortName": "Whistles",
+      "subclassSource": "TCM",
+      "entries": [
+        "As an action, blow a whistle audible out to 300 feet. Up to six creatures of your choice within range must make a Charisma save against your spell save DC or be cursed for 1 minute. When a cursed target takes Psychic damage, it has the Frightened condition toward the source of that damage until the end of its next turn. A cursed target repeats the save at the end of each of its turns, ending the curse on a success."
+      ]
+    },
+    {
+      "name": "Community Almanac",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Harvest",
+      "subclassSource": "TCM",
+      "entries": [
+        "You gain an Herbalism Kit and proficiency with it. You also gain proficiency in Nature or Survival (your choice)."
+      ]
+    },
+    {
+      "name": "Harvest Domain Spells",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Harvest",
+      "subclassSource": "TCM",
+      "entries": [
+        "Whenever you finish a Short or Long Rest, choose an aspect of the harvest cycle: Sowing, Growing, or Reaping. You always have the aspect’s spells prepared at the Cleric levels shown.",
+        {
+          "type": "table",
+          "colLabels": [
+            "Cleric Level",
+            "Sowing",
+            "Growing",
+            "Reaping"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell guidance}, {@spell entangle}, {@spell summer winds|TCM}",
+              "{@spell chill touch}, {@spell inflict wounds}, {@spell hold person}",
+              "—"
+            ],
+            [
+              "5",
+              "{@spell harvest moonglow|TCM}",
+              "{@spell plant growth}",
+              "{@spell culling sickle|TCM}"
+            ],
+            [
+              "7",
+              "{@spell death ward}",
+              "{@spell sanctum of the shepherd|TCM}",
+              "{@spell consuming pyre|TCM}"
+            ],
+            [
+              "9",
+              "{@spell awaken}",
+              "{@spell mass cure wounds}",
+              "{@spell field of reaping|TCM}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cornucopia",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Harvest",
+      "subclassSource": "TCM",
+      "entries": [
+        "If you aren’t Incapacitated when you start a Short Rest, you can conjure a cornucopia with food for a number of creatures equal to twice your Proficiency Bonus. When a creature that ate the food finishes the Short Rest, distribute a number of d4s equal to your Cleric level among those creatures; each immediately rolls their allotted dice and regains that many HP. The cornucopia and any uneaten food vanish when the Short Rest ends. Once used, you can’t use this feature again until a Long Rest."
+      ]
+    },
+    {
+      "name": "Bountiful Harvest",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Harvest",
+      "subclassSource": "TCM",
+      "entries": [
+        "As an action, present your holy symbol and expend Channel Divinity to invoke the harvest’s spirit. Up to six creatures of your choice that can see or hear you within 30 ft. each gain one benefit until the end of your next turn (your choice for each target):",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Sowing.",
+              "entry": "The target regains HP equal to your Wisdom modifier (minimum 1)."
+            },
+            {
+              "type": "item",
+              "name": "Growing.",
+              "entry": "Until the end of your next turn, when the target makes an attack roll or ability check, it adds 1d4 to the total."
+            },
+            {
+              "type": "item",
+              "name": "Reaping.",
+              "entry": "The target deals extra Necrotic damage equal to your Proficiency Bonus the first time it damages a creature before the end of your next turn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blessing of the Seasons",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Harvest",
+      "subclassSource": "TCM",
+      "entries": [
+        "When a creature you can see within 30 ft. fails a saving throw of a type based on your current aspect, you can take a Reaction to allow it to reroll the d20 and use the new roll. Sowing: Dexterity, Charisma. Growing: Constitution, Intelligence. Reaping: Wisdom, Strength.",
+        "After the saving throw succeeds or fails, roll a number of d4s equal to your Proficiency Bonus; the target regains HP equal to the total. Uses equal to your Wisdom modifier (minimum 1), regained on a Long Rest."
+      ]
+    },
+    {
+      "name": "Eternal Wheel",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "PHB",
+      "level": 17,
+      "subclassShortName": "Harvest",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you use Bountiful Harvest, you and the affected creatures also gain an additional benefit based on your current aspect (once per Long Rest, or expend a 7th‑level+ slot to restore):",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Sowing.",
+              "entry": "Each target gains the effects of {@spell regenerate} for 1 minute (as if concentrating)."
+            },
+            {
+              "type": "item",
+              "name": "Growing.",
+              "entry": "Each target has Advantage on saving throws and ability checks for up to 1 hour (as if concentrating)."
+            },
+            {
+              "type": "item",
+              "name": "Reaping.",
+              "entry": "Each target has Resistance to Necrotic, Psychic, and Poison damage for 1 hour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Circle of the Old Ways Spells",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Old Ways",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Circle of the Old Ways Spells",
+          "colLabels": [
+            "Druid Level",
+            "Prepared Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell ancestral guidance|TCM}, {@spell barkskin}, {@spell shield of faith}, {@spell shillelagh}, {@spell spike growth}"
+            ],
+            [
+              "5",
+              "{@spell magic circle}, {@spell plant growth}"
+            ],
+            [
+              "7",
+              "{@spell freedom of movement}, {@spell private sanctum}"
+            ],
+            [
+              "9",
+              "{@spell awaken}, {@spell tree stride}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bough and Branch",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Old Ways",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you cast {@spell shillelagh}, you can cause a wooden shield to grow into your free hand (no action to don); it vanishes when the spell ends. You can’t be forced to drop the affected weapon or shield unless you’re Incapacitated. For the duration of {@spell shillelagh}, you ignore Somatic components of your Druid spells, and the weapon becomes a Druidic Focus for you."
+      ]
+    },
+    {
+      "name": "Wood Wose",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Old Ways",
+      "subclassSource": "TCM",
+      "entries": [
+        "As a Bonus Action, or as part of casting {@spell shillelagh}, expend a use of Wild Shape to suffuse yourself with primordial might for 1 minute; you gain:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Elderwood Sap.",
+              "entry": "When you hit a creature with a melee attack, the target is coated in sap until the end of your next turn; it can’t take Reactions while coated."
+            },
+            {
+              "type": "item",
+              "name": "Primeval Growth.",
+              "entry": "Your Speed increases by 10 ft. and you ignore Difficult Terrain made of nonmagical plants."
+            },
+            {
+              "type": "item",
+              "name": "Gnarled Thorns.",
+              "entry": "Once on each of your turns when you hit with a melee weapon attack, the target takes an extra 1d6 Piercing damage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deepwood Elder",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Old Ways",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Primeval Wrath.",
+              "entry": "Once per turn when you hit a creature with a melee attack, you can force it to make a Strength save against your spell save DC or be knocked Prone."
+            },
+            {
+              "type": "item",
+              "name": "Bramblebark.",
+              "entry": "When a creature within 5 ft. hits you with a melee attack, it takes 1d8 Piercing damage (once per turn)."
+            },
+            {
+              "type": "item",
+              "name": "Rampant Growth.",
+              "entry": "When you activate Wood Wose and at the start of each of your turns while it lasts, you gain Temporary HP equal to your Wisdom modifier + your Proficiency Bonus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ancient Protector",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 14,
+      "subclassShortName": "Old Ways",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Old Growth.",
+              "entry": "Your size becomes Large (with room), and your reach increases by 5 ft."
+            },
+            {
+              "type": "item",
+              "name": "Mighty Trunk.",
+              "entry": "You have Resistance to Bludgeoning and Piercing damage."
+            },
+            {
+              "type": "item",
+              "name": "Vengeance of the Elders.",
+              "entry": "When a creature within your reach and covered in Elderwood Sap makes an attack roll, you can take a Reaction to make a melee attack against it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Circle of Wicker Spells",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Wicker",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Circle of Wicker Spells",
+          "colLabels": [
+            "Druid Level",
+            "Prepared Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell bane}, {@spell bless}, {@spell summer winds|TCM}, {@spell zone of truth}"
+            ],
+            [
+              "5",
+              "{@spell bestow curse}, {@spell tiny hut}"
+            ],
+            [
+              "7",
+              "{@spell death ward}, {@spell sanctum of the shepherd|TCM}"
+            ],
+            [
+              "9",
+              "{@spell hold monster}, {@spell lucky charm|TCM}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bewitched Effigy",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Wicker",
+      "subclassSource": "TCM",
+      "entries": [
+        "As a Bonus Action, expend a use of Wild Shape to create a Small wicker effigy in an unoccupied space within 30 ft. (AC 15; HP = 5 × your Druid level; Vulnerability to Fire; Immunity to Poison and Psychic). It radiates one aura (30‑ft Emanation, Dim Light) for 1 minute, until reduced to 0 HP, or until you create another.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Sacrifice.",
+              "entry": "When a creature in the aura takes damage, you can take a Reaction to deal Fire damage to the creature equal to 1d8 + your Wisdom modifier."
+            },
+            {
+              "type": "item",
+              "name": "Soothe.",
+              "entry": "When you create the effigy, and as a Bonus Action on subsequent turns, one creature you can see in the aura regains 1d6 HP (uses per effigy equal to twice your spellcasting ability modifier)."
+            },
+            {
+              "type": "item",
+              "name": "Ward.",
+              "entry": "You and allies in the aura gain a +1 bonus to AC."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wicker Token",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Wicker",
+      "subclassSource": "TCM",
+      "entries": [
+        "After a Long Rest, you can create a number of Tiny wicker tokens equal to your Proficiency Bonus (AC 5; HP 1; Immunity to Poison and Psychic). They last until your next Long Rest. You can attach a token to a willing creature or object to extend your effigy’s aura benefits to it, at your discretion (DM adjudication for placement and carrying)."
+      ]
+    },
+    {
+      "name": "Wicker Rising",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Wicker",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Sacrifice.",
+              "entry": "Fire damage becomes 2d8 + your Wisdom modifier."
+            },
+            {
+              "type": "item",
+              "name": "Soothe.",
+              "entry": "Healing becomes 1d8. When you target a creature, you can expend 5 HP from the effigy to end one: Charmed, Frightened, Paralyzed, Poisoned, or Stunned on that creature."
+            },
+            {
+              "type": "item",
+              "name": "Ward.",
+              "entry": "Choose a damage type other than Force. You and allies in the aura have Resistance to the chosen type."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soulbound Poppet",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Wicker",
+      "subclassSource": "TCM",
+      "entries": [
+        "As an action, expend a use of Wild Shape to create a Tiny wicker doll resembling a creature you can see within 60 ft. (AC 10; HP 10; Vulnerability to Fire; Immunity to Poison and Psychic). The doll lasts 1 minute or until reduced to 0 HP. While it exists, the target has Disadvantage on attack rolls against a creature carrying the doll, and the first time per turn a carrier damages the target, it takes an extra 2d10 Necrotic damage."
+      ]
+    },
+    {
+      "name": "Wicker Zenith",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "PHB",
+      "level": 14,
+      "subclassShortName": "Wicker",
+      "subclassSource": "TCM",
+      "entries": [
+        "At the start of your turn, you can change your effigy’s aura to a different one. Each aura also improves:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Sacrifice.",
+              "entry": "Fire damage becomes 3d8 + your Wisdom modifier."
+            },
+            {
+              "type": "item",
+              "name": "Soothe.",
+              "entry": "At the start of a turn in the aura, a creature can end either the Charmed or Frightened condition (its choice)."
+            },
+            {
+              "type": "item",
+              "name": "Ward.",
+              "entry": "Choose one ability; you and allies in the aura have Advantage on saving throws using that ability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contagious Discipline",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Pestilent Haze",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Claws of Pestilence",
+          "entries": [
+            "Your nails become vermin-like claws. You can deal Slashing damage with Unarmed Strikes instead of Bludgeoning. When you hit a creature with an attack granted by your Flurry of Blows, it takes extra Necrotic damage equal to one roll of your Martial Arts die."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Miasmic Plague",
+          "entries": [
+            "When you hit a creature with an Unarmed Strike, you can expend 1 Focus Point to force it to succeed on a Constitution save or be cursed for 1 minute: it has the Poisoned condition and takes extra Necrotic damage from your Unarmed Strikes equal to one roll of your Martial Arts die (once per turn). It repeats the save at the end of each of its turns, ending the effect on a success. If you forgo Claws of Pestilence’s extra damage, you can use this without spending a Focus Point."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gift of Pestilence",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Pestilent Haze",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Inoculation",
+          "entries": [
+            "You have Advantage on saves to avoid or end the Poisoned condition or magical contagions, and you have Resistance to Poison and Necrotic damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Vermin Kinship",
+          "entries": [
+            "You can communicate simple concepts to vermin (rats, roaches, etc.), and decipher their noises and motions at the GM’s discretion. In addition, you can cast {@spell animal messenger} once (Tiny vermin only); you regain the ability after a Long Rest."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spreading Blight",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "PHB",
+      "level": 11,
+      "subclassShortName": "Pestilent Haze",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Choking Miasma.",
+              "entry": "Creatures have Disadvantage on Constitution saves against your Miasmic Plague."
+            },
+            {
+              "type": "item",
+              "name": "Scurrying Spread.",
+              "entry": "When you expend 1 Focus Point to use Step of the Wind, until end of turn, when you enter a space within 5 ft. of a creature of your choice, it must succeed on a Constitution save or be cursed by your Miasmic Plague (once per turn per creature)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epidemic",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "PHB",
+      "level": 17,
+      "subclassShortName": "Pestilent Haze",
+      "subclassSource": "TCM",
+      "entries": [
+        "Your Miasmic Plague ignores Immunity to the Poisoned condition. In addition, when you deal Necrotic damage to a target cursed by your Miasmic Plague, it takes extra Necrotic damage equal to one roll of your Martial Arts die."
+      ]
+    },
+    {
+      "name": "Blood Well",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Crimson Sorcery",
+      "subclassSource": "TCM",
+      "entries": [
+        "You hold a reserve of vital energy called your Blood Well. When you deal damage or restore HP to a creature, you can expend the Blood Well to add 1d8 to the total for one target. You regain your expended Blood Well when you finish a Long Rest, or when a creature takes 10 or more Necrotic damage from you at one time."
+      ]
+    },
+    {
+      "name": "Crimson Spells",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Crimson Sorcery",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Crimson Spells",
+          "colLabels": [
+            "Sorcerer Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "{@spell aid}, {@spell blood bolt|TCM}, {@spell cure wounds}, {@spell inflict wounds}, {@spell blood sacrifice|TCM}"
+            ],
+            [
+              "5",
+              "{@spell crimson harvest|TCM}, {@spell vampiric touch}"
+            ],
+            [
+              "7",
+              "{@spell death ward}, {@spell sacrificial siphon|TCM}"
+            ],
+            [
+              "9",
+              "{@spell field of reaping|TCM}, {@spell mass cure wounds}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pool of Blood",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Crimson Sorcery",
+      "subclassSource": "TCM",
+      "entries": [
+        "As a Bonus Action, expend your Blood Well to dissolve into a pool of blood for up to 1 hour (ending early if you drop to 0 HP or choose to end it). While a pool of blood, you use your statistics with the following changes:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Speed.",
+              "entry": "10 ft."
+            },
+            {
+              "type": "item",
+              "name": "Squeezing.",
+              "entry": "You can move through an opening as narrow as 1 inch wide."
+            },
+            {
+              "type": "item",
+              "name": "Resistances.",
+              "entry": "You have Resistance to all damage except Force and Radiant."
+            },
+            {
+              "type": "item",
+              "name": "Attacks, Casting, and Speaking.",
+              "entry": "You can’t."
+            },
+            {
+              "type": "item",
+              "name": "Non‑blooded Form.",
+              "entry": "You can’t wear, wield, or carry items unless they are part of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sanguine Techniques",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Crimson Sorcery",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Crimson Siphon.",
+              "entry": "When you deal damage to a creature that has 0 HP, you regain HP equal to your CHA modifier (minimum 1)."
+            },
+            {
+              "type": "item",
+              "name": "Crimson Pulse.",
+              "entry": "Expend your Blood Well to make the next Metamagic option you use this turn cost 0 Sorcery Points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sanguine Feast",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "PHB",
+      "level": 18,
+      "subclassShortName": "Crimson Sorcery",
+      "subclassSource": "TCM",
+      "entries": [
+        "As an action, lash out with blood tendrils at any creatures of your choice within 30 ft. Each target makes a CON save, taking 5d8 Necrotic damage on a failed save, or half as much on a success. If your Blood Well is already expended, targets have Disadvantage on the save. If at least one creature takes damage, you regain HP equal to the damage roll. Once used, you can’t use this feature again until a Long Rest, unless you spend 5 Sorcery Points to use it again."
+      ]
+    },
+    {
+      "name": "Forbidden Knowledge",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Occultist",
+      "subclassSource": "TCM",
+      "entries": [
+        "You learn Deep Speech or one other language of your choice.",
+        {
+          "type": "entries",
+          "name": "Intrusion Die",
+          "entries": [
+            "You track reality‑warping risk with an Intrusion Die (starting size d6; increases at levels 5: d8; 11: d10; 17: d12). When you use a feature that risks Intrusion, roll the die. On a 2+, no Intrusion occurs and the die decreases one step. On a 1, the die increases one step and you roll on the Intrusion table. Intrusions use your spell save DC. The die increases by one step (up to its starting size) when you finish a Short Rest, and resets to its starting size when you finish a Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Alien Potency",
+          "entries": [
+            "When you cast a spell using a spell slot, you can risk Intrusion to choose one: Overwhelming Mind (one target has Disadvantage on the first saving throw made against the spell) or Seeking Eye (you have Advantage on the first attack roll you make for the spell)."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reality Tear",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Occultist",
+      "subclassSource": "TCM",
+      "entries": [
+        "Choose a 3rd‑level or lower spell from the Warlock list; you always have it prepared (you can change the choice after a Long Rest). When you cast it, you can risk Intrusion to remove Concentration; the spell ends after 1 minute or its normal duration, whichever is shorter.",
+        "Additionally, you can cause an automatic Intrusion (and increase the die one step, up to its starting size) to teleport up to 30 ft. to an unoccupied space you can see (once per Long Rest)."
+      ]
+    },
+    {
+      "name": "Intrusion",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Occultist",
+      "subclassSource": "TCM",
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Intrusion",
+          "colLabels": [
+            "d12",
+            "Effect"
+          ],
+          "rows": [
+            [
+              "1",
+              "Until the end of your next turn, you can only do one of the following on a turn: take an action, a Bonus Action, or move."
+            ],
+            [
+              "2",
+              "Space twists in a 30‑ft Emanation around you; each creature in the area has its Speed halved until the end of your next turn."
+            ],
+            [
+              "3",
+              "The nearest other creature within 60 ft. must succeed on a CON save or take Necrotic damage equal to two rolls of your Intrusion Die (at its starting size); you regain HP equal to the damage dealt."
+            ],
+            [
+              "4",
+              "Reality tears in your space until the end of your next turn. You and each creature that can see the tear must succeed on a WIS save or be Frightened while it exists."
+            ],
+            [
+              "5",
+              "One arm warps into an alien appendage for 1 minute. You can make Unarmed Strikes with it using your spell attack bonus; on a hit, roll a number of your Intrusion Die (at its starting size) equal to your PB; the target takes Acid damage equal to the total."
+            ],
+            [
+              "6",
+              "Alien landscapes overlay your vision; you are Blinded until the end of your next turn."
+            ],
+            [
+              "7",
+              "Unnatural thoughts disorient you; you are Incapacitated until the end of your next turn."
+            ],
+            [
+              "8",
+              "You take Psychic damage equal to two rolls of your Intrusion Die (at its starting size), and for 1 minute your spell save DC increases by 2."
+            ],
+            [
+              "9",
+              "You regain an expended spell slot of level 5 or lower (your choice) and take Necrotic damage equal to twice the slot’s level (can’t be reduced or prevented)."
+            ],
+            [
+              "10",
+              "When this Intrusion occurs and at the end of each of your turns for 1 minute, pulses in space in a 15‑ft Emanation from you cause you and each creature in it to fall Prone."
+            ],
+            [
+              "11",
+              "For 1 hour, you hear hateful whispers; you have Disadvantage on Wisdom ability checks and saving throws."
+            ],
+            [
+              "12",
+              "An Aberration or Fiend with CR ≤ your Wizard level (GM’s choice) appears in an unoccupied space within 30 ft.; the GM chooses its attitude and actions."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Occult Presence",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Occultist",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you cause an Intrusion, you can roll twice on the Intrusion table and choose either result, and you can negate the Intrusion by gaining 1 level of Exhaustion.",
+        "Additionally, choose one benefit (change on a Long Rest; or as a Bonus Action by causing an automatic Intrusion, increasing the die one step up to its starting size):",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Alien Consciousness.",
+              "entry": "You are Immune to the Charmed and Frightened conditions and can’t be possessed."
+            },
+            {
+              "type": "item",
+              "name": "Cosmic Resistance.",
+              "entry": "You have Resistance to Necrotic and Psychic damage."
+            },
+            {
+              "type": "item",
+              "name": "Spatial Domination.",
+              "entry": "You gain a Fly Speed equal to your Speed and can hover."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beyond Space",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 14,
+      "subclassShortName": "Occultist",
+      "subclassSource": "TCM",
+      "entries": [
+        "You always have {@spell scrying} prepared. When you cast it, you can risk Intrusion to choose one:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "All Knowing.",
+              "entry": "Treat your connection to a target creature as if you have part of its body."
+            },
+            {
+              "type": "item",
+              "name": "All Seeing.",
+              "entry": "Cast the spell as an action instead of its normal casting time."
+            }
+          ]
+        },
+        "While {@spell scrying} lasts, you can cause an automatic Intrusion (and increase the die one step up to its starting size) to teleport yourself and willing creatures within 10 ft. to spaces you can see through the sensor (once per Long Rest)."
+      ]
+    },
+    {
+      "name": "Alchemical Knowledge",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Philosopher",
+      "subclassSource": "TCM",
+      "entries": [
+        "You gain Alchemist’s Supplies, proficiency with it, and can use it as an Arcane Focus. You can use Alchemist’s Supplies instead of the normal tool to craft a magic item."
+      ]
+    },
+    {
+      "name": "Quintessence",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 3,
+      "subclassShortName": "Philosopher",
+      "subclassSource": "TCM",
+      "entries": [
+        "You learn the {@spell dissolution|TCM} cantrip. A creature or object you reduce to 0 HP with it is destroyed; if Small or larger, it dissolves into 1 ounce of crystalline powder called Quintessence. You can hold up to 2 × your INT modifier measures (minimum 2); creating more causes the oldest to vanish. You can expend Quintessence as follows:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Material Component.",
+              "entry": "When you cast a spell, expend Quintessence to replace Material components up to 100 gp per measure expended."
+            },
+            {
+              "type": "item",
+              "name": "Reagent.",
+              "entry": "When you scribe a spell or craft a magic item using Alchemist’s Supplies, expend Quintessence to replace 50 gp of costs per measure expended."
+            },
+            {
+              "type": "item",
+              "name": "Vitriolic Enhancement.",
+              "entry": "When you cast a spell that deals damage, expend 1 Quintessence to change one damage type it deals to Force."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albedo",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 6,
+      "subclassShortName": "Philosopher",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you cast a spell using a spell slot, you can expend 1 Quintessence to increase the slot’s level by 1 (up to 9th). The maximum Quintessence you can expend on a single spell this way equals half your Proficiency Bonus (rounded up)."
+      ]
+    },
+    {
+      "name": "Citrinitas",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 10,
+      "subclassShortName": "Philosopher",
+      "subclassSource": "TCM",
+      "entries": [
+        "You always have {@spell creation} and {@spell fabricate} prepared. You can cast each once without a spell slot (regain on a Long Rest). When cast this way, you can cast the spell as an action. You can also cast them normally using spell slots.",
+        "Additionally, when you cast {@spell creation}, you can expend up to your INT modifier measures of Quintessence (minimum 1) to multiply the spell’s duration by 1 + the amount expended."
+      ]
+    },
+    {
+      "name": "Rubedo",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "PHB",
+      "level": 14,
+      "subclassShortName": "Philosopher",
+      "subclassSource": "TCM",
+      "entries": [
+        "When you finish a Short or Long Rest, expend 10 Quintessence to create a philosopher’s stone (Tiny magical object; AC 19; HP 20; Immunity to all damage except Force). Creating a second destroys the first. While you carry it, you gain:",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Amplification.",
+              "entry": "When you cast a spell, expend up to 2 Quintessence to increase the spell’s save DC for that casting by the same amount."
+            },
+            {
+              "type": "item",
+              "name": "Equivalent Exchange.",
+              "entry": "When you fail a saving throw, you can take a Reaction to expend 5 Quintessence to succeed instead."
+            },
+            {
+              "type": "item",
+              "name": "Longevity.",
+              "entry": "You stop aging and don’t suffer effects of old age, including dying from it."
+            },
+            {
+              "type": "item",
+              "name": "Sympathy.",
+              "entry": "The stone counts as part of your body for {@spell scrying} and for spells that restore you to life if you die; the stone is the Material component (if any) and is destroyed when the spell is cast."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": [
+    {
+      "name": "Amnesiac",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Memory Starved",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        "Some portion of your past has been swallowed by nothingness. Flashes of déjà vu tease you, but slip away as ungraspable as the mists of Druskenvald.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Memory Starved.",
+            "**Skills.** Choose two (you determine these during play using Scattered Memories).",
+            "**Tools.** Choose one (determined during play).",
+            "**Languages.** Choose two (determined during play).",
+            "**Equipment.** Choose A or B: (A) Book (personal notes), Ink, Ink Pen, Traveler’s Clothes, 11 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scattered Memories",
+          "entries": [
+            "You don’t choose your skill proficiencies, tool proficiency, or the two languages that are part of your origin when you select this background. Instead, during play you can recall one of these at any time (even as you make a roll that relies on it). After choosing one, you can’t choose another until you gain a level. The GM might allow an early recall if something meaningfully reminds you of your past."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building an Amnesiac",
+          "entries": [
+            "Consider how you lost your memory—injury, illness, toxin, curse, or something more sinister. You might even leave the cause to be discovered in play."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Amnesiac Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Recurring dreams of someone you might recognize on your adventures."
+                ],
+                [
+                  "2",
+                  "You absent-mindedly doodle the same symbol over and over."
+                ],
+                [
+                  "3",
+                  "A friend travels Druskenvald with a caravan searching for hints of your past."
+                ],
+                [
+                  "4",
+                  "A rhyme or song you’ve never heard comes to mind when your thoughts wander."
+                ],
+                [
+                  "5",
+                  "Rainbow colors—like on a soap bubble or oil slick—fill you with unexplained terror."
+                ],
+                [
+                  "6",
+                  "You recollect fragments of traveling to a remote place in the mountains."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Amnesiac Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Half of a tarnished silver ring with a partial inscription in an unknown language."
+                ],
+                [
+                  "2",
+                  "A music box that plays a sad tune you recognize but can’t identify."
+                ],
+                [
+                  "3",
+                  "A short note addressed to you and signed with a name you don’t recognize."
+                ],
+                [
+                  "4",
+                  "A thin silk scarf with a fading scent that stirs familiarity."
+                ],
+                [
+                  "5",
+                  "A toy horse with unfamiliar initials inked on it."
+                ],
+                [
+                  "6",
+                  "A locket whose portrait is burnt and unrecognizable."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Aspirant",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Crimson Ritualist",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "arcana": true
+        },
+        {
+          "medicine": true
+        }
+      ],
+      "toolProficiencies": [
+        "herbalism kit"
+      ],
+      "entries": [
+        "You have delved into the forces that animate all life and the power of blood to sustain and transmit vital essence.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Crimson Ritualist.",
+            "**Skills.** Arcana, Medicine.",
+            "**Tools.** Herbalism Kit.",
+            "**Equipment.** Choose A or B: (A) Herbalism Kit, Dagger, Fine Clothes, Healer’s Kit, 3 Vials, 10 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building a Crimson Aspirant",
+          "entries": [
+            "Scholars, healers, and the physically inclined alike may be drawn to the teachings of blood—to tap increased vital energies or overcome frailty."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crimson Aspirant Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "When you bleed, you hear whispers from your fallen blood."
+                ],
+                [
+                  "2",
+                  "Your mentor’s remote monastery expelled you in a panic."
+                ],
+                [
+                  "3",
+                  "A plague carried in the blood defies cures; you seek its origin."
+                ],
+                [
+                  "4",
+                  "The mentor who inducted you into blood’s secrets vanished suddenly."
+                ],
+                [
+                  "5",
+                  "Your studies reveal deaths by blood‑drinking monsters."
+                ],
+                [
+                  "6",
+                  "A loved one died; your studies hint at a way to bring them back."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crimson Aspirant Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A glass pendant with a single drop of blood suspended within."
+                ],
+                [
+                  "2",
+                  "A long scroll with an anatomical study of vital energies."
+                ],
+                [
+                  "3",
+                  "A handkerchief with a pressed blood drop at the center."
+                ],
+                [
+                  "4",
+                  "A polished bloodstone for balancing vital energy."
+                ],
+                [
+                  "5",
+                  "A vial of blood that never coagulates or dries."
+                ],
+                [
+                  "6",
+                  "A small box of ashes said to be from a martyr falsely accused of vampirism."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Gambler",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Fate Gambler",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "deception": true
+        },
+        {
+          "insight": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "choose": {
+            "from": [
+              "gaming set (any)"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "entries": [
+        "You made your bones on games of chance—until you wagered far more than coin against fiends, fey, or the fabled Mister Crossroads.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Fate Gambler.",
+            "**Skills.** Deception, Insight.",
+            "**Tools.** One kind of Gaming Set.",
+            "**Equipment.** Choose A or B: (A) Gaming Set (same as above), Caltrops, Fine Clothes, Fine Wine (bottle), 23 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building a Crossroads Gambler",
+          "entries": [
+            "Rogues, Bards, desperate conjurers, and the bold all find themselves playing for impossible stakes—and trying to outrun the bill."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crossroads Gambler Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A ‘friend’ tricked you into making your bargain."
+                ],
+                [
+                  "2",
+                  "If too long passes without a wager, your luck turns sour."
+                ],
+                [
+                  "3",
+                  "You only feel alive in the midst of a contest."
+                ],
+                [
+                  "4",
+                  "You lost your bet and now flee what’s coming to collect."
+                ],
+                [
+                  "5",
+                  "Someone close to you lost a wager; you made your deal to find them."
+                ],
+                [
+                  "6",
+                  "You’re tired of gambling—you want a way out."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crossroads Gambler Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A lucky coin made of a strange material (green steel, bone, etc.)."
+                ],
+                [
+                  "2",
+                  "A battered, blood‑stained six of hearts playing card."
+                ],
+                [
+                  "3",
+                  "A torn journal page of a long‑missing gambler describing an unnamed being."
+                ],
+                [
+                  "4",
+                  "The preserved foot of a rabbit, owl, or weasel."
+                ],
+                [
+                  "5",
+                  "A die that oddly seems to have too many 2s."
+                ],
+                [
+                  "6",
+                  "A silver‑plated ivory chess rook."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultist",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Cult Initiate",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "arcana": true
+        },
+        {
+          "choose": {
+            "from": [
+              "any"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "choose": {
+            "from": [
+              "any"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "toolProficiencies": [
+        "calligrapher's supplies"
+      ],
+      "entries": [
+        "You were inducted into a secret society that venerates or pursues power from an otherworldly source.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Cult Initiate.",
+            "**Skills.** Arcana, plus one of your choice (the Cultist Affinity table offers recommendations).",
+            "**Languages.** One of your choice (see the Affinity table).",
+            "**Tools.** Calligrapher’s Supplies.",
+            "**Equipment.** Choose A or B: (A) Calligrapher’s Supplies, Costume (cult garb), Holy Symbol (amulet with cult insignia), Traveler’s Clothes, 10 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Cultist Affinities",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "Cult Patron",
+                "Recommended Skill",
+                "Suggested Language"
+              ],
+              "rows": [
+                [
+                  "Aberration",
+                  "Perception",
+                  "Deep Speech"
+                ],
+                [
+                  "Celestial",
+                  "Religion",
+                  "Celestial"
+                ],
+                [
+                  "Fiend (Demon)",
+                  "Religion",
+                  "Abyssal"
+                ],
+                [
+                  "Fiend (Devil)",
+                  "Religion",
+                  "Infernal"
+                ],
+                [
+                  "Fey",
+                  "Nature",
+                  "Sylvan"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building a Cultist",
+          "entries": [
+            "Were you manipulated by a surrogate family, still loyal for infiltration, or fleeing after a crisis of faith?"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Cultist Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "You learned your cult manipulated you throughout your life."
+                ],
+                [
+                  "2",
+                  "A cultist betrayed and slew your leader and mentor."
+                ],
+                [
+                  "3",
+                  "Your cult’s activities aroused local ire and superstition."
+                ],
+                [
+                  "4",
+                  "You followed a loved one into joining the cult, trying to learn what happened to them."
+                ],
+                [
+                  "5",
+                  "Someone forced you to see your cult in a different light."
+                ],
+                [
+                  "6",
+                  "You joined the cult to save yourself from an incurable illness or certain doom."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Cultist Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A sealed scroll of esoteric knowledge."
+                ],
+                [
+                  "2",
+                  "A steel ball bearing etched over its entire surface with sacred text."
+                ],
+                [
+                  "3",
+                  "A crystal that feels strange to the touch."
+                ],
+                [
+                  "4",
+                  "A ritual knife stained with blood, sap, or oils."
+                ],
+                [
+                  "5",
+                  "A set of copper tattoo needles."
+                ],
+                [
+                  "6",
+                  "An embroidered cloth half mask."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Druskenvald Dweller",
+      "source": "TCM",
+      "entries": [
+        "You hail from one of the thirteen baneful provinces of Druskenvald, whose cultures and skills shaped you.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Choose one Origin feat (from this book or core rules).",
+            "**Skills.** Survival, plus one of your choice (see Province Affinities).",
+            "**Tools.** One of your choice (see Province Affinities).",
+            "**Equipment.** Choose A or B: (A) An appropriate artisan’s tools (matching your chosen tool), Map (Druskenvald’s provinces), Traveler’s Clothes, 10 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Province Affinities",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "Province",
+                "Recommended Skill",
+                "Recommended Tool"
+              ],
+              "rows": [
+                [
+                  "Ardengloom",
+                  "History",
+                  "Herbalism Kit"
+                ],
+                [
+                  "Astramar",
+                  "Arcana",
+                  "Navigator’s Tools"
+                ],
+                [
+                  "Bubonia",
+                  "Medicine",
+                  "Poisoner’s Kit"
+                ],
+                [
+                  "Chernabos",
+                  "Deception",
+                  "Calligrapher’s Supplies"
+                ],
+                [
+                  "Edwardia",
+                  "Investigation",
+                  "Tinker’s Tools"
+                ],
+                [
+                  "Enoch",
+                  "Nature",
+                  "Leatherworker’s Tools"
+                ],
+                [
+                  "Kalero",
+                  "Performance",
+                  "Musical Instrument"
+                ],
+                [
+                  "Olmarsh",
+                  "Arcana",
+                  "Cartographer’s Supplies"
+                ],
+                [
+                  "Nerukhet",
+                  "Persuasion",
+                  "Weaver’s Tools"
+                ],
+                [
+                  "Pholsense",
+                  "Religion",
+                  "Mason’s Tools"
+                ],
+                [
+                  "Picco",
+                  "Performance",
+                  "Woodworker’s Tools"
+                ],
+                [
+                  "Syndramas",
+                  "Athletics",
+                  "Cook’s Utensils"
+                ],
+                [
+                  "Zulrogg",
+                  "Survival",
+                  "Herbalism Kit"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Druskenvald Dweller Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Left on a church doorstep as an infant; only a torn cloak hints at your origin."
+                ],
+                [
+                  "2",
+                  "You fled your home province after being accused of a crime."
+                ],
+                [
+                  "3",
+                  "Stories of other provinces spurred you to travel Druskenvald."
+                ],
+                [
+                  "4",
+                  "A trade caravan harmed someone dear to you or stole something precious."
+                ],
+                [
+                  "5",
+                  "You made a desperate pact with an ashborn and seek to nullify it."
+                ],
+                [
+                  "6",
+                  "A vicious bogborn bounty hunter trails you."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Druskenvald Dweller Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A brass needle with a dangling bit of broken thread."
+                ],
+                [
+                  "2",
+                  "A dull, rusty sickle with a bone handle."
+                ],
+                [
+                  "3",
+                  "A star chart etched onto a crystal plate."
+                ],
+                [
+                  "4",
+                  "A wicker doll with bloodstained bead eyes."
+                ],
+                [
+                  "5",
+                  "A length of chain that sometimes rattles unattended."
+                ],
+                [
+                  "6",
+                  "A mummified hand preserved in bog peat."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experiment",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Altered",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "intimidation": true
+        },
+        {
+          "medicine": true
+        }
+      ],
+      "toolProficiencies": [
+        "alchemist's supplies"
+      ],
+      "entries": [
+        "You were forever altered by a blasphemous fusion of science, alchemy, and magic—perhaps to mend a malady or test the limits of your biology.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Altered.",
+            "**Skills.** Intimidation, Medicine.",
+            "**Tools.** Alchemist’s Supplies.",
+            "**Equipment.** Choose A or B: (A) Alchemist’s Supplies, Manacles, Perfume (to cover chemical smell), Traveler’s Clothes (with hooded cloak), 5 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building an Experiment",
+          "entries": [
+            "Were you kidnapped and altered against your will, or did you volunteer? Whatever the reason, the process left visible and invisible scars."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Experiment Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A particular song stirs sadness and overwhelming anger, reminding you of the procedure."
+                ],
+                [
+                  "2",
+                  "Part of your body is clearly grafted from someone else—and they might want it back."
+                ],
+                [
+                  "3",
+                  "Another person was changed alongside you and fled before you could."
+                ],
+                [
+                  "4",
+                  "Recurring nightmares of the procedure show glimpses of unknown faces."
+                ],
+                [
+                  "5",
+                  "Your difference invites curiosity and attention—more disturbing than disdain."
+                ],
+                [
+                  "6",
+                  "A peculiar symbol is branded on or near your alteration."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Experiment Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A syringe with faintly glowing purple residue."
+                ],
+                [
+                  "2",
+                  "A wrench that fits simple machinery built into your body."
+                ],
+                [
+                  "3",
+                  "Chemical‑stained parchments of incomprehensible notes and schematics."
+                ],
+                [
+                  "4",
+                  "A spool of silver thread matching stitches in your altered body part."
+                ],
+                [
+                  "5",
+                  "A metal hip flask scratched with strange runes."
+                ],
+                [
+                  "6",
+                  "A smooth stone that soothes you when held tightly."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghostlight Passenger",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Ghostlight Medium",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "insight": true
+        },
+        {
+          "persuasion": true
+        }
+      ],
+      "toolProficiencies": [
+        "smith's tools"
+      ],
+      "entries": [
+        "You once rode the deathly train known as the Ghostlight Express and formed a lasting connection with its conductor and travelers.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Ghostlight Medium.",
+            "**Skills.** Insight, Persuasion.",
+            "**Tools.** Smith’s Tools.",
+            "**Equipment.** Choose A or B: (A) Smith’s Tools, Bullseye Lantern, Fine Clothes, Oil (3 flasks), 5 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ghostlight Passenger Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Sometimes, when you dream, you find yourself back on the Ghostlight Express."
+                ],
+                [
+                  "2",
+                  "Your first journey to the lands of the dead hints you can find a once‑lost loved one."
+                ],
+                [
+                  "3",
+                  "A specific spirit returns to speak to (and through) you repeatedly."
+                ],
+                [
+                  "4",
+                  "Strangers sometimes know you from your visits on the Ghostlight Express—then forget."
+                ],
+                [
+                  "5",
+                  "You see people in your travels who you recognize from the train."
+                ],
+                [
+                  "6",
+                  "Someone greeted you with knowledge of your first journey, but you don’t remember them."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ghostlight Passenger Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A slate board smeared with erased chalk; words sometimes appear."
+                ],
+                [
+                  "2",
+                  "A lump of coal that never burns away and gives off wispy smoke."
+                ],
+                [
+                  "3",
+                  "A torn ticket stub that is slightly translucent."
+                ],
+                [
+                  "4",
+                  "A dented conductor’s whistle that only the dead can hear."
+                ],
+                [
+                  "5",
+                  "A pocket watch that runs backwards."
+                ],
+                [
+                  "6",
+                  "A battered train conductor’s hat."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Night Stalker",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Hunter of Hunters",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "stealth": true
+        },
+        {
+          "choose": {
+            "from": [
+              "arcana",
+              "history",
+              "religion",
+              "nature"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "toolProficiencies": [
+        "leatherworker's tools"
+      ],
+      "entries": [
+        "Once prey to a monster, now you are the hunter—deadlier and hungrier than what stalked you.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Hunter of Hunters.",
+            "**Skills.** Stealth, plus one of Arcana, History, Religion, or Nature.",
+            "**Tools.** Leatherworker’s Tools.",
+            "**Equipment.** Choose A or B: (A) Leatherworker’s Tools, Book (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Night Stalker Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "You hunt the creature that slew your loved ones."
+                ],
+                [
+                  "2",
+                  "You’re losing your stomach for the hunt."
+                ],
+                [
+                  "3",
+                  "Research reveals some of your initial assumptions were wrong."
+                ],
+                [
+                  "4",
+                  "You failed to stand up to a creature and saved yourself instead of someone else."
+                ],
+                [
+                  "5",
+                  "They terrify you to your soul; you lash out to deny your fear."
+                ],
+                [
+                  "6",
+                  "Your fervent hunt hides a desire to become more than mortal."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Night Stalker Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A necklace of yellowed fangs."
+                ],
+                [
+                  "2",
+                  "Letters showing a personality eroding into incoherence and raving."
+                ],
+                [
+                  "3",
+                  "A knife made from a massive creature’s claw."
+                ],
+                [
+                  "4",
+                  "A casting of a monstrous footprint."
+                ],
+                [
+                  "5",
+                  "A hide or pelt from a vicious beast."
+                ],
+                [
+                  "6",
+                  "A glass eye that normal animals shy away from."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reflected Wanderer",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Unreflected",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "deception": true
+        },
+        {
+          "investigation": true
+        }
+      ],
+      "toolProficiencies": [
+        "disguise kit"
+      ],
+      "entries": [
+        "Part of you separated from your being and wanders the world as a mirage identical to you, taking your reflection and shadow with it.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Unreflected.",
+            "**Skills.** Deception, Investigation.",
+            "**Tools.** Disguise Kit.",
+            "**Equipment.** Choose A or B: (A) Disguise Kit, Mirror, Traveler’s Clothes, 16 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reflected Wanderer Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A close, long‑term relationship soured as if you wronged the other person."
+                ],
+                [
+                  "2",
+                  "Your other self leaves messages—sometimes fond, other times resentful."
+                ],
+                [
+                  "3",
+                  "Animals become skittish and restless around you."
+                ],
+                [
+                  "4",
+                  "You’re wanted for crimes you never committed; eyewitnesses named you."
+                ],
+                [
+                  "5",
+                  "An enemy starts treating you with respect and kindness."
+                ],
+                [
+                  "6",
+                  "Mirrors sometimes crack when you touch them."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reflected Wanderer Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A shattered hand mirror."
+                ],
+                [
+                  "2",
+                  "An invitation to a powerful person’s home whom you’ve never met."
+                ],
+                [
+                  "3",
+                  "A locket with your silhouette painted on both sides, facing each other."
+                ],
+                [
+                  "4",
+                  "A short, derisive letter from yourself you don’t remember writing."
+                ],
+                [
+                  "5",
+                  "A brooch delivered to you that you didn’t purchase."
+                ],
+                [
+                  "6",
+                  "A piece of chalk that writes in a different color than it appears."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rest Warden",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Grave Keeper",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "religion": true
+        },
+        {
+          "survival": true
+        }
+      ],
+      "toolProficiencies": [
+        "mason's tools"
+      ],
+      "entries": [
+        "You tend the eternal rest and disposition of the deceased—gravedigger, mortician, embalmer—standing between Undead depredations and those you watch over.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Grave Keeper.",
+            "**Skills.** Religion, Survival.",
+            "**Tools.** Mason’s Tools.",
+            "**Equipment.** Choose A or B: (A) Mason’s Tools, Hooded Lantern, Oil (3 flasks), Shovel, Soap, Traveler’s Clothes (with thick gloves and dark hood), 10 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Rest Warden Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A strange figure commissioned a headstone for someone very much alive."
+                ],
+                [
+                  "2",
+                  "In desperation, you once accepted a bribe to look the other way during a grave robbery."
+                ],
+                [
+                  "3",
+                  "You learned from Yorgrim, gravedigger and caretaker of Maidenmist Cemetery."
+                ],
+                [
+                  "4",
+                  "Someone violated graves under your watch and stole the corpses."
+                ],
+                [
+                  "5",
+                  "You comforted a child at their parent’s funeral and now protect them."
+                ],
+                [
+                  "6",
+                  "A loved one rose as Undead; you vowed to bring them to final rest."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Rest Warden Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A prayer slip and seal covered in verses to protect the departed."
+                ],
+                [
+                  "2",
+                  "A charcoal rubbing of a gravestone epitaph."
+                ],
+                [
+                  "3",
+                  "A coffin nail that always ends up bent."
+                ],
+                [
+                  "4",
+                  "A dried flower from one of the first graves you tended."
+                ],
+                [
+                  "5",
+                  "A length of rusty iron chain and padlock."
+                ],
+                [
+                  "6",
+                  "A sealed bottle containing a final breath."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reveler",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Reveling Fool",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "performance": true
+        },
+        {
+          "stealth": true
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "choose": {
+            "from": [
+              "any"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "choose": {
+            "from": [
+              "musical instrument (any)"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "entries": [
+        "You traveled with the Lord of Fools’ unsettling revelry, learning its masks, mirth, and the madness beneath.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Reveling Fool.",
+            "**Skills.** Performance, Stealth.",
+            "**Languages.** One of your choice (Abyssal recommended).",
+            "**Tools.** One kind of Musical Instrument.",
+            "**Equipment.** Choose A or B: (A) Musical Instrument (same as above), Ball Bearings, Costume (jovial character with a laughing mask), Hunting Trap, Manacles, 3 Torches (for juggling), Traveler’s Clothes, 10 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reveler Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Posters depicting your reveler guise appear in towns after the revel leaves."
+                ],
+                [
+                  "2",
+                  "You learned that some who vanish to ‘join’ the revel are sacrificed; you fled."
+                ],
+                [
+                  "3",
+                  "More people than usual have gone missing after recent revels."
+                ],
+                [
+                  "4",
+                  "Crows, owls, and other birds seem to cackle and laugh in your presence."
+                ],
+                [
+                  "5",
+                  "Another reveler may hide a sinister motive behind their jester’s guise."
+                ],
+                [
+                  "6",
+                  "You left after glimpsing the wickedness beneath the Lord of Fools’ jovial veneer."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reveler Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A small wind‑up bell concealed in the palm with a hidden button."
+                ],
+                [
+                  "2",
+                  "A dented metal spray bottle."
+                ],
+                [
+                  "3",
+                  "A string of colorful handkerchiefs tied together."
+                ],
+                [
+                  "4",
+                  "A tarnished silver bell that sometimes refuses to jingle."
+                ],
+                [
+                  "5",
+                  "Boots or slippers that squeak comically with each step."
+                ],
+                [
+                  "6",
+                  "A short scepter or baton with a horn on the cap."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scholar of the Forbidden",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Dread Speech",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "arcana": true
+        },
+        {
+          "intimidation": true
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "choose": {
+            "from": [
+              "any"
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "toolProficiencies": [
+        "calligrapher's supplies"
+      ],
+      "entries": [
+        "You delved into brittle pages and weathered tablets carved with blasphemy, seizing forbidden knowledge and cursed power.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Dread Speech.",
+            "**Skills.** Arcana, Intimidation.",
+            "**Languages.** One of your choice (Deep Speech recommended).",
+            "**Tools.** Calligrapher’s Supplies.",
+            "**Equipment.** Choose A or B: (A) Calligrapher’s Supplies, Book (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3 flasks), Paper (10 sheets), 2 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scholar of the Forbidden Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A wealthy patron wants what you found and paid you handsomely to research it."
+                ],
+                [
+                  "2",
+                  "Speaking the first secret word made you pass out; your lips later were cracked and blackened."
+                ],
+                [
+                  "3",
+                  "Something has followed you since you uncovered illicit secrets, drawing closer."
+                ],
+                [
+                  "4",
+                  "Your shadow converses with you when you’re alone."
+                ],
+                [
+                  "5",
+                  "The reflections of your eyes are black voids that no one else seems to notice."
+                ],
+                [
+                  "6",
+                  "Inquisitors or witch hunters hound you to silence you and your discoveries."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scholar of the Forbidden Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A broken fragment of a stone tablet carved with writhing symbols."
+                ],
+                [
+                  "2",
+                  "A desiccated bit of tentacle."
+                ],
+                [
+                  "3",
+                  "A small soapstone idol that always ends up on your person."
+                ],
+                [
+                  "4",
+                  "A book bound in humanoid skin with blank pages that absorb pigment."
+                ],
+                [
+                  "5",
+                  "An alien eyeball floating in preservative fluid."
+                ],
+                [
+                  "6",
+                  "An antique amulet with indecipherable symbols that whisper at the edge of consciousness."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wicker Weaver",
+      "source": "TCM",
+      "feats": [
+        {
+          "name": "Charm Twister",
+          "source": "TCM"
+        }
+      ],
+      "skillProficiencies": [
+        {
+          "insight": true
+        },
+        {
+          "nature": true
+        }
+      ],
+      "languageProficiencies": [
+        "sylvan"
+      ],
+      "toolProficiencies": [
+        "weaver's tools"
+      ],
+      "entries": [
+        "You know ancient rites kept alive by secretive druids and hedge practitioners—remedies and hexes woven into wicker charms.",
+        {
+          "type": "list",
+          "items": [
+            "**Feat.** Charm Twister.",
+            "**Skills.** Insight, Nature.",
+            "**Languages.** Sylvan.",
+            "**Tools.** Weaver’s Tools.",
+            "**Equipment.** Choose A or B: (A) Quarterstaff, Weaver’s Tools, Basket (with dry reeds), Book (druidic lore), Iron Pot, Traveler’s Clothes, 19 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Wicker Weaver Story Threads",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Thread"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A charm you created ensured a healthy birth; the family sends heartfelt gifts."
+                ],
+                [
+                  "2",
+                  "Your mentor has become withdrawn and uncharacteristically agitated."
+                ],
+                [
+                  "3",
+                  "An order of druids, the Circle of Wicker, taught you their ways—for reasons unknown."
+                ],
+                [
+                  "4",
+                  "Someone offered a shocking sum to twist a charm for them; you’re tempted and unsettled."
+                ],
+                [
+                  "5",
+                  "You traded a hexed charm for a child’s toy that now binds misfortune to its owner."
+                ],
+                [
+                  "6",
+                  "You wove a hex into a charm to punish a criminal; they still nurse the grudge."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Wicker Weaver Trinkets",
+          "entries": [
+            {
+              "type": "table",
+              "colLabels": [
+                "1d6",
+                "Trinket"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "A crescent woven from wicker and laced with silver wire."
+                ],
+                [
+                  "2",
+                  "A glass bauble—your first payment for hedge wisdom."
+                ],
+                [
+                  "3",
+                  "A tiny figure made of acorn caps from the oldest oak in the woods."
+                ],
+                [
+                  "4",
+                  "A rough‑forged knife with an etched blade."
+                ],
+                [
+                  "5",
+                  "A snake skull in a wicker cage."
+                ],
+                [
+                  "6",
+                  "A battered stuffed animal missing one eye."
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "feat": [
+    {
+      "name": "Altered",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "You have been changed through magic, science, or a volatile blend of the two. You have a blatant physical augmentation of your choice from the options below. The augmentation is obvious—such as with stitches, grafts of other creature’s body parts, or implants—unless disguised.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Aquatic Adaptation.",
+              "entry": "You have gills or mucus membranes that allow you to breathe water, and you have webbed extremities that grant you a Swim Speed equal to your"
+            },
+            {
+              "type": "item",
+              "name": "Speed.",
+              "entry": ""
+            },
+            {
+              "type": "item",
+              "name": "Natural Armor.",
+              "entry": "You have scales, plates, or thick hide that grants you an AC of 13 + your Dexterity or Constitution modifier (choose the ability when you select this feat)."
+            },
+            {
+              "type": "item",
+              "name": "Natural Weapons.",
+              "entry": "You have claws, fangs, horns, or some other natural weapon that you can use to make Unarmed Strikes that deal 1d8 damage on a hit. The damage is Bludgeoning, Piercing, or Slashing as appropriate to the form."
+            },
+            {
+              "type": "item",
+              "name": "Night Vision.",
+              "entry": "You have Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 30 feet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charm Twister",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "You know hedge remedies and hexes passed down through Old Ways teachings, and you can impart them into small wicker charms you weave. You gain the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Old Blessing.",
+              "entry": "You can cast the Bless spell once using this benefit, targeting only creatures carrying a wicker charm you've woven, and you can’t do so again until you finish a"
+            },
+            {
+              "type": "item",
+              "name": "Long Rest.",
+              "entry": "You can also cast the spell using any spell slots you have. Your spellcasting ability for casting the spell in this way is Intelligence, Wisdom, or Charisma (choose the ability when you select this feat)."
+            },
+            {
+              "type": "item",
+              "name": "Twisted Hex.",
+              "entry": "As a Magic action, you can weave spite into a wicker charm you touch. Choose an ability. When another creature is carrying the charm, or while this charm is within an area that the creature considers home, it has Disadvantage on ability checks and attack rolls using the chosen ability. When the creature fails one of these rolls, it can make a Charisma saving throw, destroying the charm on a success (DC = 8 plus your Proficiency Bonus and the ability modifier you chose for Old Blessing). You can only have one Twisted Hex charm at a time. If you make a new one, the previous one loses its magic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Ritualist",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "Your study of blood magic and life force has borne fruit, granting you the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Blood Lash.",
+              "entry": "You learn the Blood Bolt * cantrip. Your spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose the ability when you select this feat)."
+            },
+            {
+              "type": "item",
+              "name": "Bottled Life.",
+              "entry": "When you finish a Long Rest, you can perform a 1-minute ritual to transfer some of your life essence into a vessel for later use. Expend a number of Hit Point Dice up to your Proficiency Bonus, and bleed into a vial of water or other liquid. As a Bonus Action, a creature can drink the vial to roll the Hit Dice you expended. The creature regains a number of Hit Points equal to the total rolled plus its Constitution modifier. The vial remains potent until you finish a Long Rest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Initiate",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "Your cult instructs you in eldritch rites, granting you the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Two Cantrips.",
+              "entry": "You learn two cantrips of your choice from the Warlock spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat’s spells (choose the ability when you select this feat). Level 1"
+            },
+            {
+              "type": "item",
+              "name": "Spell.",
+              "entry": "Choose a level 1 spell from the Warlock spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Short or"
+            },
+            {
+              "type": "item",
+              "name": "Long Rest.",
+              "entry": "You can also cast the spell using any spell slots you have."
+            },
+            {
+              "type": "item",
+              "name": "Spell Change.",
+              "entry": "Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the Warlock spell list. 64Feat S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dread Speech",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "You have articulated a few words of forbidden truth that resonate with—and fray—the fabric of creation, granting you the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Eldritch Word.",
+              "entry": "As a Bonus Action, you can speak a magical word aloud to force a creature within 60 feet of yourself to make a Wisdom saving throw (DC = 8 plus your Proficiency Bonus and Intelligence, Wisdom, or Charisma modifier; choose the ability when you select this feat). On a failed save, the target has the Frightened condition until the start of your next turn. You can use this benefit safely once, and you regain the ability to do so when you finish a Short or"
+            },
+            {
+              "type": "item",
+              "name": "Long Rest.",
+              "entry": "You can use it again before resting, but you take 1d6 Necrotic damage, which can’t be reduced or prevented in any way."
+            },
+            {
+              "type": "item",
+              "name": "Shred Fate.",
+              "entry": "Your dread secrets can unravel the destiny of your foes. You always have the Bane spell prepared, and your spellcasting ability for it is the ability you chose for"
+            },
+            {
+              "type": "item",
+              "name": "Eldritch Word.",
+              "entry": "You can cast it once without Material components or a spell slot, and you regain the ability to cast it in that way when you finish a"
+            },
+            {
+              "type": "item",
+              "name": "Long Rest.",
+              "entry": "You can also cast the spell using any spell slots you have."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fate Gambler",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "Coming out ahead, whether in games of chance or in life-or-death contention, fills you with resolve and vigor. You gain the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Bet Big.",
+              "entry": "If you don't already have it, you gain Heroic Inspiration whenever you succeed on an ability check made against another creature, when you reduce a creature to 0 Hit Points, or when a creature fails a saving throw you forced it to make. If, in any of these cases, the creature has a CR of 0 or lacks a CR (such as another player character), you don’t gain"
+            },
+            {
+              "type": "item",
+              "name": "Heroic Inspiration.",
+              "entry": ""
+            },
+            {
+              "type": "item",
+              "name": "Win Big.",
+              "entry": "As a Bonus Action, you can expend your Heroic Inspiration to gain a number of T emporary Hit Points equal to your level."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghostlight Medium",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "You formed a mystical connection to the Ghostlight Express that affords you insight into the nature of spirits, granting the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Ghostly Touch.",
+              "entry": "When you damage a creature with the Incorporeal Movement trait, you can ignore the creature’s damage Resistances, if any."
+            },
+            {
+              "type": "item",
+              "name": "Spirit Sense.",
+              "entry": "As a Bonus Action, you can sense any Undead within 60 feet of you, or any creatures in the Ethereal Plane that overlaps that area. You learn the distance and direction to any creatures you detect (or an Ethereal creature’s equivalent position on your plane). Once you detect a creature with this benefit, you can’t use it again until you finish a Short or Long Rest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grave Keeper",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "Studying funeral rites and tending the dead’s rest has made you a conduit between the worlds of the living and the dead. You gain the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Divine Channel.",
+              "entry": "You gain one use of the Channel Divinity feature from the Cleric class, and you can create the Turn Undead effect with it. If you already have Channel Divinity, you add this use to the feature from one class of your choice. Your save DC for this benefit is 8 plus your Wisdom modifier and"
+            },
+            {
+              "type": "item",
+              "name": "Proficiency Bonus.",
+              "entry": ""
+            },
+            {
+              "type": "item",
+              "name": "Last Rites.",
+              "entry": "You can enact a 10-minute ritual to prepare the corpse of a Medium or smaller creature, expending at least 10 GP worth of incense, oils, linen wraps, or similar trappings. The prepared corpse can’t become Undead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunter of Hunters",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "You are adept at hunting monstrous prey, granting you the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Dead Aim.",
+              "entry": "As a Bonus Action, you can scrutinize a creature to spot its vulnerable points. The next time you deal damage to the creature before the start of your next turn, you ignore the creature’s damage Resistances, if any."
+            },
+            {
+              "type": "item",
+              "name": "Studied Quarry.",
+              "entry": "You have Advantage on ability checks made to recall information about a creature. 65Feat S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memory Starved",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "Your mind ravenously gathers details and desperately clings to its memories and faculties, granting you the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Desperate Detail.",
+              "entry": "You have Advantage on Intelligence (Investigation) checks."
+            },
+            {
+              "type": "item",
+              "name": "Iron Mind.",
+              "entry": "You have Advantage on saving throws made to avoid or end the Charmed condition and to avoid having your memories read or altered."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reveling Fool",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "You joined a troupe of madcap revelers and learned to take on the guise of a fool, channeling otherworldly laughter and joviality. You gain the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Fool’s Mask.",
+              "entry": "By donning a jovial mask and a fool’s, jester’s, or clown’s costume, you take on a new identity that hides your own. In the guise of the fool, you can get away with minor transgressions against people in positions of authority or station."
+            },
+            {
+              "type": "item",
+              "name": "Jester’s Repartee.",
+              "entry": "You always have the Hideous Laughter spell prepared, and your spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose the ability when you select this feat). You can cast it once without Material components or a spell slot, and you regain the ability to cast it in that way when you finish a"
+            },
+            {
+              "type": "item",
+              "name": "Long Rest.",
+              "entry": "You can also cast the spell using any spell slots you have."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unreflected",
+      "source": "TCM",
+      "prerequisite": [],
+      "entries": [
+        "Your image is separated from you, making you unable to cast a reflection or a shadow, but you're able to easily slip notice. You gain the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            {
+              "type": "item",
+              "name": "Inscrutable.",
+              "entry": "Creatures have Disadvantage on Wisdom (Insight) checks made against you."
+            },
+            {
+              "type": "item",
+              "name": "Unremarkable.",
+              "entry": "The loss of some part of yourself leaves you able to fade into the background. While you are within a group of at least two other creatures of your type and that there are no more than one size larger or smaller than you, you can take the Hide action from creatures outside that group by making a Charisma (Deception) check instead of Dexterity (Stealth), with no need for being behind cover or"
+            },
+            {
+              "type": "item",
+              "name": "Heavily Obscured.",
+              "entry": "If you are ever more than 5 feet from at least two other such creatures while hiding this way, you are revealed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spell": [
+    {
+      "name": "Ancestral Communion",
+      "source": "TCM",
+      "level": 1,
+      "school": "D",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood Bolt",
+      "source": "TCM",
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood Sacrifice",
+      "source": "TCM",
+      "level": 2,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a drop of your own blood"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buried Alive",
+      "source": "TCM",
+      "level": 4,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a pinch of grave dirt"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Call of the Wild",
+      "source": "TCM",
+      "level": 4,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a bit of animal fur or hide"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Captivate Undead",
+      "source": "TCM",
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a pinch of bone dust"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chain of Conviction",
+      "source": "TCM",
+      "level": 2,
+      "school": "C",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": false,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chorus of the Lost",
+      "source": "TCM",
+      "level": 2,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a silver bell worth 10+ GP"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Consuming Pyre",
+      "source": "TCM",
+      "level": 4,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Creeping Rot",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crimson Harvest",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a vial of blood"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crooked Ward",
+      "source": "TCM",
+      "level": 3,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a five-pointed wicker star"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Culling Sickle",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cursed Cacophony",
+      "source": "TCM",
+      "level": 3,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": true,
+        "mMaterial": "a sheet of music"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Devil's Due",
+      "source": "TCM",
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction",
+          "condition": "which you take when another creature within range takes damage"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": true,
+        "mMaterial": "a glob of pitch"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dissolution",
+      "source": "TCM",
+      "level": 0,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Eye Burn",
+      "source": "TCM",
+      "level": 0,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction",
+          "condition": "which you take when a creature you can see within range targets you with an attack"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a smear of camphor"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "rounds",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Field of Reaping",
+      "source": "TCM",
+      "level": 5,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a dried corn husk or wheat hull"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghastly Charge",
+      "source": "TCM",
+      "level": 6,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a scrap of a banner"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harvest Moonglow",
+      "source": "TCM",
+      "level": 3,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a piece of moonstone"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harrowing Ballad",
+      "source": "TCM",
+      "level": 2,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hungering Blade",
+      "source": "TCM",
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Intrusive Despair",
+      "source": "TCM",
+      "level": 4,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a devil’s trumpet blossom"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isolation",
+      "source": "TCM",
+      "level": 3,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a small metal cube"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lucky Charm",
+      "source": "TCM",
+      "level": 5,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a four-leaf clover and a shard of broken mirror"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Martyr",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a Dagger worth at least 1 CP"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mirrored Agony",
+      "source": "TCM",
+      "level": 5,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction",
+          "condition": "which you take when a creature you can see within 60 feet of you damages your ally"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a pin or needle"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mist of Mourning",
+      "source": "TCM",
+      "level": 3,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a vial of tears"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Murder of Crows",
+      "source": "TCM",
+      "level": 4,
+      "school": "C",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a crow feather"
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mysterious Presence",
+      "source": "TCM",
+      "level": 0,
+      "school": "I",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Puppet Master",
+      "source": "TCM",
+      "level": 4,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a marionette string"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sacrificial Siphon",
+      "source": "TCM",
+      "level": 4,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "touch"
+        }
+      },
+      "components": {
+        "v": false,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sanctum of the Shepherd",
+      "source": "TCM",
+      "level": 4,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "minute"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "adamantine or diamond powder worth 200+ GP, which the spell consumes"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 24
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sanctum of the Flock",
+      "source": "TCM",
+      "level": 3,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "minute"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "powdered silver worth 25+ GP, which the spell consumes"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hours",
+            "amount": 24
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sanguine Secrets",
+      "source": "TCM",
+      "level": 2,
+      "school": "D",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a drop of blood, which the spell consumes"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "rounds",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scarlet Dawn",
+      "source": "TCM",
+      "level": 3,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shadow Drain",
+      "source": "TCM",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Summer Winds",
+      "source": "TCM",
+      "level": 2,
+      "school": "V",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "PHB"
+          },
+          {
+            "name": "Druid",
+            "source": "PHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "PHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Unraveling Whisper",
+      "source": "TCM",
+      "level": 2,
+      "school": "E",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special"
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "rounds",
+            "amount": 1
+          },
+          "concentration": false
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Veil of the Reaper",
+      "source": "TCM",
+      "level": 2,
+      "school": "I",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true,
+        "mMaterial": "a dried corn husk or wheat straw"
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minutes",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Ranger",
+            "source": "PHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "PHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "PHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "PHB"
+          }
+        ]
+      }
+    }
+  ]
+}
