@@ -11,10 +11,10 @@
         "convertedBy": [
           "ChatGPT"
         ],
-        "version": "1.0.7-xphb+fix10",
+        "version": "1.0.7-xphb+fix10+fixsplit",
         "edition": "one",
         "dateAdded": 1754848905,
-        "dateLastModified": 1754849497
+        "dateLastModified": 1754851255
       }
     ]
   },
@@ -208,8 +208,8 @@
       "subclassFeatures": [
         "Experiment 3|Barbarian|XPHB|3",
         "Experiment 6|Barbarian|XPHB|6",
-        "Experiment 14|Barbarian|XPHB|14",
-        "Experiment 10|Barbarian|XPHB|10"
+        "Experiment 10|Barbarian|XPHB|10",
+        "Experiment 14|Barbarian|XPHB|14"
       ]
     },
     {
@@ -221,8 +221,6 @@
       "page": 20,
       "subclassFeatures": [
         "Collegeof Whistles 3|Bard|XPHB|3",
-        "Collegeof Whistles 3|Bard|XPHB|3",
-        "Collegeof Whistles 6|Bard|XPHB|6",
         "Collegeof Whistles 6|Bard|XPHB|6",
         "Collegeof Whistles 10|Bard|XPHB|10",
         "Collegeof Whistles 14|Bard|XPHB|14"
@@ -237,13 +235,10 @@
       "page": 22,
       "subclassFeatures": [
         "Harvest Domain 3|Cleric|XPHB|3",
-        "Harvest Domain 3|Cleric|XPHB|3",
-        "Harvest Domain 3|Cleric|XPHB|3",
-        "Harvest Domain 3|Cleric|XPHB|3",
         "Harvest Domain 6|Cleric|XPHB|6",
-        "Harvest Domain 17|Cleric|XPHB|17",
         "Harvest Domain 10|Cleric|XPHB|10",
-        "Harvest Domain 14|Cleric|XPHB|14"
+        "Harvest Domain 14|Cleric|XPHB|14",
+        "Harvest Domain 17|Cleric|XPHB|17"
       ]
     },
     {
@@ -254,8 +249,6 @@
       "classSource": "XPHB",
       "page": 24,
       "subclassFeatures": [
-        "Old Ways 3|Druid|XPHB|3",
-        "Old Ways 3|Druid|XPHB|3",
         "Old Ways 3|Druid|XPHB|3",
         "Old Ways 6|Druid|XPHB|6",
         "Old Ways 10|Druid|XPHB|10",
@@ -271,8 +264,6 @@
       "page": 26,
       "subclassFeatures": [
         "Wicker 3|Druid|XPHB|3",
-        "Wicker 3|Druid|XPHB|3",
-        "Wicker 3|Druid|XPHB|3",
         "Wicker 6|Druid|XPHB|6",
         "Wicker 10|Druid|XPHB|10",
         "Wicker 14|Druid|XPHB|14"
@@ -287,12 +278,12 @@
       "page": 28,
       "subclassFeatures": [
         "Barrow Guard 3|Fighter|XPHB|3",
-        "Barrow Guard 7|Fighter|XPHB|7",
-        "Barrow Guard 15|Fighter|XPHB|15",
-        "Barrow Guard 18|Fighter|XPHB|18",
         "Barrow Guard 6|Fighter|XPHB|6",
+        "Barrow Guard 7|Fighter|XPHB|7",
         "Barrow Guard 10|Fighter|XPHB|10",
-        "Barrow Guard 14|Fighter|XPHB|14"
+        "Barrow Guard 14|Fighter|XPHB|14",
+        "Barrow Guard 15|Fighter|XPHB|15",
+        "Barrow Guard 18|Fighter|XPHB|18"
       ]
     },
     {
@@ -304,13 +295,11 @@
       "page": 30,
       "subclassFeatures": [
         "Warrior of the Pestilent Haze 3|Monk|XPHB|3",
-        "Warrior of the Pestilent Haze 3|Monk|XPHB|3",
         "Warrior of the Pestilent Haze 6|Monk|XPHB|6",
-        "Warrior of the Pestilent Haze 6|Monk|XPHB|6",
-        "Warrior of the Pestilent Haze 11|Monk|XPHB|11",
-        "Warrior of the Pestilent Haze 17|Monk|XPHB|17",
         "Warrior of the Pestilent Haze 10|Monk|XPHB|10",
-        "Warrior of the Pestilent Haze 14|Monk|XPHB|14"
+        "Warrior of the Pestilent Haze 11|Monk|XPHB|11",
+        "Warrior of the Pestilent Haze 14|Monk|XPHB|14",
+        "Warrior of the Pestilent Haze 17|Monk|XPHB|17"
       ]
     },
     {
@@ -322,13 +311,12 @@
       "page": 32,
       "subclassFeatures": [
         "Castigation 3|Paladin|XPHB|3",
-        "Castigation 3|Paladin|XPHB|3",
-        "Castigation 7|Paladin|XPHB|7",
-        "Castigation 15|Paladin|XPHB|15",
-        "Castigation 20|Paladin|XPHB|20",
         "Castigation 6|Paladin|XPHB|6",
+        "Castigation 7|Paladin|XPHB|7",
         "Castigation 10|Paladin|XPHB|10",
-        "Castigation 14|Paladin|XPHB|14"
+        "Castigation 14|Paladin|XPHB|14",
+        "Castigation 15|Paladin|XPHB|15",
+        "Castigation 20|Paladin|XPHB|20"
       ]
     },
     {
@@ -340,12 +328,12 @@
       "page": 34,
       "subclassFeatures": [
         "Grim Harbinger 3|Ranger|XPHB|3",
-        "Grim Harbinger 3|Ranger|XPHB|3",
-        "Grim Harbinger 7|Ranger|XPHB|7",
-        "Grim Harbinger 11|Ranger|XPHB|11",
         "Grim Harbinger 6|Ranger|XPHB|6",
+        "Grim Harbinger 7|Ranger|XPHB|7",
         "Grim Harbinger 10|Ranger|XPHB|10",
-        "Grim Harbinger 14|Ranger|XPHB|14"
+        "Grim Harbinger 11|Ranger|XPHB|11",
+        "Grim Harbinger 14|Ranger|XPHB|14",
+        "Grim Harbinger 15|Ranger|XPHB|15"
       ]
     },
     {
@@ -357,11 +345,11 @@
       "page": 36,
       "subclassFeatures": [
         "Sinner 3|Rogue|XPHB|3",
-        "Sinner 13|Rogue|XPHB|13",
-        "Sinner 17|Rogue|XPHB|17",
         "Sinner 6|Rogue|XPHB|6",
         "Sinner 10|Rogue|XPHB|10",
-        "Sinner 14|Rogue|XPHB|14"
+        "Sinner 13|Rogue|XPHB|13",
+        "Sinner 14|Rogue|XPHB|14",
+        "Sinner 17|Rogue|XPHB|17"
       ]
     },
     {
@@ -373,11 +361,10 @@
       "page": 38,
       "subclassFeatures": [
         "Crimson Sorcery 3|Sorcerer|XPHB|3",
-        "Crimson Sorcery 3|Sorcerer|XPHB|3",
         "Crimson Sorcery 6|Sorcerer|XPHB|6",
-        "Crimson Sorcery 6|Sorcerer|XPHB|6",
+        "Crimson Sorcery 10|Sorcerer|XPHB|10",
         "Crimson Sorcery 14|Sorcerer|XPHB|14",
-        "Crimson Sorcery 10|Sorcerer|XPHB|10"
+        "Crimson Sorcery 18|Sorcerer|XPHB|18"
       ]
     },
     {
@@ -388,7 +375,6 @@
       "classSource": "XPHB",
       "page": 40,
       "subclassFeatures": [
-        "Great Fool 3|Warlock|XPHB|3",
         "Great Fool 3|Warlock|XPHB|3",
         "Great Fool 6|Warlock|XPHB|6",
         "Great Fool 10|Warlock|XPHB|10",
@@ -404,8 +390,6 @@
       "page": 42,
       "subclassFeatures": [
         "Horned King 3|Warlock|XPHB|3",
-        "Horned King 3|Warlock|XPHB|3",
-        "Horned King 3|Warlock|XPHB|3",
         "Horned King 6|Warlock|XPHB|6",
         "Horned King 10|Warlock|XPHB|10",
         "Horned King 14|Warlock|XPHB|14"
@@ -419,7 +403,6 @@
       "classSource": "XPHB",
       "page": 44,
       "subclassFeatures": [
-        "Occultist 3|Wizard|XPHB|3",
         "Occultist 3|Wizard|XPHB|3",
         "Occultist 6|Wizard|XPHB|6",
         "Occultist 10|Wizard|XPHB|10",
@@ -465,7 +448,7 @@
       "subclassSource": "TCM",
       "level": 6,
       "entries": [
-        "Through continued experimentation or your natural\nadaptation to your implants, you can now activate one\nof the compound options below, in addition to a serum,\nwhen you enter your Rage or change your chosen serum. The chosen compound lasts for the duration of\nyour Rage, or until you choose a new compound.\nStimulated Senses. You gain Blindsight out to a\nrange of 30 feet. If you already have Blindsight, its range\nincreases by 30 feet.\nMaddening Fumes. Your skin emits aggression-\nspiking fumes in a 30-foot Emanation. While in the Emanation, an enemy's Speed is halved, and if it starts its turn there it must succeed on a Wisdom saving\nthrow (DC 8 plus your Constitution modifier and\nProficiency Bonus) or have Disadvantage on attack rolls against targets other than you until the start of its\nnext turn.\nCorrosive Expulsion. When you take the Attack\naction on your turn, you can replace one of your\nattacks with a spray of caustic chemicals from your implants in a 15-foot Cone, or a 30-foot Line that\nis 5 feet wide (choose the shape each time). Each\ncreature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and\nProficiency Bonus). Roll a number of d8s equal to your\nRage Damage bonus. On a failed save, a target takes\nAcid damage equal to the total rolled, or half as much\ndamage on a successful one.LEVEL 10: REACTIVE CATALYST\nYour implants are now sensitive to your response to danger\nand flood you with stimulating chemicals. When you take damage, or when you gain the Blinded, Deafened,\nPoisoned, or Stunned condition, you can take a Reaction\nto enter your Rage before the damage or conditions are\napplied. When you enter your Rage, you end any of those\nconditions on yourself, including any triggering conditions.\nAdditionally, while your Rage is active, you have\nAdvantage on Constitution saving throws."
+        "Through continued experimentation or your natural\nadaptation to your implants, you can now activate one\nof the compound options below, in addition to a serum,\nwhen you enter your Rage or change your chosen serum. The chosen compound lasts for the duration of\nyour Rage, or until you choose a new compound.\nStimulated Senses. You gain Blindsight out to a\nrange of 30 feet. If you already have Blindsight, its range\nincreases by 30 feet.\nMaddening Fumes. Your skin emits aggression-\nspiking fumes in a 30-foot Emanation. While in the Emanation, an enemy's Speed is halved, and if it starts its turn there it must succeed on a Wisdom saving\nthrow (DC 8 plus your Constitution modifier and\nProficiency Bonus) or have Disadvantage on attack rolls against targets other than you until the start of its\nnext turn.\nCorrosive Expulsion. When you take the Attack\naction on your turn, you can replace one of your\nattacks with a spray of caustic chemicals from your implants in a 15-foot Cone, or a 30-foot Line that\nis 5 feet wide (choose the shape each time). Each\ncreature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and\nProficiency Bonus). Roll a number of d8s equal to your\nRage Damage bonus. On a failed save, a target takes\nAcid damage equal to the total rolled, or half as much\ndamage on a successful one."
       ]
     },
     {
@@ -530,7 +513,7 @@
       "subclassSource": "TCM",
       "level": 6,
       "entries": [
-        "You can whistle as a Magic action to summon a spectral\nlocomotive into existence. It hurtles forward in a\n120-foot-long, 10-foot-wide Line from you, and it passes\nthrough objects and creatures.\nYou and up to six willing creatures of your choice\nwithin 30 feet of you can hitch a ride on the train. You teleport to an unoccupied space of your choice in the\nLine, and any creatures who accompanied you appear in\nthe closest unoccupied spaces to you.\nEach other creature in the Line must succeed on a\nWisdom saving throw against your spell save DC or have the Deafened condition until the start of your next turn, be pushed up to 10 feet straight away from the Line’s\npoint of origin, and takes an amount of Psychic damage\nequal to three rolls of your Bardic Inspiration die.\nOnce you use this feature, you can’t do so again until\nyou finish a Long Rest unless you expend a spell slot of level 3+ (no action required) to restore your use of it.LEVEL 14: LAST STOP\nThe ghostly shrill of your whistle now draws the living\ncloser to the world of the dead. As a Magic action, you blow a whistle that is audible up to 300 feet away. Up to\nsix creatures of your choice that you can see within that\nrange must succeed on a Charisma saving throw against\nyour spell save DC or be cursed. When a cursed target\ntakes Psychic damage, it has the Frightened condition toward the source of that damage until the end of its\nnext turn. The first time a cursed target takes Psychic\ndamage, it has Vulnerability to Psychic damage. The target repeats the saving throw at the end of each of its\nturns, ending the effect on itself on a success. After 1\nminute, it succeeds automatically.\nOnce you use this feature, you can’t use it again until\nyou finish a Long Rest unless you expend a spell slot of level 7+ (no action required) to restore your use of it.\nWHISTLES AND WANDERINGS\nThe Wandering Visits table offers suggestions on places you’ve visited during your travels where you met the\nvarious spirits drawn to your whistles. You can use the\nexamples as they’re given, mix and match the locations and the spirits, or create your own.\nWandering Visits\n1d6 Location\n1 You found an abandoned tavern with a single place\nstill set at a table in the corner. A melancholy spirit\nwaited there for someone who would never arrive.\n2Scorched foundations are the only remains of a cottage that burned long ago. The echo of a singing child watched over travelers who stopped there.\n3 You stayed in a manor house’s haunted tower\nquarters. The angry spirit there is the remnant of someone who died, old and infirm—helpless to stop the wickedness they saw from afar.\n4 The mournful song of a lingering soul drew you to\nan old, covered bridge—the only place where the spirit found hope in life.\n5 An orphanage with a positive reputation housed\nthe hopeful shade of a child who died of sickness. It was a companion to other orphans until they grew or were taken in by homes.\n6 A misty roadside meadow was once the site of a\nterrible battle. The spirit of a soldier who died there vented its fury against con artists and bandits who preyed upon the roadway."
+        "You can whistle as a Magic action to summon a spectral\nlocomotive into existence. It hurtles forward in a\n120-foot-long, 10-foot-wide Line from you, and it passes\nthrough objects and creatures.\nYou and up to six willing creatures of your choice\nwithin 30 feet of you can hitch a ride on the train. You teleport to an unoccupied space of your choice in the\nLine, and any creatures who accompanied you appear in\nthe closest unoccupied spaces to you.\nEach other creature in the Line must succeed on a\nWisdom saving throw against your spell save DC or have the Deafened condition until the start of your next turn, be pushed up to 10 feet straight away from the Line’s\npoint of origin, and takes an amount of Psychic damage\nequal to three rolls of your Bardic Inspiration die.\nOnce you use this feature, you can’t do so again until\nyou finish a Long Rest unless you expend a spell slot of level 3+ (no action required) to restore your use of it."
       ]
     },
     {
@@ -751,7 +734,7 @@
       "subclassSource": "TCM",
       "level": 10,
       "entries": [
-        "As a Magic action, you can expend a use of your Wild\nShape and choose a creature you can see within 60 feet\nof yourself to create a wicker doll that vaguely resembles\nthe target. The doll is a Tiny object (AC 10; HP 10; Vulnerability to Fire damage; Immunity to Poison and\nPsychic damage). The doll vanishes after 1 minute or\nwhen it is reduced to 0 Hit Points. While the doll exists, the target has Disadvantage on attack rolls against a\ncreature carrying the doll, and when a creature carrying\nthe doll damages the target for the first time on a turn,\nthe target takes an extra 2d10 Necrotic damage.LEVEL 14: WICKER ZENITH\nYour wicker effigies reach the pinnacle of their power.\nAt the start of your turn, you can change your effigy’s aura to a different one. Additionally, all the auras grow\nstronger in the following ways.\nSacrifice.  The Fire damage increases to 3d8 plus your\nWisdom modifier.\nSoothe. When you or your allies start a turn in the\naura, the Charmed or Frightened condition (target's choice) ends on it.\nWa rd .  Choose an ability. You and each of your allies\nwithin the aura have Advantage on saving throws made with the chosen ability.\nWICKER EFFIGIES\nThe effigies, charms, and tokens you weave can take\na variety of shapes, each intending a ritualistic effect.\nUse the Wicker Effigies table for inspiration when\ndetermining your wicker token’s appearance.\nWicker Effigies\n1d12Effigy\n1 Antlered bowman to ensure a successful hunt\n2 Bird-headed scarecrow to protect crops from pests\nand blight\n3 Apple-adorned fertility goddess for a\nbountiful harvest\n4 Unsettling stick figures to ward off interlopers from\nhidden dwellings\n5 Goat with curved horns to ensure a safe winter\n6 Wolf’s head to protect against dangers of the night\n7 Crescent moon with a crone's face to amplify\nmagic rituals\n8 Fearsome tusked mask to grant ferocity in battle\n9 Spiraled sunburst with a grin to herald a long,\nwarm summer\n10 Three-sided pyramid with laddered edges to mark\nthe site of a sacrifice\n11 Club-wielding troll to guard roads, bridges, and\nother passageways\n12 Intricate ring that represents the cycle of the year\nto guarantee life, death, and rebirth"
+        "As a Magic action, you can expend a use of your Wild\nShape and choose a creature you can see within 60 feet\nof yourself to create a wicker doll that vaguely resembles\nthe target. The doll is a Tiny object (AC 10; HP 10; Vulnerability to Fire damage; Immunity to Poison and\nPsychic damage). The doll vanishes after 1 minute or\nwhen it is reduced to 0 Hit Points. While the doll exists, the target has Disadvantage on attack rolls against a\ncreature carrying the doll, and when a creature carrying\nthe doll damages the target for the first time on a turn,\nthe target takes an extra 2d10 Necrotic damage."
       ]
     },
     {
@@ -777,7 +760,7 @@
       "subclassSource": "TCM",
       "level": 7,
       "entries": [
-        "You can capture the fleeing essence of departing\nsouls to glean knowledge and prowess. You gain the\nfollowing benefits.\nMortal Coil. When an enemy that isn't a Construct\nor Undead within 30 feet of you dies, you can take a\nReaction to regain one expended Draugr Die.\nWhisper of the Departed. When you make an ability\ncheck, you can expend and roll a Draugr Die and add the number rolled to the total.LEVEL 10: TOMB CASTELLAN\nThe powers of your Death Knight feature improve in\nthe following ways.\nPhantom Charger. The ghostly steed of your Dark\nRider power now ignores Difficult T errain. Additionally, when your steed takes the Dash, Disengage, or Dodge\naction, you can expend and roll a Draugr Die. Your steed\nmagically teleports (with you if you’re riding it) to an\nunoccupied space you can see within 60 feet of the steed. Each creature of your choice within 10 feet of the steed\nwhen it appears must succeed on a Constitution saving\nthrow, taking Necrotic damage equal to the number rolled on the Draugr Die plus your Constitution modifier on a\nfailed save or half as much damage on a successful one.\nDeath Knell. When you use your Grave Guard\npower in response to a creature damaging you, the\ncreature takes Psychic damage equal to half the amount of damage the power reduced.\nSpectral Shrieking. When a creature Grappled by\nyour Soul Reaper power starts its turn, it takes Psychic damage equal to your Proficiency Bonus. When it does,\nyou can take a Reaction to expend and roll a Draugr Die,\nadding the number rolled to the damage."
+        "You can capture the fleeing essence of departing\nsouls to glean knowledge and prowess. You gain the\nfollowing benefits.\nMortal Coil. When an enemy that isn't a Construct\nor Undead within 30 feet of you dies, you can take a\nReaction to regain one expended Draugr Die.\nWhisper of the Departed. When you make an ability\ncheck, you can expend and roll a Draugr Die and add the number rolled to the total."
       ]
     },
     {
@@ -894,7 +877,7 @@
       "subclassSource": "TCM",
       "level": 3,
       "entries": [
-        "As a Magic action, you can expend one use of your\nChannel Divinity to clap those you would bring to\njustice in fiery shackles. Choose a number of creatures\nup to your Charisma modifier (minimum of 1 creature) you can see within 30 feet of yourself. Each creature\nmust succeed on a Strength saving throw or be wrapped\nin fiery shackles and have its Speed reduced to 0. As a\nBonus Action, you can cause the shackles to flare. Each\ncreature bound by the shackles takes 2d6 Fire damage. A\nshackled creature repeats the saving throw at the end of\neach of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.LEVEL 3: INCITE\nAs a Magic action, you can expend one use of your\nChannel Divinity to better seek out wickedness\nand corruption. For the next 10 minutes, you have\nAdvantage on Intelligence (Investigation) and Wisdom (Insight) checks.\nDuring that time, you can take a Bonus Action to\nchoose a creature you can see within 10 feet of you. The\ntarget must succeed on a Charisma saving throw or have\nthe Frightened condition for 1 minute. While the target\nis Frightened in this way, it can’t speak a deliberate lie.\nThe condition ends early if the target takes damage or if you use this Bonus Action again."
+        "As a Magic action, you can expend one use of your\nChannel Divinity to clap those you would bring to\njustice in fiery shackles. Choose a number of creatures\nup to your Charisma modifier (minimum of 1 creature) you can see within 30 feet of yourself. Each creature\nmust succeed on a Strength saving throw or be wrapped\nin fiery shackles and have its Speed reduced to 0. As a\nBonus Action, you can cause the shackles to flare. Each\ncreature bound by the shackles takes 2d6 Fire damage. A\nshackled creature repeats the saving throw at the end of\neach of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
       ]
     },
     {
@@ -907,7 +890,8 @@
       "subclassSource": "TCM",
       "level": 3,
       "entries": [
-        "The magic of your oath ensures you always have certain\nspells ready; when you reach a Paladin level specified in the Oath of Castigation Spells table, you thereafter\nalways have the listed spells prepared.\nOath of Castigation Spells\nPaladin Level Spells\n3 Divine Favor, Inflict Wounds\n5 Chain of Conviction *, Hold Person\n9 Counterspell, Speak with Dead\n13 Consuming Pyre *, Locate Creature\n17 Flame Strike, Hold Monster"
+        "The magic of your oath ensures you always have certain\nspells ready; when you reach a Paladin level specified in the Oath of Castigation Spells table, you thereafter\nalways have the listed spells prepared.\nOath of Castigation Spells\nPaladin Level Spells\n3 Divine Favor, Inflict Wounds\n5 Chain of Conviction *, Hold Person\n9 Counterspell, Speak with Dead\n13 Consuming Pyre *, Locate Creature\n17 Flame Strike, Hold Monster",
+        "INCITE\nAs a Magic action, you can expend one use of your\nChannel Divinity to better seek out wickedness\nand corruption. For the next 10 minutes, you have\nAdvantage on Intelligence (Investigation) and Wisdom (Insight) checks.\nDuring that time, you can take a Bonus Action to\nchoose a creature you can see within 10 feet of you. The\ntarget must succeed on a Charisma saving throw or have\nthe Frightened condition for 1 minute. While the target\nis Frightened in this way, it can’t speak a deliberate lie.\nThe condition ends early if the target takes damage or if you use this Bonus Action again."
       ]
     },
     {
@@ -998,7 +982,20 @@
       "subclassSource": "TCM",
       "level": 11,
       "entries": [
-        "You draw deeper strength from the grave. You gain the\nfollowing benefits.\nGhastly Hound. The grim gains Resistance to\nBludgeoning, Piercing, and Slashing damage.\nGrave Fortitude. You gain Resistance to\nNecrotic damage.\nInescapable Fate. When the target of your Omen\nof Doom succeeds on a saving throw, you can take a\nReaction to force it to reroll the save with Disadvantage\nand use the new roll. Once you cause a save to fail with\nthis benefit, you can’t use it again until the current Omen of Doom ends.LEVEL 15: SEALED FATE\nThe strength of your Omen of Doom reaches its peak,\ngranting the following benefits while it is active.\nJaws of Doom. The Grim’s Ominous Rend action\ndeals an extra 1d6 Necrotic damage (for a total of 2d6 extra damage).\nMarked for Death. When you use Omen of Doom,\nyou can force the target to make a Charisma saving throw against your spell save DC. On a failed save,\nuntil the current Omen of Doom ends, the target has\nVulnerability to damage dealt by the grim and to the extra damage you deal with Omen of Doom. Once you\nuse this benefit, you can’t use it again until you finish\na Long Rest. You can also restore your use of it by\nexpending a level 4+ spell slot (no action required).\nGRIM\nMedium Undead, Neutral\nAC 13 plus your Wisdom modifier\nHP 5 plus five times your Ranger level (the grim has a\nnumber of Hit Dice [d8s] equal to your Ranger level)\nSpeed 40 ft.\nMod Save\nStr 16 +3 +3\nInt 14 +2 +2Mod Save\nDex 16 +3 +3\nWiS10 +0 +0Mod Save\nCon 14 +2 +2\nCha 10 +0 +0\nImmunities Necrotic; Frightened, Grappled, Petrified,\nPoisoned, Prone, Restrained\nSenses Darkvision 60 ft., Passive Perception 10\nLanguages Understands the languages you know\nCR None (XP 0; PB equals your Proficiency Bonus)\nTrait S\nIncorporeal Movement. The grim can move through other creatures and objects as if they were Difficult Terrain. The grim takes 1d10 Force damage if it ends its\nturn inside an object.\nShared Fate. Add your Proficiency Bonus to any ability\ncheck or saving throw the grim makes.\nAction S\nOminous Rend. Melee Attack Roll: Bonus equals your\nspell attack modifier, reach 5 ft. Hit: 1d6 + 3 plus your Wisdom modifier Necrotic damage, and if the target is a\ncreature, it has the Frightened condition until the start of\nyour next turn.\nReaction S\nBaleful Howl. Trigger: A creature moves out of the grim’s reach. Response—Wisdom Saving Throw: Your spell save\nDC, the triggering creature. Failure: The target’s Speed is\n0 until the end of the turn."
+        "You draw deeper strength from the grave. You gain the\nfollowing benefits.\nGhastly Hound. The grim gains Resistance to\nBludgeoning, Piercing, and Slashing damage.\nGrave Fortitude. You gain Resistance to\nNecrotic damage.\nInescapable Fate. When the target of your Omen\nof Doom succeeds on a saving throw, you can take a\nReaction to force it to reroll the save with Disadvantage\nand use the new roll. Once you cause a save to fail with\nthis benefit, you can’t use it again until the current Omen of Doom ends."
+      ]
+    },
+    {
+      "name": "Grim Harbinger 15",
+      "source": "TCM",
+      "page": 35,
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "subclassSource": "TCM",
+      "level": 15,
+      "entries": [
+        "SEALED FATE\nThe strength of your Omen of Doom reaches its peak,\ngranting the following benefits while it is active.\nJaws of Doom. The Grim’s Ominous Rend action\ndeals an extra 1d6 Necrotic damage (for a total of 2d6 extra damage).\nMarked for Death. When you use Omen of Doom,\nyou can force the target to make a Charisma saving throw against your spell save DC. On a failed save,\nuntil the current Omen of Doom ends, the target has\nVulnerability to damage dealt by the grim and to the extra damage you deal with Omen of Doom. Once you\nuse this benefit, you can’t use it again until you finish\na Long Rest. You can also restore your use of it by\nexpending a level 4+ spell slot (no action required).\nGRIM\nMedium Undead, Neutral\nAC 13 plus your Wisdom modifier\nHP 5 plus five times your Ranger level (the grim has a\nnumber of Hit Dice [d8s] equal to your Ranger level)\nSpeed 40 ft.\nMod Save\nStr 16 +3 +3\nInt 14 +2 +2Mod Save\nDex 16 +3 +3\nWiS10 +0 +0Mod Save\nCon 14 +2 +2\nCha 10 +0 +0\nImmunities Necrotic; Frightened, Grappled, Petrified,\nPoisoned, Prone, Restrained\nSenses Darkvision 60 ft., Passive Perception 10\nLanguages Understands the languages you know\nCR None (XP 0; PB equals your Proficiency Bonus)\nTrait S\nIncorporeal Movement. The grim can move through other creatures and objects as if they were Difficult Terrain. The grim takes 1d10 Force damage if it ends its\nturn inside an object.\nShared Fate. Add your Proficiency Bonus to any ability\ncheck or saving throw the grim makes.\nAction S\nOminous Rend. Melee Attack Roll: Bonus equals your\nspell attack modifier, reach 5 ft. Hit: 1d6 + 3 plus your Wisdom modifier Necrotic damage, and if the target is a\ncreature, it has the Frightened condition until the start of\nyour next turn.\nReaction S\nBaleful Howl. Trigger: A creature moves out of the grim’s reach. Response—Wisdom Saving Throw: Your spell save\nDC, the triggering creature. Failure: The target’s Speed is\n0 until the end of the turn."
       ]
     },
     {
@@ -1011,7 +1008,8 @@
       "subclassSource": "TCM",
       "level": 3,
       "entries": [
-        "When you deal damage to a creature with your Sneak\nAttack, you can unleash the power of your Jinxcraft.\nWhen you roll your Sneak Attack dice, designate two of\nthe dice before the roll (such as rolling them separately or using different colored dice). The total rolled on\nthese dice determines the effect of your Jinxcraft as\nnoted on the Hex Slinger Jinxes table. You can use this feature a number of times equal to your Charisma\nmodifier (minimum of 1), and you regain all expended\nuses when you finish a Short Rest.LEVEL 3: GET JINXED\nYou have learned the secret art of Jinxcrafting—drawing\nmagical power from the dark deeds and deals of sin. You\ngain the following benefits.\nCards and Bones. You gain proficiency with\ntwo Gaming Sets of your choice (playing cards and dice recommended).\nJinx Weapon. As a 1-hour ritual using a Gaming\nSet, you magically create a jinx weapon that channels\nyour Jinxcraft. This weapon takes the form of a Pistol\nor a Gaming Set (which uses Pistol game statistics). For you, the jinx weapon ignores the Loading property and\ncreates its own ammunition that deals Force damage.\nIn Gaming Set form, you throw cards, dice, or other\nGaming Set pieces, or you use them to unleash bolts\nof hex magic. Alternatively, you can imbue Jinxcraft into a Simple or Martial weapon you have proficiency\nwith, turning it into your jinx weapon. The infused jinx\nweapon deals Force damage instead of its normal type. If you create a second jinx weapon, the first vanishes or its\nJinxcraft ends.\nParlor Trick. You learn one of the following\ncantrips of your choice: Dancing Lights, Mage Hand ,\nMinor Illusion, Mysterious Presence *, or Prestidigitation.\nCharisma is your spellcasting ability for it.\nHex Slinger Jinxes\n2d6 Jinx\n2Snake Eyes. On the target’s next turn, it can only do\none of the following: move or take an action or a Bonus Action. If it targets you or your allies with an\nattack on that turn, it takes 2d6 Psychic damage.\n3–4 The Nightmare. The target has the Frightened\ncondition until the end of its next turn, and it must\nimmediately take a Reaction to move as far as it\ncan away from you, up to its Speed.\n5–6 Whiskey Bottle. The target drops anything it’s holding. Until the end of its next turn, when the\ntarget picks up an item, it must succeed on a DC 15\nDexterity saving throw or drop the item immediately.\n7Cheap Shot. Until the end of its next turn, the\ntarget’s Speed is halved, and for that duration,\nattack rolls against it have Advantage.\n8–9 Withered Arm. Until the end of its next turn, the target has Disadvantage on D20 Tests that rely\non Strength.\n10–11 Bad Luck. Until the end of its next turn, when the\ntarget makes an attack roll or a saving throw, it\nsubtracts 1d6 from the total.\n12Dead Man. If the next attack roll you make before\nthe end of your next turn misses, it hits instead. If that first attack roll hits, the attack is automatically a Critical Hit. If you roll a 20 on the d20, roll the attack’s damage dice three times instead of twice.LEVEL 9: BORROWED LUCK\nWhen you use Hex Slinger, you siphon away a sliver\nof the target’s luck. You gain Heroic Inspiration if you don't already have it. If you do have it, you can expend\nyour Heroic Inspiration instead of expending a use of\nHex Slinger."
+        "When you deal damage to a creature with your Sneak\nAttack, you can unleash the power of your Jinxcraft.\nWhen you roll your Sneak Attack dice, designate two of\nthe dice before the roll (such as rolling them separately or using different colored dice). The total rolled on\nthese dice determines the effect of your Jinxcraft as\nnoted on the Hex Slinger Jinxes table. You can use this feature a number of times equal to your Charisma\nmodifier (minimum of 1), and you regain all expended\nuses when you finish a Short Rest.",
+        "GET JINXED\nYou have learned the secret art of Jinxcrafting—drawing\nmagical power from the dark deeds and deals of sin. You\ngain the following benefits.\nCards and Bones. You gain proficiency with\ntwo Gaming Sets of your choice (playing cards and dice recommended).\nJinx Weapon. As a 1-hour ritual using a Gaming\nSet, you magically create a jinx weapon that channels\nyour Jinxcraft. This weapon takes the form of a Pistol\nor a Gaming Set (which uses Pistol game statistics). For you, the jinx weapon ignores the Loading property and\ncreates its own ammunition that deals Force damage.\nIn Gaming Set form, you throw cards, dice, or other\nGaming Set pieces, or you use them to unleash bolts\nof hex magic. Alternatively, you can imbue Jinxcraft into a Simple or Martial weapon you have proficiency\nwith, turning it into your jinx weapon. The infused jinx\nweapon deals Force damage instead of its normal type. If you create a second jinx weapon, the first vanishes or its\nJinxcraft ends.\nParlor Trick. You learn one of the following\ncantrips of your choice: Dancing Lights, Mage Hand ,\nMinor Illusion, Mysterious Presence *, or Prestidigitation.\nCharisma is your spellcasting ability for it.\nHex Slinger Jinxes\n2d6 Jinx\n2Snake Eyes. On the target’s next turn, it can only do\none of the following: move or take an action or a Bonus Action. If it targets you or your allies with an\nattack on that turn, it takes 2d6 Psychic damage.\n3–4 The Nightmare. The target has the Frightened\ncondition until the end of its next turn, and it must\nimmediately take a Reaction to move as far as it\ncan away from you, up to its Speed.\n5–6 Whiskey Bottle. The target drops anything it’s holding. Until the end of its next turn, when the\ntarget picks up an item, it must succeed on a DC 15\nDexterity saving throw or drop the item immediately.\n7Cheap Shot. Until the end of its next turn, the\ntarget’s Speed is halved, and for that duration,\nattack rolls against it have Advantage.\n8–9 Withered Arm. Until the end of its next turn, the target has Disadvantage on D20 Tests that rely\non Strength.\n10–11 Bad Luck. Until the end of its next turn, when the\ntarget makes an attack roll or a saving throw, it\nsubtracts 1d6 from the total.\n12Dead Man. If the next attack roll you make before\nthe end of your next turn misses, it hits instead. If that first attack roll hits, the attack is automatically a Critical Hit. If you roll a 20 on the d20, roll the attack’s damage dice three times instead of twice.LEVEL 9: BORROWED LUCK\nWhen you use Hex Slinger, you siphon away a sliver\nof the target’s luck. You gain Heroic Inspiration if you don't already have it. If you do have it, you can expend\nyour Heroic Inspiration instead of expending a use of\nHex Slinger."
       ]
     },
     {
@@ -1102,7 +1100,20 @@
       "subclassSource": "TCM",
       "level": 14,
       "entries": [
-        "You can feed on your own life essence to fuel your\nmagic. As a Bonus Action, you can expend a Hit Point\nDie and choose one of the following benefits.\nBlood Boil. You regain the use of your Blood Well.\nCrimson Pulse. Expend your Blood Well to make\nthe next Metamagic option you use this turn cost no Sorcery Points.LEVEL 18: SANGUINE FEAST\nYour hunger for vital essence is unquenchable. As a\nMagic action, you can unleash tendrils of blood that lash any creatures of your choice within 30 feet of\nyou. A target must make a Constitution saving throw,\ntaking 5d8 Necrotic damage on a failed save, or half as\nmuch damage on a successful one. If your Blood Well is\nalready expended when you use this action, the targets have Disadvantage on the saving throw. If at least one\ncreature takes damage from Sanguine Feast, you regain a\nnumber of Hit Points equal to the damage roll.\nOnce you use this feature, you can’t do so again until\nyou finish a Long Rest, unless you spend 5 Sorcery Points to use it again.\nVARIANT: BLOODLESS CRIMSON SORCERERS\nIf you're playing a character from a species that\nlacks blood in the traditional sense, you can still take the Crimson Sorcery subclass. The essence of\nCrimson Sorcery is lifeforce, or animating energy\nthat approximates life.\nCRIMSON ORIGINS\nThere are a variety of ways you might have received the\nability to harness your Crimson Sorcery to manipulate\nvitality and life essence. The Crimson Origins table\noffers suggestions of where your power comes from.\nCrimson Origins\n1d6 Origin\n1 One of your parents was a vampire. Though you\naren’t one yourself, you inherited their hunger,\nand it drives your magic.\n2 You studied blood rites at a monastery that\ninfused your own blood with power.\n3 You survived a vampire’s bite, though it left you\nforever changed and awakened your sorcery.\n4 Your family suffers under a generational curse\nthat has reared its head with you, driving you to\ndrain vital energy.\n5 You studied the secrets of life and death, perhaps\nto save yourself or a loved one. In so doing, you unlocked the crimson power in your blood.\n6 You died, and a cunning entity offered you a\nsecond chance at life. You accepted and awoke with crimson sorcery coursing through your veins."
+        "You can feed on your own life essence to fuel your\nmagic. As a Bonus Action, you can expend a Hit Point\nDie and choose one of the following benefits.\nBlood Boil. You regain the use of your Blood Well.\nCrimson Pulse. Expend your Blood Well to make\nthe next Metamagic option you use this turn cost no Sorcery Points."
+      ]
+    },
+    {
+      "name": "Crimson Sorcery 18",
+      "source": "TCM",
+      "page": 39,
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "subclassSource": "TCM",
+      "level": 18,
+      "entries": [
+        "SANGUINE FEAST\nYour hunger for vital essence is unquenchable. As a\nMagic action, you can unleash tendrils of blood that lash any creatures of your choice within 30 feet of\nyou. A target must make a Constitution saving throw,\ntaking 5d8 Necrotic damage on a failed save, or half as\nmuch damage on a successful one. If your Blood Well is\nalready expended when you use this action, the targets have Disadvantage on the saving throw. If at least one\ncreature takes damage from Sanguine Feast, you regain a\nnumber of Hit Points equal to the damage roll.\nOnce you use this feature, you can’t do so again until\nyou finish a Long Rest, unless you spend 5 Sorcery Points to use it again.\nVARIANT: BLOODLESS CRIMSON SORCERERS\nIf you're playing a character from a species that\nlacks blood in the traditional sense, you can still take the Crimson Sorcery subclass. The essence of\nCrimson Sorcery is lifeforce, or animating energy\nthat approximates life.\nCRIMSON ORIGINS\nThere are a variety of ways you might have received the\nability to harness your Crimson Sorcery to manipulate\nvitality and life essence. The Crimson Origins table\noffers suggestions of where your power comes from.\nCrimson Origins\n1d6 Origin\n1 One of your parents was a vampire. Though you\naren’t one yourself, you inherited their hunger,\nand it drives your magic.\n2 You studied blood rites at a monastery that\ninfused your own blood with power.\n3 You survived a vampire’s bite, though it left you\nforever changed and awakened your sorcery.\n4 Your family suffers under a generational curse\nthat has reared its head with you, driving you to\ndrain vital energy.\n5 You studied the secrets of life and death, perhaps\nto save yourself or a loved one. In so doing, you unlocked the crimson power in your blood.\n6 You died, and a cunning entity offered you a\nsecond chance at life. You accepted and awoke with crimson sorcery coursing through your veins."
       ]
     },
     {
@@ -1154,7 +1165,7 @@
       "subclassSource": "TCM",
       "level": 10,
       "entries": [
-        "Your witty and insulting japes become biting to the\npoint of needling your foes' very psyche. When a\ncreature damages you, you can take a Reaction to force\nthe creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes\nPsychic damage equal to the triggering damage you\ntook, or half as much damage on a successful one.\nOnce you use this Reaction, you can’t use it again\nuntil you finish a Short or Long Rest.LEVEL 14: SEND IN THE CLOWNS\nYou can call upon the laughing, jeering spirits of the\nfollowers of the Great Fool to strike down your foes. As a Magic action, you summon three ghostly fools.\nThe fools are translucent and intangible, and they\nresemble clowns, jesters, or similar entertainers. Make\nup to three melee spell attacks against creatures within\n60 feet of you. On a hit, a target takes 2d10 Psychic damage and has the Frightened condition until the end\nof its next turn, or the Prone condition (your choice).\nYou can use your action on subsequent turns to repeat the attacks.\nThe fools remain for 1 minute or until you have\nthe Incapacitated condition or you die. Once you use\nthis feature, you can’t do so again until you finish a\nLong Rest.\nFOOLISH PERSONAS\nMany Warlocks of the Great Fool adopt a signature aesthetic and performance style that best represents\ntheir folly. The Foolish Personas table offers archetypes\nof fools with suggestions for corresponding outfits and routines.\nFoolish Personas\n1d6 Persona\n1 The Harlequin. An elegant outfit of diamond\nmotley with a painted mask—performs dances, gives eloquent speeches, and plays tricks\n2 The Jester. A two-toned, checkered motley outfit with cap and bells—favors feats of acrobatics, tumbling, and juggling\n3 The Joker. A vibrant, colorful suit with wild hair and bowler hat—favors silly jokes, slapstick comedy, and clumsy self-deprecation\n4 The Mime. A striped, black-and-white shirt with a flat cap and red suspenders—pantomimes comical scenarios without speaking\n5 The Sad Clown. A monochromatic, one-piece outfit with pointed hat and puffball buttons—utilizes melodramatic melancholy and song\n6 The Tramp. A patch-covered coat, tattered scarf,\nscuffed shoes, and cigar—leverages sardonic wit,\ninsults, and mocking observations"
+        "Your witty and insulting japes become biting to the\npoint of needling your foes' very psyche. When a\ncreature damages you, you can take a Reaction to force\nthe creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes\nPsychic damage equal to the triggering damage you\ntook, or half as much damage on a successful one.\nOnce you use this Reaction, you can’t use it again\nuntil you finish a Short or Long Rest."
       ]
     },
     {
@@ -1284,7 +1295,7 @@
       "subclassSource": "TCM",
       "level": 10,
       "entries": [
-        "When you cause an Intrusion, you can roll twice on the\nIntrusion table and choose which result to use, and you can negate the Intrusion by gaining 1 Exhaustion level.\nAdditionally, you gain one of the benefits below, and\nyou can change your chosen benefit when you finish\na Long Rest. As a Bonus Action, you can cause an\nautomatic Intrusion (and increase the die’s size one step, up to its starting size) to change your chosen benefit.\nAlien Consciousness. You gain Immunity to the\nCharmed and Frightened conditions, and you can’t be possessed.\nCosmic Resistance. You gain Resistance to Necrotic\nand Psychic damage.\nSpatial Domination. You gain a Fly Speed equal to\nyour Speed and can hover.LEVEL 14: BEYOND SPACE\nThe nature of distance and location is revealed for the\nlie that it is. You always have the Scrying  spell prepared.\nWhen you cast Scrying , you can risk Intrusion to\nchoose one of the following.\nAll Knowing. Treat your connection to a target\ncreature as if you have part of its body.\nAll Seeing. Cast the spell as an action instead of its\nnormal casting time.\nWhen you cast Scrying , during the spell’s duration,\nyou can cause an automatic Intrusion (and increase the die’s size one step, up to its starting size) to teleport\nyourself, and any willing creatures within 10 feet of you,\nto unoccupied spaces you can see through the scrying\nsensor. Once you teleport in this way, you can’t do so\nagain until you finish a Long Rest."
+        "When you cause an Intrusion, you can roll twice on the\nIntrusion table and choose which result to use, and you can negate the Intrusion by gaining 1 Exhaustion level.\nAdditionally, you gain one of the benefits below, and\nyou can change your chosen benefit when you finish\na Long Rest. As a Bonus Action, you can cause an\nautomatic Intrusion (and increase the die’s size one step, up to its starting size) to change your chosen benefit.\nAlien Consciousness. You gain Immunity to the\nCharmed and Frightened conditions, and you can’t be possessed.\nCosmic Resistance. You gain Resistance to Necrotic\nand Psychic damage.\nSpatial Domination. You gain a Fly Speed equal to\nyour Speed and can hover."
       ]
     },
     {
@@ -1297,7 +1308,8 @@
       "subclassSource": "TCM",
       "level": 3,
       "entries": [
-        "You gain a set of Alchemist’s Supplies. You have\nproficiency with it and can use it as an Arcane Focus.\nAdditionally, you can use Alchemist’s Supplies instead of\nthe normal tool to craft a magic item.LEVEL 3: QUINTESSENCE\nYou have learned the fundamental process of dissolution.\nYou know the Dissolution * cantrip. A creature or\nobject you reduce to 0 Hit Points with the cantrip is\ndestroyed. If the target was Small or larger, it dissolves\ninto a measure (1 ounce) of crystalline powder called\nQuintessence. You can have a maximum amount of\nQuintessence equal to twice your Intelligence modifier\nat one time (mimium of 2 measures). If you create more, the oldest measure vanishes. You can use Quintessence\nyou are touching in the following ways.\nMaterial Component. When you cast a spell,\nyou can expend Quintessence to serve as the spell’s\nMaterial components up to a value of 100 GP per Quintessence expended.\nReagent. When you scribe a spell into your\nspellbook, or when you use Alchemist’s Supplies to\ncraft a magic item, you can expend Quintessence\nto serve as 50 GP worth of material for the task per Quintessence expended.\nVitriolic Enhancement. When you cast a spell that\ndeals damage, you can expend 1 Quintessence as an\nadditional Material component to change one damage\ntype the spell deals to Force."
+        "You gain a set of Alchemist’s Supplies. You have\nproficiency with it and can use it as an Arcane Focus.\nAdditionally, you can use Alchemist’s Supplies instead of\nthe normal tool to craft a magic item.",
+        "QUINTESSENCE\nYou have learned the fundamental process of dissolution.\nYou know the Dissolution * cantrip. A creature or\nobject you reduce to 0 Hit Points with the cantrip is\ndestroyed. If the target was Small or larger, it dissolves\ninto a measure (1 ounce) of crystalline powder called\nQuintessence. You can have a maximum amount of\nQuintessence equal to twice your Intelligence modifier\nat one time (mimium of 2 measures). If you create more, the oldest measure vanishes. You can use Quintessence\nyou are touching in the following ways.\nMaterial Component. When you cast a spell,\nyou can expend Quintessence to serve as the spell’s\nMaterial components up to a value of 100 GP per Quintessence expended.\nReagent. When you scribe a spell into your\nspellbook, or when you use Alchemist’s Supplies to\ncraft a magic item, you can expend Quintessence\nto serve as 50 GP worth of material for the task per Quintessence expended.\nVitriolic Enhancement. When you cast a spell that\ndeals damage, you can expend 1 Quintessence as an\nadditional Material component to change one damage\ntype the spell deals to Force."
       ]
     },
     {
@@ -1349,7 +1361,8 @@
       "subclassSource": "TCM",
       "level": 10,
       "entries": [
-        "(placeholder) See PDF; content pending cleanup."
+        "(placeholder) See PDF; content pending cleanup.",
+        "REACTIVE CATALYST\nYour implants are now sensitive to your response to danger\nand flood you with stimulating chemicals. When you take damage, or when you gain the Blinded, Deafened,\nPoisoned, or Stunned condition, you can take a Reaction\nto enter your Rage before the damage or conditions are\napplied. When you enter your Rage, you end any of those\nconditions on yourself, including any triggering conditions.\nAdditionally, while your Rage is active, you have\nAdvantage on Constitution saving throws."
       ]
     },
     {
@@ -1375,7 +1388,8 @@
       "subclassSource": "TCM",
       "level": 14,
       "entries": [
-        "(placeholder) See PDF; content pending cleanup."
+        "(placeholder) See PDF; content pending cleanup.",
+        "LAST STOP\nThe ghostly shrill of your whistle now draws the living\ncloser to the world of the dead. As a Magic action, you blow a whistle that is audible up to 300 feet away. Up to\nsix creatures of your choice that you can see within that\nrange must succeed on a Charisma saving throw against\nyour spell save DC or be cursed. When a cursed target\ntakes Psychic damage, it has the Frightened condition toward the source of that damage until the end of its\nnext turn. The first time a cursed target takes Psychic\ndamage, it has Vulnerability to Psychic damage. The target repeats the saving throw at the end of each of its\nturns, ending the effect on itself on a success. After 1\nminute, it succeeds automatically.\nOnce you use this feature, you can’t use it again until\nyou finish a Long Rest unless you expend a spell slot of level 7+ (no action required) to restore your use of it.\nWHISTLES AND WANDERINGS\nThe Wandering Visits table offers suggestions on places you’ve visited during your travels where you met the\nvarious spirits drawn to your whistles. You can use the\nexamples as they’re given, mix and match the locations and the spirits, or create your own.\nWandering Visits\n1d6 Location\n1 You found an abandoned tavern with a single place\nstill set at a table in the corner. A melancholy spirit\nwaited there for someone who would never arrive.\n2Scorched foundations are the only remains of a cottage that burned long ago. The echo of a singing child watched over travelers who stopped there.\n3 You stayed in a manor house’s haunted tower\nquarters. The angry spirit there is the remnant of someone who died, old and infirm—helpless to stop the wickedness they saw from afar.\n4 The mournful song of a lingering soul drew you to\nan old, covered bridge—the only place where the spirit found hope in life.\n5 An orphanage with a positive reputation housed\nthe hopeful shade of a child who died of sickness. It was a companion to other orphans until they grew or were taken in by homes.\n6 A misty roadside meadow was once the site of a\nterrible battle. The spirit of a soldier who died there vented its fury against con artists and bandits who preyed upon the roadway."
       ]
     },
     {
@@ -1414,7 +1428,8 @@
       "subclassSource": "TCM",
       "level": 14,
       "entries": [
-        "(placeholder) See PDF; content pending cleanup."
+        "(placeholder) See PDF; content pending cleanup.",
+        "WICKER ZENITH\nYour wicker effigies reach the pinnacle of their power.\nAt the start of your turn, you can change your effigy’s aura to a different one. Additionally, all the auras grow\nstronger in the following ways.\nSacrifice.  The Fire damage increases to 3d8 plus your\nWisdom modifier.\nSoothe. When you or your allies start a turn in the\naura, the Charmed or Frightened condition (target's choice) ends on it.\nWa rd .  Choose an ability. You and each of your allies\nwithin the aura have Advantage on saving throws made with the chosen ability.\nWICKER EFFIGIES\nThe effigies, charms, and tokens you weave can take\na variety of shapes, each intending a ritualistic effect.\nUse the Wicker Effigies table for inspiration when\ndetermining your wicker token’s appearance.\nWicker Effigies\n1d12Effigy\n1 Antlered bowman to ensure a successful hunt\n2 Bird-headed scarecrow to protect crops from pests\nand blight\n3 Apple-adorned fertility goddess for a\nbountiful harvest\n4 Unsettling stick figures to ward off interlopers from\nhidden dwellings\n5 Goat with curved horns to ensure a safe winter\n6 Wolf’s head to protect against dangers of the night\n7 Crescent moon with a crone's face to amplify\nmagic rituals\n8 Fearsome tusked mask to grant ferocity in battle\n9 Spiraled sunburst with a grin to herald a long,\nwarm summer\n10 Three-sided pyramid with laddered edges to mark\nthe site of a sacrifice\n11 Club-wielding troll to guard roads, bridges, and\nother passageways\n12 Intricate ring that represents the cycle of the year\nto guarantee life, death, and rebirth"
       ]
     },
     {
@@ -1440,7 +1455,8 @@
       "subclassSource": "TCM",
       "level": 10,
       "entries": [
-        "(placeholder) See PDF; content pending cleanup."
+        "(placeholder) See PDF; content pending cleanup.",
+        "TOMB CASTELLAN\nThe powers of your Death Knight feature improve in\nthe following ways.\nPhantom Charger. The ghostly steed of your Dark\nRider power now ignores Difficult T errain. Additionally, when your steed takes the Dash, Disengage, or Dodge\naction, you can expend and roll a Draugr Die. Your steed\nmagically teleports (with you if you’re riding it) to an\nunoccupied space you can see within 60 feet of the steed. Each creature of your choice within 10 feet of the steed\nwhen it appears must succeed on a Constitution saving\nthrow, taking Necrotic damage equal to the number rolled on the Draugr Die plus your Constitution modifier on a\nfailed save or half as much damage on a successful one.\nDeath Knell. When you use your Grave Guard\npower in response to a creature damaging you, the\ncreature takes Psychic damage equal to half the amount of damage the power reduced.\nSpectral Shrieking. When a creature Grappled by\nyour Soul Reaper power starts its turn, it takes Psychic damage equal to your Proficiency Bonus. When it does,\nyou can take a Reaction to expend and roll a Draugr Die,\nadding the number rolled to the damage."
       ]
     },
     {
@@ -1622,7 +1638,8 @@
       "subclassSource": "TCM",
       "level": 14,
       "entries": [
-        "(placeholder) See PDF; content pending cleanup."
+        "(placeholder) See PDF; content pending cleanup.",
+        "SEND IN THE CLOWNS\nYou can call upon the laughing, jeering spirits of the\nfollowers of the Great Fool to strike down your foes. As a Magic action, you summon three ghostly fools.\nThe fools are translucent and intangible, and they\nresemble clowns, jesters, or similar entertainers. Make\nup to three melee spell attacks against creatures within\n60 feet of you. On a hit, a target takes 2d10 Psychic damage and has the Frightened condition until the end\nof its next turn, or the Prone condition (your choice).\nYou can use your action on subsequent turns to repeat the attacks.\nThe fools remain for 1 minute or until you have\nthe Incapacitated condition or you die. Once you use\nthis feature, you can’t do so again until you finish a\nLong Rest.\nFOOLISH PERSONAS\nMany Warlocks of the Great Fool adopt a signature aesthetic and performance style that best represents\ntheir folly. The Foolish Personas table offers archetypes\nof fools with suggestions for corresponding outfits and routines.\nFoolish Personas\n1d6 Persona\n1 The Harlequin. An elegant outfit of diamond\nmotley with a painted mask—performs dances, gives eloquent speeches, and plays tricks\n2 The Jester. A two-toned, checkered motley outfit with cap and bells—favors feats of acrobatics, tumbling, and juggling\n3 The Joker. A vibrant, colorful suit with wild hair and bowler hat—favors silly jokes, slapstick comedy, and clumsy self-deprecation\n4 The Mime. A striped, black-and-white shirt with a flat cap and red suspenders—pantomimes comical scenarios without speaking\n5 The Sad Clown. A monochromatic, one-piece outfit with pointed hat and puffball buttons—utilizes melodramatic melancholy and song\n6 The Tramp. A patch-covered coat, tattered scarf,\nscuffed shoes, and cigar—leverages sardonic wit,\ninsults, and mocking observations"
       ]
     },
     {
@@ -1635,7 +1652,8 @@
       "subclassSource": "TCM",
       "level": 14,
       "entries": [
-        "(placeholder) See PDF; content pending cleanup."
+        "(placeholder) See PDF; content pending cleanup.",
+        "BEYOND SPACE\nThe nature of distance and location is revealed for the\nlie that it is. You always have the Scrying  spell prepared.\nWhen you cast Scrying , you can risk Intrusion to\nchoose one of the following.\nAll Knowing. Treat your connection to a target\ncreature as if you have part of its body.\nAll Seeing. Cast the spell as an action instead of its\nnormal casting time.\nWhen you cast Scrying , during the spell’s duration,\nyou can cause an automatic Intrusion (and increase the die’s size one step, up to its starting size) to teleport\nyourself, and any willing creatures within 10 feet of you,\nto unoccupied spaces you can see through the scrying\nsensor. Once you teleport in this way, you can’t do so\nagain until you finish a Long Rest."
       ]
     }
   ],
