@@ -8,7 +8,7 @@
 				"author": [
 					"NiLe.Uy"
 				],
-				"version": "1.0.4",
+				"version": "1.0.5",
 				"dateAdded": 1754794800
 			}
 		]
@@ -101,7 +101,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Necromancy Cantrip (Sorcerer, Warlock, Wizard) Casting Time: Action Range: 90 feet Components: V, S Duration: Instantaneous You hurl a twisting bolt of blood at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 Necrotic damage, and you gain a number of T emporary Hit Points equal to your Proficiency Bonus. Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)."
+						"You hurl a twisting bolt of blood at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 Necrotic damage, and you gain a number of T emporary Hit Points equal to your Proficiency Bonus. Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)."
 					]
 				}
 			],
@@ -159,7 +159,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 1d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 1d6 damage of the same type as the spell’s normal damage type (your choice if there are multiple). Using a Higher-Level Spell Slot. The damage you take and the extra damage your spells deal both increase by 1d6 for each spell slot level above 2."
+						"You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 1d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 1d6 damage of the same type as the spell’s normal damage type (your choice if there are multiple). Using a Higher-Level Spell Slot. The damage you take and the extra damage your spells deal both increase by 1d6 for each spell slot level above 2.BURIED ALIVE Level 4 Transmutation (Druid, Sorcerer, Warlock, Wizard) Casting Time: Action Range: 60 feet Components: V, S, M (a pinch of grave dirt) Duration: Instantaneous You send your enemies to their graves even if they aren’t dead yet. A creature that you can see within range that is standing on the ground must make a Strength saving throw. On a failed save, the ground opens and swallows the target, burying it up to 10 feet deep. While buried, the target has T otal Cover, has the Restrained and Blinded conditions, and can’t breathe. On a successful save, the target has the Prone condition, and its Speed is 0 until the end of its next turn. A buried creature can dig out of the grave by using its action to make a DC 15 Strength (Athletics) check. On a success, it digs 5 feet closer to the surface. If it succeeds by 5 or more, it reaches the surface. When the creature reaches the surface, it exits the ground with the Prone condition. The target automatically succeeds on its saving throw if it’s standing on any thickness of stone or metal, or at least 2 inches of wood."
 					]
 				}
 			],
@@ -617,7 +617,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"A wave of blood sweeps out from you in a 15-foot Emanation. Each creature of your choice in the wave must make a Dexterity saving throw, taking 3d10 Necrotic damage on a failed save, or half as much damage on a successful one. If you damage at least one Small or larger creature, one creature of your choice that you can see within the Emanation regains a number of Hit Points equal to half the damage roll. Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 3."
+						"A wave of blood sweeps out from you in a 15-foot Emanation. Each creature of your choice in the wave must make a Dexterity saving throw, taking 3d10 Necrotic damage on a failed save, or half as much damage on a successful one. If you damage at least one Small or larger creature, one creature of your choice that you can see within the Emanation regains a number of Hit Points equal to half the damage roll. Using a Higher-Level Spell Slot. The damage increases by 1d10 for each spell slot level above 3.CROOKED WARD Level 3 Abjuration (Druid, Ranger, Warlock, Wizard) Casting Time: Action Range: Touch Components: V, S, M (a five-pointed wicker star) Duration: Concentration, up to 10 minutes You touch an immobile surface and mark a symbol that causes agony in twisted creatures. An Invisible, 30-foot- radius Sphere springs out from the point you touch. Each Aberration, Fey, Fiend, Monstrosity, or Undead in the Sphere has Disadvantage on ability checks and attack rolls. When an affected creature enters the Sphere for the first time on a turn or starts its turn there, it must succeed on a Wisdom saving throw or have the Frightened condition until the start of its next turn. Using a Higher-Level Spell Slot. You can maintain Concentration on this spell for longer if you cast it using a spell slot of level 4 (up to 1 hour) or 5 (up to 8 hours). If you use a level 6+ spell slot, the spell doesn't require Concentration, and the duration becomes 24 hours."
 					]
 				}
 			],
@@ -794,7 +794,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"You focus on a creature that you are familiar with that is on the same plane of existence as you. The target must succeed on a Wisdom saving throw or be cursed for the duration. Once a target fails its saving throw against this spell, you can't target it with a ritual casting of the spell for 24 hours. While cursed, the target hears haunting, discordant music and has Disadvantage on D20 T ests. The first time the target fails a D20 T est during a turn, it repeats the save against this spell with neither Advantage nor Disadvantage, ending the spell early on a success. DEV IL'S DUE Level 1 Necromancy (Sorcerer, Warlock, Wizard) Casting Time: Reaction, which you take when another creature within range takes damage Range: 30 feet Components: S, M (a glob of pitch) Duration: Instantaneous You absorb a measure of a creature's suffering and escaping vital essence. Expend and roll one Hit Point Die. You regain a number of Hit Points equal to the number rolled plus your spellcasting ability modifier. If the creature took damage from a Critical Hit, double the number of Hit Points you regain. Using a Higher-Level Spell Slot. You can expend one additional Hit Point Die for each spell slot level above 1."
+						"You focus on a creature that you are familiar with that is on the same plane of existence as you. The target must succeed on a Wisdom saving throw or be cursed for the duration. Once a target fails its saving throw against this spell, you can't target it with a ritual casting of the spell for 24 hours. While cursed, the target hears haunting, discordant music and has Disadvantage on D20 T ests. The first time the target fails a D20 T est during a turn, it repeats the save against this spell with neither Advantage nor Disadvantage, ending the spell early on a success."
 					]
 				}
 			],
@@ -896,7 +896,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Transmutation Cantrip (Wizard) Casting Time: Action Range: Touch Components: V, S Duration: Instantaneous You touch a creature or nonmagical object and break the target’s substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn. Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8)."
+						"You touch a creature or nonmagical object and break the target’s substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn. Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).EYE BURN Transmutation Cantrip (Druid, Warlock, Wizard) Casting Time: Reaction, which you take when a creature you can see within range targets you with an attack Range: 30 feet Components: V, S, M (a smear of camphor) Duration: 1 round You sting the eyes of a creature attacking you. The target must make a Constitution saving throw (a creature with Blindsight or Immunity to the Blinded condition succeeds automatically). On a failed save, the target has the Blinded condition until the end of the turn. On a successful save, it must subtract 1d4 from the triggering attack roll. The target automatically succeeds on its saves against your subsequent casting of this spell for 24 hours."
 					]
 				}
 			],
@@ -1107,7 +1107,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"You call upon the light of the harvest moon to illuminate a 20-foot-radius Sphere centered on a point within range. The area is bathed in silvery Dim Light. Creatures and objects with the Invisible condition in the light become visible as translucent, shimmering images. When one of your allies is within the light, it can use a Bonus Action to absorb some of the light and gain 2d6 T emporary Hit Points. Using a Higher-Level Spell Slot. The T emporary Hit Points increase by 1d6 for each spell slot level above 3."
+						"You call upon the light of the harvest moon to illuminate a 20-foot-radius Sphere centered on a point within range. The area is bathed in silvery Dim Light. Creatures and objects with the Invisible condition in the light become visible as translucent, shimmering images. When one of your allies is within the light, it can use a Bonus Action to absorb some of the light and gain 2d6 T emporary Hit Points. Using a Higher-Level Spell Slot. The T emporary Hit Points increase by 1d6 for each spell slot level above 3.HARROWING BALLAD Level 2 Enchantment (Bard, Sorcerer, Wizard) Casting Time: Bonus Action Range: 120 feet Components: V, S Duration: Concentration, up to 1 minute You inflict a mind-eroding song on a creature that you can see within range. If the creature has an Intelligence of 4 or higher, it must succeed on an Intelligence saving throw or have the Charmed condition for the duration. While Charmed in this way, the target is struck with a rapidly repeating ballad that only it can hear; it takes 1d6 Psychic damage at the start of each of its turns, and it has Disadvantage on Wisdom (Perception) checks and on Constitution saving throws made to maintain its Concentration. The target repeats the save at the end of each of its turns, ending the spell on a success. Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 2."
 					]
 				}
 			],
@@ -1384,7 +1384,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"broken mirror) Duration: Concentration, up to 1 hour You touch a Tiny, nonmagical object, infusing it with a portion of your own luck for the duration. While another creature carries the object, that creature has Advantage on D20 T ests, and you have Disadvantage on D20 T ests."
+						"broken mirror) Duration: Concentration, up to 1 hour You touch a Tiny, nonmagical object, infusing it with a portion of your own luck for the duration. While another creature carries the object, that creature has Advantage on D20 T ests, and you have Disadvantage on D20 T ests.MARTYR Level 3 Necromancy (Cleric, Paladin, Wizard) Casting Time: Action Range: Touch Components: V, S, M (a Dagger worth at least 1 CP) Duration: Instantaneous You touch a dead creature that died within the last minute and transfer your life essence into it. The target returns to life with Hit Points equal to your current Hit Point total. You immediately drop to 0 Hit Points (which nothing can prevent) with two failed Death Saving Throws, and you must immediately make a Death Save. You can’t regain Hit Points or become Stable until after you make this save."
 					]
 				}
 			],
@@ -1664,7 +1664,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Illusion Cantrip (Bard, Druid, Sorcerer) Casting Time: Action Range: Touch Components: V, S Duration: Concentration, up to 1 minute You touch a willing creature and shroud its presence. Until the spell ends, other creatures must subtract 1d4 from any Wisdom (Insight or Perception) checks made against the target."
+						"You touch a willing creature and shroud its presence. Until the spell ends, other creatures must subtract 1d4 from any Wisdom (Insight or Perception) checks made against the target.PUPPET MASTER Level 4 Enchantment (Bard, Sorcerer, Warlock, Wizard) Casting Time: Action Range: 60 feet Components: V, S, M (a marionette string) Duration: Concentration, up to 1 minute One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. Magical marionette strings attach to the Charmed creature’s limbs or body, and it must use its action on its turn to make a melee attack against a creature other than itself that you mentally choose, moving to reach the target if necessary. The target can act normally on its turn if you don’t choose another creature, or if the creature isn’t within the target’s reach after it moves. The target repeats the save at the end of each of its turns, ending the spell on itself on a success. On your later turns, you must take a Bonus Action to maintain control of the target, or the spell ends."
 					]
 				}
 			],
@@ -2068,7 +2068,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"You siphon away the vitality and sense of self through the shadows of nearby creatures in a 15-foot Emanation originating from you. When you cast this spell, you can designate creatures to be unaffected by it. Whenever any other creature enters the Emanation or starts its turn there, or when the Emanation enters a creature’s space, the creature must make a Charisma saving throw. On a failed save, the creature takes 2d6 Necrotic damage and has Disadvantage on attack rolls and ability checks until the end of its next turn. On a successful save, the creature takes half as much damage only. A creature makes this save only once per turn. Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 3."
+						"You siphon away the vitality and sense of self through the shadows of nearby creatures in a 15-foot Emanation originating from you. When you cast this spell, you can designate creatures to be unaffected by it. Whenever any other creature enters the Emanation or starts its turn there, or when the Emanation enters a creature’s space, the creature must make a Charisma saving throw. On a failed save, the creature takes 2d6 Necrotic damage and has Disadvantage on attack rolls and ability checks until the end of its next turn. On a successful save, the creature takes half as much damage only. A creature makes this save only once per turn. Using a Higher-Level Spell Slot. The damage increases by 1d6 for each spell slot level above 3.SUMMER WINDS Level 2 Evocation (Cleric, Druid, Paladin, Ranger) Casting Time: Action Range: Self Components: V, S Duration: Instantaneous You unleash a blast of light and wind in a 15-foot Cone. Your allies in the Cone regain 2d6 Hit Points. Undead within the Cone that are Hostile to you must make a Constitution saving throw, taking 2d6 Radiant damage on a failed save, or half as much damage on a successful one. Using a Higher-Level Spell Slot. The damage and healing increase by 2d6 for each spell slot level above 2."
 					]
 				}
 			],
