@@ -8,8 +8,7 @@
 				"author": [
 					"NiLe.Uy"
 				],
-				"version": "1.0.1",
-				"dateAdded": 1754794800
+				"version": "1.0.2"
 			}
 		]
 	},
@@ -19,108 +18,217 @@
 			"shortName": "Experiment",
 			"className": "Barbarian",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Alchemical Experiments|Barbarian|PHB|Experiment|TCM|3|TCM",
+				"Volatile Serum|Barbarian|PHB|Experiment|TCM|3|TCM",
+				"Augmentation Compounds|Barbarian|PHB|Experiment|TCM|6|TCM",
+				"Reactive Catalyst|Barbarian|PHB|Experiment|TCM|10|TCM",
+				"Biochemical Admixture|Barbarian|PHB|Experiment|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "College of Whistles",
 			"shortName": "Whistles",
 			"className": "Bard",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Handy Haints|Bard|PHB|Whistles|TCM|3|TCM",
+				"Whistling Wanderer|Bard|PHB|Whistles|TCM|3|TCM",
+				"Homeward Bound|Bard|PHB|Whistles|TCM|6|TCM",
+				"Ride the Rails|Bard|PHB|Whistles|TCM|6|TCM",
+				"Last Stop|Bard|PHB|Whistles|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "Harvest Domain",
 			"shortName": "Harvest",
 			"className": "Cleric",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Bountiful Harvest|Cleric|PHB|Harvest|TCM|3|TCM",
+				"Community Almanac|Cleric|PHB|Harvest|TCM|3|TCM",
+				"Cornucopia|Cleric|PHB|Harvest|TCM|3|TCM",
+				"Harvest Domain Spells|Cleric|PHB|Harvest|TCM|3|TCM",
+				"Blessing of the Seasons|Cleric|PHB|Harvest|TCM|6|TCM",
+				"Eternal Wheel|Cleric|PHB|Harvest|TCM|17|TCM"
+			]
 		},
 		{
 			"name": "Circle of the Old Ways",
 			"shortName": "Old Ways",
 			"className": "Druid",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Bough and Branch|Druid|PHB|Old Ways|TCM|3|TCM",
+				"Circle of the Old Ways Spells|Druid|PHB|Old Ways|TCM|3|TCM",
+				"Wood Wose|Druid|PHB|Old Ways|TCM|3|TCM",
+				"Deepwood Elder|Druid|PHB|Old Ways|TCM|10|TCM",
+				"Ancient Protector|Druid|PHB|Old Ways|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "Circle of Wicker",
 			"shortName": "Wicker",
 			"className": "Druid",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Bewitched Effigy|Druid|PHB|Wicker|TCM|3|TCM",
+				"Circle of Wicker Spells|Druid|PHB|Wicker|TCM|3|TCM",
+				"Wicker Token|Druid|PHB|Wicker|TCM|3|TCM",
+				"Wicker Rising|Druid|PHB|Wicker|TCM|6|TCM",
+				"Soulbound Poppet|Druid|PHB|Wicker|TCM|10|TCM",
+				"Wicker Zenith|Druid|PHB|Wicker|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "Barrow Guard",
 			"shortName": "Barrow Guard",
 			"className": "Fighter",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Death Knight|Fighter|PHB|Barrow Guard|TCM|3|TCM",
+				"Siphoning Souls|Fighter|PHB|Barrow Guard|TCM|7|TCM",
+				"Tomb Castellan|Fighter|PHB|Barrow Guard|TCM|10|TCM",
+				"Grave Lord|Fighter|PHB|Barrow Guard|TCM|15|TCM",
+				"Might of the Necropolis|Fighter|PHB|Barrow Guard|TCM|18|TCM"
+			]
 		},
 		{
 			"name": "Warrior of the Pestilent Haze",
 			"shortName": "Pestilent Haze",
 			"className": "Monk",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Contagious Discipline|Monk|PHB|Pestilent Haze|TCM|3|TCM",
+				"Gift of Pestilence|Monk|PHB|Pestilent Haze|TCM|3|TCM",
+				"Spreading Blight|Monk|PHB|Pestilent Haze|TCM|11|TCM",
+				"Epidemic|Monk|PHB|Pestilent Haze|TCM|17|TCM"
+			]
 		},
 		{
 			"name": "Oath of Castigation",
 			"shortName": "Castigation",
 			"className": "Paladin",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Channel Divinity: Castigate|Paladin|PHB|Castigation|TCM|3|TCM",
+				"Channel Divinity: Incite|Paladin|PHB|Castigation|TCM|3|TCM",
+				"Oath of Castigation Spells|Paladin|PHB|Castigation|TCM|3|TCM",
+				"Oath of Castigation Tenets|Paladin|PHB|Castigation|TCM|3|TCM",
+				"Kindling Aura|Paladin|PHB|Castigation|TCM|7|TCM",
+				"Fervent Inquisitor|Paladin|PHB|Castigation|TCM|15|TCM",
+				"Fire and Brimstone|Paladin|PHB|Castigation|TCM|20|TCM"
+			]
 		},
 		{
 			"name": "Grim Harbinger",
 			"shortName": "Grim Harbinger",
 			"className": "Ranger",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Grim Harbinger Spells|Ranger|PHB|Grim Harbinger|TCM|3|TCM",
+				"Omen of Doom|Ranger|PHB|Grim Harbinger|TCM|3|TCM",
+				"Harbinger of Doom|Ranger|PHB|Grim Harbinger|TCM|7|TCM",
+				"Grave Bond|Ranger|PHB|Grim Harbinger|TCM|11|TCM",
+				"Sealed Fate|Ranger|PHB|Grim Harbinger|TCM|15|TCM"
+			]
 		},
 		{
 			"name": "Sinner",
 			"shortName": "Sinner",
 			"className": "Rogue",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Get Jinxed|Rogue|PHB|Sinner|TCM|3|TCM",
+				"Hex Slinger|Rogue|PHB|Sinner|TCM|3|TCM",
+				"Borrowed Luck|Rogue|PHB|Sinner|TCM|9|TCM",
+				"Pick Your Poison|Rogue|PHB|Sinner|TCM|13|TCM",
+				"The Other Side|Rogue|PHB|Sinner|TCM|17|TCM"
+			]
 		},
 		{
 			"name": "Crimson Sorcery",
 			"shortName": "Crimson Sorcery",
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Blood Well|Sorcerer|PHB|Crimson Sorcery|TCM|3|TCM",
+				"Crimson Spells|Sorcerer|PHB|Crimson Sorcery|TCM|3|TCM",
+				"Pool of Blood|Sorcerer|PHB|Crimson Sorcery|TCM|6|TCM",
+				"Sanguine Techniques|Sorcerer|PHB|Crimson Sorcery|TCM|10|TCM",
+				"Sanguine Feast|Sorcerer|PHB|Crimson Sorcery|TCM|18|TCM"
+			]
 		},
 		{
 			"name": "Great Fool Patron",
 			"shortName": "Great Fool",
 			"className": "Warlock",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Great Fool Spells|Warlock|PHB|Great Fool|TCM|3|TCM",
+				"Killing Joke|Warlock|PHB|Great Fool|TCM|3|TCM",
+				"Jester’s Japes|Warlock|PHB|Great Fool|TCM|6|TCM",
+				"Mocking Banter|Warlock|PHB|Great Fool|TCM|10|TCM",
+				"Send in the Clowns|Warlock|PHB|Great Fool|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "Horned King Patron",
 			"shortName": "Horned King",
 			"className": "Warlock",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Horned King Spells|Warlock|PHB|Horned King|TCM|3|TCM",
+				"Malediction|Warlock|PHB|Horned King|TCM|3|TCM",
+				"Witch Mark|Warlock|PHB|Horned King|TCM|3|TCM",
+				"Spiteful Curse|Warlock|PHB|Horned King|TCM|6|TCM",
+				"Crown of Horns|Warlock|PHB|Horned King|TCM|10|TCM",
+				"Gather the Coven|Warlock|PHB|Horned King|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "Occultist",
 			"shortName": "Occultist",
 			"className": "Wizard",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Forbidden Knowledge|Wizard|PHB|Occultist|TCM|3|TCM",
+				"Intrusion|Wizard|PHB|Occultist|TCM|6|TCM",
+				"Reality Tear|Wizard|PHB|Occultist|TCM|6|TCM",
+				"Occult Presence|Wizard|PHB|Occultist|TCM|10|TCM",
+				"Beyond Space|Wizard|PHB|Occultist|TCM|14|TCM"
+			]
 		},
 		{
 			"name": "Philosopher",
 			"shortName": "Philosopher",
 			"className": "Wizard",
 			"classSource": "PHB",
-			"source": "TCM"
+			"source": "TCM",
+			"subclassFeatures": [
+				"Alchemical Knowledge|Wizard|PHB|Philosopher|TCM|3|TCM",
+				"Quintessence|Wizard|PHB|Philosopher|TCM|3|TCM",
+				"Albedo|Wizard|PHB|Philosopher|TCM|6|TCM",
+				"Citrinitas|Wizard|PHB|Philosopher|TCM|10|TCM",
+				"Rubedo|Wizard|PHB|Philosopher|TCM|14|TCM"
+			]
 		}
 	],
-	"classFeature": [
+	"subclassFeature": [
 		{
 			"name": "Death Knight",
 			"source": "TCM",
