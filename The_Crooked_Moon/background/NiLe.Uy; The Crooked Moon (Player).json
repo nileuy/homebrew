@@ -8,10 +8,11 @@
 				"author": [
 					"NiLe.Uy"
 				],
-				"version": "1.0.8",
+				"version": "1.0.9",
 				"dateAdded": 1754794800
 			}
-		]
+		],
+		"edition": "one"
 	},
 	"background": [
 		{
@@ -28,7 +29,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Memory Starved|TCM}|TCM}.",
+						"{@b Feat.} {@feat Memory Starved|TCM}.",
 						"{@b Skills.} Choose two (you determine these during play using Scattered Memories).",
 						"{@b Tools.} Choose one (determined during play).",
 						"{@b Languages.} Choose two (determined during play).",
@@ -154,7 +155,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Crimson Ritualist|TCM}|TCM}.",
+						"{@b Feat.} {@feat Crimson Ritualist|TCM}.",
 						"{@b Skills.} Arcana, Medicine.",
 						"{@b Tools.} Herbalism Kit.",
 						"{@b Equipment.} Choose A or B: (A) Herbalism Kit, Dagger, Fine Clothes, Healer’s Kit, 3 Vials, 10 gp; or (B) 50 gp."
@@ -279,7 +280,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Fate Gambler|TCM}|TCM}.",
+						"{@b Feat.} {@feat Fate Gambler|TCM}.",
 						"{@b Skills.} Deception, Insight.",
 						"{@b Tools.} One kind of Gaming Set.",
 						"{@b Equipment.} Choose A or B: (A) Gaming Set (same as above), Caltrops, Fine Clothes, Fine Wine (bottle), 23 gp; or (B) 50 gp."
@@ -412,7 +413,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Cult Initiate|TCM}|TCM}.",
+						"{@b Feat.} {@feat Cult Initiate|TCM}.",
 						"{@b Skills.} Arcana, plus one of your choice (the Cultist Affinity table offers recommendations).",
 						"{@b Languages.} One of your choice (see the Affinity table).",
 						"{@b Tools.} Calligrapher’s Supplies.",
@@ -555,7 +556,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Choose one Origin feat (from this book or core rules)|TCM}|TCM}.",
+						"{@b Feat.} {@feat Choose one Origin feat (from this book or core rules)|TCM}.",
 						"{@b Skills.} Survival, plus one of your choice (see Province Affinities).",
 						"{@b Tools.} One of your choice (see Province Affinities).",
 						"{@b Equipment.} Choose A or B: (A) An appropriate artisan’s tools (matching your chosen tool), Map (Druskenvald’s provinces), Traveler’s Clothes, 10 gp; or (B) 50 gp."
@@ -747,7 +748,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Altered|TCM}|TCM}.",
+						"{@b Feat.} {@feat Altered|TCM}.",
 						"{@b Skills.} Intimidation, Medicine.",
 						"{@b Tools.} Alchemist’s Supplies.",
 						"{@b Equipment.} Choose A or B: (A) Alchemist’s Supplies, Manacles, Perfume (to cover chemical smell), Traveler’s Clothes (with hooded cloak), 5 gp; or (B) 50 gp."
@@ -865,7 +866,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Ghostlight Medium|TCM}|TCM}.",
+						"{@b Feat.} {@feat Ghostlight Medium|TCM}.",
 						"{@b Skills.} Insight, Persuasion.",
 						"{@b Tools.} Smith’s Tools.",
 						"{@b Equipment.} Choose A or B: (A) Smith’s Tools, Bullseye Lantern, Fine Clothes, Oil (3 flasks), 5 gp; or (B) 50 gp."
@@ -984,7 +985,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Hunter of Hunters|TCM}|TCM}.",
+						"{@b Feat.} {@feat Hunter of Hunters|TCM}.",
 						"{@b Skills.} Stealth, plus one of Arcana, History, Religion, or Nature.",
 						"{@b Tools.} Leatherworker’s Tools.",
 						"{@b Equipment.} Choose A or B: (A) Leatherworker’s Tools, Book (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 gp; or (B) 50 gp."
@@ -1095,7 +1096,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Unreflected|TCM}|TCM}.",
+						"{@b Feat.} {@feat Unreflected|TCM}.",
 						"{@b Skills.} Deception, Investigation.",
 						"{@b Tools.} Disguise Kit.",
 						"{@b Equipment.} Choose A or B: (A) Disguise Kit, Mirror, Traveler’s Clothes, 16 gp; or (B) 50 gp."
@@ -1206,7 +1207,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Grave Keeper|TCM}|TCM}.",
+						"{@b Feat.} {@feat Grave Keeper|TCM}.",
 						"{@b Skills.} Religion, Survival.",
 						"{@b Tools.} Mason’s Tools.",
 						"{@b Equipment.} Choose A or B: (A) Mason’s Tools, Hooded Lantern, Oil (3 flasks), Shovel, Soap, Traveler’s Clothes (with thick gloves and dark hood), 10 gp; or (B) 50 gp."
@@ -1334,7 +1335,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Reveling Fool|TCM}|TCM}.",
+						"{@b Feat.} {@feat Reveling Fool|TCM}.",
 						"{@b Skills.} Performance, Stealth.",
 						"{@b Languages.} One of your choice (Abyssal recommended).",
 						"{@b Tools.} One kind of Musical Instrument.",
@@ -1456,7 +1457,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Dread Speech|TCM}|TCM}.",
+						"{@b Feat.} {@feat Dread Speech|TCM}.",
 						"{@b Skills.} Arcana, Intimidation.",
 						"{@b Languages.} One of your choice (Deep Speech recommended).",
 						"{@b Tools.} Calligrapher’s Supplies.",
@@ -1571,7 +1572,7 @@
 				{
 					"type": "list",
 					"items": [
-						"{@b Feat.} {@feat {@feat Charm Twister|TCM}|TCM}.",
+						"{@b Feat.} {@feat Charm Twister|TCM}.",
 						"{@b Skills.} Insight, Nature.",
 						"{@b Languages.} Sylvan.",
 						"{@b Tools.} Weaver’s Tools.",
