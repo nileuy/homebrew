@@ -1,0 +1,39 @@
+{
+  "name": "The Crooked Moon — Player (TCM)",
+  "id": "tcm-player",
+  "version": "1.0.1",
+  "author": "NiLe.Uy",
+  "source": "TCM",
+  "rawBaseUrl_hint": "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/",
+  "monolithic": {
+    "path": "monolithic/NiLe.Uy; The Crooked Moon (Player).homebrew.json",
+    "rawUrl_example": "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/monolithic/NiLe.Uy%3B%20The%20Crooked%20Moon%20(Player).homebrew.json"
+  },
+  "byType": [
+    {
+      "type": "subclass",
+      "path": "subclass/NiLe.Uy; The Crooked Moon (Player).json",
+      "rawUrl_example": "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/subclass/NiLe.Uy%3B%20The%20Crooked%20Moon%20(Player).json"
+    },
+    {
+      "type": "background",
+      "path": "background/NiLe.Uy; The Crooked Moon (Player).json",
+      "rawUrl_example": "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/background/NiLe.Uy%3B%20The%20Crooked%20Moon%20(Player).json"
+    },
+    {
+      "type": "feat",
+      "path": "feat/NiLe.Uy; The Crooked Moon (Player).json",
+      "rawUrl_example": "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/feat/NiLe.Uy%3B%20The%20Crooked%20Moon%20(Player).json"
+    },
+    {
+      "type": "spell",
+      "path": "spell/NiLe.Uy; The Crooked Moon (Player).json",
+      "rawUrl_example": "https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/spell/NiLe.Uy%3B%20The%20Crooked%20Moon%20(Player).json"
+    }
+  ],
+  "howToUse_on_5e_tools": [
+    "Go to Utilities → Homebrew Manager → Load from URL",
+    "Paste the RAW URL of either the monolithic file or any by-type file",
+    "Alternatively, click the cog next to 'Get Homebrew' and set your Base Repository URL to your GitHub repo root to browse"
+  ]
+}
