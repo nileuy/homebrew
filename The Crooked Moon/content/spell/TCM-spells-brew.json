@@ -301,7 +301,7 @@
         }
       ],
       "entries": [
-        "You sacrifice a portion of your life force to enhance your\nmagical power. When you cast this spell, you take 1d6\nNecrotic damage, which can't be reduced or prevented\nin any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice)\ntakes an extra 1d6 damage of the same type as the spell’s\nnormal damage type (your choice if there are multiple).\nUsing a Higher-Level Spell Slot. The damage you\ntake and the extra damage your spells deal both increase by 1d6 for each spell slot level above 2.BURIED ALIVE\nLevel 4 Transmutation (Druid, Sorcerer, Warlock, Wizard)\nYou send your enemies to their graves even if they aren’t\ndead yet. A creature that you can see within range that\nis standing on the ground must make a Strength saving\nthrow. On a failed save, the ground opens and swallows the target, burying it up to 10 feet deep. While buried,\nthe target has T otal Cover, has the {@condition restrained} and\n{@condition blinded} conditions, and can’t breathe. On a successful\nsave, the target has the {@condition prone} condition, and its Speed\nis 0 until the end of its next turn. A buried creature can dig out of the grave by using its action to make a DC\n15 Strength ({@skill Athletics}) check. On a success, it digs 5\nfeet closer to the surface. If it succeeds by 5 or more, it reaches the surface. When the creature reaches the\nsurface, it exits the ground with the {@condition prone} condition.\nThe target automatically succeeds on its saving throw\nif it’s standing on any thickness of stone or metal, or at\nleast 2 inches of wood."
+        "You sacrifice a portion of your life force to enhance your\nmagical power. When you cast this spell, you take 1d6\nNecrotic damage, which can't be reduced or prevented\nin any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice)\ntakes an extra 1d6 damage of the same type as the spell’s\nnormal damage type (your choice if there are multiple)."
       ],
       "classes": {
         "fromClassList": [
@@ -318,7 +318,25 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage you\ntake and the extra damage your spells deal both increase by 1d6 for each spell slot level above 2.BURIED ALIVE\nLevel 4 Transmutation (Druid, Sorcerer, Warlock, Wizard)\nYou send your enemies to their graves even if they aren’t\ndead yet.",
+            "A creature that you can see within range that\nis standing on the ground must make a Strength saving\nthrow.",
+            "On a failed save, the ground opens and swallows the target, burying it up to 10 feet deep.",
+            "While buried,\nthe target has T otal Cover, has the {@condition restrained} and\n{@condition blinded} conditions, and can’t breathe.",
+            "On a successful\nsave, the target has the {@condition prone} condition, and its Speed\nis 0 until the end of its next turn.",
+            "A buried creature can dig out of the grave by using its action to make a DC\n15 Strength ({@skill Athletics}) check.",
+            "On a success, it digs 5\nfeet closer to the surface.",
+            "If it succeeds by 5 or more, it reaches the surface.",
+            "When the creature reaches the\nsurface, it exits the ground with the {@condition prone} condition.",
+            "The target automatically succeeds on its saving throw\nif it’s standing on any thickness of stone or metal, or at\nleast 2 inches of wood."
+          ]
+        }
+      ]
     },
     {
       "name": "Call Of The Wild",
@@ -409,7 +427,7 @@
         }
       ],
       "entries": [
-        "You usurp the negative energy animating an Undead\ncreature that you can see within range, attempting to\ntake control of it. The target must make a Charisma\nsaving throw. On a failed save, for the duration, the target has the {@condition charmed} condition (ignoring any\nImmunity to that condition), and it is Friendly toward\nyou. On a successful save, the target has Disadvantage\non the next attack roll it makes against you before\nthe start of your next turn. If you or any of your allies damage the target or force it to make a saving throw,\nthe spell ends.\nUsing a Higher-Level Spell Slot. You can target one\nadditional creature for each spell slot level above 1."
+        "You usurp the negative energy animating an Undead\ncreature that you can see within range, attempting to\ntake control of it. The target must make a Charisma\nsaving throw. On a failed save, for the duration, the target has the {@condition charmed} condition (ignoring any\nImmunity to that condition), and it is Friendly toward\nyou. On a successful save, the target has Disadvantage\non the next attack roll it makes against you before\nthe start of your next turn. If you or any of your allies damage the target or force it to make a saving throw,\nthe spell ends."
       ],
       "classes": {
         "fromClassList": [
@@ -434,7 +452,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "You can target one\nadditional creature for each spell slot level above 1."
+          ]
+        }
+      ]
     },
     {
       "name": "Chain Of Conviction",
@@ -470,7 +497,7 @@
         }
       ],
       "entries": [
-        "You hurl a spectral, barbed chain at a creature that\nyou can see within range. The target makes a Strength\nsaving throw. On a failed save, the target takes 2d6\nForce damage, is pulled up to 30 feet toward you, and is bound by the chain. While bound by the chain, the\ncreature is tethered to you and can’t move or teleport to\na space more than 30 feet away from you, and you have\nAdvantage on attack rolls made against the creature.\nOn a successful save, the target takes half as much\ndamage only. The bound target repeats the save at the end of each of its turns, ending the spell on itself on a\nsuccess. If you are ever more than 30 feet away from the\ntarget, the spell ends.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d6 for each spell slot level above 2.CHORUS OF THE LOST\nLevel 2 Necromancy (Bard, Cleric, Sorcerer, Warlock, Wizard)\nYou summon the eerie song and wailing of lost souls\nfrom a point you can see within range. Each creature\nin a 15-foot-radius Sphere centered there must make a\nWisdom saving throw. On a failed save, the target takes 2d6 Psychic damage, and it has the {@condition frightened} condition\nfor the duration. On a successful save, it takes half as\nmuch damage, and it has the {@condition frightened} condition until\nthe end of its next turn. A {@condition frightened} target repeats the\nsave at the end of each of its turns, ending the spell on itself on a success.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d6 for each spell slot level above 2."
+        "You hurl a spectral, barbed chain at a creature that\nyou can see within range. The target makes a Strength\nsaving throw. On a failed save, the target takes 2d6\nForce damage, is pulled up to 30 feet toward you, and is bound by the chain. While bound by the chain, the\ncreature is tethered to you and can’t move or teleport to\na space more than 30 feet away from you, and you have\nAdvantage on attack rolls made against the creature.\nOn a successful save, the target takes half as much\ndamage only. The bound target repeats the save at the end of each of its turns, ending the spell on itself on a\nsuccess. If you are ever more than 30 feet away from the\ntarget, the spell ends."
       ],
       "classes": {
         "fromClassList": [
@@ -483,7 +510,22 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d6 for each spell slot level above 2.CHORUS OF THE LOST\nLevel 2 Necromancy (Bard, Cleric, Sorcerer, Warlock, Wizard)\nYou summon the eerie song and wailing of lost souls\nfrom a point you can see within range.",
+            "Each creature\nin a 15-foot-radius Sphere centered there must make a\nWisdom saving throw.",
+            "On a failed save, the target takes 2d6 Psychic damage, and it has the {@condition frightened} condition\nfor the duration.",
+            "On a successful save, it takes half as\nmuch damage, and it has the {@condition frightened} condition until\nthe end of its next turn.",
+            "A {@condition frightened} target repeats the\nsave at the end of each of its turns, ending the spell on itself on a success.",
+            "Using a Higher-Level Spell Slot.",
+            "The damage\nincreases by 1d6 for each spell slot level above 2."
+          ]
+        }
+      ]
     },
     {
       "name": "Consuming Pyre",
@@ -572,7 +614,16 @@
         }
       ],
       "entries": [
-        "Warlock, Wizard)\nYou send tendrils of black and gray rot toward a target\nthat you can see within range. Three tendrils then leap\nfrom that target to as many as three other targets of your\nchoice, each of which must be within 30 feet of the first target. A target can be a creature or a nonmagical plant\nthat isn’t a creature, such as a tree or shrub. In either\ncase, each can be targeted by only one of the tendrils.\nA target that is a creature must make a Constitution\nsaving throw. On a failed save, it takes 3d8 Necrotic damage and has the {@condition poisoned} condition for the duration.\nOn a successful save, it takes half as much damage only.\nA creature {@condition poisoned} in this way takes 1d8 Necrotic damage at the start of each of its turns. A {@condition poisoned}\ncreature repeats the save at the end of each of its turns,\nending the spell on itself on a success.\nA Plant creature automatically fails the initial save,\nand a nonmagical plant that isn’t a creature simply withers and dies.\nUsing a Higher-Level Spell Slot. One additional\ntendril leaps from the first target to another target for each spell slot level above 3."
+        "Warlock, Wizard)\nYou send tendrils of black and gray rot toward a target\nthat you can see within range. Three tendrils then leap\nfrom that target to as many as three other targets of your\nchoice, each of which must be within 30 feet of the first target. A target can be a creature or a nonmagical plant\nthat isn’t a creature, such as a tree or shrub. In either\ncase, each can be targeted by only one of the tendrils.\nA target that is a creature must make a Constitution\nsaving throw. On a failed save, it takes 3d8 Necrotic damage and has the {@condition poisoned} condition for the duration.\nOn a successful save, it takes half as much damage only.\nA creature {@condition poisoned} in this way takes 1d8 Necrotic damage at the start of each of its turns. A {@condition poisoned}\ncreature repeats the save at the end of each of its turns,\nending the spell on itself on a success.\nA Plant creature automatically fails the initial save,\nand a nonmagical plant that isn’t a creature simply withers and dies."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "One additional\ntendril leaps from the first target to another target for each spell slot level above 3."
+          ]
+        }
       ]
     },
     {
@@ -601,7 +652,7 @@
         }
       ],
       "entries": [
-        "A wave of blood sweeps out from you in a 15-foot\nEmanation. Each creature of your choice in the wave\nmust make a Dexterity saving throw, taking 3d10\nNecrotic damage on a failed save, or half as much damage on a successful one.\nIf you damage at least one Small or larger creature,\none creature of your choice that you can see within the\nEmanation regains a number of Hit Points equal to half\nthe damage roll.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d10 for each spell slot level above 3.CROOKED WARD\nLevel 3 Abjuration (Druid, Ranger, Warlock, Wizard)\nYou touch an immobile surface and mark a symbol that\ncauses agony in twisted creatures. An {@condition invisible}, 30-foot-\nradius Sphere springs out from the point you touch.\nEach Aberration, Fey, Fiend, Monstrosity, or Undead in the Sphere has Disadvantage on ability checks and\nattack rolls. When an affected creature enters the Sphere\nfor the first time on a turn or starts its turn there, it\nmust succeed on a Wisdom saving throw or have the\n{@condition frightened} condition until the start of its next turn.\nUsing a Higher-Level Spell Slot. You can maintain\nConcentration on this spell for longer if you cast it using a spell slot of level 4 (up to 1 hour) or 5 (up to 8 hours). If you use a level 6+ spell slot, the spell doesn't require\nConcentration, and the duration becomes 24 hours."
+        "A wave of blood sweeps out from you in a 15-foot\nEmanation. Each creature of your choice in the wave\nmust make a Dexterity saving throw, taking 3d10\nNecrotic damage on a failed save, or half as much damage on a successful one.\nIf you damage at least one Small or larger creature,\none creature of your choice that you can see within the\nEmanation regains a number of Hit Points equal to half\nthe damage roll."
       ],
       "classes": {
         "fromClassList": [
@@ -618,7 +669,22 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d10 for each spell slot level above 3.CROOKED WARD\nLevel 3 Abjuration (Druid, Ranger, Warlock, Wizard)\nYou touch an immobile surface and mark a symbol that\ncauses agony in twisted creatures.",
+            "An {@condition invisible}, 30-foot-\nradius Sphere springs out from the point you touch.",
+            "Each Aberration, Fey, Fiend, Monstrosity, or Undead in the Sphere has Disadvantage on ability checks and\nattack rolls.",
+            "When an affected creature enters the Sphere\nfor the first time on a turn or starts its turn there, it\nmust succeed on a Wisdom saving throw or have the\n{@condition frightened} condition until the start of its next turn.",
+            "Using a Higher-Level Spell Slot.",
+            "You can maintain\nConcentration on this spell for longer if you cast it using a spell slot of level 4 (up to 1 hour) or 5 (up to 8 hours).",
+            "If you use a level 6+ spell slot, the spell doesn't require\nConcentration, and the duration becomes 24 hours."
+          ]
+        }
+      ]
     },
     {
       "name": "Culling Sickle",
@@ -650,7 +716,7 @@
         }
       ],
       "entries": [
-        "You create a ghostly sickle that lasts for the duration and\ncan strike out at your foes. The sickle appears hovering\nin your space and moves with you. When you cast this\nspell and as a Bonus Action on each of your turns, you can direct it to fly at and strike a creature within 30 feet\nof you. Make a ranged spell attack. On a hit, the target\ntakes 2d8 Necrotic damage, and you gain T emporary Hit\nPoints equal to half the damage dealt. After the sickle\nhits or misses, it returns to hover in your space.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d8 for each spell slot level above 3."
+        "You create a ghostly sickle that lasts for the duration and\ncan strike out at your foes. The sickle appears hovering\nin your space and moves with you. When you cast this\nspell and as a Bonus Action on each of your turns, you can direct it to fly at and strike a creature within 30 feet\nof you. Make a ranged spell attack. On a hit, the target\ntakes 2d8 Necrotic damage, and you gain T emporary Hit\nPoints equal to half the damage dealt. After the sickle\nhits or misses, it returns to hover in your space."
       ],
       "classes": {
         "fromClassList": [
@@ -671,7 +737,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d8 for each spell slot level above 3."
+          ]
+        }
+      ]
     },
     {
       "name": "Cursed Cacophony",
@@ -756,7 +831,7 @@
         }
       ],
       "entries": [
-        "creature within range takes damage\nYou absorb a measure of a creature's suffering and\nescaping vital essence. Expend and roll one Hit Point Die.\nYou regain a number of Hit Points equal to the number\nrolled plus your spellcasting ability modifier.\nIf the creature took damage from a Critical Hit,\ndouble the number of Hit Points you regain.\nUsing a Higher-Level Spell Slot. You can expend one\nadditional Hit Point Die for each spell slot level above 1."
+        "creature within range takes damage\nYou absorb a measure of a creature's suffering and\nescaping vital essence. Expend and roll one Hit Point Die.\nYou regain a number of Hit Points equal to the number\nrolled plus your spellcasting ability modifier.\nIf the creature took damage from a Critical Hit,\ndouble the number of Hit Points you regain."
       ],
       "classes": {
         "fromClassList": [
@@ -773,7 +848,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "You can expend one\nadditional Hit Point Die for each spell slot level above 1."
+          ]
+        }
+      ]
     },
     {
       "name": "Dissolution",
@@ -846,7 +930,7 @@
         }
       ],
       "entries": [
-        "You create a shadowy field that reaps escaping life force\nin a 30-foot Cube originating from a point within range.\nA creature Hostile to you in the field when it appears,\nor when it enters the field for the first time on a turn or ends its turn there, is cursed until the end of its next\nturn. While cursed, the first time the creature takes\ndamage during a turn, it takes an extra 1d6 Necrotic\ndamage, and a creature of your choice within the field\nthat isn’t cursed by it regains a number of Hit Points equal to the Necrotic damage taken.\nUsing a Higher-Level Spell Slot. The\ndamage increases by 1d6 for each spell slot level\nabove 5."
+        "You create a shadowy field that reaps escaping life force\nin a 30-foot Cube originating from a point within range.\nA creature Hostile to you in the field when it appears,\nor when it enters the field for the first time on a turn or ends its turn there, is cursed until the end of its next\nturn. While cursed, the first time the creature takes\ndamage during a turn, it takes an extra 1d6 Necrotic\ndamage, and a creature of your choice within the field\nthat isn’t cursed by it regains a number of Hit Points equal to the Necrotic damage taken."
       ],
       "classes": {
         "fromClassList": [
@@ -863,7 +947,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The\ndamage increases by 1d6 for each spell slot level\nabove 5."
+          ]
+        }
+      ]
     },
     {
       "name": "Ghastly Charge",
@@ -891,7 +984,7 @@
         }
       ],
       "entries": [
-        "You call forth the spirits of long-dead knights, which\ncharge forward from you in a 90-foot long, 20-foot wide\nLine, and then vanish. Each creature of your choice in the\nLine must make a Wisdom saving throw. On a failed save, a target takes 5d12 Necrotic damage, has the {@condition frightened}\ncondition until the start of your next turn, and must\nimmediately use its Reaction, if available, to move as far\nfrom you as it can, using the safest route. On a successful\nsave, the creature takes half as much damage only.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d12 for each spell slot level above 6."
+        "You call forth the spirits of long-dead knights, which\ncharge forward from you in a 90-foot long, 20-foot wide\nLine, and then vanish. Each creature of your choice in the\nLine must make a Wisdom saving throw. On a failed save, a target takes 5d12 Necrotic damage, has the {@condition frightened}\ncondition until the start of your next turn, and must\nimmediately use its Reaction, if available, to move as far\nfrom you as it can, using the safest route. On a successful\nsave, the creature takes half as much damage only."
       ],
       "classes": {
         "fromClassList": [
@@ -908,7 +1001,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d12 for each spell slot level above 6."
+          ]
+        }
+      ]
     },
     {
       "name": "Harvest Moonglow",
@@ -945,7 +1047,7 @@
         }
       ],
       "entries": [
-        "You call upon the light of the harvest moon to\nilluminate a 20-foot-radius Sphere centered on a point\nwithin range. The area is bathed in silvery Dim Light.\nCreatures and objects with the {@condition invisible} condition in the light become visible as translucent, shimmering images.\nWhen one of your allies is within the light, it can use a\nBonus Action to absorb some of the light and gain 2d6\nT emporary Hit Points.\nUsing a Higher-Level Spell Slot. The T emporary Hit\nPoints increase by 1d6 for each spell slot level above 3.HARROWING BALLAD\nLevel 2 Enchantment (Bard, Sorcerer, Wizard)\nYou inflict a mind-eroding song on a creature that you\ncan see within range. If the creature has an Intelligence\nof 4 or higher, it must succeed on an Intelligence saving\nthrow or have the {@condition charmed} condition for the duration.\nWhile {@condition charmed} in this way, the target is struck with\na rapidly repeating ballad that only it can hear; it takes 1d6 Psychic damage at the start of each of its turns, and\nit has Disadvantage on Wisdom ({@skill Perception}) checks\nand on Constitution saving throws made to maintain its Concentration. The target repeats the save at the end of\neach of its turns, ending the spell on a success.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d6 for each spell slot level above 2."
+        "You call upon the light of the harvest moon to\nilluminate a 20-foot-radius Sphere centered on a point\nwithin range. The area is bathed in silvery Dim Light.\nCreatures and objects with the {@condition invisible} condition in the light become visible as translucent, shimmering images.\nWhen one of your allies is within the light, it can use a\nBonus Action to absorb some of the light and gain 2d6\nT emporary Hit Points."
       ],
       "classes": {
         "fromClassList": [
@@ -962,7 +1064,21 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The T emporary Hit\nPoints increase by 1d6 for each spell slot level above 3.HARROWING BALLAD\nLevel 2 Enchantment (Bard, Sorcerer, Wizard)\nYou inflict a mind-eroding song on a creature that you\ncan see within range.",
+            "If the creature has an Intelligence\nof 4 or higher, it must succeed on an Intelligence saving\nthrow or have the {@condition charmed} condition for the duration.",
+            "While {@condition charmed} in this way, the target is struck with\na rapidly repeating ballad that only it can hear; it takes 1d6 Psychic damage at the start of each of its turns, and\nit has Disadvantage on Wisdom ({@skill Perception}) checks\nand on Constitution saving throws made to maintain its Concentration.",
+            "The target repeats the save at the end of\neach of its turns, ending the spell on a success.",
+            "Using a Higher-Level Spell Slot.",
+            "The damage\nincreases by 1d6 for each spell slot level above 2."
+          ]
+        }
+      ]
     },
     {
       "name": "Hungering Blade",
@@ -1304,7 +1420,7 @@
         }
       ],
       "entries": [
-        "You summon and unleash a murder of deadly crows.\nEach creature of your choice in a 30-foot Cone\noriginating from you makes a Dexterity saving throw.\nOn a failed save, the target takes 5d6 Force damage and has the {@condition blinded} condition. On a successful save, it takes\nhalf as much damage only. A {@condition blinded} creature repeats\nthe save at the end of each of its turns, ending the effect\non itself on a success. The effect also ends if the creature\nregains any Hit Points. The crows disperse and vanish after they strike.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d6 for each spell slot level above 4."
+        "You summon and unleash a murder of deadly crows.\nEach creature of your choice in a 30-foot Cone\noriginating from you makes a Dexterity saving throw.\nOn a failed save, the target takes 5d6 Force damage and has the {@condition blinded} condition. On a successful save, it takes\nhalf as much damage only. A {@condition blinded} creature repeats\nthe save at the end of each of its turns, ending the effect\non itself on a success. The effect also ends if the creature\nregains any Hit Points. The crows disperse and vanish after they strike."
       ],
       "classes": {
         "fromClassList": [
@@ -1329,7 +1445,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d6 for each spell slot level above 4."
+          ]
+        }
+      ]
     },
     {
       "name": "Mysterious Presence",
@@ -1570,7 +1695,16 @@
         }
       ],
       "entries": [
-        "Warlock, Wizard)\nCrimson light shines down in a 20-foot-radius, 60-foot-\nhigh Cylinder centered on a point within range. Each\ncreature in that area that isn’t a Construct or Undead\nmust make a Constitution saving throw, taking 4d10 Necrotic damage on a failed save or half as much damage\non a successful one. Constructs and Undead in the area\nregain 4d10 Hit Points.\nIf any of this spell’s area overlaps with an area of\nDarkness created by a spell of level 3 or lower, that other spell is dispelled.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d10 and the level of spell that can be dispelled increases by 1 for each spell slot level above 3."
+        "Warlock, Wizard)\nCrimson light shines down in a 20-foot-radius, 60-foot-\nhigh Cylinder centered on a point within range. Each\ncreature in that area that isn’t a Construct or Undead\nmust make a Constitution saving throw, taking 4d10 Necrotic damage on a failed save or half as much damage\non a successful one. Constructs and Undead in the area\nregain 4d10 Hit Points.\nIf any of this spell’s area overlaps with an area of\nDarkness created by a spell of level 3 or lower, that other spell is dispelled."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d10 and the level of spell that can be dispelled increases by 1 for each spell slot level above 3."
+          ]
+        }
       ]
     },
     {
@@ -1603,7 +1737,7 @@
         }
       ],
       "entries": [
-        "You siphon away the vitality and sense of self through\nthe shadows of nearby creatures in a 15-foot Emanation\noriginating from you.\nWhen you cast this spell, you can designate creatures\nto be unaffected by it. Whenever any other creature enters the Emanation or starts its turn there, or when\nthe Emanation enters a creature’s space, the creature\nmust make a Charisma saving throw. On a failed\nsave, the creature takes 2d6 Necrotic damage and has Disadvantage on attack rolls and ability checks until the\nend of its next turn. On a successful save, the creature\ntakes half as much damage only. A creature makes this\nsave only once per turn.\nUsing a Higher-Level Spell Slot. The damage\nincreases by 1d6 for each spell slot level above 3.{@spell Summer Winds}\nLevel 2 Evocation (Cleric, Druid, Paladin, Ranger)\nYou unleash a blast of light and wind in a 15-foot\nCone. Your allies in the Cone regain 2d6 Hit Points.\nUndead within the Cone that are Hostile to you must\nmake a Constitution saving throw, taking 2d6 Radiant damage on a failed save, or half as much damage on a\nsuccessful one.\nUsing a Higher-Level Spell Slot. The damage and\nhealing increase by 2d6 for each spell slot level above 2."
+        "You siphon away the vitality and sense of self through\nthe shadows of nearby creatures in a 15-foot Emanation\noriginating from you.\nWhen you cast this spell, you can designate creatures\nto be unaffected by it. Whenever any other creature enters the Emanation or starts its turn there, or when\nthe Emanation enters a creature’s space, the creature\nmust make a Charisma saving throw. On a failed\nsave, the creature takes 2d6 Necrotic damage and has Disadvantage on attack rolls and ability checks until the\nend of its next turn. On a successful save, the creature\ntakes half as much damage only. A creature makes this\nsave only once per turn."
       ],
       "classes": {
         "fromClassList": [
@@ -1620,7 +1754,20 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "The damage\nincreases by 1d6 for each spell slot level above 3.{@spell Summer Winds}\nLevel 2 Evocation (Cleric, Druid, Paladin, Ranger)\nYou unleash a blast of light and wind in a 15-foot\nCone.",
+            "Your allies in the Cone regain 2d6 Hit Points.",
+            "Undead within the Cone that are Hostile to you must\nmake a Constitution saving throw, taking 2d6 Radiant damage on a failed save, or half as much damage on a\nsuccessful one.",
+            "Using a Higher-Level Spell Slot.",
+            "The damage and\nhealing increase by 2d6 for each spell slot level above 2."
+          ]
+        }
+      ]
     },
     {
       "name": "Unraveling Whisper",
@@ -1656,7 +1803,7 @@
         }
       ],
       "entries": [
-        "Choose a creature you can see within range and whisper\na frightful phrase that only the target can hear. The target\nmust make a Wisdom saving throw. On a failed save, the\ntarget takes 2d6 Psychic damage and has the {@condition frightened} condition until the start of your next turn. On a\nsuccessful save, the target takes half as much damage only.\nWhile {@condition frightened} in this way, the creature has\nVulnerability to your choice of Bludgeoning, Piercing,\nor Slashing damage.\nUsing a Higher-Level Spell Slot. You can target one\nadditional creature for each spell slot level above 2."
+        "Choose a creature you can see within range and whisper\na frightful phrase that only the target can hear. The target\nmust make a Wisdom saving throw. On a failed save, the\ntarget takes 2d6 Psychic damage and has the {@condition frightened} condition until the start of your next turn. On a\nsuccessful save, the target takes half as much damage only.\nWhile {@condition frightened} in this way, the creature has\nVulnerability to your choice of Bludgeoning, Piercing,\nor Slashing damage."
       ],
       "classes": {
         "fromClassList": [
@@ -1677,7 +1824,16 @@
             "source": "PHB"
           }
         ]
-      }
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot.",
+          "entries": [
+            "You can target one\nadditional creature for each spell slot level above 2."
+          ]
+        }
+      ]
     },
     {
       "name": "Veil Of The Reaper",
