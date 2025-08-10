@@ -1,0 +1,511 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "TCM",
+        "abbreviation": "TCM",
+        "full": "The Crooked Moon — Player Options (2024)",
+        "authors": [
+          "Legend of Avantris"
+        ],
+        "convertedBy": [
+          "ChatGPT"
+        ],
+        "version": "1.0.7",
+        "edition": "one",
+        "dateAdded": 1754845677,
+        "dateLastModified": 1754845677
+      }
+    ]
+  },
+  "race": [
+    {
+      "name": "Ashborn",
+      "source": "TCM",
+      "page": 3,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Ashen Legacy. You know the Minor Illusion cantrip.\nAdditionally, starting at character level 3 you always\nhave the Charm Person spell prepared, and starting at character level 5 you always have the Invisibility spell\nprepared. You can cast them each once without a spell\nslot, and you regain the ability to cast them in that way\nwhen you finish a Long Rest. You can also cast them\nusing any spell slots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with this trait (choose the ability when you select this species)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision with a range of\n60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Fiendish Fortune",
+          "entries": [
+            "When you’re hit by an attack\nroll that isn’t a Critical Hit, you can take a Reaction to magically cause the attack to miss you, and a creature of your choice within 5 feet of you takes Force damage equal\nto your {@pb}. Once you use this trait, you\ncan’t do so again until you finish a Short or Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scorpion Sting",
+          "entries": [
+            "You have a tail stinger you can use to\nmake Unarmed Strikes using your Strength or Dexterity (your choice) for attack and damage rolls. On a hit, you deal {@dice 1d4} Piercing damage, and you can deal an extra {@dice 1d6}\nPoison damage. You can deal this extra damage a number\nof times equal to your {@pb}. You regain\none expended use when you finish a Short Rest, and you\nregain all expended uses when you finish a Long Rest.\nWhen you reach character level 10, this extra damage\nincreases to {@dice 2d6}."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "S"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Azureborn",
+      "source": "TCM",
+      "page": 4,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Azure Legacy. You know the {@spell Guidance}  cantrip.\nStarting at character level 3, you always have the\nAugury  spell prepared and can cast it once without\na spell slot or Material components, and you regain\nthe ability to cast it in that way when you finish\na Long Rest. You can also cast it using any spell\nslots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with\nthis trait (choose the ability when you select\nthis species)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision with a\nrange of 60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Glimpse Fate",
+          "entries": [
+            "When you roll Initiative,\nif you aren’t surprised, you can choose a\nnumber of creatures that you can see equal\nto your {@pb}. The targets have\nAdvantage on their Initiative rolls. Once you use this trait, you can’t do so again until you finish a Short or Long Rest.\nWinds of Magic. As a Bonus Action, you can take\nthe Dash action and increase your Fly Speed by 10 feet\nuntil the end of the turn. You can use this trait a number\nof times equal to your {@pb}, and you regain\nall expended uses when you finish a Long Rest."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Bogborn",
+      "source": "TCM",
+      "page": 5,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Bog Bulk. You have Advantage\non any ability check you make\nto end the {@condition {@condition grappled}} condition. You also count as one size\nlarger when determining your\ncarrying capacity."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have\nDarkvision with a range of 60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Guiding Bond",
+          "entries": [
+            "As a Bonus\nAction, you can magically place a mark on a creature you can see within 60 feet of yourself. The mark lasts for 1 minute, and takes the form\nof ephemeral plants, moss, fungus, or swamp\nanimals that only you can see. For the\nduration, you can add {@dice 1d4} to ability checks\nand attack rolls you make against the marked creature. You can use this Bonus Action a\nnumber of times equal to your Proficiency\nBonus, and you regain all expended uses when you finish a Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Keen Senses",
+          "entries": [
+            "You have proficiency in the {@skill {@skill Perception}}\nor {@skill {@skill Survival}} skill."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Regeneration",
+          "entries": [
+            "As a Bonus Action, you can expend\none of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the number rolled plus\nyour Constitution modifier (minimum of 1 Hit Point).\nIf you take Acid or Fire damage, this trait doesn't\nfunction until the end of your next turn."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Curseborn",
+      "source": "TCM",
+      "page": 6,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Cursed Claws. You have claws you can use to\nmake Unarmed Strikes, which deal {@dice 1d6} Slashing\ndamage on a hit. You can use Strength or Dexterity for\nattack and damage rolls with your claws.\nWhen you hit a creature with your claws, you\ncan curse the target until the start of your next turn.\nWhile cursed, the target emits wisps of fog and has\nDisadvantage on D20 T ests. You can curse a creature a number of times equal to your {@pb},\nand you regain all expended uses when you finish a"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Long Rest",
+          "entries": [
+            ""
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision with a range of\n60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Grey Balance",
+          "entries": [
+            "When you fail a saving throw, you can\ntake a Reaction to succeed instead. When you do, you have Disadvantage on D20 T ests until the end of your next turn. You can use this trait once, and you regain the\nability to do so when you finish a Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Lupine Sense",
+          "entries": [
+            "You have proficiency in the\n{@skill {@skill Investigation}}, {@skill {@skill Perception}}, or {@skill {@skill Survival}} skill."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 35
+      }
+    },
+    {
+      "name": "Deepborn",
+      "source": "TCM",
+      "page": 7,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Amphibious. You can breathe air and water."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision with a range of\n60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Eldritch Gibbering",
+          "entries": [
+            "Thanks to your eldritch\nconnection to the Hungering Ones, you speak"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Deep Speech",
+          "entries": [
+            "As a Magic action, you can\ngibber in that language. Each creature\nof your choice in a 30-foot Emanation originating from you must succeed on\na Wisdom saving throw (DC 8 plus your\n{@pb} and Intelligence, Wisdom, or Charisma modifier; choose the\nability when you select this species) or roll\na d6 and consult the table below. The effect\nlasts until the start of your next turn. Once any\ntarget fails its save against this trait, you can’t use it again until you finish a Short or Long Rest.\n{@dice 1d6} Effect\n1–2 The target has Disadvantage on attack rolls.\n3–4 The target’s Speed becomes 0.\n5–6 The target can’t take Reactions."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Endless Hunger",
+          "entries": [
+            "As a Bonus Action, you can embrace\nyour connection to the Hungering Ones. Until the start\nof your next turn, you know the location of any creatures\nthat aren’t Constructs or Undead within 60 feet of\nyourself, and your attack rolls against those creatures can’t\nhave Disadvantage. Once you use this trait, you can’t use it again until you finish a Short or Long Rest."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Gnarlborn",
+      "source": "TCM",
+      "page": 8,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Deep Roots. You have Advantage on ability checks\nand saving throws against being moved against your will\nor to avoid the {@condition {@condition prone}} condition."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Elderwood Whispers",
+          "entries": [
+            "You can draw on the memory\nof the Elderwood spirits. When you finish a Long Rest, you gain proficiency with a skill, a tool, or learn one\nlanguage of your choice until you next finish a Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Grasping Branches",
+          "entries": [
+            "As a Bonus Action, you can\nmagically unleash the binding power of the dark wood. Choose a Large or smaller creature within 30 feet of\nyourself. The creature must make a Strength saving throw (DC 8 plus your Constitution modifier and Proficiency\nBonus). On a failed save, the target has the {@condition {@condition restrained}}\ncondition for 1 minute as branches appear and ensnare it.\nOn a successful save, its Speed is halved until the end of\nits next turn. A {@condition {@condition restrained}} creature repeats the save at the end of each of its turns, ending the effect on itself on a\nsuccess. The branches vanish when the condition ends.\nOnce you use this trait, you can’t do so again until\nyou finish a Short or Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Root Sense",
+          "entries": [
+            "As a Bonus Action, you gain\nTremorsense with a range of 60 feet for 10 minutes.\nOnce you use this trait, you can’t do so again until you\nfinish a Short or Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Towering Size",
+          "entries": [
+            "You have Advantage on any ability\ncheck you make to end the {@condition {@condition grappled}} condition. You\nalso count as one size larger when determining your\ncarrying capacity."
+          ]
+        }
+      ],
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Graveborn",
+      "source": "TCM",
+      "page": 9,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Darkvision. You have Darkvision\nwith a range of 60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Devour Corpse",
+          "entries": [
+            "You can eat\nspoiled and rotten food as if it were fresh. Additionally, if you spend 1 minute\neating flesh from the corpse of a Small or\nlarger creature that isn’t a Construct, roll one of your Hit Point Dice without expending it\n(even if you have none remaining). You regain\na number of Hit Points equal to the number rolled plus your Constitution modifier\n(minimum of 1 Hit Point). Once you regain Hit\nPoints using this trait, you can’t do so again\nuntil you finish a Short or Long Rest.\nFrozen W aste. You have Resistance to\nCold damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Infused Drakkonite",
+          "entries": [
+            "When you damage a\ncreature, you can ignore any Resistances it has,\nand it takes extra Necrotic damage equal to your"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Proficiency Bonus",
+          "entries": [
+            "Once you use this trait,\nyou can’t do so again until you finish a Short or Long Rest."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Harvestborn",
+      "source": "TCM",
+      "page": 10,
+      "entries": [
+        "As a Harvestborn, you have these special traits.",
+        "Culling.",
+        "When you damage a Bloodied\ncreature, you can deal an extra {@dice 1d12} Necrotic\ndamage to it.",
+        "You can use this trait a number\nof times equal to your {@pb},\nand you regain all expended uses when you\nfinish a Long Rest.",
+        "Gift of the Green.",
+        "As a Bonus Action, you\ncan touch the ground and choose a creature also\ntouching the ground within 30 feet of yourself.",
+        "That creature can expend and roll one Hit Point\nDie, and it regains a number of Hit Points equal to\nthe number rolled plus your {@pb}.",
+        "You can use this trait a number of times\nequal to your {@pb}.",
+        "You regain one\nexpended use when you finish a Short Rest, and you\nregain all expended uses when you finish a Long Rest.",
+        "Jack-O-Lantern.",
+        "You know the Dancing Lights\ncantrip.",
+        "Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).",
+        "Scarecrow {@skill {@skill Nature}}.",
+        "You don’t require air, food,\nor drink.",
+        "W atchful Rest.",
+        "You don’t need to sleep, and magic\ncan't put you to sleep.",
+        "Moreover, you can finish a Long Rest in 4 hours if you spend those hours in an inactive,\nmotionless state, during which you retain consciousness."
+      ],
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Plagueborn",
+      "source": "TCM",
+      "page": 11,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Small (about 2–4 feet tall), chosen\nwhen you select this species\nyour Speed\nAs a Plagueborn, you have these special traits.\nBorn in Filth. You have Advantage on\nsaving throws to avoid or end the {@condition {@condition poisoned}}\ncondition or magical contagions."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision with a range\nof 60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Infected Cunning",
+          "entries": [
+            "The plague you carry binds you\nto rats and imparts their cunning. You gain proficiency in the {@skill {@skill Deception}} or {@skill {@skill Stealth}} skill."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Plague Bearer",
+          "entries": [
+            "When you hit a creature with an\nattack roll, you can spread your magical contagion to the target. The target must succeed on a Constitution saving throw (DC 8 plus your Constitution modifier\nand {@pb}) or become afflicted with\nyour plague for 1 minute.\nWhile afflicted, the target has\nDisadvantage on attack rolls and ability checks and takes {@dice 1d4} Poison damage at\nthe start of each of its turns. The target\nrepeats the save at the end of each of its turns, ending the plague on itself on\na success.\nOnce you use this trait, you can’t do so\nagain until you finish a Long Rest."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Relicborn",
+      "source": "TCM",
+      "page": 12,
+      "entries": [
+        "As a Relicborn, you have these special traits.",
+        "Dance of Death.",
+        "As a Bonus Action, you can\nmake a DC 15 Charisma (Musical Instrument\nor {@skill {@skill Performance}}) check.",
+        "If you succeed, the\nnext attack roll you make before the end of\nyour turn has Advantage.",
+        "If you succeed on\nthe check by 5 or more, you can roll one\nof your Hit Point Dice (without expending\nit) and gain T emporary Hit Points equal to the\nnumber rolled.",
+        "Eternal Party.",
+        "You don’t need to sleep, and you can\nfinish a Long Rest in 4 hours if you spend those hours enjoying revelry, such as telling stories or playing music.",
+        "Moment of Remembrance.",
+        "When another creature\nyou can see within 30 feet of you fails a D20 T est, you\ncan take a Reaction to let the target add {@dice 1d4} to the total, potentially causing it to succeed.",
+        "Once this trait changes a failed roll into a success, you can’t use it again until you\nfinish a Short or Long Rest.",
+        "Soul of Revelry.",
+        "You gain proficiency in\nthe {@skill {@skill Performance}} skill or with one kind of Musical Instrument."
+      ],
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Silkborn",
+      "source": "TCM",
+      "page": 13,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "Bejeweled Carapace. When you are hit\nwith an attack roll, you can take a Reaction to\nadd your {@pb} to your AC against that attack, potentially causing it to miss. Once\nyou use this trait, you can’t do so again until you\nfinish a Short or Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision with a range\nof 60 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Silken Legacy",
+          "entries": [
+            "You know the Thaumaturgy cantrip.\nStarting at character level 3, you always have the Find Familiar  spell (the familiar takes the form of a jeweled\ninsect or arachnid) prepared, and starting at character\nlevel 5, you always have the Web  spell prepared. You\ncan cast each spell once without a spell slot or Material components. You regain the ability to cast them in that\nway when you finish a Long Rest. You can also cast either spell using any spell slots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your spellcasting\nability for the spells you cast with this trait (choose the\nability when you select this species)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Spider Climb",
+          "entries": [
+            "You can climb difficult surfaces,\nincluding along ceilings, without needing an ability\ncheck and while leaving your hands free."
+          ]
+        }
+      ],
+      "darkvision": 60,
+      "size": [
+        "M"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    },
+    {
+      "name": "Stoneborn",
+      "source": "TCM",
+      "page": 14,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "feet tall), chosen when you select this species\nAs a Stoneborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Argent Gleam",
+          "entries": [
+            "As a Bonus Action, you can channel a\nmote of the Silver Path's light with your choice of one of\nthe following options:\nPath’s Grace. You cast the Bless spell, requiring no\nMaterial components.\nZealous charGe. You take the Dash action. The first\ntime you make an attack roll before the end of your\nturn, on a hit or miss, the target takes an extra {@dice 2d6}\nRadiant damage.\nOnce you use this trait’s Bonus Action, you can’t do so again until you finish a Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Silver Bulwark",
+          "entries": [
+            "You can call upon the Silver Path\nto protect you. When you take Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to gain\nResistance to those three damage types until the start of\nyour next turn. Once you use this trait, you can’t do so\nagain until you finish a Short or Long Rest.\nW atchful Senses. You gain proficiency in the {@skill {@skill Insight}},\n{@skill {@skill Perception}}, or {@skill {@skill Survival}} skill."
+          ]
+        }
+      ],
+      "size": [
+        "M",
+        "S"
+      ],
+      "speed": {
+        "walk": 30
+      }
+    }
+  ]
+}

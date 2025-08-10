@@ -1,0 +1,392 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "TCM",
+        "abbreviation": "TCM",
+        "full": "The Crooked Moon — Player Options (2024)",
+        "authors": [
+          "Legend of Avantris"
+        ],
+        "convertedBy": [
+          "ChatGPT"
+        ],
+        "version": "1.0.7",
+        "edition": "one",
+        "dateAdded": 1754845677,
+        "dateLastModified": 1754845677
+      }
+    ]
+  },
+  "feat": [
+    {
+      "name": "Altered",
+      "source": "TCM",
+      "page": 63,
+      "entries": [
+        "Origin Feat\nYou have been changed through\nmagic, science, or a volatile blend of\nthe two. You have a blatant physical\naugmentation of your choice from the options below. The augmentation is\nobvious—such as with stitches, grafts\nof other creature’s body parts, or\nimplants—unless disguised.",
+        {
+          "type": "entries",
+          "name": "Aquatic Adaptation",
+          "entries": [
+            "You have gills\nor mucus membranes that allow you to breathe water, and you have webbed extremities that grant you a Swim\nSpeed equal to your"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Natural Armor",
+          "entries": [
+            "You have scales, plates, or thick\nhide that grants you an AC of 13 + your Dexterity or Constitution modifier (choose the ability when you\nselect this feat)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Natural Weapons",
+          "entries": [
+            "You have claws, fangs, horns,\nor some other natural weapon that you can use to make Unarmed Strikes that deal 1d8 damage on a hit.\nThe damage is Bludgeoning, Piercing, or Slashing as appropriate to the form."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Night Vision",
+          "entries": [
+            "You have Darkvision with a range of 60\nfeet. If you already have Darkvision, its range increases by 30 feet."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charm Twister",
+      "source": "TCM",
+      "page": 63,
+      "entries": [
+        "Origin Feat\nYou know hedge remedies and hexes passed down\nthrough Old Ways\nteachings, and you can impart them into small\nwicker charms you\nweave. You gain the\nfollowing benefits.",
+        {
+          "type": "entries",
+          "name": "Old Blessing",
+          "entries": [
+            "You can cast the Bless spell once using\nthis benefit, targeting only creatures carrying a wicker charm you've woven, and you can’t do so again until\nyou finish a"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Long Rest",
+          "entries": [
+            "You can also cast the spell using any spell slots you have. Your spellcasting ability for\ncasting the spell in this way is Intelligence, Wisdom, or\nCharisma (choose the ability when you select this feat)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Twisted Hex",
+          "entries": [
+            "As a Magic action, you can weave\nspite into a wicker charm you touch. Choose an ability.\nWhen another creature is carrying the charm, or while\nthis charm is within an area that the creature considers\nhome, it has Disadvantage on ability checks and attack rolls using the chosen ability. When the creature fails one of these rolls, it can make a Charisma saving throw, destroying the charm on a success (DC = 8 plus your\nProficiency Bonus and the ability modifier you chose\nfor Old Blessing). You can only have one Twisted Hex charm at a time. If you make a new one, the previous\none loses its magic."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Ritualist",
+      "source": "TCM",
+      "page": 63,
+      "entries": [
+        "Origin Feat\nYour study of blood magic\nand life force has borne\nfruit, granting you the\nfollowing benefits.",
+        {
+          "type": "entries",
+          "name": "Blood Lash",
+          "entries": [
+            "You learn the\n{@spell Blood Bolt} * cantrip. Your\nspellcasting ability for it is Intelligence, Wisdom, or\nCharisma (choose the ability when you select this feat)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Bottled Life",
+          "entries": [
+            "When you finish a Long Rest, you can\nperform a 1-minute ritual to transfer some of your life essence into a vessel for later use. Expend a number of\nHit Point Dice up to your Proficiency Bonus, and bleed into a vial of water or other liquid. As a Bonus Action,\na creature can drink the vial to roll the Hit Dice you\nexpended. The creature regains a number of Hit Points\nequal to the total rolled plus its Constitution modifier.\nThe vial remains potent until you finish a Long Rest."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cult Initiate",
+      "source": "TCM",
+      "page": 63,
+      "entries": [
+        "Origin Feat\nYour cult instructs you in eldritch rites, granting you the following benefits.",
+        {
+          "type": "entries",
+          "name": "Two Cantrips",
+          "entries": [
+            "You learn two\ncantrips of your choice from the Warlock spell list. Intelligence, Wisdom,\nor Charisma is your spellcasting ability\nfor this feat’s spells (choose the ability\nwhen you select this feat).\nLevel 1"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Spell",
+          "entries": [
+            "Choose a level 1 spell\nfrom the Warlock spell list. You always have that spell prepared. You can cast it\nonce without a spell slot, and you regain the ability to cast it in that way when\nyou finish a Short or"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Long Rest",
+          "entries": [
+            "You can also cast the\nspell using any spell slots you have."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Spell Change",
+          "entries": [
+            "Whenever you gain a new level, you\ncan replace one of the spells you chose for this feat with a different spell of the same level from the Warlock\nspell list."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dread Speech",
+      "source": "TCM",
+      "page": 64,
+      "entries": [
+        "Origin Feat\nYou have articulated a few words\nof forbidden truth that resonate\nwith—and fray—the fabric of\ncreation, granting you the following benefits.",
+        {
+          "type": "entries",
+          "name": "Eldritch Word",
+          "entries": [
+            "As a Bonus\nAction, you can speak a magical\nword aloud to force a creature\nwithin 60 feet of yourself to make a Wisdom saving throw (DC = 8\nplus your Proficiency Bonus and\nIntelligence, Wisdom, or Charisma modifier; choose the ability when\nyou select this feat). On a failed\nsave, the target has the {@condition frightened}\ncondition until the start of your\nnext turn. You can use this benefit safely once, and you regain the\nability to do so when you finish a\nShort or"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Long Rest",
+          "entries": [
+            "You can use\nit again before resting, but you take 1d6 Necrotic damage,\nwhich can’t be reduced or prevented in any way."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Shred Fate",
+          "entries": [
+            "Your dread secrets can unravel the destiny\nof your foes. You always have the Bane  spell prepared,\nand your spellcasting ability for it is the ability you chose\nfor"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Eldritch Word",
+          "entries": [
+            "You can cast it once without Material\ncomponents or a spell slot, and you regain the ability to\ncast it in that way when you finish a"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Long Rest",
+          "entries": [
+            "You can also cast the spell using any spell slots you have."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fate Gambler",
+      "source": "TCM",
+      "page": 64,
+      "entries": [
+        "Origin Feat\nComing out ahead, whether in games of chance or in life-or-death contention, fills you with resolve and vigor.\nYou gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Bet Big",
+          "entries": [
+            "If you don't already have it, you gain Heroic\nInspiration whenever you succeed on an ability check made against another creature, when you reduce a\ncreature to 0 Hit Points, or when a creature fails a\nsaving throw you forced it to make. If, in any of these\ncases, the creature has a CR of 0 or lacks a CR\n(such as another player\ncharacter), you don’t gain"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Win Big",
+          "entries": [
+            "As a Bonus\nAction, you can expend\nyour Heroic Inspiration\nto gain a number of\nT emporary Hit Points\nequal to your level.GHOSTLIGHT MEDIUM\nOrigin Feat\nYou formed a mystical\nconnection to the\nGhostlight Express that\naffords you insight into the nature of spirits,\ngranting the following benefits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ghostly Touch",
+          "entries": [
+            "When you damage a creature with\nthe Incorporeal Movement trait, you can ignore the\ncreature’s damage Resistances, if any."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Spirit Sense",
+          "entries": [
+            "As a Bonus Action, you can sense any\nUndead within 60 feet of you, or any creatures in the Ethereal Plane that overlaps that area. You learn the distance and direction to any creatures you detect (or an\nEthereal creature’s equivalent position on your plane).\nOnce you detect a creature with this benefit, you can’t\nuse it again until you finish a Short or Long Rest."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grave Keeper",
+      "source": "TCM",
+      "page": 64,
+      "entries": [
+        "Origin Feat\nStudying funeral rites and tending\nthe dead’s rest has made you a\nconduit between the worlds of the\nliving and the dead. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Divine Channel",
+          "entries": [
+            "You gain one use\nof the Channel Divinity feature from\nthe Cleric class, and you can create the Turn Undead effect with it. If you already have Channel Divinity, you add this use to the feature from one class of your choice.\nYour save DC for this benefit is 8 plus your Wisdom\nmodifier and"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Last Rites",
+          "entries": [
+            "You can enact a 10-minute ritual to\nprepare the corpse of a Medium or smaller creature, expending at least 10 GP worth of incense, oils, linen\nwraps, or similar trappings. The prepared corpse can’t\nbecome Undead."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hunter Of Hunters",
+      "source": "TCM",
+      "page": 64,
+      "entries": [
+        "Origin Feat\nYou are adept at hunting monstrous prey, granting you the following benefits.",
+        {
+          "type": "entries",
+          "name": "Dead Aim",
+          "entries": [
+            "As a Bonus Action, you\ncan scrutinize a creature to spot its vulnerable points. The next time you\ndeal damage to the creature before the\nstart of your next turn, you ignore the\ncreature’s damage Resistances, if any."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Studied Quarry",
+          "entries": [
+            "You have\nAdvantage on ability checks made to\nrecall information about a creature."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memory Starved",
+      "source": "TCM",
+      "page": 65,
+      "entries": [
+        "Origin Feat\nYour mind ravenously gathers details\nand desperately clings to its memories\nand faculties, granting you the\nfollowing benefits.",
+        {
+          "type": "entries",
+          "name": "Desperate Detail",
+          "entries": [
+            "You have Advantage\non Intelligence ({@skill Investigation}) checks."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Iron Mind",
+          "entries": [
+            "You have Advantage on\nsaving throws made to avoid or end the {@condition charmed} condition and to avoid having your memories read or altered."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reveling Fool",
+      "source": "TCM",
+      "page": 65,
+      "entries": [
+        "Origin Feat\nYou joined a troupe of madcap revelers and learned to take on the guise of a fool, channeling otherworldly\nlaughter and joviality. You gain the following benefits.\nFool’s",
+        {
+          "type": "entries",
+          "name": "Mask",
+          "entries": [
+            "By donning a jovial mask and a fool’s,\njester’s, or clown’s costume, you take on a new identity that hides\nyour own. In the guise of the fool,\nyou can get away with minor\ntransgressions against people in positions of authority\nor station.Jester’s"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Repartee",
+          "entries": [
+            "You always have the Hideous\nLaughter spell prepared, and your spellcasting ability for it\nis Intelligence, Wisdom, or Charisma (choose the ability\nwhen you select this feat). You can cast it once without\nMaterial components or a spell slot, and you regain the\nability to cast it in that way when you finish a"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Long Rest",
+          "entries": [
+            "You can also cast the spell using any spell slots you have."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unreflected",
+      "source": "TCM",
+      "page": 65,
+      "entries": [
+        "Origin Feat\nYour image is separated\nfrom you,\nmaking you unable to cast a reflection or a shadow, but you're able to easily slip notice. You gain the\nfollowing benefits.",
+        {
+          "type": "entries",
+          "name": "Inscrutable",
+          "entries": [
+            "Creatures have Disadvantage on\nWisdom ({@skill Insight}) checks made against you."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Unremarkable",
+          "entries": [
+            "The loss of some part of yourself\nleaves you able to fade into the background. While you are within a group of at least two other creatures\nof your type and that there are no more than one size larger or smaller than you, you can take the Hide action\nfrom creatures outside that group by making a Charisma\n({@skill Deception}) check instead of Dexterity ({@skill Stealth}), with\nno need for being behind cover or"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Heavily Obscured",
+          "entries": [
+            "If you are ever more than 5 feet from at least two other such creatures while hiding this way, you are revealed."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Death Defier",
+      "source": "TCM",
+      "page": 65,
+      "entries": [
+        "General Feat (Prerequisite: Level 4+)\nWhen the hand of death reaches for your soul, you have found a way to reject its call. You gain the\nfollowing benefits.",
+        {
+          "type": "entries",
+          "name": "Ability Score Increase",
+          "entries": [
+            "Increase your Constitution\nscore by 1, to a maximum of 20.\nCling to"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Life",
+          "entries": [
+            "You add your Constitution modifier\n(minimum of 1) to"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Enduring Vitality",
+          "entries": [
+            "If an effect would\nkill you outright without Death Saving\nThrows or would reduce you directly to\n0 Hit Points without dealing damage, you\nare instead reduced to a number of Hit\nPoints equal to your level. You can’t use this\nbenefit again until you finish a Long Rest.SWIFT WITCHCRAFT\nGeneral Feat (Prerequisite: Level 4+, Spellcasting or Pact\nMagic Feature)\nYou have honed your skills in the rituals of witchcraft and can quickly weave your\nmagic in times of need. You gain the\nfollowing benefits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ability Score Increase",
+          "entries": [
+            "Increase your\nIntelligence, Wisdom, or Charisma score by 1, to a maximum of 20."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Swift Invocation",
+          "entries": [
+            "You can use an\naction to cast a spell that has a casting\ntime of 1 minute. Once you use this\nbenefit, you can’t do so again until you finish a Long Rest."
+          ]
+        }
+      ]
+    }
+  ]
+}
