@@ -1,0 +1,855 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "TCM",
+				"abbreviation": "TCM",
+				"full": "The Crooked Moon - Player Options (2024)",
+				"convertedBy": [
+					"5eTools Converter (ChatGPT)"
+				],
+				"author": [
+					"NiLe.Uy"
+				],
+				"dateAdded": 1754794800,
+				"version": "1.0.0"
+			}
+		]
+	},
+	"race": [
+		{
+			"name": "Ashborn",
+			"source": "TCM",
+			"page": 3,
+			"size": [
+				"S"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"fiend"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Ashen Legacy",
+					"entries": [
+						"Conoces el truco {@spell minor illusion}.",
+						"Además, a partir del nivel de personaje 3 siempre tienes preparado {@spell charm person}, y a partir del nivel 5 siempre tienes preparado {@spell invisibility}. Puedes lanzar cada uno una vez sin gastar espacio de conjuro, y recuperas la capacidad de lanzarlos de este modo al terminar un Descanso Largo. También puedes lanzarlos usando espacios de conjuro del nivel apropiado.",
+						"Inteligencia, Sabiduría o Carisma es tu aptitud de conjuro para los hechizos de este rasgo (elige la característica al escoger esta especie)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fiendish Fortune",
+					"entries": [
+						"Cuando te impacta una tirada de ataque que no sea un Golpe Crítico, puedes usar tu Reacción para hacer que el ataque falle mágicamente, y una criatura de tu elección a 5 pies de ti recibe daño de Fuerza igual a tu bonificador de competencia. Una vez usas este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Scorpion Sting",
+					"entries": [
+						"Tienes un aguijón de cola que puedes usar para realizar Golpes sin armas usando tu Fuerza o tu Destreza (a tu elección) para las tiradas de ataque y daño. Al impactar, infliges 1d4 de daño Perforante y puedes infligir 1d6 de daño de Veneno adicional.",
+						"Puedes infligir este daño adicional un número de veces igual a tu bonificador de competencia. Recuperas 1 uso gastado al terminar un Descanso Corto y todos los usos al terminar un Descanso Largo.",
+						"Cuando alcanzas el nivel de personaje 10, este daño adicional aumenta a 2d6."
+					]
+				}
+			],
+			"traitTags": [
+				"Spellcasting",
+				"Darkvision",
+				"Natural Weapon"
+			]
+		},
+		{
+			"name": "Azureborn",
+			"source": "TCM",
+			"page": 4,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"fly": 30
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Azure Legacy",
+					"entries": [
+						"Conoces el truco {@spell guidance}.",
+						"A partir del nivel de personaje 3, siempre tienes preparado {@spell augury} y puedes lanzarlo una vez sin gastar espacio de conjuro ni componentes materiales; recuperas la capacidad al terminar un Descanso Largo. También puedes lanzarlo usando espacios de conjuro del nivel apropiado.",
+						"Inteligencia, Sabiduría o Carisma es tu aptitud de conjuro para los hechizos de este rasgo (elige al seleccionar esta especie)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Glimpse Fate",
+					"entries": [
+						"Cuando tiras Iniciativa, si no estás sorprendido, puedes elegir un número de criaturas que puedas ver igual a tu bonificador de competencia; los objetivos tienen Ventaja en su tirada de Iniciativa. Una vez usas este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Winds of Magic",
+					"entries": [
+						"Como Acción adicional, puedes usar Correr y aumentar tu Velocidad de Vuelo en 10 pies hasta el final del turno. Puedes usar este rasgo un número de veces igual a tu bonificador de competencia; recuperas todos los usos al terminar un Descanso Largo."
+					]
+				}
+			],
+			"traitTags": [
+				"Spellcasting",
+				"Darkvision",
+				"Flight"
+			]
+		},
+		{
+			"name": "Bogborn",
+			"source": "TCM",
+			"page": 5,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"giant"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Bog Bulk",
+					"entries": [
+						"Tienes Ventaja en cualquier prueba de característica que hagas para terminar la condición Grappled. También cuentas como una talla mayor al determinar tu capacidad de carga."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Guiding Bond",
+					"entries": [
+						"Como Acción adicional, puedes colocar mágicamente una marca en una criatura que veas a 60 pies. Dura 1 minuto y toma la forma de plantas, musgo, hongos o animales del pantano que solo tú ves. Mientras dure, puedes añadir 1d4 a tus pruebas de característica y tiradas de ataque contra la criatura marcada. Puedes usar esta Acción adicional un número de veces igual a tu bonificador de competencia; recuperas todos los usos al terminar un Descanso Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Keen Senses",
+					"entries": [
+						"Ganas competencia en la habilidad Percepción o Supervivencia."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Regeneration",
+					"entries": [
+						"Como Acción adicional, puedes gastar uno de tus Dados de Golpe, tirar el dado y recuperar una cantidad de Puntos de Golpe igual al resultado + tu modificador de Constitución (mínimo 1).",
+						"Si recibes daño de Ácido o Fuego, este rasgo no funciona hasta el final de tu siguiente turno."
+					]
+				}
+			],
+			"traitTags": [
+				"Darkvision"
+			]
+		},
+		{
+			"name": "Curseborn",
+			"source": "TCM",
+			"page": 6,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 35
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Cursed Claws",
+					"entries": [
+						"Tienes garras que puedes usar para hacer Golpes sin armas, que infligen 1d6 de daño Cortante al impactar. Puedes usar Fuerza o Destreza para las tiradas de ataque y daño con tus garras.",
+						"Cuando impactas a una criatura con tus garras, puedes maldecirla hasta el comienzo de tu siguiente turno. Mientras está maldita, el objetivo emite volutas de niebla y tiene Desventaja en las Pruebas de d20. Puedes maldecir a una criatura un número de veces igual a tu bonificador de competencia; recuperas todos los usos al terminar un Descanso Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Grey Balance",
+					"entries": [
+						"Cuando fallas una tirada de salvación, puedes usar tu Reacción para tener éxito en su lugar. Si lo haces, tienes Desventaja en las Pruebas de d20 hasta el final de tu siguiente turno. Puedes usar este rasgo una vez; recuperas su uso al terminar un Descanso Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Lupine Sense",
+					"entries": [
+						"Ganas competencia en Investigación, Percepción o Supervivencia (a tu elección)."
+					]
+				}
+			],
+			"traitTags": [
+				"Darkvision",
+				"Natural Weapon",
+				"Skill Proficiency"
+			]
+		},
+		{
+			"name": "Deepborn",
+			"source": "TCM",
+			"page": 7,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"swim": 30
+			},
+			"creatureTypes": [
+				"aberration"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Amphibious",
+					"entries": [
+						"Puedes respirar aire y agua."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Eldritch Gibbering",
+					"entries": [
+						"Gracias a tu conexión con los Hambrientos, hablas Habla Profunda. Como acción de Magia, puedes balbucear en ese idioma. Cada criatura de tu elección en una Emisión de 30 pies originada en ti debe superar una tirada de salvación de Sabiduría (CD 8 + tu bonificador de competencia + tu modificador de Inteligencia, Sabiduría o Carisma; elige al seleccionar la especie) o tirar 1d6 y consultar la tabla: 1–2 el objetivo tiene Desventaja en sus tiradas de ataque; 3–4 su Velocidad se convierte en 0; 5–6 no puede realizar Reacciones. El efecto dura hasta el comienzo de tu siguiente turno. Una vez un objetivo falla la salvación contra este rasgo, no puedes usarlo de nuevo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Endless Hunger",
+					"entries": [
+						"Como Acción adicional, abrazas tu conexión con los Hambrientos. Hasta el comienzo de tu siguiente turno, conoces la localización de cualquier criatura que no sea Constructo ni No Muerto en un radio de 60 pies, y tus tiradas de ataque contra esas criaturas no pueden tener Desventaja. Una vez usas este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Corto o Largo."
+					]
+				}
+			],
+			"traitTags": [
+				"Darkvision",
+				"Amphibious"
+			]
+		},
+		{
+			"name": "Gnarlborn",
+			"source": "TCM",
+			"page": 8,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"plant"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Deep Roots",
+					"entries": [
+						"Tienes Ventaja en pruebas y tiradas de salvación contra ser movido en contra de tu voluntad o para evitar la condición Derribado."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Elderwood Whispers",
+					"entries": [
+						"Puedes recurrir a la memoria de los espíritus de los Árboles Primigenios. Cuando terminas un Descanso Largo, ganas competencia con una habilidad, una herramienta o aprendes un idioma de tu elección hasta tu próximo Descanso Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Grasping Branches",
+					"entries": [
+						"Como Acción adicional, desatas mágicamente el poder vinculante del bosque oscuro. Elige una criatura Grande o menor a 30 pies de ti. Debe realizar una tirada de salvación de Fuerza (CD 8 + tu modificador de Constitución + tu bonificador de competencia). Si falla, queda Restringida durante 1 minuto mientras aparecen ramas que la atrapan. Si tiene éxito, su Velocidad se reduce a la mitad hasta el final de su siguiente turno. Una criatura Restringida repite la salvación al final de cada turno, terminando el efecto en un éxito. Las ramas desaparecen cuando la condición termina. Una vez usas este rasgo, no puedes volver a usarlo hasta un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Root Sense",
+					"entries": [
+						"Como Acción adicional, ganas Sentido del Temblor con un alcance de 60 pies durante 10 minutos. Una vez usas este rasgo, no puedes volver a usarlo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Towering Size",
+					"entries": [
+						"Tienes Ventaja en cualquier prueba para terminar la condición Grappled. También cuentas como una talla mayor al determinar tu capacidad de carga."
+					]
+				}
+			]
+		},
+		{
+			"name": "Graveborn",
+			"source": "TCM",
+			"page": 9,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"undead"
+			],
+			"darkvision": 60,
+			"resist": [
+				"cold"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Devour Corpse",
+					"entries": [
+						"Puedes comer comida podrida como si estuviera fresca. Además, si pasas 1 minuto comiendo carne del cadáver de una criatura Pequeña o mayor que no sea un Constructo, tira uno de tus Dados de Golpe sin gastarlo (incluso si no te quedan). Recuperas Puntos de Golpe igual al resultado + tu modificador de Constitución (mínimo 1). Una vez recuperas Puntos de Golpe con este rasgo, no puedes hacerlo de nuevo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Frozen Waste",
+					"entries": [
+						"Tienes Resistencia al daño de Frío."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Infused Drakkonite",
+					"entries": [
+						"Cuando hagas daño a una criatura, puedes ignorar cualquier Resistencia que tenga, y además recibe daño Necrótico adicional igual a tu bonificador de competencia. Una vez usas este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Corto o Largo."
+					]
+				}
+			],
+			"traitTags": [
+				"Darkvision",
+				"Damage Resistance"
+			]
+		},
+		{
+			"name": "Harvestborn",
+			"source": "TCM",
+			"page": 10,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"construct"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Culling",
+					"entries": [
+						"Cuando dañes a una criatura Ensangrentada (Bloodied), puedes infligirle 1d12 de daño Necrótico adicional. Puedes usar este rasgo un número de veces igual a tu bonificador de competencia; recuperas todos los usos al terminar un Descanso Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Gift of the Green",
+					"entries": [
+						"Como Acción adicional, tocas el suelo y eliges una criatura también en contacto con el suelo a 30 pies de ti. Esa criatura puede gastar y tirar un Dado de Golpe, y recupera Puntos de Golpe iguales al resultado + tu bonificador de competencia.",
+						"Puedes usar este rasgo un número de veces igual a tu bonificador de competencia. Recuperas 1 uso al terminar un Descanso Corto y todos los usos al terminar un Descanso Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Jack-O-Lantern",
+					"entries": [
+						"Conoces el truco {@spell dancing lights}. Inteligencia, Sabiduría o Carisma es tu aptitud de conjuro para él (elige al seleccionar la especie)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Scarecrow Nature",
+					"entries": [
+						"No requieres aire, comida ni bebida."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Watchful Rest",
+					"entries": [
+						"No necesitas dormir y la magia no puede dormirte. Además, puedes terminar un Descanso Largo en 4 horas si las pasas inactivo, inmóvil y consciente."
+					]
+				}
+			],
+			"traitTags": [
+				"Spellcasting"
+			]
+		},
+		{
+			"name": "Plagueborn",
+			"source": "TCM",
+			"page": 11,
+			"size": [
+				"M",
+				"S"
+			],
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Born in Filth",
+					"entries": [
+						"Tienes Ventaja en las tiradas de salvación para evitar o terminar la condición Envenenado o contagios mágicos."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Infected Cunning",
+					"entries": [
+						"Ganas competencia en Engaño o Sigilo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Plague Bearer",
+					"entries": [
+						"Cuando impactas a una criatura con una tirada de ataque, puedes propagar tu contagio mágico al objetivo. Debe superar una tirada de salvación de Constitución (CD 8 + tu modificador de Constitución + tu bonificador de competencia) o quedar afligido por tu plaga durante 1 minuto.",
+						"Mientras esté afligido, el objetivo tiene Desventaja en tiradas de ataque y pruebas de característica y sufre 1d4 de daño de Veneno al inicio de cada uno de sus turnos. Repite la salvación al final de cada turno, terminando la plaga en un éxito.",
+						"Una vez usas este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Largo."
+					]
+				}
+			],
+			"traitTags": [
+				"Darkvision",
+				"Climb"
+			]
+		},
+		{
+			"name": "Relicborn",
+			"source": "TCM",
+			"page": 12,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"undead"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Dance of Death",
+					"entries": [
+						"Como Acción adicional, puedes hacer una prueba de Carisma CD 15 (Instrumento Musical o Actuación). Si tienes éxito, la próxima tirada de ataque que hagas antes del final de tu turno tiene Ventaja.",
+						"Si superas la prueba por 5 o más, puedes tirar uno de tus Dados de Golpe (sin gastarlo) y ganas Puntos de Golpe Temporales iguales al resultado."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Eternal Party",
+					"entries": [
+						"No necesitas dormir y puedes terminar un Descanso Largo en 4 horas si las pasas en jolgorio, como contar historias o tocar música."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Moment of Remembrance",
+					"entries": [
+						"Cuando otra criatura que puedas ver a 30 pies de ti falla una Prueba de d20, puedes usar tu Reacción para permitirle añadir 1d4 al total, pudiendo convertir el fallo en éxito. Una vez este rasgo cambie una tirada fallida a exitosa, no puedes volver a usarlo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Soul of Revelry",
+					"entries": [
+						"Ganas competencia en la habilidad Actuación o con un tipo de Instrumento Musical."
+					]
+				}
+			]
+		},
+		{
+			"name": "Silkborn",
+			"source": "TCM",
+			"page": 13,
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"creatureTypes": [
+				"humanoid"
+			],
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Bejeweled Carapace",
+					"entries": [
+						"Cuando te golpean con una tirada de ataque, puedes usar tu Reacción para sumar tu bonificador de competencia a tu CA contra ese ataque, haciendo que falle potencialmente. Una vez usas este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Corto o Largo."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Tienes Visión en la Oscuridad con un alcance de 60 pies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Silken Legacy",
+					"entries": [
+						"Conoces el truco {@spell thaumaturgy}. A partir del nivel de personaje 3, siempre tienes preparado {@spell find familiar} (el familiar toma la forma de un insecto o arácnido enjoyado), y a partir del nivel 5 siempre tienes preparado {@spell web}. Puedes lanzar cada conjuro una vez sin gastar espacio de conjuro ni componentes materiales. Recuperas la capacidad al terminar un Descanso Largo. También puedes lanzarlos usando espacios de conjuro del nivel apropiado.",
+						"Inteligencia, Sabiduría o Carisma es tu aptitud de conjuro para los hechizos de este rasgo (elige al seleccionar la especie)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spider Climb",
+					"entries": [
+						"Puedes trepar superficies difíciles, incluso por techos, sin necesidad de prueba de habilidad y manteniendo las manos libres."
+					]
+				}
+			],
+			"traitTags": [
+				"Spellcasting",
+				"Darkvision",
+				"Climb"
+			]
+		},
+		{
+			"name": "Stoneborn",
+			"source": "TCM",
+			"page": 14,
+			"size": [
+				"M",
+				"S"
+			],
+			"speed": {
+				"walk": 30,
+				"fly": 15
+			},
+			"creatureTypes": [
+				"construct"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Argent Gleam",
+					"entries": [
+						"Como Acción adicional, puedes canalizar una mota de la luz de la Senda de Plata con una de las siguientes opciones:",
+						"{@i Gracia del Sendero}. Lanzas {@spell bless} sin componentes materiales.",
+						"{@i Carga Zelosa}. Usas Correr. La primera vez que hagas una tirada de ataque antes del final de tu turno, impactes o falles, el objetivo recibe 2d6 de daño Radiante adicional.",
+						"Una vez usas la Acción adicional de este rasgo, no puedes volver a hacerlo hasta terminar un Descanso Largo."
+					]
+				}
+			],
+			"traitTags": [
+				"Flight",
+				"Spellcasting"
+			]
+		},
+		{
+			"name": "Threadborn",
+			"source": "TCM",
+			"page": 15,
+			"size": [
+				"M",
+				"S"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"creatureTypes": [
+				"construct"
+			],
+			"resist": [
+				"psychic"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Ball‑Jointed",
+					"entries": [
+						"Puedes moverte a través de un espacio de solo 1 pie de ancho como si fuera Terreno Difícil."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Innocent Mind",
+					"entries": [
+						"Tienes Resistencia al daño Psíquico."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sewn Nature",
+					"entries": [
+						"No requieres aire, comida ni bebida."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Soothing Heart",
+					"entries": [
+						"Conoces el truco {@spell guidance}. A partir del nivel de personaje 3, siempre tienes preparado {@spell sanctuary}, y a partir del nivel de 5 siempre tienes preparado {@spell calm emotions}. Puedes lanzar cada conjuro una vez sin gastar espacio de conjuro. Cuando lanzas {@spell calm emotions} de este modo, puede afectar criaturas de cualquier tipo. Recuperas la capacidad al terminar un Descanso Largo. También puedes lanzar cualquiera de los conjuros con espacios de conjuro del nivel apropiado.",
+						"Inteligencia, Sabiduría o Carisma es tu aptitud de conjuro para los conjuros de este rasgo (elige al seleccionar la especie)."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "You've Got a Friend",
+					"entries": [
+						"Cuando una criatura que puedas ver a 30 pies de ti falla una prueba con una habilidad, puedes usar tu Reacción para lanzar {@spell guidance} sobre la criatura, ignorando el alcance normal del conjuro. La criatura añade 1d4 a su prueba, pudiendo convertirla en éxito; luego el conjuro termina. Puedes usar este rasgo un número de veces igual a tu bonificador de competencia; recuperas todos los usos al terminar un Descanso Largo."
+					]
+				}
+			],
+			"traitTags": [
+				"Spellcasting"
+			]
+		}
+	],
+	"raceFluff": [
+		{
+			"name": "Ashborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie imp‑like nativa de Chernabos, surgida de la ceniza sulfúrica de volcanes de fuego infernal. Infundidos con poder infernal, sobreviven en páramos y baldíos mediante astucia e industria. Se dice que la fortuna los favorece.",
+						"De baja estatura con cuernos y piel entre rojos y grises; todos poseen una cola venenosa como la de un escorpión. Viven ~100 años."
+					]
+				}
+			]
+		},
+		{
+			"name": "Azureborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie tipo arpía nativa de Astramar, a menudo materializándose del cielo nocturno azul tachonado de estrellas y vientos arcanos. Conexión con el éter del aire y la tierra; prescientes que leen el futuro en el cosmos; sociedad de maravilla mágica.",
+						"Cubiertos de plumas con alas en los brazos; variedad aviar amplia. Viven ~100 años (sabios hasta ~400)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bogborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie tipo trol de Zulrogg, que surge de aguas quietas y oscuras del pantano. Relación simbiótica con flora y fauna; biología regenerativa.",
+						"De gran tamaño con narices y colmillos prominentes, piel dura verde o azul. Viven ~100 años."
+					]
+				}
+			]
+		},
+		{
+			"name": "Curseborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie lupina nativa de Edwardia, emergen de la niebla maldita. Vínculo con la maldición llamada la Gris que exige equilibrio bajo amenaza de perdición. Civilización avanzada pero en tensión con hambre y contaminación.",
+						"Cubiertos de pelaje, dientes y garras afiladas; humanoides. Viven hasta ~100 (algunos hasta ~200)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Deepborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie pisciforme de Olmarsh, surgida de las profundidades abisales del mar negro, morada de los Hambrientos. Presencia constante de horrores cósmicos; abrazan lo inusual para manejar la paranoia.",
+						"Rasgos de peces, cefalópodos o crustáceos. Viven ~150 (ocultistas hasta ~600)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Gnarlborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie arbórea de Ardengloom, brotan del suelo del bosque retorcido; su hogar está habitado por almas feéricas antiguas en los Árboles Primigenios, de quienes reciben sabiduría primordial.",
+						"Apariencia de árboles nudosos con rostros brillantes. La mayoría vive >500 años; los más ligados a los Primigenios alcanzan milenios."
+					]
+				}
+			]
+		},
+		{
+			"name": "Graveborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Especie ghoul‑like de Syndramas, nacidos de tumbas en campos de batalla helados. Creados por un ritual que retorció a humanos en No Muertos. Cultura de guerra, perseverancia y honor fúnebre; infundidos con esencia necrótica y dracónica de la Drakkonita.",
+						"Cuerpos de humanoides retorcidos con hocicos y mandíbulas potentes. Viven hasta ~300 si no caen en guerra."
+					]
+				}
+			]
+		},
+		{
+			"name": "Harvestborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Espantapájaros vivientes de Enoch, creados con esmero por Methuselah. Infundidos con magia verde de tierras fértiles; vínculo con el ciclo de cosecha, vida, muerte y renacimiento. Sociedad comunitaria y familiar.",
+						"Cuerpos de madera, metal y paja; cabezas de saco o calabaza/nabo. Viven ~100 antes de renacer."
+					]
+				}
+			]
+		},
+		{
+			"name": "Plagueborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Rata‑gente de Bubonia, coalescen en la neblina pestilente. Vínculo con una plaga virulenta; sociedad de supervivencia astuta y adaptable.",
+						"Ratas humanoides de pelaje gris/pardo/verdoso; colas ágiles; inmunes a su propia plaga. Viven ≤100."
+					]
+				}
+			]
+		},
+		{
+			"name": "Relicborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Esqueletos vivientes de Kalero, surgen de tumbas en cañones. Cultura de celebración y recuerdo; aprecio por los vivos y los muertos.",
+						"Esqueletos con huesos envueltos en sustancia luminosa translúcida que les da masa/formas; pueden lucir cabello. Viven ~250."
+					]
+				}
+			]
+		},
+		{
+			"name": "Silkborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Arañoides de Nerukhet, emergen de capullos en túneles cubiertos de telas que iluminan gemas. Gran civilización subterránea alimentada por joyas y luz; salvados de una antigua calamidad.",
+						"Humanoides con rasgos arácnidos: caparazón enjoyado, múltiples ojos, extremidades segmentadas, mandíbulas. Viven ~250 (élites ~800)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Stoneborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Gárgolas de Pholsense, esculpidas por el Arzobispo Danton A. Renault. Bendecidos por la Senda de Plata; buscan la luz divina para sostener un orden justo.",
+						"Piel pétrea del mismo tipo de roca; alas anchas que cargan cuerpos densos; formas quiméricas. Viven ~300 antes de desmoronarse."
+					]
+				}
+			]
+		},
+		{
+			"name": "Threadborn",
+			"source": "TCM",
+			"entries": [
+				{
+					"type": "entries",
+					"entries": [
+						"Muñecos vivientes de Picco, construidos por el maestro juguetero Blinski II. La alegría, la emoción y la amistad están tejidas en su naturaleza; conservan maravilla infantil.",
+						"Hechos de tela, madera, metal, porcelana, relleno, hilo y más; la especie con mayor variedad de formas. Viven ~100 antes de ser reconstruidos."
+					]
+				}
+			]
+		}
+	]
+}
