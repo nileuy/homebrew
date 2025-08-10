@@ -11,10 +11,10 @@
         "convertedBy": [
           "ChatGPT"
         ],
-        "version": "collection-1.4.0",
+        "version": "collection-1.4.1",
         "edition": "one",
-        "dateAdded": 1754867295,
-        "dateLastModified": 1754867295
+        "dateAdded": 1754868180,
+        "dateLastModified": 1754868180
       }
     ]
   },
@@ -1928,7 +1928,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Ashen Legacy. You know the Minor Illusion cantrip.\nAdditionally, starting at character level 3 you always\nhave the Charm Person spell prepared, and starting at character level 5 you always have the Invisibility spell\nprepared. You can cast them each once without a spell\nslot, and you regain the ability to cast them in that way\nwhen you finish a Long Rest. You can also cast them\nusing any spell slots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with this trait (choose the ability when you select this species)."
+            "As an Ashborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ashen Legacy",
+          "entries": [
+            "You know the Minor Illusion cantrip.\nAdditionally, starting at character level 3 you always\nhave the Charm Person spell prepared, and starting at character level 5 you always have the Invisibility spell\nprepared. You can cast them each once without a spell\nslot, and you regain the ability to cast them in that way\nwhen you finish a Long Rest. You can also cast them\nusing any spell slots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with this trait (choose the ability when you select this species)."
           ]
         },
         {
@@ -1970,7 +1977,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Azure Legacy. You know the {@spell Guidance}  cantrip.\nStarting at character level 3, you always have the\nAugury  spell prepared and can cast it once without\na spell slot or Material components, and you regain\nthe ability to cast it in that way when you finish\na Long Rest. You can also cast it using any spell\nslots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with\nthis trait (choose the ability when you select\nthis species)."
+            "As an Azureborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Azure Legacy",
+          "entries": [
+            "You know the {@spell Guidance}  cantrip.\nStarting at character level 3, you always have the\nAugury  spell prepared and can cast it once without\na spell slot or Material components, and you regain\nthe ability to cast it in that way when you finish\na Long Rest. You can also cast it using any spell\nslots you have of the appropriate level.\nIntelligence, Wisdom, or Charisma is your\nspellcasting ability for the spells you cast with\nthis trait (choose the ability when you select\nthis species)."
           ]
         },
         {
@@ -2005,7 +2019,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Bog Bulk. You have Advantage\non any ability check you make\nto end the {@condition {@condition grappled}} condition. You also count as one size\nlarger when determining your\ncarrying capacity."
+            "As a Bogborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Bog Bulk",
+          "entries": [
+            "You have Advantage\non any ability check you make\nto end the {@condition {@condition grappled}} condition. You also count as one size\nlarger when determining your\ncarrying capacity."
           ]
         },
         {
@@ -2054,7 +2075,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Cursed Claws. You have claws you can use to\nmake Unarmed Strikes, which deal {@dice 1d6} Slashing\ndamage on a hit. You can use Strength or Dexterity for\nattack and damage rolls with your claws.\nWhen you hit a creature with your claws, you\ncan curse the target until the start of your next turn.\nWhile cursed, the target emits wisps of fog and has\nDisadvantage on D20 T ests. You can curse a creature a number of times equal to your {@pb},\nand you regain all expended uses when you finish a"
+            "As a Curseborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Cursed Claws",
+          "entries": [
+            "You have claws you can use to\nmake Unarmed Strikes, which deal {@dice 1d6} Slashing\ndamage on a hit. You can use Strength or Dexterity for\nattack and damage rolls with your claws.\nWhen you hit a creature with your claws, you\ncan curse the target until the start of your next turn.\nWhile cursed, the target emits wisps of fog and has\nDisadvantage on D20 T ests. You can curse a creature a number of times equal to your {@pb},\nand you regain all expended uses when you finish a"
           ]
         },
         {
@@ -2103,7 +2131,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Amphibious. You can breathe air and water."
+            "As a Deepborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Amphibious",
+          "entries": [
+            "You can breathe air and water."
           ]
         },
         {
@@ -2152,7 +2187,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Deep Roots. You have Advantage on ability checks\nand saving throws against being moved against your will\nor to avoid the {@condition {@condition prone}} condition."
+            "As a Gnarlborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Deep Roots",
+          "entries": [
+            "You have Advantage on ability checks\nand saving throws against being moved against your will\nor to avoid the {@condition {@condition prone}} condition."
           ]
         },
         {
@@ -2200,7 +2242,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Darkvision. You have Darkvision\nwith a range of 60 feet."
+            "As a Graveborn, you have these\nspecial traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Darkvision",
+          "entries": [
+            "You have Darkvision\nwith a range of 60 feet."
           ]
         },
         {
@@ -2238,23 +2287,20 @@
       "source": "TCM",
       "page": 10,
       "entries": [
-        "As a Harvestborn, you have these special traits.",
-        "Culling.",
-        "When you damage a Bloodied\ncreature, you can deal an extra {@dice 1d12} Necrotic\ndamage to it.",
-        "You can use this trait a number\nof times equal to your {@pb},\nand you regain all expended uses when you\nfinish a Long Rest.",
-        "Gift of the Green.",
-        "As a Bonus Action, you\ncan touch the ground and choose a creature also\ntouching the ground within 30 feet of yourself.",
-        "That creature can expend and roll one Hit Point\nDie, and it regains a number of Hit Points equal to\nthe number rolled plus your {@pb}.",
-        "You can use this trait a number of times\nequal to your {@pb}.",
-        "You regain one\nexpended use when you finish a Short Rest, and you\nregain all expended uses when you finish a Long Rest.",
-        "Jack-O-Lantern.",
-        "You know the Dancing Lights\ncantrip.",
-        "Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).",
-        "Scarecrow {@skill {@skill Nature}}.",
-        "You don’t require air, food,\nor drink.",
-        "W atchful Rest.",
-        "You don’t need to sleep, and magic\ncan't put you to sleep.",
-        "Moreover, you can finish a Long Rest in 4 hours if you spend those hours in an inactive,\nmotionless state, during which you retain consciousness."
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "As a Harvestborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Culling",
+          "entries": [
+            "When you damage a Bloodied\ncreature, you can deal an extra {@dice 1d12} Necrotic\ndamage to it. You can use this trait a number\nof times equal to your {@pb},\nand you regain all expended uses when you\nfinish a Long Rest.\nGift of the Green. As a Bonus Action, you\ncan touch the ground and choose a creature also\ntouching the ground within 30 feet of yourself.\nThat creature can expend and roll one Hit Point\nDie, and it regains a number of Hit Points equal to\nthe number rolled plus your {@pb}.\nYou can use this trait a number of times\nequal to your {@pb}. You regain one\nexpended use when you finish a Short Rest, and you\nregain all expended uses when you finish a Long Rest.\nJack-O-Lantern. You know the Dancing Lights\ncantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).\nScarecrow {@skill {@skill Nature}}. You don’t require air, food,\nor drink.\nW atchful Rest. You don’t need to sleep, and magic\ncan't put you to sleep. Moreover, you can finish a Long Rest in 4 hours if you spend those hours in an inactive,\nmotionless state, during which you retain consciousness."
+          ]
+        }
       ],
       "size": [
         "M"
@@ -2310,18 +2356,20 @@
       "source": "TCM",
       "page": 12,
       "entries": [
-        "As a Relicborn, you have these special traits.",
-        "Dance of Death.",
-        "As a Bonus Action, you can\nmake a DC 15 Charisma (Musical Instrument\nor {@skill {@skill Performance}}) check.",
-        "If you succeed, the\nnext attack roll you make before the end of\nyour turn has Advantage.",
-        "If you succeed on\nthe check by 5 or more, you can roll one\nof your Hit Point Dice (without expending\nit) and gain T emporary Hit Points equal to the\nnumber rolled.",
-        "Eternal Party.",
-        "You don’t need to sleep, and you can\nfinish a Long Rest in 4 hours if you spend those hours enjoying revelry, such as telling stories or playing music.",
-        "Moment of Remembrance.",
-        "When another creature\nyou can see within 30 feet of you fails a D20 T est, you\ncan take a Reaction to let the target add {@dice 1d4} to the total, potentially causing it to succeed.",
-        "Once this trait changes a failed roll into a success, you can’t use it again until you\nfinish a Short or Long Rest.",
-        "Soul of Revelry.",
-        "You gain proficiency in\nthe {@skill {@skill Performance}} skill or with one kind of Musical Instrument."
+        {
+          "type": "entries",
+          "name": "Overview",
+          "entries": [
+            "As a Relicborn, you have these special traits.\nDance of Death. As a Bonus Action, you can\nmake a DC 15 Charisma (Musical Instrument\nor {@skill {@skill Performance}}) check. If you succeed, the\nnext attack roll you make before the end of\nyour turn has Advantage. If you succeed on\nthe check by 5 or more, you can roll one\nof your Hit Point Dice (without expending\nit) and gain T emporary Hit Points equal to the\nnumber rolled."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Eternal Party",
+          "entries": [
+            "You don’t need to sleep, and you can\nfinish a Long Rest in 4 hours if you spend those hours enjoying revelry, such as telling stories or playing music.\nMoment of Remembrance. When another creature\nyou can see within 30 feet of you fails a D20 T est, you\ncan take a Reaction to let the target add {@dice 1d4} to the total, potentially causing it to succeed. Once this trait changes a failed roll into a success, you can’t use it again until you\nfinish a Short or Long Rest.\nSoul of Revelry. You gain proficiency in\nthe {@skill {@skill Performance}} skill or with one kind of Musical Instrument."
+          ]
+        }
       ],
       "size": [
         "M"
@@ -2339,7 +2387,14 @@
           "type": "entries",
           "name": "Overview",
           "entries": [
-            "Bejeweled Carapace. When you are hit\nwith an attack roll, you can take a Reaction to\nadd your {@pb} to your AC against that attack, potentially causing it to miss. Once\nyou use this trait, you can’t do so again until you\nfinish a Short or Long Rest."
+            "As a Silkborn, you have these special traits."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Bejeweled Carapace",
+          "entries": [
+            "When you are hit\nwith an attack roll, you can take a Reaction to\nadd your {@pb} to your AC against that attack, potentially causing it to miss. Once\nyou use this trait, you can’t do so again until you\nfinish a Short or Long Rest."
           ]
         },
         {
