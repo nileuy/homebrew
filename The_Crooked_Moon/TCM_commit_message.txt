@@ -1,7 +1,0 @@
-Add: NiLe.Uy; The Crooked Moon (Player) — TCM source
-
-- Source ID: `TCM` (abbrev `TCM`), author: **NiLe.Uy**
-- Categories included: subclasses (15), class features (79), backgrounds (13), feats (12), spells (40)
-- Includes `_meta.sources` with `dateAdded` and version
-- Tabs indentation; LF line endings; UTF-8
-- JSON files split by type placed under `subclass/`, `background/`, `feat/`, `spell/`
