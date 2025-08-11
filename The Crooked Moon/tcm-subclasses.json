@@ -1,0 +1,263 @@
+{
+  "source": [
+    {
+      "json": "TCM",
+      "abbreviation": "TCM",
+      "full": "The Crooked Moon — Player Options",
+      "authors": [
+        "Studio Hermitage"
+      ],
+      "url": "",
+      "date": "2024-01-01"
+    }
+  ],
+  "subclass": [
+    {
+      "className": "Barbarian",
+      "source": "TCM",
+      "shortName": "Experiment",
+      "name": "Path of the Experiment",
+      "subclassFeatures": [
+        "Alchemical Experiments|Barbarian|TCM|3",
+        "Volatile Serum|Barbarian|TCM|3",
+        "Improved Serums|Barbarian|TCM|6",
+        "Hardened Physiology|Barbarian|TCM|10",
+        "Apex Compound|Barbarian|TCM|14"
+      ]
+    },
+    {
+      "className": "Bard",
+      "source": "TCM",
+      "shortName": "Whistles",
+      "name": "College of Whistles",
+      "subclassFeatures": [
+        "Whistle Companions|Bard|TCM|3",
+        "Whistled Cantrips|Bard|TCM|3",
+        "Piercing Trill|Bard|TCM|6",
+        "Chorus of Echoes|Bard|TCM|14"
+      ]
+    },
+    {
+      "className": "Cleric",
+      "source": "TCM",
+      "shortName": "Harvest",
+      "name": "Harvest Domain",
+      "subclassFeatures": [
+        "Blessing of the Field|Cleric|TCM|3",
+        "Channel Divinity — Harvest|Cleric|TCM|3",
+        "Reaper’s Aegis|Cleric|TCM|6",
+        "Blessed Harvest|Cleric|TCM|10",
+        "Sheaf of Plenty|Cleric|TCM|14"
+      ]
+    }
+  ],
+  "classFeature": [
+    {
+      "name": "Alchemical Experiments",
+      "source": "TCM",
+      "className": "Barbarian",
+      "level": 3,
+      "entries": [
+        "You gain a set of Alchemist’s Supplies and proficiency with it.",
+        "You can use Alchemist’s Supplies to create a Potion of Healing over the course of a Long Rest if you have the necessary components."
+      ]
+    },
+    {
+      "name": "Volatile Serum",
+      "source": "TCM",
+      "className": "Barbarian",
+      "level": 3,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Ferocity",
+          "entries": [
+            "Your speed isn’t reduced by difficult terrain.",
+            "When you reduce a creature to 0 hit points with a melee attack, you can move up to half your speed as part of the same action."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Monstrosity",
+          "entries": [
+            "Your reach increases by 5 feet.",
+            "If you make a Strength-based melee attack and miss, add your Rage Damage bonus to the total for purposes of effects that trigger on a hit (the attack still misses).",
+            "If there is space, you count as Large for grapple and shove attempts."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reconstruction",
+          "entries": [
+            "At the start of each of your turns, you can spend one Hit Die to regain hit points equal to the roll + your Constitution modifier (excess becomes temporary hit points which vanish when your Rage ends).",
+            "While this serum is active, you have vulnerability to acid and fire damage."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Improved Serums",
+      "source": "TCM",
+      "className": "Barbarian",
+      "level": 6,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Ferocity — Corrosive Expulsion",
+          "entries": [
+            "As an Action (or as part of the Bonus Action to enter your Rage), expel corrosive fumes in a 15-foot cone or 30-foot line.",
+            "Each creature in the area must make a Dexterity saving throw (DC = 8 + Con mod + PB), taking acid damage equal to your Rage Damage × d8 on a failed save, or half as much on a success.",
+            "Once per Rage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Monstrosity — Blindside Stomp",
+          "entries": [
+            "When you hit with a melee weapon attack, the target must make a Strength saving throw (DC as above) or be knocked prone.",
+            "Uses equal to PB per long rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reconstruction — Venting Carapace",
+          "entries": [
+            "When a creature within 5 feet hits you with a melee attack, you can use your Reaction to deal acid damage equal to your Constitution modifier + your Rage Damage.",
+            "Uses equal to PB per long rest."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hardened Physiology",
+      "source": "TCM",
+      "className": "Barbarian",
+      "level": 10,
+      "entries": [
+        "You gain resistance to poison damage and advantage on saving throws against being Poisoned.",
+        "When you finish a Short Rest, you can remove one of the following conditions affecting you: Blinded, Deafened, Poisoned, or one level of Exhaustion (once per short or long rest)."
+      ]
+    },
+    {
+      "name": "Apex Compound",
+      "source": "TCM",
+      "className": "Barbarian",
+      "level": 14,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Ferocity",
+          "entries": [
+            "Your movement doesn’t provoke Opportunity Attacks.",
+            "When you move through a creature’s space, it must succeed on a Strength saving throw (DC as above) or fall prone and take bludgeoning damage equal to your Rage Damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Monstrosity",
+          "entries": [
+            "Your reach increases by an additional 5 feet (total +10 feet).",
+            "When you hit a creature with a melee attack, it must succeed on a Strength saving throw (DC as above) or be Grappled (escape DC same as save DC) until the end of your next turn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reconstruction",
+          "entries": [
+            "You can spend up to two Hit Dice at the start of each of your turns and add your Barbarian level to the restored total; while this apex is active, you are immune to the Poisoned condition."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Whistle Companions",
+      "source": "TCM",
+      "className": "Bard",
+      "level": 3,
+      "entries": [
+        "As a Bonus Action, summon spectral musical companions that occupy your space for 1 minute.",
+        "Choose one effect when summoned (you can choose a different one each time): advantage on Performance and Persuasion checks; impose disadvantage on one creature’s next attack against you as a Reaction; or enable you to give Bardic Inspiration as part of the same Bonus Action.",
+        "Uses equal to PB (regain on a long rest)."
+      ]
+    },
+    {
+      "name": "Whistled Cantrips",
+      "source": "TCM",
+      "className": "Bard",
+      "level": 3,
+      "entries": [
+        "You learn the gust and minor illusion cantrips; they count as Bard spells for you."
+      ]
+    },
+    {
+      "name": "Piercing Trill",
+      "source": "TCM",
+      "className": "Bard",
+      "level": 6,
+      "entries": [
+        "As an Action, creatures in a 15-foot cone that can hear you must make a Wisdom saving throw against your spell save DC or be Charmed by you until the end of your next turn.",
+        "Hostile creatures have disadvantage on the save if affected by your Whistle Companions this round.",
+        "Once per long rest; you can expend a 3rd-level or higher spell slot to use it again."
+      ]
+    },
+    {
+      "name": "Chorus of Echoes",
+      "source": "TCM",
+      "className": "Bard",
+      "level": 14,
+      "entries": [
+        "When you use Bardic Inspiration on an ally, another ally of your choice within 30 feet also gains a die of Bardic Inspiration (once per turn).",
+        "Your Whistle Companions no longer require concentration and persist their full duration while you concentrate on a Bard spell."
+      ]
+    },
+    {
+      "name": "Blessing of the Field",
+      "source": "TCM",
+      "className": "Cleric",
+      "level": 3,
+      "entries": [
+        "As an Action, bless a 10‑foot‑radius area of ground for 1 hour; allies there gain a bonus to Wisdom (Survival) checks and saving throws against being Frightened equal to your Wisdom modifier (minimum +1).",
+        "Uses equal to PB (regain on a long rest)."
+      ]
+    },
+    {
+      "name": "Channel Divinity — Harvest",
+      "source": "TCM",
+      "className": "Cleric",
+      "level": 3,
+      "entries": [
+        "As an Action, present your holy symbol to either nurture or scour:",
+        "- Heal creatures of your choice in a 30‑foot radius for 2d6 + your Cleric level, or",
+        "- Force creatures of your choice in a 30‑foot radius to make a Constitution save or take 2d6 + your Cleric level necrotic or radiant damage (your choice)."
+      ]
+    },
+    {
+      "name": "Reaper’s Aegis",
+      "source": "TCM",
+      "className": "Cleric",
+      "level": 6,
+      "entries": [
+        "When a creature you can see within 30 feet drops to 0 hit points, you can use your Reaction to grant another creature within 30 feet temporary hit points equal to your Cleric level + your Wisdom modifier."
+      ]
+    },
+    {
+      "name": "Blessed Harvest",
+      "source": "TCM",
+      "className": "Cleric",
+      "level": 10,
+      "entries": [
+        "When you or an ally within 30 feet rolls a Hit Die, add your Wisdom modifier to the total restored."
+      ]
+    },
+    {
+      "name": "Sheaf of Plenty",
+      "source": "TCM",
+      "className": "Cleric",
+      "level": 14,
+      "entries": [
+        "After a long rest, create a number of magical sheaves equal to your Wisdom modifier (minimum 1).",
+        "As a Bonus Action, you or a creature within 30 feet can expend a sheaf to heal 1d4 + your Wisdom modifier hit points or to deal 1d4 + your Wisdom modifier radiant damage on the next weapon hit before the end of its next turn."
+      ]
+    }
+  ]
+}

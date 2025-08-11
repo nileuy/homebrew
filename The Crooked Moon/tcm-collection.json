@@ -1,0 +1,12 @@
+{
+  "name": "The Crooked Moon — Player Options (Homebrew)",
+  "version": "0.1.0",
+  "list": [
+    "tcm-source.json",
+    "tcm-species.json",
+    "tcm-subclasses.json",
+    "tcm-feats.json",
+    "tcm-backgrounds.json",
+    "tcm-spells.json"
+  ]
+}
