@@ -1,0 +1,560 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "TCM",
+        "abbreviation": "TCM",
+        "full": "The Crooked Moon — Player Options",
+        "version": "1.0.0"
+      }
+    ]
+  },
+  "background": [
+    {
+      "name": "Amnesiac",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "any": 2
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "any": 1
+        }
+      ],
+      "feat": [
+        {
+          "name": "Memory Starved",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Book (personal notes), Ink, Ink Pen, Traveler’s Clothes, 11 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Druskenvald Dweller",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "survival": true
+        },
+        {
+          "any": 1
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "any": 1
+        }
+      ],
+      "feat": [
+        {
+          "choose": {
+            "from": [
+              {
+                "name": "Altered",
+                "source": "TCM"
+              },
+              {
+                "name": "Charm Twister",
+                "source": "TCM"
+              },
+              {
+                "name": "Crimson Ritualist",
+                "source": "TCM"
+              },
+              {
+                "name": "Cult Initiate",
+                "source": "TCM"
+              },
+              {
+                "name": "Dread Speech",
+                "source": "TCM"
+              },
+              {
+                "name": "Fate Gambler",
+                "source": "TCM"
+              },
+              {
+                "name": "Ghostlight Medium",
+                "source": "TCM"
+              },
+              {
+                "name": "Grave Keeper",
+                "source": "TCM"
+              },
+              {
+                "name": "Hunter of Hunters",
+                "source": "TCM"
+              },
+              {
+                "name": "Memory Starved",
+                "source": "TCM"
+              },
+              {
+                "name": "Reveling Fool",
+                "source": "TCM"
+              },
+              {
+                "name": "Unreflected",
+                "source": "TCM"
+              }
+            ],
+            "count": 1
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Artisan’s Tools (as below), Map (Druskenvald’s provinces), Traveler’s Clothes, 10 gp; or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Province Affinities (Recommended)",
+          "entries": [
+            {
+              "type": "list",
+              "items": [
+                "Ardengloom — Skill: History; Tool: Herbalism Kit",
+                "Astramar — Skill: Arcana; Tool: Navigator’s Tools",
+                "Bubonia — Skill: Medicine; Tool: Poisoner’s Kit",
+                "Chernabos — Skill: Deception; Tool: Calligrapher’s Supplies",
+                "Edwardia — Skill: Investigation; Tool: Tinker’s Tools",
+                "Enoch — Skill: Nature; Tool: Leatherworker’s Tools",
+                "Kalero — Skill: Performance; Tool: Musical Instrument",
+                "Olmarsh — Skill: Arcana; Tool: Cartographer’s Supplies",
+                "Nerukhet — Skill: Persuasion; Tool: Weaver’s Tools",
+                "Pholsense — Skill: Religion; Tool: Mason’s Tools",
+                "Picco — Skill: Performance; Tool: Woodworker’s Tools",
+                "Syndramas — Skill: Athletics; Tool: Cook’s Utensils",
+                "Zulrogg — Skill: Survival; Tool: Herbalism Kit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Aspirant",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "arcana": true
+        },
+        {
+          "medicine": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "herbalism kit": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Crimson Ritualist",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Herbalism Kit, Dagger, Fine Clothes, Healer’s Kit, 3 Vials, 10 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Gambler",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "deception": true
+        },
+        {
+          "insight": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "gaming set": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Fate Gambler",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Gaming Set (same as above), Caltrops, Fine Clothes, Fine Wine (bottle), 23 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultist",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "arcana": true
+        },
+        {
+          "any": 1
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "calligrapher's supplies": true
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "any": 1
+        }
+      ],
+      "feat": [
+        {
+          "name": "Cult Initiate",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Calligrapher’s Supplies, Costume (cult garb), Holy Symbol (Amulet: cult insignia), Traveler’s Clothes, (gp as printed); or (B) 50 gp."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Notes",
+          "entries": [
+            "Use the Cultist Affinity table in the source for recommended extra skill and language choices."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experiment",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "intimidation": true
+        },
+        {
+          "medicine": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "alchemist's supplies": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Altered",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Alchemist’s Supplies, Manacles, Perfume (to cover chemical smell), Traveler’s Clothes (with hooded cloak), 5 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ghostlight Passenger",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "insight": true
+        },
+        {
+          "persuasion": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "smith's tools": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Ghostlight Medium",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Smith’s Tools, Bullseye Lantern, Fine Clothes, Oil (3 flasks), 5 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Night Stalker",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "stealth": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "leatherworker's tools": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Hunter of Hunters",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Additional Skill Choice",
+          "entries": [
+            "Choose one from: Arcana, History, Religion, or Nature."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Leatherworker’s Tools, Book (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reflected Wanderer",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "deception": true
+        },
+        {
+          "investigation": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "disguise kit": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Unreflected",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Disguise Kit, Mirror, Traveler’s Clothes, 16 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rest Warden",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "religion": true
+        },
+        {
+          "survival": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "mason's tools": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Grave Keeper",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Mason’s Tools, Hooded Lantern, (protective gear as printed), 10 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reveler",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "performance": true
+        },
+        {
+          "stealth": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "musical instrument": true
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "any": 1
+        }
+      ],
+      "feat": [
+        {
+          "name": "Reveling Fool",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Recommended Language",
+          "entries": [
+            "Abyssal is recommended by the source."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Musical Instrument (same as above), Ball Bearings, Costume (jovial character with a laughing mask), Hunting Trap, Manacles, 3 Torches (for juggling), Traveler’s Clothes, 10 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scholar of the Forbidden",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "arcana": true
+        },
+        {
+          "intimidation": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "calligrapher's supplies": true
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "any": 1
+        }
+      ],
+      "feat": [
+        {
+          "name": "Dread Speech",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Recommended Language",
+          "entries": [
+            "Deep Speech is recommended by the source."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Calligrapher’s Supplies, Book (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3 flasks), Paper (10 sheets), 2 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wicker Weaver",
+      "source": "TCM",
+      "page": 0,
+      "skillProficiencies": [
+        {
+          "insight": true
+        },
+        {
+          "nature": true
+        }
+      ],
+      "toolProficiencies": [
+        {
+          "weaver's tools": true
+        }
+      ],
+      "languageProficiencies": [
+        {
+          "sylvan": true
+        }
+      ],
+      "feat": [
+        {
+          "name": "Charm Twister",
+          "source": "TCM"
+        }
+      ],
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose (A) Quarterstaff, Weaver’s Tools, Basket (with dry reeds ready to weave), Book (druidic lore), Iron Pot, Traveler’s Clothes, 19 gp; or (B) 50 gp."
+          ]
+        }
+      ]
+    }
+  ]
+}

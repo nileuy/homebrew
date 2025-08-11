@@ -1,20 +1,19 @@
 {
   "_meta": {
-    "name": "The Crooked Moon — Player Options (Collection)",
-    "id": "tcm-player-options",
-    "edition": "one",
-    "dateAdded": 1754934126,
-    "dateLastModified": 1754934126,
     "sources": [
       {
         "json": "TCM",
         "abbreviation": "TCM",
         "full": "The Crooked Moon — Player Options",
+        "authors": [],
+        "convertedBy": ["Unknown"],
         "version": "1.0.0",
         "color": "8E7CFF",
         "url": ""
       }
-    ]
+    ],
+    "dateAdded": 1723334400,
+    "dateLastModified": 1723334400
   },
   "toImport": [
     "tcm-spells.brew.json",
