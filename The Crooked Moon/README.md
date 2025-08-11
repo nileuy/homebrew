@@ -1,60 +1,88 @@
-# The Crooked Moon — 5eTools Homebrew (TCM)
+# The Crooked Moon — Player Options (5eTools Homebrew)
 
-> Fuente: *The Crooked Moon — Player Options (2024)*  
-> `json` ID: **TCM** · `edition`: **one** (2024) · Versión: **1.0.3**
+This repository contains **player options** from *The Crooked Moon* formatted for **5eTools**/**Plutonium**.
 
-## Contenido del paquete
-```
-content/
-  collection/
-    TCM.homebrew.json          # Monolítico (todo en uno) — recomendado
-  spell/
-    TCM-spells-brew.json
-  subclass/
-    TCM-subclasses-brew.json
-  feat/
-    TCM-feats-brew.json
-  background/
-    TCM-backgrounds-brew.json
-  race/
-    TCM-species-brew.json
-validation-report.json         # Informe preflight (no reemplaza al validador oficial)
-```
-
-## Cómo validar localmente
-Requisitos: Node.js 18+
-
-```bash
-# Validar el monolítico
-npx -y 5etools-utils@latest test-json-brew ./content/collection/TCM.homebrew.json
-
-# (Opcional) Validar por tipo
-npx -y 5etools-utils@latest test-json-brew ./content/spell/TCM-spells-brew.json
-npx -y 5etools-utils@latest test-json-brew ./content/subclass/TCM-subclasses-brew.json
-npx -y 5etools-utils@latest test-json-brew ./content/feat/TCM-feats-brew.json
-npx -y 5etools-utils@latest test-json-brew ./content/background/TCM-backgrounds-brew.json
-npx -y 5etools-utils@latest test-json-brew ./content/race/TCM-species-brew.json
-```
-
-> Tip: el validador reporta **un error por vez**. Corregí el primero, re-ejecutá, y repetí hasta `OK`.
-
-## Carga en 5eTools
-1. Abrí **Utilities → Homebrew Manager** en 5eTools.  
-2. Usa **Load from File** y seleccioná `content/collection/TCM.homebrew.json`.  
-   —o— subí el archivo a GitHub y usá el **RAW URL** en **Load from URL**.
-3. Filtrá por **Source: TCM** para revisar todo.
-
-## Notas de conversión
-- **subclassSpells**: nombres de hechizos **sin asteriscos** y alineados con los del propio brew cuando aplica.
-- **Harvest Domain**: el PDF separa por aspectos (Sowing/Growing/Reaping). En 5eTools cargamos la **unión** por nivel y el texto del feature indica la elección.
-- **Autolink** aplicado: `{@spell ...}`, `{@condition ...}`, `{@skill ...}` en textos.
-- **Especies**: `Small or Medium` → `size: ["M","S"]` cuando corresponde.
-
-## Sugerencia de PR (nombre de archivo)
-Si subís por tipo al repositorio homebrew oficial, usá el patrón:  
-`Autor; The Crooked Moon — Player Options (2024).json`  
-o mantené el monolítico como `TCM.homebrew.json` dentro de `collection/`.
+> **Includes**
+> - **Spells**: 26
+> - **Species** (races): 13
+> - **Subclasses**: 3 (features: 14)
+> - **Feats**: 14
+> - **Backgrounds**: 13
 
 ---
 
-Hecho con ❤️ para 5eTools. Si encontrás algún error en el validador, compartime el mensaje y lo arreglo.
+## Quick Start (Import)
+
+1) Download this repository (or just the JSON files under `/tcm_homebrew`).  
+2) In **5eTools** / **Plutonium**, open **Manage Homebrew → Load from File**.  
+3) Select the collection file:
+   - `TCM; The Crooked Moon — Player Options (collection).json`  
+   This will import all component JSONs in one go:
+   - `tcm-spells.brew.json`
+   - `tcm-species.brew.json`
+   - `tcm-subclasses.brew.json`
+   - `tcm-feats.brew.json`
+   - `tcm-backgrounds.brew.json`
+
+> You can also import files individually if preferred.
+
+---
+
+## Files
+
+```
+tcm_homebrew/
+├─ TCM; The Crooked Moon — Player Options (collection).json
+├─ tcm-spells.brew.json
+├─ tcm-species.brew.json
+├─ tcm-subclasses.brew.json
+├─ tcm-feats.brew.json
+├─ tcm-backgrounds.brew.json
+└─ tcm-collection.json        # helper manifest (non-standard, informational)
+```
+
+- **collection.json** (`TCM; ...`): `toImport` list pointing to the five brew JSONs.
+- **tcm-*.brew.json**: Each file conforms to the **5eTools brew schema** (`spell`, `race`, `subclass`+`subclassFeature`, `feat`, `background`).
+- **tcm-collection.json**: Helper map used during generation; safe to ignore.
+
+---
+
+## Validation
+
+- JSONs follow the **brew schema** for 5eTools.  
+- A local preflight was run to check required keys and basic shapes.  
+- If you use the official validator, run something like:
+
+```bash
+# Example (adjust to your environment)
+npx --yes @thegiddylimit/5etools-utils test-json-brew tcm-spells.brew.json
+npx --yes @thegiddylimit/5etools-utils test-json-brew tcm-species.brew.json
+npx --yes @thegiddylimit/5etools-utils test-json-brew tcm-subclasses.brew.json
+npx --yes @thegiddylimit/5etools-utils test-json-brew tcm-feats.brew.json
+npx --yes @thegiddylimit/5etools-utils test-json-brew tcm-backgrounds.brew.json
+```
+
+---
+
+## Contributing / Editing
+
+- Keep entries **English**, verbatim to the source rules text where applicable.  
+- Maintain consistent `source: "TCM"` and `page: 0`.  
+- For spells:
+  - Normalize `range.area` for **Self (X‑foot cone/line/sphere/cube/cylinder)**.
+  - Use `entriesHigherLevel: [{"name":"At Higher Levels","entries":[...]}]`.
+  - `classes.fromClassList` with `{ "name": "Bard", "source": "PHB" }` etc. (Artificer → `TCE`).
+
+---
+
+## Credits & Legal
+
+- **Source**: *The Crooked Moon — Player Options*.  
+- This repo is a **fan-made homebrew adaptation** for use with 5eTools/Plutonium.  
+- All trademarks and copyrights remain with their respective owners.
+
+---
+
+## Changelog
+
+- **2025-08-11** — Initial public version: spells/species/subclasses/feats/backgrounds + collection.
