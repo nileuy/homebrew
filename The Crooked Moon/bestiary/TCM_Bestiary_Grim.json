@@ -1,0 +1,72 @@
+{
+  "monster": [
+    {
+      "name": "Grim",
+      "source": "TCM",
+      "size": "M",
+      "type": { "type": "undead" },
+      "alignment": ["N"],
+      "ac": [
+        { "ac": 13, "from": ["plus the ranger's Wisdom modifier"] }
+      ],
+      "hp": {
+        "special": "5 plus five times the ranger's level (the Grim has a number of Hit Dice [d8s] equal to the ranger's level)"
+      },
+      "speed": { "walk": 40 },
+      "str": 18,
+      "dex": 16,
+      "con": 14,
+      "int": 4,
+      "wis": 14,
+      "cha": 2,
+      "resist": ["necrotic"],
+      "conditionImmune": [
+        "frightened",
+        "grappled",
+        "paralyzed",
+        "petrified",
+        "poisoned",
+        "prone",
+        "restrained"
+      ],
+      "senses": ["darkvision 60 ft."],
+      "passive": 10,
+      "languages": ["understands the languages you know"],
+      "cr": "0",
+      "pbNote": "PB equals your Proficiency Bonus.",
+      "trait": [
+        {
+          "name": "Incorporeal Movement",
+          "entries": [
+            "The Grim can move through other creatures and objects as if they were Difficult Terrain. The Grim takes 1d10 Force damage if it ends its turn inside an object."
+          ]
+        },
+        {
+          "name": "Shared Fate",
+          "entries": [
+            "Add your Proficiency Bonus to any ability check or saving throw the Grim makes."
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "Ominous Rend",
+          "entries": [
+            "{@i Melee Attack Roll}: Bonus equals your spell attack modifier; reach 5 ft.",
+            "{@i Hit}: 1d6 + 3 + your Wisdom modifier Necrotic damage; if the target is a creature, it has the Frightened condition until the start of your next turn."
+          ]
+        }
+      ],
+      "reaction": [
+        {
+          "name": "Baleful Howl",
+          "entries": [
+            "{@i Trigger}: A creature moves out of the Grim’s reach.",
+            "{@i Response—Wisdom Saving Throw}: Your spell save DC, the triggering creature.",
+            "{@i Failure}: The target’s Speed is 0 until the end of the turn."
+          ]
+        }
+      ]
+    }
+  ]
+}

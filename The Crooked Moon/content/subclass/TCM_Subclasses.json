@@ -1,0 +1,2689 @@
+{
+  "subclass": [
+    {
+      "name": "College of Whistles",
+      "shortName": "Whistles",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "page": 20,
+      "subclassFeatures": [
+        "3|Whistles|Handy Haints",
+        "3|Whistles|Whistles and Wanderings",
+        "3|Whistles|Whistling Wanderer",
+        "6|Whistles|Homeward Bound",
+        "6|Whistles|Ride the Rails",
+        "14|Whistles|Last Stop"
+      ]
+    },
+    {
+      "name": "Path of the Experiment",
+      "shortName": "Experiment",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "page": 18,
+      "subclassFeatures": [
+        "3|Experiment|Alchemical Experiments",
+        "3|Experiment|Implant Forms",
+        "3|Experiment|Volatile Serum",
+        "6|Experiment|Augmentation Compounds",
+        "10|Experiment|Reactive Catalyst",
+        "14|Experiment|Biochemical Admixture"
+      ]
+    },
+    {
+      "name": "Harvest Domain",
+      "shortName": "Harvest",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "page": 22,
+      "subclassFeatures": [
+        "3|Harvest|Bountiful Harvest",
+        "3|Harvest|Community Almanac",
+        "3|Harvest|Cornucopia",
+        "3|Harvest|Harvest Domain Spells",
+        "3|Harvest|Rites of the Harvest",
+        "6|Harvest|Blessing of the Seasons",
+        "17|Harvest|Eternal Wheel"
+      ]
+    },
+    {
+      "name": "Circle of the Old Ways",
+      "shortName": "Old Ways",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "page": 24,
+      "subclassFeatures": [
+        "3|Old Ways|Bough and Branch",
+        "3|Old Ways|Circle of the Old Ways Spells",
+        "3|Old Ways|Old Ways Sacred Sites",
+        "3|Old Ways|Wood Wose",
+        "6|Old Ways|Oak and Thorn",
+        "10|Old Ways|Deepwood Elder",
+        "14|Old Ways|Ancient Protector"
+      ]
+    },
+    {
+      "name": "Barrow Guard",
+      "shortName": "Barrow Guard",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "page": 28,
+      "subclassFeatures": [
+        "3|Barrow Guard|Barrow Guard Draugr Dice",
+        "3|Barrow Guard|Death Knight",
+        "7|Barrow Guard|Siphoning Souls",
+        "10|Barrow Guard|Tomb Castellan",
+        "15|Barrow Guard|Grave Lord",
+        "18|Barrow Guard|Might of the Necropolis"
+      ]
+    },
+    {
+      "name": "Warrior of the Pestilent Haze",
+      "shortName": "Pestilent Haze",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "page": 30,
+      "subclassFeatures": [
+        "3|Pestilent Haze|Contagious Discipline",
+        "3|Pestilent Haze|Gift of Pestilence",
+        "3|Pestilent Haze|Miasmic Plague Manifestations",
+        "6|Pestilent Haze|Potent Plague",
+        "6|Pestilent Haze|Tolling Censer",
+        "11|Pestilent Haze|Miasmic Contagion",
+        "17|Pestilent Haze|Epidemic"
+      ]
+    },
+    {
+      "name": "Oath of Castigation",
+      "shortName": "Castigation",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "page": 32,
+      "subclassFeatures": [
+        "3|Castigation|Castigate",
+        "3|Castigation|Incite",
+        "3|Castigation|Oath of Castigation Spells",
+        "3|Castigation|Tenets of Castigation",
+        "3|Castigation|Wicked Nemeses",
+        "7|Castigation|Kindling Aura",
+        "15|Castigation|Fervent Inquisitor",
+        "20|Castigation|Fire and Brimstone"
+      ]
+    },
+    {
+      "name": "Grim Harbinger",
+      "shortName": "Grim Harbinger",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "page": 34,
+      "subclassFeatures": [
+        "3|Grim Harbinger|Grim",
+        "3|Grim Harbinger|Grim Harbinger Spells",
+        "3|Grim Harbinger|Omen of Doom",
+        "7|Grim Harbinger|Harbinger of Doom",
+        "11|Grim Harbinger|Grave Bond",
+        "15|Grim Harbinger|Sealed Fate"
+      ]
+    },
+    {
+      "name": "Sinner",
+      "shortName": "Sinner",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "page": 36,
+      "subclassFeatures": [
+        "3|Sinner|Get Jinxed",
+        "3|Sinner|Hex Slinger",
+        "3|Sinner|Hex Slinger Jinxes",
+        "3|Sinner|Jinx Weapon Forms",
+        "9|Sinner|Borrowed Luck",
+        "13|Sinner|Pick Your Poison",
+        "17|Sinner|The Other Side"
+      ]
+    },
+    {
+      "name": "Crimson Sorcery",
+      "shortName": "Crimson Sorcery",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "page": 38,
+      "subclassFeatures": [
+        "3|Crimson Sorcery|Blood Well",
+        "3|Crimson Sorcery|Crimson Origins",
+        "3|Crimson Sorcery|Crimson Spells",
+        "3|Crimson Sorcery|Variant: Bloodless Crimson Sorcerers",
+        "6|Crimson Sorcery|Pool of Blood",
+        "6|Crimson Sorcery|Scarlet Vigor",
+        "14|Crimson Sorcery|Vital Siphoning",
+        "18|Crimson Sorcery|Sanguine Feast"
+      ]
+    },
+    {
+      "name": "Great Fool Patron",
+      "shortName": "Great Fool",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "page": 40,
+      "subclassFeatures": [
+        "3|Great Fool|Foolish Personas",
+        "3|Great Fool|Great Fool Spells",
+        "3|Great Fool|Killing Joke",
+        "6|Great Fool|Jester's Japes",
+        "10|Great Fool|Mocking Banter",
+        "14|Great Fool|Send in the Clowns"
+      ]
+    },
+    {
+      "name": "Horned King Patron",
+      "shortName": "Horned King",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "page": 42,
+      "subclassFeatures": [
+        "3|Horned King|Horned King Spells",
+        "3|Horned King|Malediction",
+        "3|Horned King|Witch Mark",
+        "3|Horned King|Witchcraft Implements",
+        "6|Horned King|Spiteful Curse",
+        "10|Horned King|Crown of Horns",
+        "14|Horned King|Gather the Coven"
+      ]
+    },
+    {
+      "name": "Occultist",
+      "shortName": "Occultist",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "page": 44,
+      "subclassFeatures": [
+        "3|Occultist|Forbidden Knowledge",
+        "3|Occultist|Intrusion",
+        "3|Occultist|Intrusion Table",
+        "6|Occultist|Reality Tear",
+        "10|Occultist|Occult Presence",
+        "14|Occultist|Beyond Space"
+      ]
+    },
+    {
+      "name": "Philosopher",
+      "shortName": "Philosopher",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "page": 46,
+      "subclassFeatures": [
+        "3|Philosopher|Alchemical Knowledge",
+        "3|Philosopher|Philosophical Pursuits",
+        "3|Philosopher|Quintessence",
+        "6|Philosopher|Albedo",
+        "10|Philosopher|Citrinitas",
+        "14|Philosopher|Rubedo"
+      ]
+    }
+  ],
+  "subclassFeature": [
+    {
+      "name": "Alchemical Experiments",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "subclassShortName": "Experiment",
+      "level": 3,
+      "entries": [
+        "You gain a set of Alchemist's Supplies, and you have proficiency with it. Additionally, you can use Alchemist's Supplies instead of an Herbalism Kit to craft Potions of Healing."
+      ]
+    },
+    {
+      "name": "Implant Forms",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "subclassShortName": "Experiment",
+      "level": 3,
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Experimental Implants",
+          "colLabels": [
+            "1d6",
+            "Implant"
+          ],
+          "rows": [
+            [
+              "1",
+              "Alchemical Injector. Glass reservoir cylinders set in brass and iron frames hold multicolored, bubbling, or luminous alchemical fluids."
+            ],
+            [
+              "2",
+              "Alien Grafts. Portions of your body have been replaced with parts of a dragon, a werewolf, or an Aberration's rubbery tentacles. When you Rage, the grafts overtake more of your body."
+            ],
+            [
+              "3",
+              "Construct Prosthesis. You have prosthetic limbs, eyes, or other replacements made of metal, stone, or wood. When you Rage, the parts flare."
+            ],
+            [
+              "4",
+              "Crystal Formations. Crystals grow from your body across your shoulders and down your limbs. When you Rage, the crystals glow, chime, or ring."
+            ],
+            [
+              "5",
+              "Fungal Inoculation. Mushrooms and other fungal growths overtake parts of your body, and vein‑like mycelium run along your skin from them. When you Rage, the veins pulse and writhe."
+            ],
+            [
+              "6",
+              "Sparktech Augmentation. Copper, silver, and brass coils in your back and arms run wires along your skin to plugs. When you Rage, lightning crackles across the metal."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volatile Serum",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "subclassShortName": "Experiment",
+      "level": 3,
+      "entries": [
+        "You have an implanted series of syringes and reservoirs that hold alchemical serums and deploy them into your body. When you enter your Rage, choose one of your serums to inject and gain its benefits. The chosen serum lasts for the duration of your Rage, or until you choose a new serum as a Bonus Action. You have the following serum options.",
+        {
+          "type": "entries",
+          "name": "Ferocity",
+          "entries": [
+            "This serum throws you into an energized frenzy. You ignore Difficult Terrain, and when you hit with a Melee weapon or Unarmed Strike, you can activate the Cleave mastery property in addition to a different mastery property you're using."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Monstrosity",
+          "entries": [
+            "The serum expands your body to monstrous proportions and can change your appearance in cosmetic ways, such as by altering facial features, skin tone, and hair length or color. Your reach increases by 5 feet, and once per turn when you miss with an attack roll that relies on Strength, you can add your Rage Damage bonus to the total, potentially causing the attack to hit. If you are smaller than Large, you become Large, along with anything you are wearing or carrying. If there isn't enough room to accommodate the size change, your size doesn't change."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reconstruction",
+          "entries": [
+            "The serum dulls pain and forces wounds to rapidly knit. Upon activation and at the start of each of your turns, you can expend and roll a Hit Point Die. You regain a number of Hit Points equal to the number rolled plus your Constitution modifier (minimum 1). You can gain any excess beyond your Hit Point maximum as Temporary Hit Points. If you take Acid or Fire damage, this serum doesn't function at the start of your next turn."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Augmentation Compounds",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "subclassShortName": "Experiment",
+      "level": 6,
+      "entries": [
+        "Through continued experimentation or your natural adaptation to your implants, you can now activate one of the compound options below, in addition to a serum, when you enter your Rage or change your chosen serum. The chosen compound lasts for the duration of your Rage, or until you choose a new compound.",
+        {
+          "type": "entries",
+          "name": "Simulated Senses",
+          "entries": [
+            "You gain Blindsight out to a range of 30 feet. If you already have Blindsight, its range increases by 30 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Maddening Fumes",
+          "entries": [
+            "Your skin emits aggression‑spiking fumes in a 30‑foot Emanation. While in the Emanation, an enemy's Speed is halved, and if it starts its turn there it must succeed on a Wisdom saving throw (DC 8 + your Constitution modifier and Proficiency Bonus) or have Disadvantage on attack rolls against targets other than you until the start of its next turn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Corrosive Expulsion",
+          "entries": [
+            "When you take the Attack action on your turn, you can replace one of your attacks with a spray of caustic chemicals from your implants in a 15‑foot Cone, or a 30‑foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier and Proficiency Bonus). Roll a number of d8s equal to your Rage Damage bonus. On a failed save, a target takes Acid damage equal to the total rolled, or half as much damage on a successful one."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reactive Catalyst",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "subclassShortName": "Experiment",
+      "level": 10,
+      "entries": [
+        "Your implants are now sensitive to your response to danger and flood you with stimulating chemicals. When you take damage, or when you gain the Blinded, Deafened, Poisoned, or Stunned condition, you can take a Reaction to enter your Rage before the damage or conditions are applied. When you enter your Rage, you end any of those conditions on yourself, including any triggering conditions. Additionally, while your Rage is active, you have Advantage on Constitution saving throws."
+      ]
+    },
+    {
+      "name": "Biochemical Admixture",
+      "source": "TCM",
+      "className": "Barbarian",
+      "classSource": "XPHB",
+      "subclassShortName": "Experiment",
+      "level": 14,
+      "entries": [
+        "Your body focuses and combines the strength of your serums. When you activate an option of your Volatile Serum, you activate two options instead of one. Additionally, when a creature within 5 feet of you damages you with a melee attack while your Rage is active, the creature takes 1d12 Acid damage. A creature can take this damage only once per turn."
+      ]
+    },
+    {
+      "name": "Handy Haints",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "subclassShortName": "Whistles",
+      "level": 3,
+      "entries": [
+        "You can call forth haints—wayward spirits. When you inspire a creature with Bardic Inspiration, you can manifest a ghostly apparition that drifts around the inspired target.",
+        "The haint creates an aura in a 15-foot Emanation centered on that creature. The haint vanishes after 1 minute, when you use the Reaction it grants you, or if you have the Incapacitated condition.",
+        "When you create a haint, choose one of the following options.",
+        {
+          "type": "entries",
+          "name": "Grump",
+          "entries": [
+            "This red-rimmed, dour spirit heckles your foes' shortcomings. When a creature in the aura that you can see takes damage from an attack, you can take a Reaction to increase the damage it takes by an amount equal to a roll of your Bardic Inspiration die plus your Charisma modifier."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Sad Sack",
+          "entries": [
+            "The blueish, melancholic spirit saps vigor from the living. While the aura persists, you and your allies within it have Half Cover against ranged attacks. In addition, when a creature in the aura takes damage, you can take a Reaction to reduce the damage by an amount equal to a roll of your Bardic Inspiration die plus your Charisma modifier."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scamp",
+          "entries": [
+            "The pale-faced, childlike sprite invigorates your allies. A creature that starts its turn in the aura has its Speed increased by 10 feet until the end of that turn. In addition, when a creature in the aura fails a saving throw, you can take a Reaction to let the creature reroll the d20."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Whistles and Wanderings",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "subclassShortName": "Whistles",
+      "level": 3,
+      "entries": [
+        "The Wandering Visits table offers suggestions on places you've visited during your travels where you met the various spirits drawn to your whistles. You can use the examples as they're given, mix and match the locations and the spirits, or create your own.",
+        {
+          "type": "table",
+          "caption": "Wandering Visits",
+          "colLabels": [
+            "1d6",
+            "Location"
+          ],
+          "rows": [
+            [
+              "1",
+              "You found an abandoned tavern with a single place still set at a table in the corner. A melancholy spirit waited there for someone who would never arrive."
+            ],
+            [
+              "2",
+              "Scorched foundations are the only remains of a cottage that burned long ago. The echo of a singing child watched over travelers who stopped there."
+            ],
+            [
+              "3",
+              "You stayed in a manor house's haunted lower quarters. The angry spirit there is the remnant of someone who died, old and infirm—helpless to stop the wickedness they saw from afar."
+            ],
+            [
+              "4",
+              "The mournful song of a lingering soul drew you to an old, covered bridge—the only place where the spirit found hope in life."
+            ],
+            [
+              "5",
+              "An orphanage with a positive reputation housed the hopeful shade of a child who died of sickness. It was a companion to other orphans until they grew or were taken in by homes."
+            ],
+            [
+              "6",
+              "A misty roadside meadow was once the site of a terrible battle. The spirit of a soldier who died there vented its fury against con artists and bandits who preyed upon the roadway."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Whistling Wanderer",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "subclassShortName": "Whistles",
+      "level": 3,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Wanderer's Bindle",
+          "entries": [
+            "When you finish a Long Rest, you can touch a nondescript bag, sack, or similar container and turn it into a magical container called a bindle. This container functions as a Handy Haversack.",
+            "If you create a second bindle, if your bindle is more than 1 mile away from you, or when you die, the bindle loses its magic, and anything inside appears in unoccupied spaces closest to the container."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Whistled Spells",
+          "entries": [
+            "You can whistle in place of Verbal components for your Bard spells. Observers unfamiliar with this tradition must succeed on a DC 15 Intelligence (Arcana) check to recognize your spellcasting for what it is by whistled Verbal components alone."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Homeward Bound",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "subclassShortName": "Whistles",
+      "level": 6,
+      "entries": [
+        "You can whistle to conjure a ghostly train that returns you and your companions to a known destination. When you finish a Long Rest, you can leave a mark at that location using paint, chalk, carving, or some other medium (which can be erased, defaced, or destroyed normally).",
+        "Thereafter, you can use this feature to cast Teleportation Circle using the mark as the destination. When you cast the spell in this way, a phantom train whisks away creatures who enter the circle, and you can't do so again until you finish a Long Rest. You can have a number of marked locations equal to your Charisma modifier at one time (minimum of 1 location). If you mark a location beyond your maximum, one of the previous marks of your choice fades.",
+        "When you reach level 9 in this class, you always have Teleportation Circle prepared and can use any of your marked locations as the destination when you cast it."
+      ]
+    },
+    {
+      "name": "Ride the Rails",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "subclassShortName": "Whistles",
+      "level": 6,
+      "entries": [
+        "You whistle as a Magic action to summon a spectral locomotive into existence. It hurtles forward in a 120‑foot‑long, 10‑foot‑wide Line from you, and it passes through objects and creatures. Each other creature in the Line must succeed on a Wisdom saving throw against your spell save DC or have the Deafened condition until the start of your next turn, be pushed up to 10 feet straight away from the Line's point of origin, and takes an amount of Psychic damage equal to three rolls of your Bardic Inspiration die.",
+        "Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a spell slot of level 3+ (no action required) to restore your use of it."
+      ]
+    },
+    {
+      "name": "Last Stop",
+      "source": "TCM",
+      "className": "Bard",
+      "classSource": "XPHB",
+      "subclassShortName": "Whistles",
+      "level": 14,
+      "entries": [
+        "The ghostly shrill of your whistle now draws the living closer to the world of the dead. As a Magic action, you blow a whistle that is audible up to 300 feet away. Up to six creatures of your choice that you can see within that range must succeed on a Charisma saving throw against your spell save DC or be cursed. When a cursed target takes Psychic damage, it has the Frightened condition toward the source of that damage until the end of its next turn. The first time a cursed target takes Psychic damage, it has Vulnerability to Psychic damage. The target repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.",
+        "Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a spell slot of level 7+ (no action required) to restore your use of it."
+      ]
+    },
+    {
+      "name": "Bountiful Harvest",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 3,
+      "entries": [
+        "As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to invoke the spirit of the harvest. Up to six creatures of your choice within 60 feet of you gain Heroic Inspiration. A creature can't gain Heroic Inspiration from this feature again.",
+        {
+          "type": "entries",
+          "name": "Benefits",
+          "entries": [
+            {
+              "type": "list",
+              "items": [
+                "{@b Sowing}. A target gains a number of Temporary Hit Points equal to your Proficiency Bonus plus your Wisdom modifier.",
+                "{@b Growing}. Until the end of your next turn, when a target makes an attack roll or ability check, it adds 1d4 to the total.",
+                "{@b Reaping}. A target deals extra Necrotic damage equal to your Proficiency Bonus the first time it damages a creature before the end of your next turn."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Community Almanac",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 3,
+      "entries": [
+        "You gain an Herbalism Kit, and you have proficiency with it. You also gain proficiency in the Nature or Survival skill."
+      ]
+    },
+    {
+      "name": "Cornucopia",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 3,
+      "entries": [
+        "If you don't have the Incapacitated condition when you start a Short Rest, you can magically create a cornucopia filled with enough food for a number of creatures equal to twice your Proficiency Bonus. When creatures that eat the food finish a Short Rest, you can distribute a number of d4s equal to your Cleric level among creatures who ate the food. Each creature immediately rolls the dice they allotted and regains Hit Points equal to the total. The cornucopia and any uneaten food vanish when the Short Rest ends.",
+        "Once you use this feature, you can't do so again until you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Harvest Domain Spells",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 3,
+      "entries": [
+        "Whenever you finish a Short or Long Rest, choose an aspect of the harvest cycle: Sowing, Growing, or Reaping. Consult the Harvest Domain Spells table; you have the spells listed in the column of your chosen aspect for your Cleric level and lower prepared.",
+        {
+          "type": "table",
+          "caption": "Harvest Domain Spells",
+          "colLabels": [
+            "Cleric Level",
+            "Sowing",
+            "Growing",
+            "Reaping"
+          ],
+          "rows": [
+            [
+              "3",
+              "Druidcraft, Goodberry, Lesser Restoration",
+              "Guidance, Entangle, Summer Winds",
+              "Chill Touch, Inflict Wounds, Hold Person"
+            ],
+            [
+              "5",
+              "Harvest Moonglow",
+              "Plant Growth",
+              "Culling Sickle"
+            ],
+            [
+              "7",
+              "Death Ward",
+              "Sanctum of the Shepherd",
+              "Consuming Pyre"
+            ],
+            [
+              "9",
+              "Awaken",
+              "Mass Cure Wounds",
+              "Field of Reaping"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rites of the Harvest",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 3,
+      "entries": [
+        "Use the Harvest Rites table for inspiration on observances based on each aspect of the harvest cycle.",
+        {
+          "type": "entries",
+          "name": "Harvest Rites",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Sowing Rites",
+              "entries": [
+                {
+                  "type": "list",
+                  "items": [
+                    "Bury a sacrificial offering into a newly ploughed field, such as dried corn husks, dead fish, robin's egg, or hare's foot",
+                    "Brew blessed mixtures and concoctions for consumption or irrigation that increase the fertility of crops, livestock, or people",
+                    "Gift a pouch of seeds to travelers at the start of a journey to ensure they arrive at their destination"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Growing Rites",
+              "entries": [
+                {
+                  "type": "list",
+                  "items": [
+                    "Tend to the sick or injured with natural remedies that utilize pure water, fertile soil, rich ash, or fruit poultice to speed up healing",
+                    "Bless crops or livestock to usher in favorable weather and a growing season that produces a strong and healthy bounty",
+                    "Oversee marriages, binding the betrothed with woven grain stalks or linen cords"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Reaping Rites",
+              "entries": [
+                {
+                  "type": "list",
+                  "items": [
+                    "Give funeral rites that return the deceased's body or ashes to the fields, mixing in earth from their home and decaying crops to enrich the soil",
+                    "Sharpen blades blessed by the harvest gods ahead of a battle or before a harvest to ensure that all that is reaped is offered to the divine",
+                    "Slaughter adult livestock or reap ripe crops for a feast to celebrate nature's bounty"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blessing of the Seasons",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 6,
+      "entries": [
+        "You can draw upon the powers of the harvest cycle to potentially avert disaster. When a creature you can see within 30 feet of you fails a saving throw of a particular type determined by your current aspect, you can take a Reaction to allow it to reroll the d20 and use the new roll. The type of saving throws you can affect are as follows.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Sowing}. Dexterity and Charisma",
+            "{@b Growing}. Constitution and Intelligence",
+            "{@b Reaping}. Wisdom and Strength"
+          ]
+        },
+        "Additionally, after the saving throw succeeds or fails, roll a number of d4s equal to your Proficiency Bonus. The target regains Hit Points equal to the total rolled.",
+        "You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Eternal Wheel",
+      "source": "TCM",
+      "className": "Cleric",
+      "classSource": "XPHB",
+      "subclassShortName": "Harvest",
+      "level": 17,
+      "entries": [
+        "When you use your Bountiful Harvest, you can invoke the endless cycle of life, death, and rebirth to grant yourself and the creatures affected by your Channel Divinity an additional benefit based on your current aspect:",
+        {
+          "type": "list",
+          "items": [
+            "{@b Sowing}. Targets gain the effects of the Regenerate spell for 1 minute, or until you lose concentration.",
+            "{@b Growing}. Targets gain Advantage on saving throws and ability checks for up to 1 hour, or until you lose Concentration (as if concentrating on a spell).",
+            "{@b Reaping}. Targets gain Resistance to Necrotic, Psychic, and Poison damage for 1 hour."
+          ]
+        },
+        "Once you use this feature, you can't do so again until you finish a Long Rest unless you expend a spell slot of level 7+ (no action required) to restore your use of it."
+      ]
+    },
+    {
+      "name": "Bough and Branch",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 3,
+      "entries": [
+        "Even the humblest of your weapons channels the might of the old forest. When you cast Shillelagh, you can cause a Shield made of gnarled wood to grow into your free hand if you have one (no action required), and it vanishes when the spell ends. You can't be forced to drop the affected weapon or Shield unless you have the Incapacitated condition.",
+        "Additionally, for the duration of the spell, you ignore Somatic components of your Druid spells, and the weapon enhanced by the spell becomes a druidic focus for you."
+      ]
+    },
+    {
+      "name": "Circle of the Old Ways Spells",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 3,
+      "entries": [
+        "When you reach a Druid level specified in the Circle of the Old Ways Spells table, you thereafter always have the listed spells prepared.",
+        {
+          "type": "table",
+          "caption": "Circle of the Old Ways Spells",
+          "colLabels": [
+            "Druid Level",
+            "Prepared Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Ancestral Guidance, Barkskin, Shield of Faith, Shillelagh, Spike Growth"
+            ],
+            [
+              "5",
+              "Magic Circle, Plant Growth"
+            ],
+            [
+              "7",
+              "Freedom of Movement, Private Sanctum"
+            ],
+            [
+              "9",
+              "Awaken, Tree Stride"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Old Ways Sacred Sites",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 3,
+      "entries": [
+        "The Old Ways Sacred Sites table offers examples to choose or use as inspiration to create places steeped in the Old Ways where your circle might congregate or where you might commune with primordial powers.",
+        {
+          "type": "table",
+          "caption": "Old Ways Sacred Sites",
+          "colLabels": [
+            "d6",
+            "Sacred Site"
+          ],
+          "rows": [
+            [
+              "1",
+              "Ring of standing stones atop a remote hilltop, each one marked with runes and symbols representing animal spirits"
+            ],
+            [
+              "2",
+              "Perpetually frozen river at the bottom of a deep ravine with a plethora of oversized and seemingly intelligent fish beneath the ice"
+            ],
+            [
+              "3",
+              "Hidden cave buried beneath a scorched dune, revealed by the shifting sands for a single night four times a year"
+            ],
+            [
+              "4",
+              "Turbulent tidepool by the coast with bottomless waters filled with glowing flora, fauna, and crystalline outcroppings"
+            ],
+            [
+              "5",
+              "Circle of ancient trees with ghost-white bark and blood-red leaves, each one bearing the face of a long-dead druid"
+            ],
+            [
+              "6",
+              "Massive barrow in the deep woods which contains the spirits of countless fey folk and the old gods of the natural world"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wood Wose",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 3,
+      "entries": [
+        "As a Bonus Action, or as part of casting Shillelagh, you can expend a use of your Wild Shape to suffuse yourself with the power of the primordial woods, gaining the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Bark Bulwark}. While you aren't wearing armor, your base Armor Class is 10 plus your Dexterity and Wisdom modifiers.",
+            "{@b Elderwood Sap}. When you hit a creature with an attack roll using the weapon enhanced by Shillelagh, the target is coated in Elderwood sap until the start of your next turn. While coated, the target has Disadvantage on attack rolls against targets other than you.",
+            "{@b Oaken Resolve}. You have Advantage on Strength and Constitution saving throws.",
+            "{@b Rampant Growth}. When you activate Wood Wose and at the start of each of your subsequent turns, you gain a number of Temporary Hit Points equal to your Wisdom modifier plus your Proficiency Bonus."
+          ]
+        },
+        "This effect lasts for 10 minutes. It ends early if you dismiss it (no action required), have the Incapacitated condition, or die."
+      ]
+    },
+    {
+      "name": "Oak and Thorn",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 6,
+      "entries": [
+        "Your connection to the Elderwoods drives you and punishes your foes. When you activate your Wood Wose, you gain the following additional benefits for the duration.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Oakenfist}. You can attack twice instead of once whenever you take the Attack action on your turn.",
+            "{@b Gnarled Thorns}. Once on each of your turns when you hit a creature with a melee attack not using a weapon, the target takes an extra 1d6 Piercing damage."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deepwood Elder",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 10,
+      "entries": [
+        "Your connection to the Elderwood grows stronger. When you activate your Wood Wose, you now gain additional benefits for the duration.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Primeval Wrath}. Once per turn, when you hit a creature with a melee attack, you can force the target to succeed on a Strength saving throw against your spell save DC or have the Prone condition.",
+            "{@b Bramblebark}. When a creature within 5 feet of you hits you with a melee attack, the attacker takes 1d8 Piercing damage. A creature takes this damage only once per turn."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ancient Protector",
+      "source": "TCM",
+      "className": "Druid",
+      "classSource": "XPHB",
+      "subclassShortName": "Old Ways",
+      "level": 14,
+      "entries": [
+        "When you awaken your connection to the Elderwood, you now become an incarnation of its ancient might. When you activate your Wood Wose, you now gain additional benefits for the duration.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Old Growth}. Your size increases to Large (along with anything you're wearing or carrying) if there is space to accommodate your growth, and your reach increases by 5 feet.",
+            "{@b Mighty Trunk}. You gain Resistance to Bludgeoning and Piercing damage.",
+            "{@b Vengeance of the Elders}. When a creature that is covered in Elderwood Sap and is within your reach makes an attack roll, you can take a Reaction to make a melee attack against that creature."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barrow Guard Draugr Dice",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "subclassShortName": "Barrow Guard",
+      "level": 3,
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Barrow Guard Draugr Dice",
+          "colLabels": [
+            "Fighter Level",
+            "Die Size",
+            "Number"
+          ],
+          "rows": [
+            [
+              "3",
+              "d6",
+              "4"
+            ],
+            [
+              "5",
+              "d8",
+              "6"
+            ],
+            [
+              "9",
+              "d8",
+              "8"
+            ],
+            [
+              "11",
+              "d10",
+              "8"
+            ],
+            [
+              "13",
+              "d10",
+              "10"
+            ],
+            [
+              "17",
+              "d12",
+              "12"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Death Knight",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "subclassShortName": "Barrow Guard",
+      "level": 3,
+      "entries": [
+        "You house within you the lingering remnants of souls long-departed, and their knowledge and experience imbue you with necromantic energy. It is represented by Draugr Dice, which fuel powers you have from this subclass. The Barrow Guard Draugr Dice table shows the die size and number of these dice you have when you reach certain Fighter levels.",
+        "Some of your powers expend a Draugr Die, as specified in a feature's description, and you can't use a power if it requires you to use a die when all your Draugr Dice are expended.",
+        "You regain one expended Draugr Die when you finish a Short Rest, and you regain all of them when you finish a Long Rest.",
+        "The save DC for any of your powers is 8 plus your Constitution modifier and Proficiency Bonus.",
+        {
+          "type": "entries",
+          "name": "Dark Rider",
+          "entries": [
+            "As a Bonus Action, you manifest a ghostly steed that only you can mount. The steed uses the Warhorse stat block, but its creature type is Undead, it has Resistance to Bludgeoning, Piercing, and Slashing damage, and it can only take the Dash, Disengage, and Dodge actions. When the steed takes the Dash action, you can expend and roll a Draugr Die. During the movement from that action, the steed's Speed increases by a number of feet equal to 5 times the number rolled. The steed vanishes after 1 hour, if reduced to 0 Hit Points, if you have the Incapacitated condition, or if you die.",
+            "Once you take this Bonus Action, you can't do so again until you finish a Short or Long Rest, unless you expend a Draugr Die (no action required) to restore your use of it."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Grave Guard",
+          "entries": [
+            "When you take damage, you can take a Reaction to expend and roll a Draugr Die and reduce the damage you take by the number rolled plus your Constitution modifier."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Soul Reaper",
+          "entries": [
+            "When you take the Attack action, you can forego one of your attacks to magically call forth ghostly hands around a creature within 60 feet of yourself. Expend and roll a Draugr Die. The target must make a Strength saving throw. On a failed save, it takes Necrotic damage equal to the number rolled on the Draugr Die plus your Constitution modifier, and it has the Grappled condition (escape DC = your Death Knight power save DC) for 1 minute. On a successful save, it takes half as much damage only."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siphoning Souls",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "subclassShortName": "Barrow Guard",
+      "level": 7,
+      "entries": [
+        "You can capture the fleeing essence of departing souls to glean knowledge and prowess. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Mortal Coil",
+          "entries": [
+            "When an enemy that isn't a Construct or Undead within 30 feet of you dies, you can take a Reaction to regain one expended Draugr Die."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Whisper of the Departed",
+          "entries": [
+            "When you make an ability check, you can expend and roll a Draugr Die and add the number rolled to the total."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tomb Castellan",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "subclassShortName": "Barrow Guard",
+      "level": 10,
+      "entries": [
+        "The powers of your Death Knight feature improve in the following ways.",
+        {
+          "type": "entries",
+          "name": "Phantom Charger",
+          "entries": [
+            "The ghostly steed of your Dark Rider power now ignores Difficult Terrain. Additionally, when your steed takes the Dash, Disengage, or Dodge action, you can expend and roll a Draugr Die. Your steed magically teleports (with you if you're riding it) to an unoccupied space you can see within 60 feet of the steed. Each creature of your choice within 10 feet of the steed when it appears must succeed on a Constitution saving throw, taking Necrotic damage equal to the number rolled on the Draugr Die plus your Constitution modifier on a failed save or half as much damage on a successful one."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Death Knell",
+          "entries": [
+            "When you use your Grave Guard power in response to a creature damaging you, the creature takes Psychic damage equal to half the amount of damage the power reduced."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Spectral Shrieking",
+          "entries": [
+            "When a creature Grappled by your Soul Reaper power starts its turn, it takes Psychic damage equal to your Proficiency Bonus. When it does, you can take a Reaction to end the grapple and roll a Draugr Die, adding the number rolled to the damage."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grave Lord",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "subclassShortName": "Barrow Guard",
+      "level": 15,
+      "entries": [
+        "You are no longer a mere vessel for spectral energy, but a shrine to its power. Your powers improve in the following ways.",
+        {
+          "type": "entries",
+          "name": "On a Pale Horse",
+          "entries": [
+            "When you use your Dark Rider power, you can allow one creature of your choice to mount the steed in addition to you."
+          ]
+        },
+        "Additionally, when you expend a Draugr Die during the steed's Dash action, it can move through solid objects and creatures as if they were Difficult Terrain (along with any riders). If the steed ends its turn inside a solid object, it and any riders take 1d10 Force damage and are shunted to the nearest unoccupied space.",
+        {
+          "type": "entries",
+          "name": "Sepulchral Shield",
+          "entries": [
+            "When you use your Grave Guard power, choose one of the triggering damage types. You have Resistance to that damage type (including the triggering damage) until the start of your next turn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Death Grip",
+          "entries": [
+            "A creature Grappled by your Soul Reaper power has the Restrained condition until the grapple ends."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Might of the Necropolis",
+      "source": "TCM",
+      "className": "Fighter",
+      "classSource": "XPHB",
+      "subclassShortName": "Barrow Guard",
+      "level": 18,
+      "entries": [
+        "Your command of the secrets imparted to you is absolute. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Eternal Vigil",
+          "entries": [
+            "You no longer suffer the effects of aging, you can't be magically aged, and you no longer die of old age. In addition, you no longer require air, food, drink, or sleep."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Restless Dead",
+          "entries": [
+            "When you roll Initiative, if you have fewer than 3 Draugr Dice, you regain expended dice until you have 3."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contagious Discipline",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 3,
+      "entries": [
+        "You have brewed and concentrated disease within yourself and can now push manifestations of it outward. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Claws of Pestilence",
+          "entries": [
+            "Your nails grow into a set of vermin-like claws. You can deal Slashing damage when you hit with an Unarmed Strike instead of Bludgeoning damage. When you hit a creature with an attack granted by your Flurry of Blows, you deal extra Necrotic damage equal to one roll of your Martial Arts die."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Miasmic Plague",
+          "entries": [
+            "When you hit a creature with an Unarmed Strike, you can expend 1 Focus Point to force the creature to succeed on a Constitution saving throw or be cursed for 1 minute. While cursed, the creature has the Poisoned condition, and it takes extra Necrotic damage from your Unarmed Strikes equal to one roll of your Martial Arts die. A creature can take this damage only once per turn. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.",
+            "If you forego the extra damage granted by Claws of Pestilence, you can use Miasmic Plague without paying its Focus Point cost."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gift of Pestilence",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 3,
+      "entries": [
+        "Through your observation and meditation, you are attuned to the nature of pestilence and the creatures believed to carry it. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Inoculation",
+          "entries": [
+            "You have Advantage on saving throws to avoid or end the Poisoned condition or magical contagions, and you have Resistance to Poison and Necrotic damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Vermin Kinship",
+          "entries": [
+            "Through chittering sounds and hand gestures, you can communicate simple concepts to vermin, such as rats, pigeons, and insects, and you gain the ability to decipher their noises and motions. Vermin lack the intelligence to convey or understand sophisticated concepts, but Friendly vermin could relay what they have seen or heard in the recent past."
+          ]
+        },
+        "Additionally, you can cast Animal Messenger using Wisdom as the spellcasting ability targeting a Tiny Beast that is considered vermin and thought to spread plague and disease. Once you cast the spell in this way, you can't do so again until you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Miasmic Plague Manifestations",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 3,
+      "entries": [
+        "Your Miasmic Plague is a unique magical contagion that can take many forms that you weave through your deep connection to the affliction. The Plague Manifestations table offers suggestions for what magical form your signature disease takes as it spreads, as well as its hallmark symptoms.",
+        {
+          "type": "table",
+          "caption": "Plague Manifestations",
+          "colLabels": [
+            "1d10",
+            "Manifestation"
+          ],
+          "rows": [
+            [
+              "1",
+              "Bloodbreath. Bruise-colored miasma, the edges of which form into slithering tentacles—painful bruises and a hoarse, bloody cough"
+            ],
+            [
+              "2",
+              "Drone Spew. Swarm of monstrous, mutated flies that buzz with a horrifying drone—bleeding ears and intense vomiting"
+            ],
+            [
+              "3",
+              "Festergrut. Viscous, gray sewer water that leaves a film on surfaces—intense stomach pain, dehydration, and blood loss"
+            ],
+            [
+              "4",
+              "Gutterpox. Globs of toxic, greenish sludge that oozes erratically to the touch—swollen, green papules and oppressive mucus buildup"
+            ],
+            [
+              "5",
+              "Knell Fever. Hot wind that prickles the skin and howls with the sound of a tolling bell—heat blisters and feverish hallucinations"
+            ],
+            [
+              "6",
+              "Rotface. Numerous spiked, fungal spores that float through the air—rapid rotting of flesh, especially around the eyes and mouth"
+            ],
+            [
+              "7",
+              "The Unclean. Undulating mass of pallid flesh, teeth, and tongues—grotesque, mutated growths such as new tentacle-like appendages and gnashing mouths"
+            ],
+            [
+              "8",
+              "Toadscale. Infected rains filled with venomous, spectral toads—hardened, itchy patches of scaly skin that turn vibrantly colorful and fits of agonized croaking"
+            ],
+            [
+              "9",
+              "Verminplague. Scurrying mass of ravenous, spectral plague rats that gnaw and scratch victims—painful boils and pustules and an incessant, squeaking cough"
+            ],
+            [
+              "10",
+              "Yellow Death. Billowing, skull-shaped clouds of foul-smelling fumes with a sickly yellow hue—debilitating fatigue, muscle aches, and sunken, sallow skin"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Potent Plague",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 6,
+      "entries": [
+        "The strain of your plague becomes more virulent and deadly. When you deal Necrotic or Poison damage, you ignore the target's Resistance to those damage types, if any."
+      ]
+    },
+    {
+      "name": "Tolling Censer",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 6,
+      "entries": [
+        "You can unleash a cloud of miasma upon your enemies. As a Magic action, you can expend 2 Focus Points to unleash a cloud of miasma in a 20‑foot Emanation originating from you. Each creature of your choice in that area must make a Constitution saving throw. On a failed save, a creature takes Necrotic damage equal to two rolls of your Martial Arts die and is cursed by your Miasmic Plague. On a successful save, it takes half as much damage only."
+      ]
+    },
+    {
+      "name": "Miasmic Contagion",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 11,
+      "entries": [
+        "The strength of your Miasmic Plague has increased, granting you the following benefits.",
+        {
+          "type": "entries",
+          "name": "Choking Miasma",
+          "entries": [
+            "Constitution saving throws against your Miasmic Plague have Disadvantage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scurrying Spread",
+          "entries": [
+            "When you expend 1 Focus Point to use your Step of the Wind, until the end of the turn, when you enter a space within 5 feet of any creature of your choice, it must succeed on a Constitution saving throw or be cursed by your Miasmic Plague. A creature makes this save only once per turn."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epidemic",
+      "source": "TCM",
+      "className": "Monk",
+      "classSource": "XPHB",
+      "subclassShortName": "Pestilent Haze",
+      "level": 17,
+      "entries": [
+        "Your plague has reached the height of its potency and its symptoms rapidly afflict your foes. Your Miasmic Plague ignores a target's Immunity to the Poisoned condition. Additionally, when you deal Necrotic damage to a target cursed by your Miasmic Plague, it takes extra Necrotic damage equal to one roll of your Martial Arts die."
+      ]
+    },
+    {
+      "name": "Castigate",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 3,
+      "entries": [
+        "As a Magic action, you can expend one use of your Channel Divinity to clap those you would bring to justice in fiery shackles. Choose a number of creatures up to your Charisma modifier (minimum of 1 creature) you can see within 30 feet of yourself. Each creature must succeed on a Strength saving throw or be wrapped in fiery shackles and have its Speed reduced to 0. As a Bonus Action, you can cause the shackles to flare. Each creature bound by the shackles takes 2d6 Fire damage. A shackled creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+      ]
+    },
+    {
+      "name": "Incite",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 3,
+      "entries": [
+        "As a Magic action, you can expend one use of your Channel Divinity to better seek out wickedness and corruption. For the next 10 minutes, you have Advantage on Intelligence (Investigation) and Wisdom (Insight) checks.",
+        "During that time, you can take a Bonus Action to choose a creature you can see within 10 feet of you. The target must succeed on a Charisma saving throw or have the Frightened condition for 1 minute. While the target is Frightened in this way, it can't speak a deliberate lie. The condition ends early if the target takes damage or if you use this Bonus Action again."
+      ]
+    },
+    {
+      "name": "Oath of Castigation Spells",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 3,
+      "entries": [
+        "The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Castigation Spells table, you thereafter always have the listed spells prepared.",
+        {
+          "type": "table",
+          "caption": "Oath of Castigation Spells",
+          "colLabels": [
+            "Paladin Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Divine Favor, Inflict Wounds"
+            ],
+            [
+              "5",
+              "Chain of Conviction, Hold Person"
+            ],
+            [
+              "9",
+              "Counterspell, Speak with Dead"
+            ],
+            [
+              "13",
+              "Consuming Pyre, Locate Creature"
+            ],
+            [
+              "17",
+              "Flame Strike, Hold Monster"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tenets of Castigation",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 3,
+      "entries": [
+        {
+          "type": "list",
+          "items": [
+            "Burn away all doubt in pursuit of duty.",
+            "Purge the wicked and corrupt; spare the innocent.",
+            "Sin is forgiven through suffering equal to the pain it inflicted."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wicked Nemeses",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 3,
+      "entries": [
+        "The Wicked Nemeses table offers examples of malefactors, villains, and other evil beings that you have rooted out and purged in the past, or perhaps one you're still hunting. Facing these nemeses may have put you on the path of purging wickedness wherever it lurks.",
+        {
+          "type": "table",
+          "caption": "Wicked Nemeses",
+          "colLabels": [
+            "1d12",
+            "Nemesis"
+          ],
+          "rows": [
+            [
+              "1",
+              "A rotting vampire noble who spreads a deadly plague through the command of countless vermin"
+            ],
+            [
+              "2",
+              "A brutal contract killer who sells their services to various cults and shadowy organizations"
+            ],
+            [
+              "3",
+              "A charismatic cult leader who lords over a remote island, making seasonal sacrifices of mortals to ensure a bountiful harvest each year"
+            ],
+            [
+              "4",
+              "An immensely intelligent flesh golem that killed its creator to pursue its own sinister work with strange science and gruesome experiments"
+            ],
+            [
+              "5",
+              "A bitterly envious hag of the woods who corrupts the youth of small villages and manipulates them to commit horrific atrocities"
+            ],
+            [
+              "6",
+              "A proud and vain heretic who gathers zealous followers after a bloody schism to initiate a brutal crusade in the name of their twisted beliefs"
+            ],
+            [
+              "7",
+              "A once‑renowned hunter now cursed with lycanthropy who has gone on bloody rampages"
+            ],
+            [
+              "8",
+              "A relentless necromancer who scours ancient ruins for forbidden magic to free their otherworldly master from an eldritch prison"
+            ],
+            [
+              "9",
+              "A strange amphibious creature that emerges from the depths to kidnap innocents and drag them below the water's surface for unknown purposes"
+            ],
+            [
+              "10",
+              "A brilliant doctor who has perfected a serum that transforms them into a hulking brute to commit a string of murders throughout a city"
+            ],
+            [
+              "11",
+              "A bloodthirsty revenant who was once a dark knight and now musters other Undead riders to bring about death and decay"
+            ],
+            [
+              "12",
+              "A tortured artist bearing a mask of comedy and tragedy who strives for their masterpiece through the mutilation of their victims' corpses"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kindling Aura",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 7,
+      "entries": [
+        "You and your allies within your Aura of Protection ignore creatures' Resistance to Fire and Radiant damage, and when an affected creature hits with a weapon attack, it can deal Fire damage instead of the weapon's normal damage type.",
+        "In addition, you and affected creatures in the aura can add your Charisma modifier (minimum of +1) to Intelligence (Investigation) and Wisdom (Insight) checks."
+      ]
+    },
+    {
+      "name": "Fervent Inquisitor",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 15,
+      "entries": [
+        "Whenever a creature damages you or one of your allies within 30 feet of you that you can see, you can take a Reaction to gain Advantage on your next attack roll against the creature that dealt the damage.",
+        "Additionally, whenever you deal Fire or Radiant damage to a Bloodied creature, you become aware of any lies the creature has willingly and knowingly spoken to you in the past 24 hours."
+      ]
+    },
+    {
+      "name": "Fire and Brimstone",
+      "source": "TCM",
+      "className": "Paladin",
+      "classSource": "XPHB",
+      "subclassShortName": "Castigation",
+      "level": 20,
+      "entries": [
+        "As a Bonus Action, you embody cleansing flame and gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+        {
+          "type": "list",
+          "items": [
+            "{@b Blazing Ardor}. You gain Immunity to Fire damage.",
+            "{@b Relentless Judgment}. Lashes of divine flame increase your reach by 10 feet, and your melee attacks ignore Half and Three‑Quarters Cover.",
+            "{@b Punish the Wicked}. When you hit a creature with an Opportunity Attack, or when a Hostile creature ends its turn within your reach, it must succeed on a Charisma saving throw or have the Prone condition and its Speed is reduced to 0 until the start of its next turn."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grim",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "level": 3,
+      "entries": [
+        "Use the {@creature Grim|TCM} stat block.",
+        {
+          "type": "list",
+          "items": [
+            "{@b AC} 13 plus your Wisdom modifier",
+            "{@b HP} 5 plus five times your Ranger level (the grim has a number of Hit Dice [d8s] equal to your Ranger level)",
+            "{@b Speed} 40 ft."
+          ]
+        },
+        {
+          "type": "table",
+          "colLabels": [
+            "STR",
+            "DEX",
+            "CON",
+            "INT",
+            "WIS",
+            "CHA"
+          ],
+          "rows": [
+            [
+              "18 (+4)",
+              "16 (+3)",
+              "14 (+2)",
+              "4 (−3)",
+              "14 (+2)",
+              "2 (−4)"
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            "{@b Damage Resistances} Necrotic",
+            "{@b Condition Immunities} Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained",
+            "{@b Senses} Darkvision 60 ft., Passive Perception 10",
+            "{@b Languages} Understands the languages you know",
+            "{@b CR} None (XP 0; PB equals your Proficiency Bonus)"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Traits",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Incorporeal Movement",
+              "entries": [
+                "The grim can move through other creatures and objects as if they were Difficult Terrain. The grim takes 1d10 Force damage if it ends its turn inside an object."
+              ]
+            },
+            {
+              "type": "entries",
+              "name": "Shared Fate",
+              "entries": [
+                "Add your Proficiency Bonus to any ability check or saving throw the grim makes."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Actions",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Ominous Rend",
+              "entries": [
+                "{@i Melee Attack Roll}: Bonus equals your spell attack modifier, reach 5 ft. {@i Hit}: 1d6 + 3 plus your Wisdom modifier Necrotic damage, and if the target is a creature, it has the Frightened condition until the start of your next turn."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reactions",
+          "entries": [
+            {
+              "type": "entries",
+              "name": "Baleful Howl",
+              "entries": [
+                "{@i Trigger}: A creature moves out of the grim's reach. {@i Response—Wisdom Saving Throw}: Your spell save DC, the triggering creature. {@i Failure}: The target's Speed is 0 until the end of the turn."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grim Harbinger Spells",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "level": 3,
+      "entries": [
+        "When you reach a Ranger level specified in the Grim Harbinger Spells table, you thereafter always have the listed spell prepared.",
+        {
+          "type": "table",
+          "caption": "Grim Harbinger Spells",
+          "colLabels": [
+            "Ranger Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Bane"
+            ],
+            [
+              "5",
+              "Hold Person"
+            ],
+            [
+              "9",
+              "Fear"
+            ],
+            [
+              "13",
+              "Intrusive Despair"
+            ],
+            [
+              "17",
+              "Dream"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Omen of Doom",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "level": 3,
+      "entries": [
+        "As a Bonus Action, you target a creature you can see within 90 feet of you and magically seal its doom for 1 hour. Once per turn when you hit the doomed target with an attack, it takes an extra 1d6 Necrotic damage.",
+        "In addition, a ghostly creature called the Grim appears in an unoccupied space within 30 feet of the target. Grims most often appear as black, spectral hounds, but you can choose an appearance appropriate to its stat block. The grim is Friendly to you and your allies, and it obeys your commands. It vanishes if you die, when the doomed creature dies, when it is reduced to 0 Hit Points, or when you use this feature again.",
+        "You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Short or Long Rest. You can also expend a spell slot to restore an expended use (no action required).",
+        {
+          "type": "entries",
+          "name": "The Grim in Combat",
+          "entries": [
+            "In combat, the grim acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also command it as part of the Bonus Action you take to use Omen of Doom, or you can sacrifice one of your attacks when you take the Attack action to command the grim to take the Ominous Rend action. If you have the Incapacitated condition, the grim acts on its own and is not limited to the Dodge action."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of Doom",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "level": 7,
+      "entries": [
+        "Your control over doom grows stronger, granting the following benefits.",
+        {
+          "type": "entries",
+          "name": "Graveyard Hunter",
+          "entries": [
+            "The grim's Ominous Rend action deals an extra 1d6 Necrotic damage on a hit."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Mortal Reminder",
+          "entries": [
+            "When you deal damage to a creature doomed by your Omen of Doom, you can change the damage type to Necrotic."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Mounting Dread",
+          "entries": [
+            "Necrotic damage dealt by you or the grim ignores Resistance."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grave Bond",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "level": 11,
+      "entries": [
+        "You draw deeper strength from the grave. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Ghastly Hound",
+          "entries": [
+            "The grim gains Resistance to Bludgeoning, Piercing, and Slashing damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Grave Fortitude",
+          "entries": [
+            "You gain Resistance to Necrotic damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Inescapable Fate",
+          "entries": [
+            "When the target of your Omen of Doom succeeds on a saving throw, you can take a Reaction to force the creature to reroll the save with Disadvantage and use the new roll. Once you cause a save to fail with this benefit, you can't use it again until the current Omen of Doom ends."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sealed Fate",
+      "source": "TCM",
+      "className": "Ranger",
+      "classSource": "XPHB",
+      "subclassShortName": "Grim Harbinger",
+      "level": 15,
+      "entries": [
+        "The strength of your Omen of Doom reaches its peak, granting the following benefits while it is active.",
+        {
+          "type": "entries",
+          "name": "Jaws of Doom",
+          "entries": [
+            "The grim's Ominous Rend action deals an extra 1d6 Necrotic damage (for a total of 2d6 extra damage)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Marked for Death",
+          "entries": [
+            "When you use Omen of Doom, you can force the target to make a Charisma saving throw against your spell save DC. On a failed save, until the current Omen of Doom ends, the target has Vulnerability to damage dealt by the grim and to the extra damage you deal with Omen of Doom. Once you use this benefit, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 4+ spell slot (no action required)."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Get Jinxed",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 3,
+      "entries": [
+        "You have learned the secret art of jinxcrafting—drawing magical power from the dark deeds and deals of sin. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Cards and Bones",
+          "entries": [
+            "You gain proficiency with two Gaming Sets of your choice (playing cards and dice recommended)."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Jinx Weapon",
+          "entries": [
+            "As a 1-hour ritual using a Gaming Set, you magically create a jinx weapon that channels your jinxcraft. This weapon takes the form of a Pistol or a Gaming Set (each uses Pistol game statistics). For you, the jinx weapon ignores the Loading property and creates its own ammunition that deals Force damage. In Gaming Set form, you throw cards, dice, or other Gaming Set pieces, or you use them to unleash bolts of hex magic. Alternatively, you can imbue jinxcraft into a Simple or Martial weapon you have proficiency with, turning it into your jinx weapon. The infused jinx weapon deals Force damage instead of its normal type. If you create a second jinx weapon, the first vanishes as the ritual ends."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Parlor Trick",
+          "entries": [
+            "You learn one of the following cantrips of your choice: Dancing Lights, Mage Hand, Minor Illusion, Mysterious Presence, or Prestidigitation. Charisma is your spellcasting ability for it."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hex Slinger",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 3,
+      "entries": [
+        "When you deal damage to a creature with your Sneak Attack, you can unleash the power of your jinxcraft. When you roll your Sneak Attack dice, designate two of the dice before the roll (such as rolling them separately or using different colored dice). The total rolled on these dice determines the effect of your jinxcraft as noted on the Hex Slinger Jinxes table. You can use this feature a number of times equal to your Charisma modifier (minimum of 1), and you regain all expended uses when you finish a Short Rest."
+      ]
+    },
+    {
+      "name": "Hex Slinger Jinxes",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 3,
+      "entries": [
+        {
+          "type": "table",
+          "caption": "Hex Slinger Jinxes",
+          "colLabels": [
+            "2d6",
+            "Jinx"
+          ],
+          "rows": [
+            [
+              "2",
+              "Snake Eyes. On the target's next turn, it can only do one of the following: move or take an action or a Bonus Action. If it targets you or your allies with an attack on that turn, it takes 2d6 Psychic damage."
+            ],
+            [
+              "3–4",
+              "The Nightmare. The target has the Frightened condition until the end of its next turn, and it must immediately take a Reaction to move as far as it can away from you, up to its Speed."
+            ],
+            [
+              "5–6",
+              "Whiskey Bottle. The target drops anything it's holding. Until the end of its next turn, when the target picks up an item, it must succeed on a DC 15 Dexterity saving throw or drop the item immediately."
+            ],
+            [
+              "7",
+              "Cheap Shot. Until the end of its next turn, the target's Speed is halved, and for that duration, attack rolls against it have Advantage."
+            ],
+            [
+              "8–9",
+              "Withered Arm. Until the end of its next turn, the target has Disadvantage on d20 Tests that rely on Strength."
+            ],
+            [
+              "10–11",
+              "Bad Luck. Until the end of its next turn, when the target makes an attack roll or a saving throw, it subtracts 1d6 from the total."
+            ],
+            [
+              "12",
+              "Dead Man. If the next attack roll you make before the end of your next turn misses, it hits instead. If that first attack roll hits, the attack is automatically a Critical Hit. If you roll a 20 on the d20, roll the attack's damage dice three times instead of twice."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jinx Weapon Forms",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 3,
+      "entries": [
+        "Sinners wield their jinxcraft through a wide variety of jinxed items that serve as magical weapons. The Jinx Weapon Forms table offers suggestions for how your jinx weapon might appear.",
+        {
+          "type": "table",
+          "caption": "Jinx Weapon Forms",
+          "colLabels": [
+            "1d4",
+            "Weapon Form"
+          ],
+          "rows": [
+            [
+              "1",
+              "A wooden, glyph-covered talisman carved into the shape of a pistol that fires magenta blasts"
+            ],
+            [
+              "2",
+              "A pair of bone dice that shoot ghastly green bursts of jinxcraft from their pips"
+            ],
+            [
+              "3",
+              "Enchanted playing cards that can be thrown with explosive magical power"
+            ],
+            [
+              "4",
+              "A lucky coin that launches toward foes when flipped and always returns"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Borrowed Luck",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 9,
+      "entries": [
+        "When you use Hex Slinger, you siphon away a sliver of the target's luck. You gain Heroic Inspiration if you don't already have it. If you do have it, you can expend your Heroic Inspiration instead of expending a use of Hex Slinger."
+      ]
+    },
+    {
+      "name": "Pick Your Poison",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 13,
+      "entries": [
+        "When you use Hex Slinger, you can roll the designated Sneak Attack dice twice and choose which total to use. If the roll you choose is the same number on both dice, the target takes Psychic damage equal to half your level. If the roll you choose is a 2 or a 12, you don't expend that use of Hex Slinger."
+      ]
+    },
+    {
+      "name": "The Other Side",
+      "source": "TCM",
+      "className": "Rogue",
+      "classSource": "XPHB",
+      "subclassShortName": "Sinner",
+      "level": 17,
+      "entries": [
+        "You can call on your otherworldly friends in low places to change the odds of anything you do in your favor. You gain the following benefits.",
+        {
+          "type": "entries",
+          "name": "Crossroads Devilry",
+          "entries": [
+            "When you miss with an attack roll or fail a saving throw, you can expend and roll any number of your Sneak Attack dice (choose the number before you roll) and add the total rolled to the attack or save, potentially turning a miss into a hit or failure into success. Expended dice return after you next use your Sneak Attack."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Lady Luck's Smiling",
+          "entries": [
+            "When a creature hits you with an attack roll, you can expend and roll any number of your Sneak Attack dice (choose the number before you roll) and add the total rolled to your AC against that attack, potentially causing the attack to miss. Expended dice return after you next use your Sneak Attack."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Well",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 3,
+      "entries": [
+        "You hold a reserve of vital energy called your Blood Well, which you can use to empower your magic and fuel other powers from this subclass. When you deal damage or restore Hit Points to a creature, you can expend your Blood Well to add 1d8 to the total for one target.",
+        "You regain your expended Blood Well when you finish a Long Rest or when a creature takes 10 or more Necrotic damage from you at one time."
+      ]
+    },
+    {
+      "name": "Crimson Origins",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 3,
+      "entries": [
+        "There are a variety of ways you might have come by your ability to harness your Crimson Sorcery to manipulate vitality and life essence. The Crimson Origins table offers suggestions of where your power comes from.",
+        {
+          "type": "table",
+          "caption": "Crimson Origins",
+          "colLabels": [
+            "1d6",
+            "Origin"
+          ],
+          "rows": [
+            [
+              "1",
+              "One of your parents was a vampire. Though you aren't one yourself, you inherited their hunger, and it drives your magic."
+            ],
+            [
+              "2",
+              "You studied blood rites at a monastery that infused your own blood with power."
+            ],
+            [
+              "3",
+              "You survived a vampire's bite, though it left you forever changed and awakened your sorcery."
+            ],
+            [
+              "4",
+              "Your family suffers under a generational curse that has reared its head with you, driving you to drain vital energy."
+            ],
+            [
+              "5",
+              "You studied the secrets of life and death, perhaps to save yourself or a loved one. In so doing, you unlocked the crimson power in your blood."
+            ],
+            [
+              "6",
+              "You died, and a cunning entity offered you a second chance at life. You accepted and awoke with crimson sorcery coursing through your veins."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Spells",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 3,
+      "entries": [
+        "When you reach a Sorcerer level specified in the Crimson Spells table, you thereafter always have the listed spells prepared.",
+        {
+          "type": "table",
+          "caption": "Crimson Spells",
+          "colLabels": [
+            "Sorcerer Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Aid, Blood Bolt, Cure Wounds, Inflict Wounds, Blood Sacrifice"
+            ],
+            [
+              "5",
+              "Crimson Harvest, Vampiric Touch"
+            ],
+            [
+              "7",
+              "Death Ward, Sacrificial Siphon"
+            ],
+            [
+              "9",
+              "Field of Reaping, Mass Cure Wounds"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Variant: Bloodless Crimson Sorcerers",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 3,
+      "entries": [
+        "If you're playing a character from a species that lacks blood in the traditional sense, you can still take the Crimson Sorcery subclass. The essence of Crimson Sorcery is lifeforce, or animating energy that approximates life."
+      ]
+    },
+    {
+      "name": "Pool of Blood",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 6,
+      "entries": [
+        "As a Bonus Action, you can expend your Blood Well to magically dissolve into a pool of blood, along with everything you're wearing or carrying, for 1 hour. The transformation ends early if you drop to 0 Hit Points or if you choose to end it (no action required). While you are a pool of blood, you use your game statistics with the following changes:",
+        {
+          "type": "list",
+          "items": [
+            "Your Speed becomes 10 feet.",
+            "You gain Climb and Swim Speeds equal to your Speed, and you can climb difficult surfaces, including ceilings, without needing to make an ability check.",
+            "You have Resistance to Bludgeoning, Piercing, and Slashing damage.",
+            "You have Immunity to the Prone condition.",
+            "You have Advantage on Strength, Dexterity, and Constitution saving throws.",
+            "You can pass through small holes, narrow openings, and even cracks.",
+            "You can enter and occupy the space of another creature.",
+            "You can't drop, use, or otherwise interact with anything you were carrying or holding.",
+            "You can't talk, manipulate objects, attack, or cast spells."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scarlet Vigor",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 6,
+      "entries": [
+        "You have Resistance to Necrotic damage. In addition, when you finish a Short Rest, you can expend your Blood Well to reduce your Exhaustion level, if any, by 1."
+      ]
+    },
+    {
+      "name": "Vital Siphoning",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 14,
+      "entries": [
+        "You can feed on your own life essence to fuel your magic. As a Bonus Action, you can expend a Hit Point Die and choose one of the following benefits.",
+        {
+          "type": "entries",
+          "name": "Blood Boil",
+          "entries": [
+            "You regain the use of your Blood Well."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crimson Pulse",
+          "entries": [
+            "Expend your Blood Well to make the next Metamagic option you use this turn cost no Sorcery Points."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sanguine Feast",
+      "source": "TCM",
+      "className": "Sorcerer",
+      "classSource": "XPHB",
+      "subclassShortName": "Crimson Sorcery",
+      "level": 18,
+      "entries": [
+        "Your hunger for vital essence is unquenchable. As a Magic action, you can unleash tendrils of blood that lash any creatures of your choice within 30 feet of you. A target must make a Constitution saving throw, taking 5d8 Necrotic damage on a failed save, or half as much damage on a successful one. If your Blood Well is already expended when you use this action, the targets have Disadvantage on the saving throw. If at least one creature takes damage from Sanguine Feast, you regain a number of Hit Points equal to the damage roll.",
+        "Once you use this feature, you can't do so again until you finish a Long Rest, unless you spend 5 Sorcery Points to use it again."
+      ]
+    },
+    {
+      "name": "Foolish Personas",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Great Fool",
+      "level": 3,
+      "entries": [
+        "Many Warlocks of the Great Fool adopt a signature aesthetic and performance style that best represents their folly. The Foolish Personas table offers archetypes of fools with suggestions for corresponding outfits and routines.",
+        {
+          "type": "table",
+          "caption": "Foolish Personas",
+          "colLabels": [
+            "1d6",
+            "Persona"
+          ],
+          "rows": [
+            [
+              "1",
+              "The Harlequin. An elegant outfit of diamond motley with a painted mask—performs dances, gives eloquent speeches, and plays tricks"
+            ],
+            [
+              "2",
+              "The Jester. A two-toned, checkered motley outfit with cap and bells—favors feats of acrobatics, tumbling, and juggling"
+            ],
+            [
+              "3",
+              "The Joker. A vibrant, colorful suit with wild hair and bowler hat—favors silly jokes, slapstick comedy, and clumsy self-deprecation"
+            ],
+            [
+              "4",
+              "The Mime. A striped, black-and-white shirt with a flat cap and red suspenders—pantomimes comical scenarios without speaking"
+            ],
+            [
+              "5",
+              "The Sad Clown. A monochromatic, one-piece outfit with pointed hat and puffball buttons—utilizes melodramatic melancholy and song"
+            ],
+            [
+              "6",
+              "The Tramp. A patch-covered coat, tattered scarf, scuffed shoes, and cigar—leverages sardonic wit, insults, and mocking observations"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great Fool Spells",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Great Fool",
+      "level": 3,
+      "entries": [
+        "The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Fool Spells table, you thereafter always have the listed spells prepared.",
+        {
+          "type": "table",
+          "caption": "Great Fool Spells",
+          "colLabels": [
+            "Warlock Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Disguise Self, Hideous Laughter, Rope Trick, Spiritual Weapon, Vicious Mockery"
+            ],
+            [
+              "5",
+              "Blink, Stinking Cloud"
+            ],
+            [
+              "7",
+              "Phantasmal Killer, Puppet Master"
+            ],
+            [
+              "9",
+              "Arcane Hand, Mislead"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Killing Joke",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Great Fool",
+      "level": 3,
+      "entries": [
+        "You see the humor in everything—especially in the end of things. When a creature you can see within 60 feet of you takes damage or fails a saving throw, you can take a Reaction to cast Vicious Mockery on that creature. You can use this Reaction a number of times equal to your Charisma modifier (minimum of once). You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Jester's Japes",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Great Fool",
+      "level": 6,
+      "entries": [
+        "By calling down an aspect of the Great Fool, you can curse your foes. As a Magic action, you target a creature you can see within 60 feet of you and force it to succeed on a Charisma saving throw against your spell save DC or suffer one of the following curses (your choice). Alternatively, when a creature within range targets you with an attack roll or a spell, you can take a Reaction to curse the creature with your choice of one of the curses below.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Flower Spurt}. You spray a strange liquid at the creature's eyes, giving it the Blinded condition.",
+            "{@b Clown Shoes}. The creature's feet or similar appendages grow to awkwardly exaggerated proportions. The creature's Speed is halved, and it has Disadvantage on ability checks and saving throws that rely on Dexterity.",
+            "{@b Honk Honk}. The creature emits sounds, such as chimes, or squeaks, that are audible out to 100 feet with every movement, no matter how slight. The creature can't benefit from the Invisible condition.",
+            "{@b Jolly Arms}. Any weapon or Unarmed Strike the creature attacks with, including natural weapons such as fangs and claws, takes on a comical appearance as if it were made of wood, stuffed cloth, or balloons. The target deals half damage with weapon attacks and Unarmed Strikes."
+          ]
+        },
+        "The curse lasts for 1 minute. The creature repeats the saving throw at the end of each of its turns, ending the curse on a success."
+      ]
+    },
+    {
+      "name": "Mocking Banter",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Great Fool",
+      "level": 10,
+      "entries": [
+        "Your witty and insulting japes become biting to the point of needling your foes' very psyche. When a creature damages you, you can take a Reaction to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes Psychic damage equal to the triggering damage you took, or half as much damage on a successful one. Once you use this Reaction, you can't use it again until you finish a Short or Long Rest."
+      ]
+    },
+    {
+      "name": "Send in the Clowns",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Great Fool",
+      "level": 14,
+      "entries": [
+        "You can call upon the laughing, jeering spirits of the followers of the Great Fool to strike down your foes. As a Magic action, you summon three ghostly fools. The fools are translucent and intangible, and they resemble clowns, jesters, or similar entertainers. Make up to three melee spell attacks against creatures within 60 feet of you. On a hit, a target takes 2d10 Psychic damage and has the Frightened condition until the end of its next turn, or the Prone condition (your choice). You can use your action on subsequent turns to repeat the attacks. The fools remain for 1 minute or until you have the Incapacitated condition or you die. Once you use this feature, you can't do so again until you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Horned King Spells",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "entries": [
+        "The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Horned King Spells table, you thereafter always have the listed spells prepared.",
+        {
+          "type": "table",
+          "caption": "Horned King Spells",
+          "colLabels": [
+            "Warlock Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Animal Friendship, Bane, Spike Growth, Suggestion"
+            ],
+            [
+              "5",
+              "Bestow Curse, Fly"
+            ],
+            [
+              "7",
+              "Phantasmal Killer, Polymorph"
+            ],
+            [
+              "9",
+              "Dominate Person, Scrying"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malediction",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "entries": [
+        "You can call upon the Horned King's malice to manipulate luck and fate. As a Magic action, you can curse a creature you can see within 60 feet of you until the end of its next turn. Alternatively, when a creature within range targets you with an attack roll or a spell, you can take a Reaction to curse the creature with your choice of one of the curses below. You can use this feature a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a Long Rest.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Agony}. The target has Disadvantage on its next attack roll or Constitution saving throw to maintain Concentration (your choice).",
+            "{@b Hate}. The target has Disadvantage on its next Intelligence, Wisdom, or Charisma saving throw.",
+            "{@b Rot}. The next time the target takes damage, it takes an extra 1d10 Necrotic damage, and it can't regain Hit Points until the end of its next turn.",
+            "{@b Enticement}. The target has the Charmed condition.",
+            "{@b Wickedness}. The target has Disadvantage on attack rolls and ability checks.",
+            "{@b Terror}. The target has the Frightened condition and must move away from you by the safest route during its turn unless there is nowhere to move."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Witch Mark",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "entries": [
+        "When you finish a Long Rest, you can imbue magic into a nonmagical Tiny object you're holding. Choose one of your prepared Warlock spells that has a casting time of an action. A creature holding the marked object can take a Magic action to cast the spell (using your Charisma modifier, spell attack bonus, or spell save DC). The mark fades when the spell is cast from it or when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Witchcraft Implements",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 3,
+      "entries": [
+        "Warlocks of the Horned King prefer particular implements in working their magic. The Witchcraft Implements table offers options for your favored reagents.",
+        {
+          "type": "table",
+          "caption": "Witchcraft Implements",
+          "colLabels": [
+            "1d6",
+            "Implements"
+          ],
+          "rows": [
+            [
+              "1",
+              "Candles made from tallow mixed with blood"
+            ],
+            [
+              "2",
+              "Dried bundles of herbs or mushrooms"
+            ],
+            [
+              "3",
+              "Skulls or long bones carved with glyphs"
+            ],
+            [
+              "4",
+              "Crushed berries or roots mixed into a paste"
+            ],
+            [
+              "5",
+              "Iron cauldron marked with symbols"
+            ],
+            [
+              "6",
+              "Curved blade for offering animal sacrifices"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spiteful Curse",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 6,
+      "entries": [
+        "When you cast Bestow Curse using this feature, you can cast it without expending a spell slot. When you cast the spell in this way, its range becomes 60 feet, and it lasts 1 minute with no Concentration required. If the target succeeds on its saving throw against the spell, your use of this feature isn't expended. You regain the ability to cast it this way when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Crown of Horns",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 10,
+      "entries": [
+        "As a Bonus Action, you can manifest the majestic might of the Horned King for 1 minute. For the duration, a visible mark appears on you—such as a crown made of horns surmounting your head, or you grow great antlers—and you gain the benefits listed below. Once you use this Bonus Action, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.",
+        {
+          "type": "entries",
+          "name": "Dark Heart",
+          "entries": [
+            "Once on each of your turns when you damage a creature, the target takes an extra 1d8 Necrotic damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "King of All",
+          "entries": [
+            "You radiate an aura of power in a 20-foot Emanation that originates from you. When you activate this feature, and at the start of each of your turns, you can choose a creature you can see in the aura. The target must succeed on a Charisma saving throw against your spell save DC or suffer one of the following effects of your choice until the start of your next turn:",
+            {
+              "type": "list",
+              "items": [
+                "{@b Enticement}. The target has the Charmed condition.",
+                "{@b Wickedness}. The target has Disadvantage on attack rolls and ability checks.",
+                "{@b Terror}. The target has the Frightened condition and must move away from you by the safest route during its turn unless there is nowhere to move."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gather the Coven",
+      "source": "TCM",
+      "className": "Warlock",
+      "classSource": "XPHB",
+      "subclassShortName": "Horned King",
+      "level": 14,
+      "entries": [
+        "You can now share the Horned King's power with those you deem worthy. You perform a 1-hour ritual, which can be done during a rest, forming a bond with up to six willing creatures that must remain within 10 feet of you during the ritual. You can end the bond for any number of the creatures (no action required), and the bond ends when you die. The bond grants the following benefits.",
+        {
+          "type": "entries",
+          "name": "Witchcraft",
+          "entries": [
+            "Choose one of the curses from your Malediction feature. The bonded creatures can now each use that Reaction option once, and they regain the ability to do so when they finish a Long Rest."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Fly By Night",
+          "entries": [
+            "As a Bonus Action, choose one of the bonded creatures. If you and the target are on the same plane of existence, you magically teleport to the nearest unoccupied space next to the creature. You can use this benefit once, and you regain the ability to do so when you finish a Short or Long Rest. If you have your Crown of Horns feature active when you use this Bonus Action, the use isn't expended."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Hand of the King",
+          "entries": [
+            "While your Crown of Horns feature is active, the first time a bonded creature damages another creature during its turn, the target takes an extra 1d10 Necrotic damage."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Forbidden Knowledge",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Occultist",
+      "level": 3,
+      "entries": [
+        "In your study of proscribed power, you learn Deep Speech or another language of your choice.",
+        "In addition, choose a level 1 spell from the Warlock spell list. You always have it prepared. You can change your chosen spell when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Intrusion",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Occultist",
+      "level": 3,
+      "entries": [
+        "Your search into forbidden reaches beyond the universe yields great power but comes at the risk of letting something from beyond intrude into your reality. You have an Intrusion Die, which starts at a d6, that can change as you use your features. The die can increase or decrease, along this progression of sizes: d2, d3, d4, d6, d8, d10, d12.",
+        "The size maximum for your Intrusion Die is its starting size, which increases by one step when you reach Wizard levels 5 (d8), 11 (d10), and 17 (d12).",
+        "When you use a feature that risks Intrusion, roll your Intrusion Die. On a 2 or higher, no Intrusion occurs, and the Intrusion die reduces in size one step on the progression. On a roll of 1, the Intrusion Die rises in size one step, and you roll on the Intrusion table to determine what happens as reality fractures. Intrusions use your spell save DC.",
+        "The Intrusion Die increases in size by one step (up to its starting size) when you finish a Short Rest, and it resets to its starting size when you finish a Long Rest.",
+        "Additionally, you can focus alien potency into your spells. When you cast a spell using a spell slot, you can risk Intrusion to choose one of the following.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Overwhelming Mind}. One target of the spell has Disadvantage on the first saving throw made against it.",
+            "{@b Seeking Eye}. You have Advantage on the first attack roll you make for the spell."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intrusion Table",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Occultist",
+      "level": 3,
+      "entries": [
+        "Roll on the Intrusion table when instructed by your features.",
+        {
+          "type": "table",
+          "caption": "Intrusion",
+          "colLabels": [
+            "1d12",
+            "Effect"
+          ],
+          "rows": [
+            [
+              "1",
+              "You feel a presence behind you that whispers incomprehensible things into your soul. Until the end of your next turn, you can only do one of the following on a turn: take an action, a Bonus Action, or move."
+            ],
+            [
+              "2",
+              "Space twists and melts in a 30-foot Emanation around you. Each creature (including you) in the area struggles against the warping of reality. An affected creature's Speed is halved until the end of your next turn."
+            ],
+            [
+              "3",
+              "The nearest other creature within 60 feet of you must succeed on a Constitution saving throw or take Necrotic damage equal to two rolls of your Intrusion Die (at its starting size), and you regain a number of Hit Points equal to the damage dealt."
+            ],
+            [
+              "4",
+              "Reality tears in your space until the end of your next turn. You and each creature that can see the tear must succeed on a Wisdom saving throw or have the Frightened condition while the tear exists."
+            ],
+            [
+              "5",
+              "One of your arms warps into an alien appendage, such as a distorted version of an arm or a twisting tentacle, for 1 minute. You can make Unarmed Strikes with the limb using your spell attack bonus. Instead of the normal damage, roll a number of your Intrusion dice (at its starting size) equal to your Proficiency Bonus. The target takes Acid damage equal to the total rolled."
+            ],
+            [
+              "6",
+              "Alien landscapes overlay your vision, giving you the Blinded condition until the end of your next turn."
+            ],
+            [
+              "7",
+              "Unnatural thoughts disorient you, giving you the Incapacitated condition until the end of your next turn."
+            ],
+            [
+              "8",
+              "You experience an instant of terrible clarity. You take Psychic damage equal to two rolls of your Intrusion Die (at its starting size), and for 1 minute, your spell save DC is increased by 2."
+            ],
+            [
+              "9",
+              "You regain an expended spell slot of level 5 or lower (your choice), and you take Necrotic damage equal to twice the slot's level. This damage can't be reduced or prevented in any way."
+            ],
+            [
+              "10",
+              "When you cause this Intrusion and at the end of each of your turns for 1 minute, pulses in the fabric of space fill a 15-foot Emanation originating from you, giving you and each creature in it the Prone condition."
+            ],
+            [
+              "11",
+              "For 1 hour, you hear whispered, disembodied thoughts of hateful scorn directed at you. While you can hear the whispers, you have Disadvantage on ability checks and saving throws that rely on Wisdom."
+            ],
+            [
+              "12",
+              "An Aberration or a Fiend with a CR equal to your Wizard level or lower (GM's choice) appears in an unoccupied space within 30 feet of you. The GM decides the creature's attitude (Hostile/Indifferent/Friendly) and actions."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reality Tear",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Occultist",
+      "level": 6,
+      "entries": [
+        "Choose a spell of level 3 or lower from the Warlock spell list. You always have the spell prepared. You can change your chosen spell when you finish a Long Rest. When you cast the spell, you can risk Intrusion to remove the need to Concentrate on it, and the spell ends after 1 minute or its normal duration, whichever is shorter.",
+        "Additionally, you can cause an automatic Intrusion (and increase the die's size one step, up to its starting size) to cast the spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Occult Presence",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Occultist",
+      "level": 10,
+      "entries": [
+        "When you cause an Intrusion, you can roll twice on the Intrusion table and choose which result to use, and you can negate the Intrusion by gaining 1 Exhaustion level.",
+        "Additionally, you gain one of the benefits below, and you can change your chosen benefit when you finish a Long Rest. As a Bonus Action, you can cause an automatic Intrusion (and increase the die's size one step, up to its starting size) to change your chosen benefit.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Alien Consciousness}. You gain Immunity to the Charmed and Frightened conditions, and you can't be possessed.",
+            "{@b Cosmic Resistance}. You gain Resistance to Necrotic and Psychic damage.",
+            "{@b Spatial Domination}. You gain a Fly Speed equal to your Speed and can hover."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beyond Space",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Occultist",
+      "level": 14,
+      "entries": [
+        "The nature of distance and location is revealed for the lie that it is. You always have the Scrying spell prepared. When you cast Scrying, you can risk Intrusion to choose one of the following.",
+        {
+          "type": "list",
+          "items": [
+            "{@b All Knowing}. Treat your connection to a target creature as if you have part of its body.",
+            "{@b All Seeing}. Cast the spell as an action instead of its normal casting time."
+          ]
+        },
+        "When you cast Scrying, during the spell's duration, you can cause an automatic Intrusion (and increase the die's size one step, up to its starting size) to teleport yourself, and any willing creatures within 10 feet of you, to unoccupied spaces you can see through the scrying sensor. Once you teleport in this way, you can't do so again until you finish a Long Rest."
+      ]
+    },
+    {
+      "name": "Alchemical Knowledge",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Philosopher",
+      "level": 3,
+      "entries": [
+        "You gain a set of Alchemist's Supplies. You have proficiency with it and can use it as an Arcane Focus. Additionally, you can use Alchemist's Supplies instead of the normal tool to craft a magic item."
+      ]
+    },
+    {
+      "name": "Philosophical Pursuits",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Philosopher",
+      "level": 3,
+      "entries": [
+        "Every Wizard who walks the steps of the Philosopher does so to solve some specific problem, even if only at first. The Philosophical Pursuits table offers challenges or goals that set you onto your study of alchemical magic.",
+        {
+          "type": "table",
+          "caption": "Philosophical Pursuits",
+          "colLabels": [
+            "1d12",
+            "Guiding Goal"
+          ],
+          "rows": [
+            [
+              "1",
+              "Someone close to you is lost in time, the planes, or some other esoteric state of being. Unraveling the nature of reality is your path to finding them."
+            ],
+            [
+              "2",
+              "You suffered a debilitating ailment or injury and turned to the study of magic to deconstruct the impairment's nature and transmute it."
+            ],
+            [
+              "3",
+              "Your teacher was killed by a rival Philosopher, and you must learn all you can of that discipline to protect yourself and bring them to justice."
+            ],
+            [
+              "4",
+              "The rediscovered research of a missing mage unlocked the first secrets of your understanding but contains many more you can't yet decipher."
+            ],
+            [
+              "5",
+              "Wizardry provides a path to immense power, but you know an even greater step forward lies in your ascension."
+            ],
+            [
+              "6",
+              "You encountered a material with miraculous properties, and you can't rest until you discover the secret of its creation."
+            ],
+            [
+              "7",
+              "Your sibling's soul was separated from their body in a spell gone wrong, and you cannot forgive yourself until you make them whole."
+            ],
+            [
+              "8",
+              "You were a stage performer who wowed audiences with magical acts, and you seek the ultimate magic trick to become a legend."
+            ],
+            [
+              "9",
+              "You come from an impoverished hometown and wish to utilize the transmutation of metals to bring prosperity to your community."
+            ],
+            [
+              "10",
+              "In your pursuit to be closer to the gods, you have sought the secrets of creating new life forms in your own image."
+            ],
+            [
+              "11",
+              "You were raised to revere the four elements, and you hypothesized that mastering the stuff of existence will bring harmony to them all."
+            ],
+            [
+              "12",
+              "You had aspirations of joining the military and rising through the ranks, believing that the magic of reality can be used as a weapon of war."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quintessence",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Philosopher",
+      "level": 3,
+      "entries": [
+        "You have learned the fundamental process of dissolution. You know the Dissolution cantrip. A creature or object you reduce to 0 Hit Points with the cantrip is destroyed. If the target was Small or larger, it dissolves into a measure (1 ounce) of crystalline powder called Quintessence. You can have a maximum amount of Quintessence equal to twice your Intelligence modifier at one time (minimum of 2 measures). If you create more, the oldest measure vanishes.",
+        "You can use Quintessence you are touching in the following ways.",
+        {
+          "type": "entries",
+          "name": "Material Component",
+          "entries": [
+            "When you cast a spell, you can expend Quintessence to serve as the spell's Material components up to a value of 100 GP per Quintessence expended."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reagent",
+          "entries": [
+            "When you scribe a spell into your spellbook, or when you use Alchemist's Supplies to craft a magic item, you can expend Quintessence to serve as 50 GP worth of material for the task per Quintessence expended."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Vitriolic Enhancement",
+          "entries": [
+            "When you cast a spell that deals damage, you can expend 1 Quintessence as an additional Material component to change one damage type the spell deals to Force."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albedo",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Philosopher",
+      "level": 6,
+      "entries": [
+        "You can purify your Quintessence to amplify your spells. When you cast a spell using a spell slot, you can expend 1 Quintessence as a Material component to increase the level of the spell slot by 1, up to level 9. The maximum Quintessence you can expend in this way on a given spell is half of your Proficiency Bonus (rounded up)."
+      ]
+    },
+    {
+      "name": "Citrinitas",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Philosopher",
+      "level": 10,
+      "entries": [
+        "You can now manipulate Quintessence to create, not merely to purify. You always have the Creation and Fabricate spells prepared, and you can cast each spell once without expending a spell slot, regaining the ability to do so when you finish a Long Rest. When you cast a spell using this feature, you can cast the spell as an action rather than its normal casting time. You can also cast the spells normally using spell slots of the appropriate level.",
+        "Additionally, when you cast Creation, you can expend a number of Quintessence up to your Intelligence modifier (minimum of 1) to multiply the spell's duration by 1 plus the amount expended."
+      ]
+    },
+    {
+      "name": "Rubedo",
+      "source": "TCM",
+      "className": "Wizard",
+      "classSource": "XPHB",
+      "subclassShortName": "Philosopher",
+      "level": 14,
+      "entries": [
+        "The culmination of your great work, you can now distill your perfected knowledge of existence into a physical form. When you finish a Short or Long Rest, you can expend 10 Quintessence to create a philosopher's stone—a translucent red crystal. The stone is a Tiny magical object with AC 19, HP 20, and Immunity to all damage except Force. If you create a second philosopher's stone, the first one vanishes. While you carry the stone, it grants you the following benefits.",
+        {
+          "type": "list",
+          "items": [
+            "{@b Amplification}. When you cast a spell, you can expend up to 2 Quintessence as an additional Material component to increase your spell save DC for that spell by the same amount.",
+            "{@b Equivalent Exchange}. When you fail a saving throw, you can take a Reaction to expend 5 Quintessence to succeed on the save instead.",
+            "{@b Longevity}. You stop aging and don't suffer any effects from old age, including dying from it.",
+            "{@b Sympathy}. The stone counts as part of your body for the purpose of the Scrying spell and for spells that restore you to life if you die. The stone itself serves as the Material component for the spell (if any) and is destroyed when the spell is cast."
+          ]
+        }
+      ]
+    }
+  ]
+}

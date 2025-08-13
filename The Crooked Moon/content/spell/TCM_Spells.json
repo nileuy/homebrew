@@ -1,0 +1,1825 @@
+{
+  "spell": [
+    {
+      "name": "Ancestral Communion",
+      "source": "TCM",
+      "page": 75,
+      "level": 1,
+      "school": "D",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You invoke the wisdom of your ancestors to gain insight into your trials. When you cast the spell, and at the start of each of your turns for the duration, you gain Heroic Inspiration if you don’t already have it."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blood Bolt",
+      "source": "TCM",
+      "page": 75,
+      "level": 0,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 90
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "You hurl a twisting bolt of blood at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 Necrotic damage, and you gain a number of Temporary Hit Points equal to your Proficiency Bonus. Cantrip Upgrade. The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      },
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Cantrip Upgrade",
+          "entries": [
+            "The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6)."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Sacrifice",
+      "source": "TCM",
+      "page": 75,
+      "level": 2,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a drop of your own blood"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          }
+        }
+      ],
+      "entries": [
+        "You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 1d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 1d6 damage of the same type as the spell’s normal damage type (your choice if there are multiple)."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage you take and the extra damage your spells deal both increase by 1d6 for each spell slot level above 2."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Buried Alive",
+      "source": "TCM",
+      "page": 75,
+      "level": 4,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a pinch of grave dirt"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "You send your enemies to their graves even if they aren’t dead yet. A creature that you can see within range that is standing on the ground must make a Strength saving throw. On a failed save, the ground opens and swallows the target, burying it up to 10 feet deep. While buried, the target has Total Cover, has the Restrained and Blinded conditions, and can’t breathe. On a successful save, the target has the Prone condition, and its Speed is 0 until the end of its next turn. A buried creature can dig out of the grave by using its action to make a DC 15 Strength (Athletics) check. On a success, it digs 5 feet closer to the surface. If it succeeds by 5 or more, it reaches the surface. When the creature reaches the surface, it exits the ground with the Prone condition. The target automatically succeeds on its saving throw if it’s standing on any thickness of stone or metal, or at least 2 inches of wood."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Call Of The Wild",
+      "source": "TCM",
+      "page": 75,
+      "level": 4,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a bit of animal fur or hide"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You unleash a primal howl that calls lesser creatures to your command. Each Beast in a 100-foot Emanation originating from you when you cast the spell must make a Wisdom saving throw. On a failed save, a target has the Charmed condition, it can understand your commands, and it follows them on its next turn to the best of its ability. On your subsequent turns, you can take a Magic action to issue a new command. On a successful save, a target has the Charmed condition until the start of your next turn, but you have no additional ability to command it. The howl is audible within 300 feet."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Captivate Undead",
+      "source": "TCM",
+      "page": 76,
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a pinch of bone dust"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hour",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You usurp the negative energy animating an Undead creature that you can see within range, attempting to take control of it. The target must make a Charisma saving throw. On a failed save, for the duration, the target has the Charmed condition (ignoring any Immunity to that condition), and it is Friendly toward you. On a successful save, the target has Disadvantage on the next attack roll it makes against you before the start of your next turn. If you or any of your allies damage the target or force it to make a saving throw, the spell ends."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "You can target one additional creature for each spell slot level above 1."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chain Of Conviction",
+      "source": "TCM",
+      "page": 76,
+      "level": 2,
+      "school": "C",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 30
+        }
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          }
+        }
+      ],
+      "entries": [
+        "You hurl a spectral, barbed chain at a creature that you can see within range. The target makes a Strength saving throw. On a failed save, the target takes 2d6 Force damage, is pulled up to 30 feet toward you, and is bound by the chain. While bound by the chain, the creature is tethered to you and can’t move or teleport to a space more than 30 feet away from you, and you have Advantage on attack rolls made against the creature. On a successful save, the target takes half as much damage only. The bound target repeats the save at the end of each of its turns, ending the spell on itself on a success. If you are ever more than 30 feet away from the target, the spell ends."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d6 for each spell slot level above 2."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Paladin",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chorus Of The Lost",
+      "source": "TCM",
+      "page": 76,
+      "level": 2,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a silver bell worth 10+ GP"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You summon the eerie song and wailing of lost souls from a point you can see within range. Each creature in a 15-foot-radius Sphere centered there must make a Wisdom saving throw. On a failed save, the target takes 2d6 Psychic damage, and it has the Frightened condition for the duration. On a successful save, it takes half as much damage, and it has the Frightened condition until the end of its next turn. A Frightened target repeats the save at the end of each of its turns, ending the spell on itself on a success."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d6 for each spell slot level above 2."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Consuming Pyre",
+      "source": "TCM",
+      "page": 76,
+      "level": 4,
+      "school": "EV",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 90
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You cause a creature that you can see within range to burst into consuming, relentless flames. The target must make a Dexterity saving throw. On a failed save, the target takes 2d8 Fire damage and 2d8 Necrotic or Radiant damage (choose when you cast the spell), and the radiant flames linger. On a successful save, it takes half as much damage only. While the flames linger, the creature takes the damage again at the start of each of its turns. The target, or another creature within reach of the target, can take an action to allow the target to repeat the saving throw, ending the spell on a success. A creature killed by the damage from this spell is reduced to ash, along with any nonmagical equipment it is wearing or carrying."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Creeping Rot",
+      "source": "TCM",
+      "page": 77,
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 90
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          }
+        }
+      ],
+      "entries": [
+        "Warlock, Wizard) You send tendrils of black and gray rot toward a target that you can see within range. Three tendrils then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or a nonmagical plant that isn’t a creature, such as a tree or shrub. In either case, each can be targeted by only one of the tendrils. A target that is a creature must make a Constitution saving throw. On a failed save, it takes 3d8 Necrotic damage and has the Poisoned condition for the duration. On a successful save, it takes half as much damage only. A creature Poisoned in this way takes 1d8 Necrotic damage at the start of each of its turns. A Poisoned creature repeats the save at the end of each of its turns, ending the spell on itself on a success. A Plant creature automatically fails the initial save, and a nonmagical plant that isn’t a creature simply withers and dies."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "One additional tendril leaps from the first target to another target for each spell slot level above 3."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Harvest",
+      "source": "TCM",
+      "page": 77,
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a vial of blood"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "A wave of blood sweeps out from you in a 15-foot Emanation. Each creature of your choice in the wave must make a Dexterity saving throw, taking 3d10 Necrotic damage on a failed save, or half as much damage on a successful one. If you damage at least one Small or larger creature, one creature of your choice that you can see within the Emanation regains a number of Hit Points equal to half the damage roll."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d10 for each spell slot level above 3."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crooked Ward",
+      "source": "TCM",
+      "page": 77,
+      "level": 3,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "touch"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a five-pointed wicker star"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You touch an immobile surface and mark a symbol that causes agony in twisted creatures. An Invisible, 30-foot- radius Sphere springs out from the point you touch. Each Aberration, Fey, Fiend, Monstrosity, or Undead in the Sphere has Disadvantage on ability checks and attack rolls. When an affected creature enters the Sphere for the first time on a turn or starts its turn there, it must succeed on a Wisdom saving throw or have the Frightened condition until the start of its next turn."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "You can maintain Concentration on this spell for longer if you cast it using a spell slot of level 4 (up to 1 hour) or 5 (up to 8 hours). If you use a level 6+ spell slot, the spell doesn't require Concentration, and the duration becomes 24 hours."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Culling Sickle",
+      "source": "TCM",
+      "page": 77,
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You create a ghostly sickle that lasts for the duration and can strike out at your foes. The sickle appears hovering in your space and moves with you. When you cast this spell and as a Bonus Action on each of your turns, you can direct it to fly at and strike a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 2d8 Necrotic damage, and you gain Temporary Hit Points equal to half the damage dealt. After the sickle hits or misses, it returns to hover in your space."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d8 for each spell slot level above 3."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cursed Cacophony",
+      "source": "TCM",
+      "page": 78,
+      "level": 3,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "special",
+        "text": "Special"
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": {
+          "text": "a sheet of music"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You focus on a creature that you are familiar with that is on the same plane of existence as you. The target must succeed on a Wisdom saving throw or be cursed for the duration. Once a target fails its saving throw against this spell, you can't target it with a ritual casting of the spell for 24 hours. While cursed, the target hears haunting, discordant music and has Disadvantage on D20 Tests. The first time the target fails a D20 Test during a turn, it repeats the save against this spell with neither Advantage nor Disadvantage, ending the spell early on a success."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Devil's Due",
+      "source": "TCM",
+      "page": 78,
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 30
+        }
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": {
+          "text": "a glob of pitch"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "creature within range takes damage You absorb a measure of a creature's suffering and escaping vital essence. Expend and roll one Hit Point Die. You regain a number of Hit Points equal to the number rolled plus your spellcasting ability modifier. If the creature took damage from a Critical Hit, double the number of Hit Points you regain."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "You can expend one additional Hit Point Die for each spell slot level above 1."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dissolution",
+      "source": "TCM",
+      "page": 78,
+      "level": 0,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "touch"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "You touch a creature or nonmagical object and break the target’s substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn. Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8)."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Eye Burn",
+      "source": "TCM",
+      "page": 78,
+      "level": 0,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 30
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a smear of camphor"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "round",
+            "amount": 1
+          }
+        }
+      ],
+      "entries": [
+        "you can see within range targets you with an attack You sting the eyes of a creature attacking you. The target must make a Constitution saving throw (a creature with Blindsight or Immunity to the Blinded condition succeeds automatically). On a failed save, the target has the Blinded condition until the end of the turn. On a successful save, it must subtract 1d4 from the triggering attack roll. The target automatically succeeds on its saves against your subsequent casting of this spell for 24 hours."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Field of Reaping",
+      "source": "TCM",
+      "page": 78,
+      "level": 5,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 90
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a dried corn husk or wheat hull"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You create a shadowy field that reaps escaping life force in a 30-foot Cube originating from a point within range. A creature Hostile to you in the field when it appears, or when it enters the field for the first time on a turn or ends its turn there, is cursed until the end of its next turn. While cursed, the first time the creature takes damage during a turn, it takes an extra 1d6 Necrotic damage, and a creature of your choice within the field that isn’t cursed by it regains a number of Hit Points equal to the Necrotic damage taken."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d6 for each spell slot level above 5."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ghastly Charge",
+      "source": "TCM",
+      "page": 79,
+      "level": 6,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a scrap of a banner"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "You call forth the spirits of long-dead knights, which charge forward from you in a 90-foot long, 20-foot wide Line, and then vanish. Each creature of your choice in the Line must make a Wisdom saving throw. On a failed save, a target takes 5d12 Necrotic damage, has the Frightened condition until the start of your next turn, and must immediately use its Reaction, if available, to move as far from you as it can, using the safest route. On a successful save, the creature takes half as much damage only."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d12 for each spell slot level above 6."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harvest Moonglow",
+      "source": "TCM",
+      "page": 79,
+      "level": 3,
+      "school": "EV",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a piece of moonstone"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hour",
+            "amount": 1
+          }
+        }
+      ],
+      "entries": [
+        "You call upon the light of the harvest moon to illuminate a 20-foot-radius Sphere centered on a point within range. The area is bathed in silvery Dim Light. Creatures and objects with the Invisible condition in the light become visible as translucent, shimmering images. When one of your allies is within the light, it can use a Bonus Action to absorb some of the light and gain 2d6 Temporary Hit Points."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The Temporary Hit Points increase by 1d6 for each spell slot level above 3."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Harrowing Ballad",
+      "source": "TCM",
+      "page": 79,
+      "level": 2,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 120
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You inflict a mind-eroding song on a creature that you can see within range. If the creature has an Intelligence of 4 or higher, it must succeed on an Intelligence saving throw or have the Charmed condition for the duration. While Charmed in this way, the target is struck with a rapidly repeating ballad that only it can hear; it takes 1d6 Psychic damage at the start of each of its turns, and it has Disadvantage on Wisdom (Perception) checks and on Constitution saving throws made to maintain its Concentration. The target repeats the save at the end of each of its turns, ending the spell on a success."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d6 for each spell slot level above 2."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hungering Blade",
+      "source": "TCM",
+      "page": 79,
+      "level": 1,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          }
+        }
+      ],
+      "entries": [
+        "You imbue a weapon you are holding, or your Unarmed Strikes, with ravenous negative energy. For the duration, when you hit a creature with an attack using the empowered weapon or Unarmed Strike for the first time on a turn, the target takes Necrotic damage equal to your spellcasting ability modifier, and you gain a number of Temporary Hit Points equal to the Necrotic damage dealt."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Paladin",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Intrusive Despair",
+      "source": "TCM",
+      "page": 79,
+      "level": 4,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 90
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a devil’s trumpet blossom"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You curse a creature within range, filling its mind with creeping paranoia and despair. When the target takes the Attack or Magic action, it must succeed on a Wisdom saving throw or waste its action. Once the target succeeds on three saving throws against this spell, the spell ends."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Isolation",
+      "source": "TCM",
+      "page": 80,
+      "level": 3,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 120
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a small metal cube"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "One creature that you can see within range must succeed on a Wisdom saving throw or have its mind shrouded in the dread of total isolation. For the duration, all other creatures have the Invisible condition toward the target, which the target can’t see through—even with Blindsight, Truesight, or magic such as the See Invisibility spell—and the target can’t perceive other creatures with any of its other senses. The target moves around other creatures, or otherwise rationalizes not moving through spaces occupied by them (such as perceiving a door as closed or as a wall if another creature is standing in the way). The target still feels pain but can’t identify the source of any injury caused by another creature. The target repeats the saving throw at the end of each of its turns, ending the spell on itself on a success."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lucky Charm",
+      "source": "TCM",
+      "page": 80,
+      "level": 5,
+      "school": "T",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "touch"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "hour",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "broken mirror) You touch a Tiny, nonmagical object, infusing it with a portion of your own luck for the duration. While another creature carries the object, that creature has Advantage on D20 Tests, and you have Disadvantage on D20 Tests."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Martyr",
+      "source": "TCM",
+      "page": 80,
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "touch"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a Dagger worth at least 1 CP"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "You touch a dead creature that died within the last minute and transfer your life essence into it. The target returns to life with Hit Points equal to your current Hit Point total. You immediately drop to 0 Hit Points (which nothing can prevent) with two failed Death Saving Throws, and you must immediately make a Death Save. You can’t regain Hit Points or become Stable until after you make this save."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mirrored Agony",
+      "source": "TCM",
+      "page": 80,
+      "level": 5,
+      "school": "A",
+      "time": [
+        {
+          "number": 1,
+          "unit": "reaction"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a pin or needle"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "you can see within 60 feet of you damages your ally The triggering creature makes a Wisdom saving throw. On a failed save, it takes an amount of Psychic damage equal to the damage it dealt to your ally. On a successful save, it takes half as much damage."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mist of Mourning",
+      "source": "TCM",
+      "page": 80,
+      "level": 3,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a vial of tears"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 10
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You summon a thin mist that saps joy and vigor in a 20-foot-radius Sphere centered on a point within range. Each creature in the mist when it appears, or when it moves into the mist for the first time on a turn or ends its turn there, must succeed on a Charisma saving throw or be filled with deep melancholy until the end of its next turn. An affected creature’s Speed is halved, it has Disadvantage on attack rolls, and it subtracts 1d8 from all its damage rolls."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Murder of Crows",
+      "source": "TCM",
+      "page": 81,
+      "level": 4,
+      "school": "C",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "self"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a crow feather"
+        }
+      },
+      "duration": [
+        {
+          "type": "instant"
+        }
+      ],
+      "entries": [
+        "You summon and unleash a murder of deadly crows. Each creature of your choice in a 30-foot Cone originating from you makes a Dexterity saving throw. On a failed save, the target takes 5d6 Force damage and has the Blinded condition. On a successful save, it takes half as much damage only. A Blinded creature repeats the save at the end of each of its turns, ending the effect on itself on a success. The effect also ends if the creature regains any Hit Points. The crows disperse and vanish after they strike."
+      ],
+      "entriesHigherLevel": [
+        {
+          "type": "entries",
+          "name": "Using a Higher-Level Spell Slot",
+          "entries": [
+            "The damage increases by 1d6 for each spell slot level above 4."
+          ]
+        }
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Ranger",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mysterious Presence",
+      "source": "TCM",
+      "page": 81,
+      "level": 0,
+      "school": "I",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "touch"
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You touch a willing creature and shroud its presence. Until the spell ends, other creatures must subtract 1d4 from any Wisdom (Insight or Perception) checks made against the target."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Druid",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Puppet Master",
+      "source": "TCM",
+      "page": 81,
+      "level": 4,
+      "school": "EN",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "feet",
+          "amount": 60
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true,
+        "m": {
+          "text": "a marionette string"
+        }
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. Magical marionette strings attach to the Charmed creature’s limbs or body, and it must use its action on its turn to make a melee attack against a creature other than itself that you mentally choose, moving to reach the target if necessary. The target can act normally on its turn if you don’t choose another creature, or if the creature isn’t within the target’s reach after it moves. The target repeats the save at the end of each of its turns, ending the spell on itself on a success. On your later turns, you must take a Bonus Action to maintain control of the target, or the spell ends."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Bard",
+            "source": "XPHB"
+          },
+          {
+            "name": "Sorcerer",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sacrificial Siphon",
+      "source": "TCM",
+      "page": 81,
+      "level": 4,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "action"
+        }
+      ],
+      "range": {
+        "type": "touch"
+      },
+      "components": {
+        "v": false,
+        "s": true,
+        "m": false
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "entries": [
+        "You touch another creature and lay a curse that drains the target’s vitality and transfers it to you. The target must make a Charisma saving throw. On a failed save, the target is cursed for the duration. While cursed, the target must subtract 1d4 from its attack rolls and ability checks, and when the target takes damage, you can take a Reaction to gain 10 Temporary Hit Points. On a successful save, you gain 5 Temporary Hit Points, and the target must subtract 1d4 from its ability checks until the start of your next turn."
+      ],
+      "classes": {
+        "fromClassList": [
+          {
+            "name": "Cleric",
+            "source": "XPHB"
+          },
+          {
+            "name": "Paladin",
+            "source": "XPHB"
+          },
+          {
+            "name": "Warlock",
+            "source": "XPHB"
+          },
+          {
+            "name": "Wizard",
+            "source": "XPHB"
+          }
+        ]
+      }
+    }
+  ]
+}

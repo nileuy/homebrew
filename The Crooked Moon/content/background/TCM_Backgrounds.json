@@ -1,1 +1,1883 @@
-
+{
+  "background": [
+    {
+      "name": "Amnesiac",
+      "source": "TCM",
+      "page": 49,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Memory Starved"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Book (personal notes), Choose A or B: Ink, Ink Pen, Traveler’s Clothes, 11 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scattered Memories",
+          "entries": [
+            "You don’t choose skill proficiencies or a tool proficiency when you select this background, and you don't determine the two languages that are part of your origin—these are parts of your past that you are missing.",
+            "Instead, you can pick one of those proficiencies or the languages during play at any time.",
+            "The knowledge might return in a spontaneous flash, even as you make a roll that relies on the proficiency, or slowly emerge as you struggle to solve a problem.",
+            "Once you choose one of these features, you can’t choose another one until you gain a level.",
+            "The GM might rule that you can choose a new recalled feature early if something reminds you of your past, such as finding a piece of evidence from your missing memories or experiencing an event similar to one you have forgotten.",
+            "Of particular value is an"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building An Amnesiac",
+          "entries": [
+            "Any character can face misfortune or a choice that steals their memory.",
+            "Consider how your character came to lose their memory.",
+            "Was it lost through injury or illness, or did something more sinister steal it with a toxin or curse?",
+            "You might decide to leave this choice up to the GM, letting you as a player discover the cause alongside your character."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Amnesiac — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "You have recurring dreams of someone you might recognize on your adventures."
+            ],
+            [
+              "2",
+              "You absent-mindedly doodle the same design or symbol over and over."
+            ],
+            [
+              "3",
+              "A friend has been traveling the provinces of Druskenvald with a caravan, searching for any hint of your past as they do."
+            ],
+            [
+              "4",
+              "A rhyme or song you’ve never heard before comes to mind when your thoughts wander."
+            ],
+            [
+              "5",
+              "Rainbow colors, such as those on a soap bubble or oil slick, fill you with unexplained terror."
+            ],
+            [
+              "6",
+              "You have a fragmented recollection of traveling to a remote place in the mountains."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Amnesiac Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Amnesiac — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "Half of a tarnished silver ring with a partial inscription in a language you don’t understand"
+            ],
+            [
+              "2",
+              "A music box that plays a sad tune you recognize but can’t identify"
+            ],
+            [
+              "3",
+              "A short note addressed to you signed with a name you don’t recognize"
+            ],
+            [
+              "4",
+              "A thin silk scarf with a fading scent that stirs familiarity"
+            ],
+            [
+              "5",
+              "A toy horse with unfamiliar initials inked on it"
+            ],
+            [
+              "6",
+              "A locket whose portrait is burnt and unrecognizable 49"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Aspirant",
+      "source": "TCM",
+      "page": 50,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Crimson Ritualist"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "C R I M S O N",
+          "entries": [
+            "You have delved into the forces that animate all life— even those that counterfeit life, such as Constructs and Undead.",
+            "Many of these studies concentrate on the nature of blood and its power to sustain life and transmit vital essence, binding the soul to the flesh.",
+            "You might have apprenticed under a sly-hearted mentor or a secret cabal focused on understanding or even manipulating life and death.",
+            "You may have learned from a detailed treatise that you’ve put into practice, daring to become versed in the forbidden arts."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Herbalism Kit, Dagger, Choose A or B: Fine Clothes, Healer’s Kit, 3 Vials, 10 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Crimson Aspirant",
+          "entries": [
+            "Characters who value study and learning, as well as those with a capacity to heal the injuries and illnesses of others, readily become crimson aspirants.",
+            "More physically inclined characters can be drawn to the teachings of blood to tap into their increased vital energies, as can those who are sickly or weak in hopes of overcoming that adversity."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Crimson Aspirant — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "Sometimes when you bleed, you hear whispers from your fallen blood that tease with meaning."
+            ],
+            [
+              "2",
+              "You were trained by a remote monastery, but your mentor ushered you out one morning in a panic and sent you away."
+            ],
+            [
+              "3",
+              "A plague carried in the blood defies cures, and you must find its origin."
+            ],
+            [
+              "4",
+              "Your mentor, who inducted you into the secrets held within life and blood, vanished suddenly."
+            ],
+            [
+              "5",
+              "Your studies reveal a spate of anemia cases, some ending in death, as the predations of blood-drinking monsters."
+            ],
+            [
+              "6",
+              "A loved one, such as a paramour or sibling, has died, and your studies hint at a way to bring them back."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crimson Aspirant Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Crimson Aspirant — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A glass pendant with a single drop of blood suspended within"
+            ],
+            [
+              "2",
+              "A long scroll with an anatomical study and description of how life energy flows through the body"
+            ],
+            [
+              "3",
+              "A handkerchief with a blood drop pressed into the center"
+            ],
+            [
+              "4",
+              "A polished bloodstone for balancing vital energy"
+            ],
+            [
+              "5",
+              "A vial of blood that never coagulates or dries"
+            ],
+            [
+              "6",
+              "A small box of ashes said to be from a martyr who was falsely accused of vampirism and burned at the stake"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Arcana}",
+        "{@skill Medicine}"
+      ],
+      "toolProficiencies": [
+        "Herbalism Kit"
+      ]
+    },
+    {
+      "name": "Crossroads Gambler",
+      "source": "TCM",
+      "page": 51,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Fate Gambler"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "C R O S S R O A D",
+          "entries": [
+            "You’ve made your bones on games of chance, and one day your games crossed the line into something far more serious.",
+            "You might have played for your soul against a Fiend, matched wits with ancient forest Fey in a riddle contest, or rolled dice with the fabled Mister Crossroads."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Gaming Set (same as Choose A or B: above), Caltrops, Fine Clothes, Fine Wine (bottle), 23 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Crossroads Gambler",
+          "entries": [
+            "Characters who live by their wits, such as Rogues and Bards, find the call of a crossroads gambler appealing, though anyone could find themselves in the position of playing for stakes higher than they could ever imagine.. or pay.",
+            "A spellcaster who conjured the wrong entity may find themself a gambler.",
+            "The desperate who sought out a mysterious figure to throw dice and match wits for power or salvation can find their fates bound to the crossroads.Suggested"
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Crossroads Gambler — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "Someone you thought was a friend tricked you into making your bargain."
+            ],
+            [
+              "2",
+              "You’ve found that if you go too long without making a wager, your luck starts to turn sour."
+            ],
+            [
+              "3",
+              "You only feel alive in the midst of a contest."
+            ],
+            [
+              "4",
+              "You lost your bet, and you’re on the run from the thing surely coming to collect."
+            ],
+            [
+              "5",
+              "Someone close to you made a wager and lost. You made your deal to try and find them."
+            ],
+            [
+              "6",
+              "You’ve been gambling for a long time, and you’re tired. Now all you want is a way out. backgroundS"
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Crossroads Gambler Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Crossroads Gambler — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A lucky coin made of a strange material, such as green steel or bone"
+            ],
+            [
+              "2",
+              "A battered, blood-stained six of hearts playing card"
+            ],
+            [
+              "3",
+              "A torn journal page of a long-missing gambler who was hopeful to win their fortune from a being they describe but fail to name"
+            ],
+            [
+              "4",
+              "The preserved foot of a rabbit, owl, or weasel"
+            ],
+            [
+              "5",
+              "A six-sided die that somehow seems to have too many 2s when closely examined"
+            ],
+            [
+              "6",
+              "A silver-plated ivory chess rook 51"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Deception}",
+        "{@skill Insight}"
+      ],
+      "toolProficiencies": [
+        "Choose one kind of Gaming Set"
+      ]
+    },
+    {
+      "name": "Cultist",
+      "source": "TCM",
+      "page": 52,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Cult Initiate"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} , Traveler’s Clothes, 10 GP; or (",
+                "{@bold B)} 50 GP Cultist Affinities Cult Patron Skill Language Aberration Perception Deep Speech Celestial Religion Celestial Fiend (Demon) Religion Abyssal Fiend (Devil) Religion Infernal Fey Nature Sylvan"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Cultist — Cultist Affinities",
+          "colLabels": [
+            "Cult Patron",
+            "Skill",
+            "Language"
+          ],
+          "rows": [
+            [
+              "Aberration",
+              "Perception",
+              "Deep Speech"
+            ],
+            [
+              "Celestial",
+              "Religion",
+              "Celestial"
+            ],
+            [
+              "Fiend (Demon)",
+              "Religion",
+              "Abyssal"
+            ],
+            [
+              "Fiend (Devil)",
+              "Religion",
+              "Infernal"
+            ],
+            [
+              "Fey",
+              "Nature",
+              "Sylvan"
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Cult Veneration",
+          "entries": [
+            "Cults propitiate beings of otherworldly power in hopes of sharing in that potency.",
+            "Choose what type of cult you joined, such as the following.",
+            "Alien creatures with inscrutable Aberration. mindsets and motivations.",
+            "Many originate from outside the known multiverse.",
+            "Beings of the Upper Planes, and paragons Celestial. of order or benevolence.",
+            "Many can be overbearing and uncompromising.Fiend Creatures of utter evil and (Demon). destruction that want to see all worlds and planes burn.",
+            "Beings of cunning wickedness who Fiend (Devil). prize structure and obedience.",
+            "They seek to subjugate others and condemn souls.",
+            "Capricious beings often associated with nature Fey. and emotional extremes.",
+            "They can be beautiful, terrible, intoxicating, and horrific. 52 I S T"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Cultist",
+          "entries": [
+            "Cultists are often lost souls—individuals severed from the fabric of society whose cult became a manipulative, surrogate family.",
+            "Consider if your character agrees with the aims of the cult, if they fled the group, or if they remain for infiltration purposes."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Cultist — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "You learned that the cult that took you in manipulated you throughout your life."
+            ],
+            [
+              "2",
+              "A member of your cult betrayed and killed your leader and mentor."
+            ],
+            [
+              "3",
+              "Your cult’s activities aroused the ire and superstition of locals, deserved or not."
+            ],
+            [
+              "4",
+              "You followed a loved one into joining the cult, trying to find out what happened to them."
+            ],
+            [
+              "5",
+              "You met someone who forced you to see the cult you always venerated in a different light."
+            ],
+            [
+              "6",
+              "You joined the cult to save yourself from an incurable illness or other certain doom."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Cultist Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Cultist — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A sealed scroll of esoteric knowledge"
+            ],
+            [
+              "2",
+              "A steel ball bearing etched over its entire surface with your cult’s sacred text"
+            ],
+            [
+              "3",
+              "A crystal that feels strange to the touch"
+            ],
+            [
+              "4",
+              "A ritual knife stained with blood, sap, or oils"
+            ],
+            [
+              "5",
+              "A set of copper tattoo needles An embroidered cloth half mask"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Arcana}"
+      ]
+    },
+    {
+      "name": "Druskenvald Dweller",
+      "source": "TCM",
+      "page": 53,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Choose one Origin feat"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "D R U S K E N V A L",
+          "entries": [
+            "You hail from one of the thirteen baneful provinces of Druskenvald.",
+            "You might be a member of the unique species known to originate from those diverse biomes, or you may be of a different heritage altogether.",
+            "The skills and culture of your home (summarized below) shape your knowledge and early experiences."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Artisan's Tools (same Choose A or B: as above), Map (Druskenvald’s provinces), Traveler’s Clothes, 10 GP; or (",
+                "{@bold B)} 50 GP Province Affinities Province Skill Tool Ardengloom History Herbalism Kit Astramar Arcana Navigator’s Tools Bubonia Medicine Poisoner’s Kit Chernabos Deception Calligrapher’s Supplies Edwardia Investigation Tinker’s Tools Enoch Nature Leatherworker’s Tools Kalero Performance Musical Instrument Olmarsh Arcana Cartographer’s Supplies Nerukhet Persuasion Weaver’s Tools Pholsense Religion Mason’s Tools Picco Performance Woodworker’s Tools Syndramas Athletics Cook’s Utensils Zulrogg Survival Herbalism Kit"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Druskenvald Dweller — Province Affinities",
+          "colLabels": [
+            "Province",
+            "Skill",
+            "Tool"
+          ],
+          "rows": [
+            [
+              "Ardengloom",
+              "History",
+              "Herbalism Kit"
+            ],
+            [
+              "Astramar",
+              "Arcana",
+              "Navigator’s Tools"
+            ],
+            [
+              "Bubonia",
+              "Medicine",
+              "Poisoner’s Kit"
+            ],
+            [
+              "Chernabos",
+              "Deception",
+              "Calligrapher’s Supplies"
+            ],
+            [
+              "Edwardia",
+              "Investigation",
+              "Tinker’s Tools"
+            ],
+            [
+              "Enoch",
+              "Nature",
+              "Leatherworker’s Tools"
+            ],
+            [
+              "Kalero",
+              "Performance",
+              "Musical Instrument"
+            ],
+            [
+              "Olmarsh",
+              "Arcana",
+              "Cartographer’s Supplies"
+            ],
+            [
+              "Nerukhet",
+              "Persuasion",
+              "Weaver’s Tools"
+            ],
+            [
+              "Pholsense",
+              "Religion",
+              "Mason’s Tools"
+            ],
+            [
+              "Picco",
+              "Performance",
+              "Woodworker’s Tools"
+            ],
+            [
+              "Syndramas",
+              "Athletics",
+              "Cook’s Utensils"
+            ],
+            [
+              "Zulrogg",
+              "Survival",
+              "Herbalism Kit"
+            ],
+            [
+              "BUILDING A",
+              "DRUSKENVALD",
+              "DWELLER"
+            ],
+            [
+              "Any sort of character",
+              "can",
+              "be a Druskenvald dweller."
+            ],
+            [
+              "When you make your",
+              "character,",
+              "decide if you belong"
+            ],
+            [
+              "to the species associated",
+              "with",
+              "your home province,"
+            ],
+            [
+              "or if you are of",
+              "another",
+              "kind who was raised outside"
+            ],
+            [
+              "",
+              "backgroundS",
+              ""
+            ],
+            [
+              "D D W E",
+              "L",
+              "L E R"
+            ],
+            [
+              "the home of most of",
+              "your",
+              "species. This decision itself"
+            ],
+            [
+              "may determine truths about",
+              "your",
+              "character to be"
+            ],
+            [
+              "experienced throughout your",
+              "journeys",
+              "in Druskenvald."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Druskenvald Dweller",
+          "entries": [
+            "Any sort of character can be a Druskenvald dweller.",
+            "When you make your character, decide if you belong to the species associated with your home province, or if you are of another kind who was raised outside backgroundS"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "D D W E L L E R",
+          "entries": [
+            "the home of most of your species.",
+            "This decision itself may determine truths about your character to be experienced throughout your journeys in Druskenvald."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Druskenvald Dweller — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "You were left on a church doorstep as an infant. The only clue to your origin is the torn cloak used as a blanket."
+            ],
+            [
+              "2",
+              "You fled your home province after being accused of a crime, whether justly or not."
+            ],
+            [
+              "3",
+              "After hearing stories of other provinces, you struck out to see more of Druskenvald."
+            ],
+            [
+              "4",
+              "Members of a trade caravan stole something or harmed someone dear to you."
+            ],
+            [
+              "5",
+              "You made a desperate pact with an ashborn and now seek to nullify the contract."
+            ],
+            [
+              "6",
+              "A vicious bogborn bounty hunter trails you."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Druskenvald Dweller Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Druskenvald Dweller — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A brass needle with a dangling bit of broken thread"
+            ],
+            [
+              "2",
+              "A dull, rusty sickle with a bone handle"
+            ],
+            [
+              "3",
+              "A star chart etched onto a crystal plate"
+            ],
+            [
+              "4",
+              "A wicker doll with bloodstained bead eyes"
+            ],
+            [
+              "5",
+              "A length of chain that sometimes rattles when left unattended"
+            ],
+            [
+              "6",
+              "A mummified hand preserved in bog peat 53"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Survival}"
+      ]
+    },
+    {
+      "name": "Experiment",
+      "source": "TCM",
+      "page": 54,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Altered"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Alchemist’s Supplies, Choose A or B: Manacles, Perfume (to cover chemical smell), Traveler’s Clothes (with hooded cloak), 5 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building An Experiment",
+          "entries": [
+            "An experiment can come from any class or walk of life.",
+            "Were you kidnapped and altered against your will, or did you volunteer for a heinous procedure?",
+            "Was the experimenting done purely for discovery, to overcome a worse fate, or for someone to play at being a god?",
+            "Whatever the reason, the process is never pleasant, and it always leaves scars—both those you can see and those that have marked your very soul."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Experiment — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A particular song stirs feelings of sadness and overwhelming anger in you, reminding you of the process that changed you."
+            ],
+            [
+              "2",
+              "A portion of your altered body is very clearly grafted from a different person, and they might want it back."
+            ],
+            [
+              "3",
+              "Another person was changed alongside you. They fled before you left, urging you to do the same."
+            ],
+            [
+              "4",
+              "You have recurring nightmares of the procedure you endured, sometimes seeing glimpses of faces in the dream that you don’t recognize."
+            ],
+            [
+              "5",
+              "Your physical difference invites curiosity and attention, which for some reason is more disturbing than disdain or fear."
+            ],
+            [
+              "6",
+              "A peculiar symbol is branded on or near your alteration."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Experiment Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Experiment — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A syringe with a faintly glowing purple residue"
+            ],
+            [
+              "2",
+              "A wrench that is the only one that fits a bit of simple machinery built into your body"
+            ],
+            [
+              "3",
+              "A sheaf of chemical-stained parchments covered in incomprehensible notes and schematics"
+            ],
+            [
+              "4",
+              "A spool of silver thread that matches stitches in your altered body part"
+            ],
+            [
+              "5",
+              "A metal hip flask with strange runes scratched into one side"
+            ],
+            [
+              "6",
+              "A smooth stone that comforts and soothes you when you hold it tightly"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Intimidation}",
+        "{@skill Medicine}"
+      ],
+      "toolProficiencies": [
+        "Alchemist’s Supplies"
+      ]
+    },
+    {
+      "name": "Ghostlight Passenger",
+      "source": "TCM",
+      "page": 55,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Ghostlight Medium"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "G H O S T L I G H T",
+          "entries": [
+            "Once, even before your most recent travel to Druskenvald, you rode the deathly train known as the Express.",
+            "Your memories of that journey might Ghostlight be hazy and dreamlike, or they could be sharp and jarring in their clarity.",
+            "You learned some of the workings of the ghostly engine and formed a connection with the conductor and fellow travelers that has stayed with you.",
+            "At times, you are even more comfortable with the dead than the living."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Smith’s Tools, Bullseye Choose A or B: Lantern, Fine Clothes, Oil (3 flasks), 5 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Ghostlight Passenger",
+          "entries": [
+            "Every person in Druskenvald travels the Ghostlight at least once, but very few form the deep and Express lasting connection that you have.",
+            "Your first trip on the train might have been a near death experience from which you were saved, or perhaps you did die in earnest but were resurrected later.",
+            "Characters attuned to spirits or the lands of the dead, such as Clerics, Paladins, or those who had brushes with death, are the most common to exhibit this deep connection."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Ghostlight Passenger — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "Sometimes when you dream, you find yourself back on the Ghostlight Express in more than just a dream image."
+            ],
+            [
+              "2",
+              "Your first journey to the lands of the dead was confusing, but you realized you now may be able to find the departed spirit of a loved one once thought lost forever."
+            ],
+            [
+              "3",
+              "A specific spirit returns to speak to and through you repeatedly."
+            ],
+            [
+              "4",
+              "People sometimes speak to you as if they know you but later have no recollection of the conversation. During those moments of recognition, they know details from your visits on the Ghostlight Express."
+            ],
+            [
+              "5",
+              "You sometimes see people in your travels who you recognize from your time on the Ghostlight Express."
+            ],
+            [
+              "6",
+              "Someone greeted you with knowledge of your first journey on the Ghostlight Express, but you don’t remember them."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Ghostlight Passenger Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Ghostlight Passenger — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A slate board smeared with erased chalk, where you sometimes find words scratched"
+            ],
+            [
+              "2",
+              "A lump of coal that never burns away and gives off wispy smoke"
+            ],
+            [
+              "3",
+              "A torn ticket stub that is slightly translucent"
+            ],
+            [
+              "4",
+              "A dented train conductor’s whistle that only the dead can hear"
+            ],
+            [
+              "5",
+              "A pocket watch that runs backwards"
+            ],
+            [
+              "6",
+              "A battered train conductor’s hat 55"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Insight}",
+        "{@skill Persuasion}"
+      ],
+      "toolProficiencies": [
+        "Smith’s Tools"
+      ]
+    },
+    {
+      "name": "Nightstalker",
+      "source": "TCM",
+      "page": 56,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Hunter of Hunters"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "N I G H T S",
+          "entries": [
+            "Once you were prey, stalked by a monster through the dark of night.",
+            "Now, you are the hunter, and the things which you once feared will learn the true meaning of dread.",
+            "You have become far deadlier, hungrier, and crueler than the monster that once hunted you.",
+            "You are, yourself, the monster now—a fearsome creature once thought to slake its hunger on you or those close to you.",
+            "You survived, and your would-be killer will have its own destruction in turn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Leatherworker’s Tools, Choose A or B: Book (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Night Stalker",
+          "entries": [
+            "Consider how you joined the hunt against the creatures of the night.",
+            "Did you lose someone close to you or survive an attack?",
+            "Perhaps you were raised in a family line of dedicated hunters.",
+            "Rangers, Rogues, and Barbarians make fearsome night stalkers, as does any character with a passion to oppose these deadly creatures."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Nightstalker — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "You’re hunting the creature that slew your loved ones."
+            ],
+            [
+              "2",
+              "You started your hunt with zeal but quickly find that you’re losing your stomach for it."
+            ],
+            [
+              "3",
+              "As you learn more about the creatures of the night, you discover that some of your initial thoughts about them were wrong."
+            ],
+            [
+              "4",
+              "You failed to stand up to a creature and saved yourself instead of someone else. Now you try to make up for that shame."
+            ],
+            [
+              "5",
+              "The monsters you hunt terrify you to your soul, and you lash out to deny your fear."
+            ],
+            [
+              "6",
+              "Your fervent hunt is a cover for your desire to become something more than mortal."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Nightstalker Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Nightstalker — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A necklace of yellowed fangs"
+            ],
+            [
+              "2",
+              "A series of letters showing a person’s personality sharply eroding into incoherence and raving"
+            ],
+            [
+              "3",
+              "A knife made from a massive creature’s claw"
+            ],
+            [
+              "4",
+              "A casting of a monstrous footprint"
+            ],
+            [
+              "5",
+              "A hide or pelt from a vicious beast"
+            ],
+            [
+              "6",
+              "A glass eye that normal animals shy away from"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Stealth}"
+      ],
+      "toolProficiencies": [
+        "Leatherworker’s Tools"
+      ]
+    },
+    {
+      "name": "Reflected Wanderer",
+      "source": "TCM",
+      "page": 57,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Unreflected"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "R E F L E C T E D",
+          "entries": [
+            "You were once whole, but part of you has been separated from your being and now also wanders the world.",
+            "This aspect of you took your reflection and shadow with it, and it travels about as a mirage that looks identical to you.",
+            "You know this other self is out there—you can feel it— but what it wants and why is lost on you.",
+            "Sometimes you encounter a stranger that knows you—for good or ill— though you’ve never met them before, and you can’t help but wonder if they met the other you."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Disguise Kit, Mirror, Choose A or B: Traveler's Clothes, 16 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Reflected Wanderer",
+          "entries": [
+            "Any character can be a reflected wanderer.",
+            "How was it that your being came to be divided?",
+            "How much do you understand about your situation?",
+            "Are you truly who you think you are, or are you, in reality, the very castoff reflection of your other self?"
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Reflected Wanderer — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A close, long-term relationship went suddenly sour as if you wronged the other person."
+            ],
+            [
+              "2",
+              "Your other self leaves you messages and signs as it travels, sometimes seeming fond and other times resentful."
+            ],
+            [
+              "3",
+              "Animals are unsettled by you, becoming skittish and restless in your presence."
+            ],
+            [
+              "4",
+              "You’re wanted for several minor crimes you never committed, though eyewitnesses named you. Over time, more crimes of increasing severity occur."
+            ],
+            [
+              "5",
+              "Someone you’ve been at odds with begins treating you with more respect and kindness."
+            ],
+            [
+              "6",
+              "Mirrors sometimes crack when you touch them. backgroundS"
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reflected Wanderer Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Reflected Wanderer — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A shattered hand mirror"
+            ],
+            [
+              "2",
+              "An invitation to a powerful person’s home whom you’ve never met"
+            ],
+            [
+              "3",
+              "A locket with your silhouette painted in it on both sides, facing each other"
+            ],
+            [
+              "4",
+              "A short, derisive letter from yourself that you don’t remember writing"
+            ],
+            [
+              "5",
+              "A brooch delivered to you that you didn’t purchase"
+            ],
+            [
+              "6",
+              "A piece of chalk that writes in a different color than it appears to be 57"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Deception}",
+        "{@skill Investigation}"
+      ],
+      "toolProficiencies": [
+        "Disguise Kit"
+      ]
+    },
+    {
+      "name": "Rest Warden",
+      "source": "TCM",
+      "page": 58,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Grave Keeper"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Mason’s Tools, Hooded Choose A or B: Lantern, Oil (3 flasks), Shovel, Soap, Traveler’s Clothes (with thick gloves and dark-colored hood), 10 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Rest Warden",
+          "entries": [
+            "Rest wardens tend to be either a dour and somber lot or—in contrast to their trade—are filled with the vibrance and joy of life.",
+            "Those who understand the thin thread between life and death or who possess the strength to dig graves beneath moonlit skies and tend the bone orchards where the dead sleep are called to serve as rest wardens."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Rest Warden — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A strange figure commissioned you to carve a headstone for someone who is very much in the prime of life."
+            ],
+            [
+              "2",
+              "In a time of desperation, you once accepted a sizeable bribe to look the other way when someone robbed a grave."
+            ],
+            [
+              "3",
+              "You spent time learning from Yorgrim, gravedigger and caretaker of the Maidenmist Cemetery."
+            ],
+            [
+              "4",
+              "Someone violated graves under your watch and stole away with the corpses."
+            ],
+            [
+              "5",
+              "You comforted a child at their parent’s funeral and have taken a protective shine to them."
+            ],
+            [
+              "6",
+              "A loved one once rose from the grave as an Undead creature. You vowed to bring them to their final rest."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Rest Warden Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Rest Warden — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A prayer slip and seal covered in verses to protect the departed"
+            ],
+            [
+              "2",
+              "A charcoal rubbing of a gravestone epitaph"
+            ],
+            [
+              "3",
+              "A coffin nail that always ends up bent, no matter how many times you straighten it"
+            ],
+            [
+              "4",
+              "A dried flower cleaned from one of the first graves you tended"
+            ],
+            [
+              "5",
+              "A length of rusty iron chain and padlock"
+            ],
+            [
+              "6",
+              "A sealed bottle containing a final breath"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Religion}",
+        "{@skill Survival}"
+      ],
+      "toolProficiencies": [
+        "Mason’s Tools"
+      ]
+    },
+    {
+      "name": "Reveler",
+      "source": "TCM",
+      "page": 59,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Reveling Fool"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building A Reveler",
+          "entries": [
+            "The simultaneous beauty and uncomfortable truth of the revelers is that they can be anyone.",
+            "Hidden by their masks and costumes, one’s friends, family, servants, or lords could be capering about the ribbon-twined pole and leading impressionable folk away when the revel withdraws.",
+            "How might a reveler behave differently in each guise?"
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Reveler — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "Posters depicting drawings of your reveler guise have started showing up in towns after the fool’s revel leaves."
+            ],
+            [
+              "2",
+              "Once you learned the truth of the revels—that some of the people who vanish ostensibly to join the revel are sacrificed—you seized the first chance to slip away."
+            ],
+            [
+              "3",
+              "Recently, more people than usual have gone missing from towns in the revel’s wake."
+            ],
+            [
+              "4",
+              "Crows, owls, and other birds seem to cackle and laugh in your presence."
+            ],
+            [
+              "5",
+              "You have grown suspicious that another reveler has a sinister motive concealed by their jester’s guise."
+            ],
+            [
+              "6",
+              "You left the revel when you caught a glimpse of the wickedness lurking beneath the Lord of Fool’s jovial veneer."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Reveler Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Reveler — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A small wind-up bell that you can conceal in the palm of your hand with a button to activate it"
+            ],
+            [
+              "2",
+              "A dented metal spray bottle"
+            ],
+            [
+              "3",
+              "A string of colorful handkerchiefs tied together"
+            ],
+            [
+              "4",
+              "A tarnished silver bell that sometimes refuses to jingle"
+            ],
+            [
+              "5",
+              "A pair of boots or slippers that squeak comically with each step"
+            ],
+            [
+              "6",
+              "A short scepter or baton with a horn on the cap 59"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Performance}",
+        "{@skill Stealth}"
+      ],
+      "toolProficiencies": [
+        "Choose one kind of Musical Instrument"
+      ]
+    },
+    {
+      "name": "Scholar of the Forbidden",
+      "source": "TCM",
+      "page": 60,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Dread Speech"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Calligrapher’s Supplies, Choose A or B: Book (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3 flasks), Paper (10 sheets), 2 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building a Scholar of the Forbidden",
+          "entries": [
+            "Wizards and Warlocks make the most common scholars of the forbidden, but any character who stumbles onto the dread truths waiting beneath the surface of reality can find themselves walking the path.",
+            "The secrets you unveil could threaten to destabilize any number of powerful beliefs and organizations, which makes you dangerous to them."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Scholar of the Forbidden — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A wealthy patron paid you handsomely to research what led to your discoveries, and they want what you found."
+            ],
+            [
+              "2",
+              "When you spoke aloud the first secret word you deciphered, you passed out and woke hours later to find your lips cracked and blackened."
+            ],
+            [
+              "3",
+              "Something has been following you since you uncovered the illicit secrets. You sense it always behind you, drawing closer."
+            ],
+            [
+              "4",
+              "Your shadow converses with you when you’re alone, acting as a debate partner and sounding board in your studies."
+            ],
+            [
+              "5",
+              "The reflections of your eyes are black voids, but no one else seems to notice."
+            ],
+            [
+              "6",
+              "An order of inquisitors or witch hunters hound you wherever you travel, seeking to silence you and your discoveries forever."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Scholar of the Forbidden Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Scholar of the Forbidden — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A broken fragment of a stone table carved with symbols that seem to slither and writhe"
+            ],
+            [
+              "2",
+              "A desiccated bit of tentacle"
+            ],
+            [
+              "3",
+              "A small soapstone idol that always seems to end up in your pocket, bag, or otherwise on your person"
+            ],
+            [
+              "4",
+              "A book bound in Humanoid skin with blank pages that absorb ink or other pigments"
+            ],
+            [
+              "5",
+              "An alien eyeball floating in a jar of preservative fluid"
+            ],
+            [
+              "6",
+              "An antique amulet with indecipherable symbols, that whispers at the edge of consciousness when worn"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Arcana}",
+        "{@skill Intimidation}"
+      ],
+      "toolProficiencies": [
+        "Calligrapher’s Supplies"
+      ],
+      "languages": [
+        "Choose one (Deep Speech recommended)"
+      ]
+    },
+    {
+      "name": "Wicker Weaver",
+      "source": "TCM",
+      "page": 61,
+      "entries": [
+        {
+          "type": "entries",
+          "name": "Feature",
+          "entries": [
+            "Charm Twister"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Equipment",
+          "entries": [
+            "Choose A or B:",
+            {
+              "type": "list",
+              "items": [
+                "{@bold A)} Quarterstaff, Weaver’s Choose A or B: Tools, Basket (with dry reeds ready to weave), Book (druidic lore), Iron Pot, Traveler’s Clothes, 19 GP; or (",
+                "{@bold B)} 50 GP"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Building a Wicker Weaver",
+          "entries": [
+            "Compassionate characters driven by a deep connection to the land and a passion to protect it become wicker weavers.",
+            "Druids of other circles might trade knowledge with the Circle of Wicker.",
+            "Healers and guardians alike may seek out the Old Ways for remedies and protective charms to ward off evil.",
+            "Not all who come to the wicker craft do so with noble intent—some, broken by spite and twisted by their pain, wield the power of the wicker into malicious revenge, lashing out with curses bound in twig and bone and inflicting the wrath of the forest upon those who wronged them."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Wicker Weaver — Suggested Story Threads",
+          "colLabels": [
+            "d6",
+            "Suggested Story Thread"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "One of the charms you created ensured a baby was born healthy, and their family sends you small but heartfelt gifts."
+            ],
+            [
+              "2",
+              "Your mentor who taught you the craft has become increasingly withdrawn and uncharacteristically agitated."
+            ],
+            [
+              "3",
+              "An order of druids, the Circle of Wicker, taught you their ways. You aren’t certain why."
+            ],
+            [
+              "4",
+              "Someone offered you a shocking sum of coin to twist a wicker charm for them. You’re tempted but unsettled by the unwarranted generosity."
+            ],
+            [
+              "5",
+              "You traded a wicker charm for a child’s toy that bound misfortune to its owner. You must keep it until you can sell it, it’s stolen, or you lose it."
+            ],
+            [
+              "6",
+              "You wove a hex into a wicker charm to punish a criminal, and they nurse that grudge still."
+            ]
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Wicker Weaver Trinkets",
+          "entries": [
+            "When you make your character, you can roll once on this background's Trinkets table instead of on the normal starting Trinkets table."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Wicker Weaver — Trinkets",
+          "colLabels": [
+            "d6",
+            "Trinket"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1",
+              "A crescent woven from wicker and laced with silver wire"
+            ],
+            [
+              "2",
+              "A glass bauble that was the first payment you received for your hedge wisdom"
+            ],
+            [
+              "3",
+              "A Tiny figure made of acorn caps from the oldest oak in the woods"
+            ],
+            [
+              "4",
+              "A rough-forged knife with an etched blade"
+            ],
+            [
+              "5",
+              "A snake skull in a wicker cage"
+            ],
+            [
+              "6",
+              "A battered stuffed animal missing one eye 61"
+            ]
+          ]
+        }
+      ],
+      "skillProficiencies": [
+        "{@skill Insight}",
+        "{@skill Nature}"
+      ],
+      "toolProficiencies": [
+        "Weaver’s Tools"
+      ],
+      "languages": [
+        "Sylvan"
+      ]
+    }
+  ]
+}
