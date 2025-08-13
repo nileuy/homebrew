@@ -2,7 +2,7 @@
   "background": [
     {
       "name": "Amnesiac",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 49,
       "entries": [
         {
@@ -20,8 +20,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Book (personal notes), Choose A or B: Ink, Ink Pen, Traveler's Clothes, 11 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Book (personal notes), Choose A or B: Ink, Ink Pen, Traveler’s Clothes, 11 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -30,10 +30,10 @@
           "type": "entries",
           "name": "Scattered Memories",
           "entries": [
-            "You don't choose skill proficiencies or a tool proficiency when you select this background, and you don't determine the two languages that are part of your origin—these are parts of your past that you are missing.",
+            "You don’t choose skill proficiencies or a tool proficiency when you select this background, and you don't determine the two languages that are part of your origin—these are parts of your past that you are missing.",
             "Instead, you can pick one of those proficiencies or the languages during play at any time.",
             "The knowledge might return in a spontaneous flash, even as you make a roll that relies on the proficiency, or slowly emerge as you struggle to solve a problem.",
-            "Once you choose one of these features, you can't choose another one until you gain a level.",
+            "Once you choose one of these features, you can’t choose another one until you gain a level.",
             "The GM might rule that you can choose a new recalled feature early if something reminds you of your past, such as finding a piece of evidence from your missing memories or experiencing an event similar to one you have forgotten.",
             "Of particular value is an"
           ]
@@ -74,7 +74,7 @@
             ],
             [
               "4",
-              "A rhyme or song you've never heard before comes to mind when your thoughts wander."
+              "A rhyme or song you’ve never heard before comes to mind when your thoughts wander."
             ],
             [
               "5",
@@ -107,15 +107,15 @@
           "rows": [
             [
               "1",
-              "Half of a tarnished silver ring with a partial inscription in a language you don't understand"
+              "Half of a tarnished silver ring with a partial inscription in a language you don’t understand"
             ],
             [
               "2",
-              "A music box that plays a sad tune you recognize but can't identify"
+              "A music box that plays a sad tune you recognize but can’t identify"
             ],
             [
               "3",
-              "A short note addressed to you signed with a name you don't recognize"
+              "A short note addressed to you signed with a name you don’t recognize"
             ],
             [
               "4",
@@ -135,7 +135,7 @@
     },
     {
       "name": "Crimson Aspirant",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 50,
       "entries": [
         {
@@ -152,7 +152,7 @@
             "You have delved into the forces that animate all life— even those that counterfeit life, such as Constructs and Undead.",
             "Many of these studies concentrate on the nature of blood and its power to sustain life and transmit vital essence, binding the soul to the flesh.",
             "You might have apprenticed under a sly-hearted mentor or a secret cabal focused on understanding or even manipulating life and death.",
-            "You may have learned from a detailed treatise that you've put into practice, daring to become versed in the forbidden arts."
+            "You may have learned from a detailed treatise that you’ve put into practice, daring to become versed in the forbidden arts."
           ]
         },
         {
@@ -163,8 +163,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Herbalism Kit, Dagger, Choose A or B: Fine Clothes, Healer's Kit, 3 Vials, 10 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Herbalism Kit, Dagger, Choose A or B: Fine Clothes, Healer’s Kit, 3 Vials, 10 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -271,7 +271,7 @@
     },
     {
       "name": "Crossroads Gambler",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 51,
       "entries": [
         {
@@ -285,7 +285,7 @@
           "type": "entries",
           "name": "C R O S S R O A D",
           "entries": [
-            "You've made your bones on games of chance, and one day your games crossed the line into something far more serious.",
+            "You’ve made your bones on games of chance, and one day your games crossed the line into something far more serious.",
             "You might have played for your soul against a Fiend, matched wits with ancient forest Fey in a riddle contest, or rolled dice with the fabled Mister Crossroads."
           ]
         },
@@ -297,8 +297,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Gaming Set (same as Choose A or B: above), Caltrops, Fine Clothes, Fine Wine (bottle), 23 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Gaming Set (same as Choose A or B: above), Caltrops, Fine Clothes, Fine Wine (bottle), 23 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -330,7 +330,7 @@
             ],
             [
               "2",
-              "You've found that if you go too long without making a wager, your luck starts to turn sour."
+              "You’ve found that if you go too long without making a wager, your luck starts to turn sour."
             ],
             [
               "3",
@@ -338,7 +338,7 @@
             ],
             [
               "4",
-              "You lost your bet, and you're on the run from the thing surely coming to collect."
+              "You lost your bet, and you’re on the run from the thing surely coming to collect."
             ],
             [
               "5",
@@ -346,7 +346,7 @@
             ],
             [
               "6",
-              "You've been gambling for a long time, and you're tired. Now all you want is a way out. backgroundS"
+              "You’ve been gambling for a long time, and you’re tired. Now all you want is a way out. backgroundS"
             ]
           ]
         },
@@ -406,7 +406,7 @@
     },
     {
       "name": "Cultist",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 52,
       "entries": [
         {
@@ -424,8 +424,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} , Traveler's Clothes, 10 GP; or (",
-                "{@b B)} 50 GP Cultist Affinities Cult Patron Skill Language Aberration Perception Deep Speech Celestial Religion Celestial Fiend (Demon) Religion Abyssal Fiend (Devil) Religion Infernal Fey Nature Sylvan"
+                "{@bold A)} , Traveler’s Clothes, 10 GP; or (",
+                "{@bold B)} 50 GP Cultist Affinities Cult Patron Skill Language Aberration Perception Deep Speech Celestial Religion Celestial Fiend (Demon) Religion Abyssal Fiend (Devil) Religion Infernal Fey Nature Sylvan"
               ]
             }
           ]
@@ -512,7 +512,7 @@
             ],
             [
               "3",
-              "Your cult's activities aroused the ire and superstition of locals, deserved or not."
+              "Your cult’s activities aroused the ire and superstition of locals, deserved or not."
             ],
             [
               "4",
@@ -553,7 +553,7 @@
             ],
             [
               "2",
-              "A steel ball bearing etched over its entire surface with your cult's sacred text"
+              "A steel ball bearing etched over its entire surface with your cult’s sacred text"
             ],
             [
               "3",
@@ -576,7 +576,7 @@
     },
     {
       "name": "Druskenvald Dweller",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 53,
       "entries": [
         {
@@ -603,8 +603,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Artisan's Tools (same Choose A or B: as above), Map (Druskenvald's provinces), Traveler's Clothes, 10 GP; or (",
-                "{@b B)} 50 GP Province Affinities Province Skill Tool Ardengloom History Herbalism Kit Astramar Arcana Navigator's Tools Bubonia Medicine Poisoner's Kit Chernabos Deception Calligrapher's Supplies Edwardia Investigation Tinker's Tools Enoch Nature Leatherworker's Tools Kalero Performance Musical Instrument Olmarsh Arcana Cartographer's Supplies Nerukhet Persuasion Weaver's Tools Pholsense Religion Mason's Tools Picco Performance Woodworker's Tools Syndramas Athletics Cook's Utensils Zulrogg Survival Herbalism Kit"
+                "{@bold A)} Artisan's Tools (same Choose A or B: as above), Map (Druskenvald’s provinces), Traveler’s Clothes, 10 GP; or (",
+                "{@bold B)} 50 GP Province Affinities Province Skill Tool Ardengloom History Herbalism Kit Astramar Arcana Navigator’s Tools Bubonia Medicine Poisoner’s Kit Chernabos Deception Calligrapher’s Supplies Edwardia Investigation Tinker’s Tools Enoch Nature Leatherworker’s Tools Kalero Performance Musical Instrument Olmarsh Arcana Cartographer’s Supplies Nerukhet Persuasion Weaver’s Tools Pholsense Religion Mason’s Tools Picco Performance Woodworker’s Tools Syndramas Athletics Cook’s Utensils Zulrogg Survival Herbalism Kit"
               ]
             }
           ]
@@ -626,27 +626,27 @@
             [
               "Astramar",
               "Arcana",
-              "Navigator's Tools"
+              "Navigator’s Tools"
             ],
             [
               "Bubonia",
               "Medicine",
-              "Poisoner's Kit"
+              "Poisoner’s Kit"
             ],
             [
               "Chernabos",
               "Deception",
-              "Calligrapher's Supplies"
+              "Calligrapher’s Supplies"
             ],
             [
               "Edwardia",
               "Investigation",
-              "Tinker's Tools"
+              "Tinker’s Tools"
             ],
             [
               "Enoch",
               "Nature",
-              "Leatherworker's Tools"
+              "Leatherworker’s Tools"
             ],
             [
               "Kalero",
@@ -656,27 +656,27 @@
             [
               "Olmarsh",
               "Arcana",
-              "Cartographer's Supplies"
+              "Cartographer’s Supplies"
             ],
             [
               "Nerukhet",
               "Persuasion",
-              "Weaver's Tools"
+              "Weaver’s Tools"
             ],
             [
               "Pholsense",
               "Religion",
-              "Mason's Tools"
+              "Mason’s Tools"
             ],
             [
               "Picco",
               "Performance",
-              "Woodworker's Tools"
+              "Woodworker’s Tools"
             ],
             [
               "Syndramas",
               "Athletics",
-              "Cook's Utensils"
+              "Cook’s Utensils"
             ],
             [
               "Zulrogg",
@@ -841,7 +841,7 @@
     },
     {
       "name": "Experiment",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 54,
       "entries": [
         {
@@ -859,8 +859,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Alchemist's Supplies, Choose A or B: Manacles, Perfume (to cover chemical smell), Traveler's Clothes (with hooded cloak), 5 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Alchemist’s Supplies, Choose A or B: Manacles, Perfume (to cover chemical smell), Traveler’s Clothes (with hooded cloak), 5 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -901,7 +901,7 @@
             ],
             [
               "4",
-              "You have recurring nightmares of the procedure you endured, sometimes seeing glimpses of faces in the dream that you don't recognize."
+              "You have recurring nightmares of the procedure you endured, sometimes seeing glimpses of faces in the dream that you don’t recognize."
             ],
             [
               "5",
@@ -964,12 +964,12 @@
         "{@skill Medicine}"
       ],
       "toolProficiencies": [
-        "Alchemist's Supplies"
+        "Alchemist’s Supplies"
       ]
     },
     {
       "name": "Ghostlight Passenger",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 55,
       "entries": [
         {
@@ -997,8 +997,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Smith's Tools, Bullseye Choose A or B: Lantern, Fine Clothes, Oil (3 flasks), 5 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Smith’s Tools, Bullseye Choose A or B: Lantern, Fine Clothes, Oil (3 flasks), 5 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -1046,7 +1046,7 @@
             ],
             [
               "6",
-              "Someone greeted you with knowledge of your first journey on the Ghostlight Express, but you don't remember them."
+              "Someone greeted you with knowledge of your first journey on the Ghostlight Express, but you don’t remember them."
             ]
           ]
         },
@@ -1083,7 +1083,7 @@
             ],
             [
               "4",
-              "A dented train conductor's whistle that only the dead can hear"
+              "A dented train conductor’s whistle that only the dead can hear"
             ],
             [
               "5",
@@ -1091,7 +1091,7 @@
             ],
             [
               "6",
-              "A battered train conductor's hat 55"
+              "A battered train conductor’s hat 55"
             ]
           ]
         }
@@ -1101,12 +1101,12 @@
         "{@skill Persuasion}"
       ],
       "toolProficiencies": [
-        "Smith's Tools"
+        "Smith’s Tools"
       ]
     },
     {
       "name": "Nightstalker",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 56,
       "entries": [
         {
@@ -1135,8 +1135,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Leatherworker's Tools, Choose A or B: Book (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler's Clothes, 8 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Leatherworker’s Tools, Choose A or B: Book (one creature type), Hooded Lantern, Hunting Trap, Oil (3 flasks), Traveler’s Clothes, 8 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -1165,11 +1165,11 @@
           "rows": [
             [
               "1",
-              "You're hunting the creature that slew your loved ones."
+              "You’re hunting the creature that slew your loved ones."
             ],
             [
               "2",
-              "You started your hunt with zeal but quickly find that you're losing your stomach for it."
+              "You started your hunt with zeal but quickly find that you’re losing your stomach for it."
             ],
             [
               "3",
@@ -1214,11 +1214,11 @@
             ],
             [
               "2",
-              "A series of letters showing a person's personality sharply eroding into incoherence and raving"
+              "A series of letters showing a person’s personality sharply eroding into incoherence and raving"
             ],
             [
               "3",
-              "A knife made from a massive creature's claw"
+              "A knife made from a massive creature’s claw"
             ],
             [
               "4",
@@ -1239,12 +1239,12 @@
         "{@skill Stealth}"
       ],
       "toolProficiencies": [
-        "Leatherworker's Tools"
+        "Leatherworker’s Tools"
       ]
     },
     {
       "name": "Reflected Wanderer",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 57,
       "entries": [
         {
@@ -1261,7 +1261,7 @@
             "You were once whole, but part of you has been separated from your being and now also wanders the world.",
             "This aspect of you took your reflection and shadow with it, and it travels about as a mirage that looks identical to you.",
             "You know this other self is out there—you can feel it— but what it wants and why is lost on you.",
-            "Sometimes you encounter a stranger that knows you—for good or ill— though you've never met them before, and you can't help but wonder if they met the other you."
+            "Sometimes you encounter a stranger that knows you—for good or ill— though you’ve never met them before, and you can’t help but wonder if they met the other you."
           ]
         },
         {
@@ -1272,8 +1272,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Disguise Kit, Mirror, Choose A or B: Traveler's Clothes, 16 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Disguise Kit, Mirror, Choose A or B: Traveler's Clothes, 16 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -1314,11 +1314,11 @@
             ],
             [
               "4",
-              "You're wanted for several minor crimes you never committed, though eyewitnesses named you. Over time, more crimes of increasing severity occur."
+              "You’re wanted for several minor crimes you never committed, though eyewitnesses named you. Over time, more crimes of increasing severity occur."
             ],
             [
               "5",
-              "Someone you've been at odds with begins treating you with more respect and kindness."
+              "Someone you’ve been at odds with begins treating you with more respect and kindness."
             ],
             [
               "6",
@@ -1351,7 +1351,7 @@
             ],
             [
               "2",
-              "An invitation to a powerful person's home whom you've never met"
+              "An invitation to a powerful person’s home whom you’ve never met"
             ],
             [
               "3",
@@ -1359,11 +1359,11 @@
             ],
             [
               "4",
-              "A short, derisive letter from yourself that you don't remember writing"
+              "A short, derisive letter from yourself that you don’t remember writing"
             ],
             [
               "5",
-              "A brooch delivered to you that you didn't purchase"
+              "A brooch delivered to you that you didn’t purchase"
             ],
             [
               "6",
@@ -1382,7 +1382,7 @@
     },
     {
       "name": "Rest Warden",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 58,
       "entries": [
         {
@@ -1400,8 +1400,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Mason's Tools, Hooded Choose A or B: Lantern, Oil (3 flasks), Shovel, Soap, Traveler's Clothes (with thick gloves and dark-colored hood), 10 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Mason’s Tools, Hooded Choose A or B: Lantern, Oil (3 flasks), Shovel, Soap, Traveler’s Clothes (with thick gloves and dark-colored hood), 10 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -1444,7 +1444,7 @@
             ],
             [
               "5",
-              "You comforted a child at their parent's funeral and have taken a protective shine to them."
+              "You comforted a child at their parent’s funeral and have taken a protective shine to them."
             ],
             [
               "6",
@@ -1503,12 +1503,12 @@
         "{@skill Survival}"
       ],
       "toolProficiencies": [
-        "Mason's Tools"
+        "Mason’s Tools"
       ]
     },
     {
       "name": "Reveler",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 59,
       "entries": [
         {
@@ -1523,7 +1523,7 @@
           "name": "Building A Reveler",
           "entries": [
             "The simultaneous beauty and uncomfortable truth of the revelers is that they can be anyone.",
-            "Hidden by their masks and costumes, one's friends, family, servants, or lords could be capering about the ribbon-twined pole and leading impressionable folk away when the revel withdraws.",
+            "Hidden by their masks and costumes, one’s friends, family, servants, or lords could be capering about the ribbon-twined pole and leading impressionable folk away when the revel withdraws.",
             "How might a reveler behave differently in each guise?"
           ]
         },
@@ -1541,7 +1541,7 @@
           "rows": [
             [
               "1",
-              "Posters depicting drawings of your reveler guise have started showing up in towns after the fool's revel leaves."
+              "Posters depicting drawings of your reveler guise have started showing up in towns after the fool’s revel leaves."
             ],
             [
               "2",
@@ -1549,7 +1549,7 @@
             ],
             [
               "3",
-              "Recently, more people than usual have gone missing from towns in the revel's wake."
+              "Recently, more people than usual have gone missing from towns in the revel’s wake."
             ],
             [
               "4",
@@ -1557,11 +1557,11 @@
             ],
             [
               "5",
-              "You have grown suspicious that another reveler has a sinister motive concealed by their jester's guise."
+              "You have grown suspicious that another reveler has a sinister motive concealed by their jester’s guise."
             ],
             [
               "6",
-              "You left the revel when you caught a glimpse of the wickedness lurking beneath the Lord of Fool's jovial veneer."
+              "You left the revel when you caught a glimpse of the wickedness lurking beneath the Lord of Fool’s jovial veneer."
             ]
           ]
         },
@@ -1621,7 +1621,7 @@
     },
     {
       "name": "Scholar of the Forbidden",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 60,
       "entries": [
         {
@@ -1639,8 +1639,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Calligrapher's Supplies, Choose A or B: Book (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3 flasks), Paper (10 sheets), 2 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Calligrapher’s Supplies, Choose A or B: Book (a topic of arcana), Ink, Ink Pen, Lamp, Oil (3 flasks), Paper (10 sheets), 2 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -1679,7 +1679,7 @@
             ],
             [
               "4",
-              "Your shadow converses with you when you're alone, acting as a debate partner and sounding board in your studies."
+              "Your shadow converses with you when you’re alone, acting as a debate partner and sounding board in your studies."
             ],
             [
               "5",
@@ -1742,7 +1742,7 @@
         "{@skill Intimidation}"
       ],
       "toolProficiencies": [
-        "Calligrapher's Supplies"
+        "Calligrapher’s Supplies"
       ],
       "languages": [
         "Choose one (Deep Speech recommended)"
@@ -1750,7 +1750,7 @@
     },
     {
       "name": "Wicker Weaver",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 61,
       "entries": [
         {
@@ -1768,8 +1768,8 @@
             {
               "type": "list",
               "items": [
-                "{@b A)} Quarterstaff, Weaver's Choose A or B: Tools, Basket (with dry reeds ready to weave), Book (druidic lore), Iron Pot, Traveler's Clothes, 19 GP; or (",
-                "{@b B)} 50 GP"
+                "{@bold A)} Quarterstaff, Weaver’s Choose A or B: Tools, Basket (with dry reeds ready to weave), Book (druidic lore), Iron Pot, Traveler’s Clothes, 19 GP; or (",
+                "{@bold B)} 50 GP"
               ]
             }
           ]
@@ -1806,15 +1806,15 @@
             ],
             [
               "3",
-              "An order of druids, the Circle of Wicker, taught you their ways. You aren't certain why."
+              "An order of druids, the Circle of Wicker, taught you their ways. You aren’t certain why."
             ],
             [
               "4",
-              "Someone offered you a shocking sum of coin to twist a wicker charm for them. You're tempted but unsettled by the unwarranted generosity."
+              "Someone offered you a shocking sum of coin to twist a wicker charm for them. You’re tempted but unsettled by the unwarranted generosity."
             ],
             [
               "5",
-              "You traded a wicker charm for a child's toy that bound misfortune to its owner. You must keep it until you can sell it, it's stolen, or you lose it."
+              "You traded a wicker charm for a child’s toy that bound misfortune to its owner. You must keep it until you can sell it, it’s stolen, or you lose it."
             ],
             [
               "6",
@@ -1873,7 +1873,7 @@
         "{@skill Nature}"
       ],
       "toolProficiencies": [
-        "Weaver's Tools"
+        "Weaver’s Tools"
       ],
       "languages": [
         "Sylvan"

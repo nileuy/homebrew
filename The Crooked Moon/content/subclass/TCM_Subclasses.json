@@ -3,7 +3,7 @@
     {
       "name": "Occultist",
       "shortName": "Occultist",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "page": 44,
@@ -19,7 +19,7 @@
     {
       "name": "Philosopher",
       "shortName": "Philosopher",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "page": 46,
@@ -36,7 +36,7 @@
   "subclassFeature": [
     {
       "name": "Forbidden Knowledge",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Occultist",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Intrusion",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Occultist",
@@ -62,47 +62,47 @@
         {
           "type": "list",
           "items": [
-            "{@b Overwhelming Mind}. One target of the spell has Disadvantage on the first saving throw made against it.",
-            "{@b Seeking Eye}. You have Advantage on the first attack roll you make for the spell."
+            "{@bold Overwhelming Mind}. One target of the spell has Disadvantage on the first saving throw made against it.",
+            "{@bold Seeking Eye}. You have Advantage on the first attack roll you make for the spell."
           ]
         }
       ]
     },
     {
       "name": "Reality Tear",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Occultist",
       "level": 6,
       "entries": [
         "Choose a spell of level 3 or lower from the Warlock spell list. You always have the spell prepared. You can change your chosen spell when you finish a Long Rest. When you cast the spell, you can risk Intrusion to remove the need to Concentrate on it, and the spell ends after 1 minute or its normal duration, whichever is shorter.",
-        "Additionally, you can cause an automatic Intrusion (and increase the die's size one step, up to its starting size) to cast the spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest."
+        "Additionally, you can cause an automatic Intrusion (and increase the die’s size one step, up to its starting size) to cast the spell once without a spell slot, and you regain the ability to do so when you finish a Long Rest."
       ]
     },
     {
       "name": "Occult Presence",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Occultist",
       "level": 10,
       "entries": [
         "When you cause an Intrusion, you can roll twice on the Intrusion table and choose which result to use, and you can negate the Intrusion by gaining 1 Exhaustion level.",
-        "Additionally, you gain one of the benefits below, and you can change your chosen benefit when you finish a Long Rest. As a Bonus Action, you can cause an automatic Intrusion (and increase the die's size one step, up to its starting size) to change your chosen benefit.",
+        "Additionally, you gain one of the benefits below, and you can change your chosen benefit when you finish a Long Rest. As a Bonus Action, you can cause an automatic Intrusion (and increase the die’s size one step, up to its starting size) to change your chosen benefit.",
         {
           "type": "list",
           "items": [
-            "{@b Alien Consciousness}. You gain Immunity to the Charmed and Frightened conditions, and you can't be possessed.",
-            "{@b Cosmic Resistance}. You gain Resistance to Necrotic and Psychic damage.",
-            "{@b Spatial Domination}. You gain a Fly Speed equal to your Speed and can hover."
+            "{@bold Alien Consciousness}. You gain Immunity to the Charmed and Frightened conditions, and you can’t be possessed.",
+            "{@bold Cosmic Resistance}. You gain Resistance to Necrotic and Psychic damage.",
+            "{@bold Spatial Domination}. You gain a Fly Speed equal to your Speed and can hover."
           ]
         }
       ]
     },
     {
       "name": "Beyond Space",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Occultist",
@@ -112,16 +112,16 @@
         {
           "type": "list",
           "items": [
-            "{@b All Knowing}. Treat your connection to a target creature as if you have part of its body.",
-            "{@b All Seeing}. Cast the spell as an action instead of its normal casting time."
+            "{@bold All Knowing}. Treat your connection to a target creature as if you have part of its body.",
+            "{@bold All Seeing}. Cast the spell as an action instead of its normal casting time."
           ]
         },
-        "When you cast Scrying, during the spell's duration, you can cause an automatic Intrusion (and increase the die's size one step, up to its starting size) to teleport yourself, and any willing creatures within 10 feet of you, to unoccupied spaces you can see through the scrying sensor. Once you teleport in this way, you can't do so again until you finish a Long Rest."
+        "When you cast Scrying, during the spell’s duration, you can cause an automatic Intrusion (and increase the die’s size one step, up to its starting size) to teleport yourself, and any willing creatures within 10 feet of you, to unoccupied spaces you can see through the scrying sensor. Once you teleport in this way, you can’t do so again until you finish a Long Rest."
       ]
     },
     {
       "name": "Intrusion Table",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Occultist",
@@ -142,7 +142,7 @@
             ],
             [
               "2",
-              "Space twists and melts in a 30-foot Emanation around you. Each creature (including you) in the area struggles against the warping of reality. An affected creature's Speed is halved until the end of your next turn."
+              "Space twists and melts in a 30-foot Emanation around you. Each creature (including you) in the area struggles against the warping of reality. An affected creature’s Speed is halved until the end of your next turn."
             ],
             [
               "3",
@@ -170,7 +170,7 @@
             ],
             [
               "9",
-              "You regain an expended spell slot of level 5 or lower (your choice), and you take Necrotic damage equal to twice the slot's level. This damage can't be reduced or prevented in any way."
+              "You regain an expended spell slot of level 5 or lower (your choice), and you take Necrotic damage equal to twice the slot’s level. This damage can’t be reduced or prevented in any way."
             ],
             [
               "10",
@@ -182,7 +182,7 @@
             ],
             [
               "12",
-              "An Aberration or a Fiend with a CR equal to your Wizard level or lower (GM's choice) appears in an unoccupied space within 30 feet of you. The GM decides the creature's attitude (Hostile/Indifferent/Friendly) and actions."
+              "An Aberration or a Fiend with a CR equal to your Wizard level or lower (GM’s choice) appears in an unoccupied space within 30 feet of you. The GM decides the creature’s attitude (Hostile/Indifferent/Friendly) and actions."
             ]
           ]
         }
@@ -190,18 +190,18 @@
     },
     {
       "name": "Alchemical Knowledge",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Philosopher",
       "level": 3,
       "entries": [
-        "You gain a set of Alchemist's Supplies. You have proficiency with it and can use it as an Arcane Focus. Additionally, you can use Alchemist's Supplies instead of the normal tool to craft a magic item."
+        "You gain a set of Alchemist’s Supplies. You have proficiency with it and can use it as an Arcane Focus. Additionally, you can use Alchemist’s Supplies instead of the normal tool to craft a magic item."
       ]
     },
     {
       "name": "Quintessence",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Philosopher",
@@ -213,14 +213,14 @@
           "type": "entries",
           "name": "Material Component",
           "entries": [
-            "When you cast a spell, you can expend Quintessence to serve as the spell's Material components up to a value of 100 GP per Quintessence expended."
+            "When you cast a spell, you can expend Quintessence to serve as the spell’s Material components up to a value of 100 GP per Quintessence expended."
           ]
         },
         {
           "type": "entries",
           "name": "Reagent",
           "entries": [
-            "When you scribe a spell into your spellbook, or when you use Alchemist's Supplies to craft a magic item, you can expend Quintessence to serve as 50 GP worth of material for the task per Quintessence expended."
+            "When you scribe a spell into your spellbook, or when you use Alchemist’s Supplies to craft a magic item, you can expend Quintessence to serve as 50 GP worth of material for the task per Quintessence expended."
           ]
         },
         {
@@ -234,7 +234,7 @@
     },
     {
       "name": "Albedo",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Philosopher",
@@ -245,39 +245,39 @@
     },
     {
       "name": "Citrinitas",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Philosopher",
       "level": 10,
       "entries": [
         "You can now manipulate Quintessence to create, not merely to purify. You always have the Creation and Fabricate spells prepared, and you can cast each spell once without expending a spell slot, regaining the ability to do so when you finish a Long Rest. When you cast a spell using this feature, you can cast the spell as an action rather than its normal casting time. You can also cast the spells normally using spell slots of the appropriate level.",
-        "Additionally, when you cast Creation, you can expend a number of Quintessence up to your Intelligence modifier (minimum of 1) to multiply the spell's duration by 1 plus the amount expended."
+        "Additionally, when you cast Creation, you can expend a number of Quintessence up to your Intelligence modifier (minimum of 1) to multiply the spell’s duration by 1 plus the amount expended."
       ]
     },
     {
       "name": "Rubedo",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Philosopher",
       "level": 14,
       "entries": [
-        "The culmination of your great work, you can now distill your perfected knowledge of existence into a physical form. When you finish a Short or Long Rest, you can expend 10 Quintessence to create a philosopher's stone—a translucent red crystal. The stone is a Tiny magical object with AC 19, HP 20, and Immunity to all damage except Force. If you create a second philosopher's stone, the first one vanishes. While you carry the stone, it grants you the following benefits.",
+        "The culmination of your great work, you can now distill your perfected knowledge of existence into a physical form. When you finish a Short or Long Rest, you can expend 10 Quintessence to create a philosopher’s stone—a translucent red crystal. The stone is a Tiny magical object with AC 19, HP 20, and Immunity to all damage except Force. If you create a second philosopher’s stone, the first one vanishes. While you carry the stone, it grants you the following benefits.",
         {
           "type": "list",
           "items": [
-            "{@b Amplification}. When you cast a spell, you can expend up to 2 Quintessence as an additional Material component to increase your spell save DC for that spell by the same amount.",
-            "{@b Equivalent Exchange}. When you fail a saving throw, you can take a Reaction to expend 5 Quintessence to succeed on the save instead.",
-            "{@b Longevity}. You stop aging and don't suffer any effects from old age, including dying from it.",
-            "{@b Sympathy}. The stone counts as part of your body for the purpose of the Scrying spell and for spells that restore you to life if you die. The stone itself serves as the Material component for the spell (if any) and is destroyed when the spell is cast."
+            "{@bold Amplification}. When you cast a spell, you can expend up to 2 Quintessence as an additional Material component to increase your spell save DC for that spell by the same amount.",
+            "{@bold Equivalent Exchange}. When you fail a saving throw, you can take a Reaction to expend 5 Quintessence to succeed on the save instead.",
+            "{@bold Longevity}. You stop aging and don’t suffer any effects from old age, including dying from it.",
+            "{@bold Sympathy}. The stone counts as part of your body for the purpose of the Scrying spell and for spells that restore you to life if you die. The stone itself serves as the Material component for the spell (if any) and is destroyed when the spell is cast."
           ]
         }
       ]
     },
     {
       "name": "Philosophical Pursuits",
-      "source": "TCM_",
+      "source": "TCM",
       "className": "Wizard",
       "classSource": "XPHB",
       "subclassShortName": "Philosopher",
@@ -298,7 +298,7 @@
             ],
             [
               "2",
-              "You suffered a debilitating ailment or injury and turned to the study of magic to deconstruct the impairment's nature and transmute it."
+              "You suffered a debilitating ailment or injury and turned to the study of magic to deconstruct the impairment’s nature and transmute it."
             ],
             [
               "3",
@@ -306,7 +306,7 @@
             ],
             [
               "4",
-              "The rediscovered research of a missing mage unlocked the first secrets of your understanding but contains many more you can't yet decipher."
+              "The rediscovered research of a missing mage unlocked the first secrets of your understanding but contains many more you can’t yet decipher."
             ],
             [
               "5",
@@ -314,11 +314,11 @@
             ],
             [
               "6",
-              "You encountered a material with miraculous properties, and you can't rest until you discover the secret of its creation."
+              "You encountered a material with miraculous properties, and you can’t rest until you discover the secret of its creation."
             ],
             [
               "7",
-              "Your sibling's soul was separated from their body in a spell gone wrong, and you cannot forgive yourself until you make them whole."
+              "Your sibling’s soul was separated from their body in a spell gone wrong, and you cannot forgive yourself until you make them whole."
             ],
             [
               "8",

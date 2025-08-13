@@ -2,7 +2,7 @@
   "spell": [
     {
       "name": "Ancestral Communion",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 75,
       "level": 1,
       "school": "D",
@@ -31,7 +31,7 @@
         }
       ],
       "entries": [
-        "You invoke the wisdom of your ancestors to gain insight into your trials. When you cast the spell, and at the start of each of your turns for the duration, you gain Heroic Inspiration if you don't already have it."
+        "You invoke the wisdom of your ancestors to gain insight into your trials. When you cast the spell, and at the start of each of your turns for the duration, you gain Heroic Inspiration if you don’t already have it."
       ],
       "classes": {
         "fromClassList": [
@@ -56,7 +56,7 @@
     },
     {
       "name": "Blood Bolt",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 75,
       "level": 0,
       "school": "N",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Blood Sacrifice",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 75,
       "level": 2,
       "school": "N",
@@ -144,7 +144,7 @@
         }
       ],
       "entries": [
-        "You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 1d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 1d6 damage of the same type as the spell's normal damage type (your choice if there are multiple)."
+        "You sacrifice a portion of your life force to enhance your magical power. When you cast this spell, you take 1d6 Necrotic damage, which can't be reduced or prevented in any way. For the duration, when you cast a spell that deals damage, one target of the spell (your choice) takes an extra 1d6 damage of the same type as the spell’s normal damage type (your choice if there are multiple)."
       ],
       "entriesHigherLevel": [
         {
@@ -174,7 +174,7 @@
     },
     {
       "name": "Buried Alive",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 75,
       "level": 4,
       "school": "T",
@@ -204,7 +204,7 @@
         }
       ],
       "entries": [
-        "You send your enemies to their graves even if they aren't dead yet. A creature that you can see within range that is standing on the ground must make a Strength saving throw. On a failed save, the ground opens and swallows the target, burying it up to 10 feet deep. While buried, the target has Total Cover, has the Restrained and Blinded conditions, and can't breathe. On a successful save, the target has the Prone condition, and its Speed is 0 until the end of its next turn. A buried creature can dig out of the grave by using its action to make a DC 15 Strength (Athletics) check. On a success, it digs 5 feet closer to the surface. If it succeeds by 5 or more, it reaches the surface. When the creature reaches the surface, it exits the ground with the Prone condition. The target automatically succeeds on its saving throw if it's standing on any thickness of stone or metal, or at least 2 inches of wood."
+        "You send your enemies to their graves even if they aren’t dead yet. A creature that you can see within range that is standing on the ground must make a Strength saving throw. On a failed save, the ground opens and swallows the target, burying it up to 10 feet deep. While buried, the target has Total Cover, has the Restrained and Blinded conditions, and can’t breathe. On a successful save, the target has the Prone condition, and its Speed is 0 until the end of its next turn. A buried creature can dig out of the grave by using its action to make a DC 15 Strength (Athletics) check. On a success, it digs 5 feet closer to the surface. If it succeeds by 5 or more, it reaches the surface. When the creature reaches the surface, it exits the ground with the Prone condition. The target automatically succeeds on its saving throw if it’s standing on any thickness of stone or metal, or at least 2 inches of wood."
       ],
       "classes": {
         "fromClassList": [
@@ -229,7 +229,7 @@
     },
     {
       "name": "Call Of The Wild",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 75,
       "level": 4,
       "school": "EN",
@@ -285,7 +285,7 @@
     },
     {
       "name": "Captivate Undead",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 76,
       "level": 1,
       "school": "N",
@@ -358,7 +358,7 @@
     },
     {
       "name": "Chain Of Conviction",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 76,
       "level": 2,
       "school": "C",
@@ -390,7 +390,7 @@
         }
       ],
       "entries": [
-        "You hurl a spectral, barbed chain at a creature that you can see within range. The target makes a Strength saving throw. On a failed save, the target takes 2d6 Force damage, is pulled up to 30 feet toward you, and is bound by the chain. While bound by the chain, the creature is tethered to you and can't move or teleport to a space more than 30 feet away from you, and you have Advantage on attack rolls made against the creature. On a successful save, the target takes half as much damage only. The bound target repeats the save at the end of each of its turns, ending the spell on itself on a success. If you are ever more than 30 feet away from the target, the spell ends."
+        "You hurl a spectral, barbed chain at a creature that you can see within range. The target makes a Strength saving throw. On a failed save, the target takes 2d6 Force damage, is pulled up to 30 feet toward you, and is bound by the chain. While bound by the chain, the creature is tethered to you and can’t move or teleport to a space more than 30 feet away from you, and you have Advantage on attack rolls made against the creature. On a successful save, the target takes half as much damage only. The bound target repeats the save at the end of each of its turns, ending the spell on itself on a success. If you are ever more than 30 feet away from the target, the spell ends."
       ],
       "entriesHigherLevel": [
         {
@@ -416,7 +416,7 @@
     },
     {
       "name": "Chorus Of The Lost",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 76,
       "level": 2,
       "school": "N",
@@ -489,7 +489,7 @@
     },
     {
       "name": "Consuming Pyre",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 76,
       "level": 4,
       "school": "EV",
@@ -543,7 +543,7 @@
     },
     {
       "name": "Creeping Rot",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 77,
       "level": 3,
       "school": "N",
@@ -575,7 +575,7 @@
         }
       ],
       "entries": [
-        "Warlock, Wizard) You send tendrils of black and gray rot toward a target that you can see within range. Three tendrils then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or a nonmagical plant that isn't a creature, such as a tree or shrub. In either case, each can be targeted by only one of the tendrils. A target that is a creature must make a Constitution saving throw. On a failed save, it takes 3d8 Necrotic damage and has the Poisoned condition for the duration. On a successful save, it takes half as much damage only. A creature Poisoned in this way takes 1d8 Necrotic damage at the start of each of its turns. A Poisoned creature repeats the save at the end of each of its turns, ending the spell on itself on a success. A Plant creature automatically fails the initial save, and a nonmagical plant that isn't a creature simply withers and dies."
+        "Warlock, Wizard) You send tendrils of black and gray rot toward a target that you can see within range. Three tendrils then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or a nonmagical plant that isn’t a creature, such as a tree or shrub. In either case, each can be targeted by only one of the tendrils. A target that is a creature must make a Constitution saving throw. On a failed save, it takes 3d8 Necrotic damage and has the Poisoned condition for the duration. On a successful save, it takes half as much damage only. A creature Poisoned in this way takes 1d8 Necrotic damage at the start of each of its turns. A Poisoned creature repeats the save at the end of each of its turns, ending the spell on itself on a success. A Plant creature automatically fails the initial save, and a nonmagical plant that isn’t a creature simply withers and dies."
       ],
       "entriesHigherLevel": [
         {
@@ -589,7 +589,7 @@
     },
     {
       "name": "Crimson Harvest",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 77,
       "level": 3,
       "school": "N",
@@ -645,7 +645,7 @@
     },
     {
       "name": "Crooked Ward",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 77,
       "level": 3,
       "school": "A",
@@ -710,7 +710,7 @@
     },
     {
       "name": "Culling Sickle",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 77,
       "level": 3,
       "school": "N",
@@ -773,7 +773,7 @@
     },
     {
       "name": "Cursed Cacophony",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 78,
       "level": 3,
       "school": "EN",
@@ -826,7 +826,7 @@
     },
     {
       "name": "Devil's Due",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 78,
       "level": 1,
       "school": "N",
@@ -886,7 +886,7 @@
     },
     {
       "name": "Dissolution",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 78,
       "level": 0,
       "school": "T",
@@ -910,7 +910,7 @@
         }
       ],
       "entries": [
-        "You touch a creature or nonmagical object and break the target's substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn. Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8)."
+        "You touch a creature or nonmagical object and break the target’s substance down into its most fundamental components. Make a melee spell attack. On a hit, the target takes 1d8 Force damage, and its AC is reduced by 1 against the next attack roll made against it before the end of your next turn. Cantrip Upgrade. The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8)."
       ],
       "classes": {
         "fromClassList": [
@@ -923,7 +923,7 @@
     },
     {
       "name": "Eye Burn",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 78,
       "level": 0,
       "school": "T",
@@ -978,7 +978,7 @@
     },
     {
       "name": "Field of Reaping",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 78,
       "level": 5,
       "school": "N",
@@ -1013,7 +1013,7 @@
         }
       ],
       "entries": [
-        "You create a shadowy field that reaps escaping life force in a 30-foot Cube originating from a point within range. A creature Hostile to you in the field when it appears, or when it enters the field for the first time on a turn or ends its turn there, is cursed until the end of its next turn. While cursed, the first time the creature takes damage during a turn, it takes an extra 1d6 Necrotic damage, and a creature of your choice within the field that isn't cursed by it regains a number of Hit Points equal to the Necrotic damage taken."
+        "You create a shadowy field that reaps escaping life force in a 30-foot Cube originating from a point within range. A creature Hostile to you in the field when it appears, or when it enters the field for the first time on a turn or ends its turn there, is cursed until the end of its next turn. While cursed, the first time the creature takes damage during a turn, it takes an extra 1d6 Necrotic damage, and a creature of your choice within the field that isn’t cursed by it regains a number of Hit Points equal to the Necrotic damage taken."
       ],
       "entriesHigherLevel": [
         {
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "Ghastly Charge",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 79,
       "level": 6,
       "school": "N",
@@ -1099,7 +1099,7 @@
     },
     {
       "name": "Harvest Moonglow",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 79,
       "level": 3,
       "school": "EV",
@@ -1163,7 +1163,7 @@
     },
     {
       "name": "Harrowing Ballad",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 79,
       "level": 2,
       "school": "EN",
@@ -1226,7 +1226,7 @@
     },
     {
       "name": "Hungering Blade",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 79,
       "level": 1,
       "school": "N",
@@ -1275,7 +1275,7 @@
     },
     {
       "name": "Intrusive Despair",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 79,
       "level": 4,
       "school": "EN",
@@ -1296,7 +1296,7 @@
         "v": true,
         "s": true,
         "m": {
-          "text": "a devil's trumpet blossom"
+          "text": "a devil’s trumpet blossom"
         }
       },
       "duration": [
@@ -1335,7 +1335,7 @@
     },
     {
       "name": "Isolation",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 80,
       "level": 3,
       "school": "EN",
@@ -1370,7 +1370,7 @@
         }
       ],
       "entries": [
-        "One creature that you can see within range must succeed on a Wisdom saving throw or have its mind shrouded in the dread of total isolation. For the duration, all other creatures have the Invisible condition toward the target, which the target can't see through—even with Blindsight, Truesight, or magic such as the See Invisibility spell—and the target can't perceive other creatures with any of its other senses. The target moves around other creatures, or otherwise rationalizes not moving through spaces occupied by them (such as perceiving a door as closed or as a wall if another creature is standing in the way). The target still feels pain but can't identify the source of any injury caused by another creature. The target repeats the saving throw at the end of each of its turns, ending the spell on itself on a success."
+        "One creature that you can see within range must succeed on a Wisdom saving throw or have its mind shrouded in the dread of total isolation. For the duration, all other creatures have the Invisible condition toward the target, which the target can’t see through—even with Blindsight, Truesight, or magic such as the See Invisibility spell—and the target can’t perceive other creatures with any of its other senses. The target moves around other creatures, or otherwise rationalizes not moving through spaces occupied by them (such as perceiving a door as closed or as a wall if another creature is standing in the way). The target still feels pain but can’t identify the source of any injury caused by another creature. The target repeats the saving throw at the end of each of its turns, ending the spell on itself on a success."
       ],
       "classes": {
         "fromClassList": [
@@ -1387,7 +1387,7 @@
     },
     {
       "name": "Lucky Charm",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 80,
       "level": 5,
       "school": "T",
@@ -1441,7 +1441,7 @@
     },
     {
       "name": "Martyr",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 80,
       "level": 3,
       "school": "N",
@@ -1467,7 +1467,7 @@
         }
       ],
       "entries": [
-        "You touch a dead creature that died within the last minute and transfer your life essence into it. The target returns to life with Hit Points equal to your current Hit Point total. You immediately drop to 0 Hit Points (which nothing can prevent) with two failed Death Saving Throws, and you must immediately make a Death Save. You can't regain Hit Points or become Stable until after you make this save."
+        "You touch a dead creature that died within the last minute and transfer your life essence into it. The target returns to life with Hit Points equal to your current Hit Point total. You immediately drop to 0 Hit Points (which nothing can prevent) with two failed Death Saving Throws, and you must immediately make a Death Save. You can’t regain Hit Points or become Stable until after you make this save."
       ],
       "classes": {
         "fromClassList": [
@@ -1488,7 +1488,7 @@
     },
     {
       "name": "Mirrored Agony",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 80,
       "level": 5,
       "school": "A",
@@ -1539,7 +1539,7 @@
     },
     {
       "name": "Mist of Mourning",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 80,
       "level": 3,
       "school": "EN",
@@ -1574,7 +1574,7 @@
         }
       ],
       "entries": [
-        "You summon a thin mist that saps joy and vigor in a 20-foot-radius Sphere centered on a point within range. Each creature in the mist when it appears, or when it moves into the mist for the first time on a turn or ends its turn there, must succeed on a Charisma saving throw or be filled with deep melancholy until the end of its next turn. An affected creature's Speed is halved, it has Disadvantage on attack rolls, and it subtracts 1d8 from all its damage rolls."
+        "You summon a thin mist that saps joy and vigor in a 20-foot-radius Sphere centered on a point within range. Each creature in the mist when it appears, or when it moves into the mist for the first time on a turn or ends its turn there, must succeed on a Charisma saving throw or be filled with deep melancholy until the end of its next turn. An affected creature’s Speed is halved, it has Disadvantage on attack rolls, and it subtracts 1d8 from all its damage rolls."
       ],
       "classes": {
         "fromClassList": [
@@ -1595,7 +1595,7 @@
     },
     {
       "name": "Murder of Crows",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 81,
       "level": 4,
       "school": "C",
@@ -1659,7 +1659,7 @@
     },
     {
       "name": "Mysterious Presence",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 81,
       "level": 0,
       "school": "I",
@@ -1709,7 +1709,7 @@
     },
     {
       "name": "Puppet Master",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 81,
       "level": 4,
       "school": "EN",
@@ -1744,7 +1744,7 @@
         }
       ],
       "entries": [
-        "One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. Magical marionette strings attach to the Charmed creature's limbs or body, and it must use its action on its turn to make a melee attack against a creature other than itself that you mentally choose, moving to reach the target if necessary. The target can act normally on its turn if you don't choose another creature, or if the creature isn't within the target's reach after it moves. The target repeats the save at the end of each of its turns, ending the spell on itself on a success. On your later turns, you must take a Bonus Action to maintain control of the target, or the spell ends."
+        "One creature that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. Magical marionette strings attach to the Charmed creature’s limbs or body, and it must use its action on its turn to make a melee attack against a creature other than itself that you mentally choose, moving to reach the target if necessary. The target can act normally on its turn if you don’t choose another creature, or if the creature isn’t within the target’s reach after it moves. The target repeats the save at the end of each of its turns, ending the spell on itself on a success. On your later turns, you must take a Bonus Action to maintain control of the target, or the spell ends."
       ],
       "classes": {
         "fromClassList": [
@@ -1769,7 +1769,7 @@
     },
     {
       "name": "Sacrificial Siphon",
-      "source": "TCM_",
+      "source": "TCM",
       "page": 81,
       "level": 4,
       "school": "N",
@@ -1798,7 +1798,7 @@
         }
       ],
       "entries": [
-        "You touch another creature and lay a curse that drains the target's vitality and transfers it to you. The target must make a Charisma saving throw. On a failed save, the target is cursed for the duration. While cursed, the target must subtract 1d4 from its attack rolls and ability checks, and when the target takes damage, you can take a Reaction to gain 10 Temporary Hit Points. On a successful save, you gain 5 Temporary Hit Points, and the target must subtract 1d4 from its ability checks until the start of your next turn."
+        "You touch another creature and lay a curse that drains the target’s vitality and transfers it to you. The target must make a Charisma saving throw. On a failed save, the target is cursed for the duration. While cursed, the target must subtract 1d4 from its attack rolls and ability checks, and when the target takes damage, you can take a Reaction to gain 10 Temporary Hit Points. On a successful save, you gain 5 Temporary Hit Points, and the target must subtract 1d4 from its ability checks until the start of your next turn."
       ],
       "classes": {
         "fromClassList": [
