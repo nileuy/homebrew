@@ -159,7 +159,7 @@
           "type": "entries",
           "name": "Equipment",
           "entries": [
-            "Choose A or B:",
+            "Choose one of the following equipment options.",
             {
               "type": "list",
               "items": [
@@ -293,7 +293,7 @@
           "type": "entries",
           "name": "Equipment",
           "entries": [
-            "Choose A or B:",
+            "Choose one of the following equipment options.",
             {
               "type": "list",
               "items": [
@@ -420,7 +420,7 @@
           "type": "entries",
           "name": "Equipment",
           "entries": [
-            "Choose A or B:",
+            "Choose one of the following equipment options.",
             {
               "type": "list",
               "items": [
